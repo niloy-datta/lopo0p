@@ -3,12 +3,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q01",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "কোষচক্রের কোন পর্যায়ে কোষ বিভাজনের প্রস্তুতি ও অধিকাংশ বৃদ্ধি ঘটে?",
+    "text": "কোষচক্রের কোন পর্যায়ে কোষ বৃদ্ধি ও পরবর্তী বিভাজনের প্রস্তুতি নেয়?",
     "options": [
-      "টেলোফেজ",
-      "ইন্টারফেজ",
       "প্রোফেজ",
-      "মেটাফেজ"
+      "ইন্টারফেজ",
+      "অ্যানাফেজ",
+      "টেলোফেজ"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q02",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "দেহের বৃদ্ধি ও ক্ষত মেরামতে প্রধানত কোন ধরনের কোষ বিভাজন ভূমিকা রাখে?",
+    "text": "ইন্টারফেজের কোন পর্যায়ে DNA-এর প্রতিলিপি তৈরি হয়?",
     "options": [
-      "মাইটোসিস",
-      "মিয়োসিস",
-      "অ্যামাইটোসিস",
-      "নিষেক"
+      "G₁",
+      "S",
+      "G₂",
+      "M"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q03",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "গ্যামেট তৈরির পূর্বে জনন মাতৃকোষে সাধারণত কোন বিভাজন ঘটে?",
+    "text": "জীবদেহের বৃদ্ধি ও ক্ষতস্থান পূরণে প্রধানত কোন বিভাজন ভূমিকা রাখে?",
     "options": [
+      "মিয়োসিস",
       "মাইটোসিস",
-      "বাইনারি ফিশন",
-      "বাডিং",
-      "মিয়োসিস"
+      "নিষেক",
+      "সিন্যাপসিস"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q04",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মাইটোসিসের কোন পর্যায়ে ক্রোমোজোমগুলো মোটা ও খাটো হয়ে দৃশ্যমান হয়?",
+    "text": "ক্রোমোজোম সংখ্যা অর্ধেক করার জন্য কোন ধরনের কোষ বিভাজন প্রয়োজন?",
     "options": [
-      "অ্যানাফেজ",
-      "টেলোফেজ",
-      "প্রোফেজ",
-      "মেটাফেজ"
+      "মাইটোসিস",
+      "অ্যামাইটোসিস",
+      "মিয়োসিস",
+      "সাইটোকাইনেসিস"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q05",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মাইটোসিসের কোন পর্যায়ে নিউক্লিয়ার মেমব্রেন বিলুপ্ত হতে শুরু করে?",
+    "text": "মাইটোসিসের কোন পর্যায়ে ক্রোমোজোম মোটা ও খাটো হয়ে স্পষ্ট দেখা যায়?",
     "options": [
-      "সাইটোকাইনেসিস",
       "প্রোফেজ",
-      "ইন্টারফেজ",
-      "অ্যানাফেজ"
+      "মেটাফেজ",
+      "অ্যানাফেজ",
+      "টেলোফেজ"
     ],
     "image": null,
     "optionImages": null,
@@ -78,67 +78,7 @@
     "id": "ssc-biology-chapter-03-model-test-02-q06",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মাকুতন্ত্র বা spindle apparatus গঠনের সূচনা কোন পর্যায়ে হয়?",
-    "options": [
-      "প্রোফেজ",
-      "টেলোফেজ",
-      "ইন্টারফেজ",
-      "সাইটোকাইনেসিস"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-biology-chapter-03-model-test-02-q07",
-    "subject": "biology",
-    "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "ক্রোমোজোমগুলো বিষুবীয় সমতলে সারিবদ্ধ হয় কোন পর্যায়ে?",
-    "options": [
-      "প্রোফেজ",
-      "অ্যানাফেজ",
-      "টেলোফেজ",
-      "মেটাফেজ"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-biology-chapter-03-model-test-02-q08",
-    "subject": "biology",
-    "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মাইটোসিসে সেন্ট্রোমিয়ার বিভক্ত হয় কোন পর্যায়ে?",
-    "options": [
-      "মেটাফেজ",
-      "টেলোফেজ",
-      "অ্যানাফেজ",
-      "প্রোফেজ"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-biology-chapter-03-model-test-02-q09",
-    "subject": "biology",
-    "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মাইটোসিসে অপত্য ক্রোমাটিড বিপরীত মেরুর দিকে সরে যায় কোন পর্যায়ে?",
-    "options": [
-      "ইন্টারফেজ",
-      "অ্যানাফেজ",
-      "মেটাফেজ",
-      "প্রোফেজ"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-biology-chapter-03-model-test-02-q10",
-    "subject": "biology",
-    "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "দুটি নতুন নিউক্লিয়ার মেমব্রেন পুনর্গঠিত হয় কোন পর্যায়ে?",
+    "text": "মাইটোসিসের কোন পর্যায়ে ক্রোমোজোমগুলো কোষের বিষুবীয় অঞ্চলে সারিবদ্ধ হয়?",
     "options": [
       "টেলোফেজ",
       "প্রোফেজ",
@@ -150,15 +90,75 @@
     "timeLimit": 45
   },
   {
-    "id": "ssc-biology-chapter-03-model-test-02-q11",
+    "id": "ssc-biology-chapter-03-model-test-02-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-02",
+    "text": "মাইটোসিসের কোন পর্যায়ে সেন্ট্রোমিয়ার বিভক্ত হয়ে ক্রোমাটিড পৃথক হয়?",
+    "options": [
+      "প্রোফেজ",
+      "অ্যানাফেজ",
+      "টেলোফেজ",
+      "ইন্টারফেজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-02-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-02",
+    "text": "অপত্য ক্রোমোজোমগুলো বিপরীত মেরুতে পৌঁছানোর পর নতুন নিউক্লিয়ার মেমব্রেন গঠিত হয় কোন পর্যায়ে?",
+    "options": [
+      "মেটাফেজ",
+      "প্রোফেজ",
+      "টেলোফেজ",
+      "অ্যানাফেজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-02-q09",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
     "text": "নিউক্লিয়াস বিভাজনের পর সাইটোপ্লাজম বিভাজনকে কী বলা হয়?",
     "options": [
       "ক্যারিওকাইনেসিস",
+      "সাইটোকাইনেসিস",
       "সিন্যাপসিস",
-      "ক্রসিং ওভার",
-      "সাইটোকাইনেসিস"
+      "ক্রসিং ওভার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-02-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-02",
+    "text": "উদ্ভিদ কোষে সাইটোকাইনেসিসের সময় সাধারণত কোনটি গঠিত হয়?",
+    "options": [
+      "ক্লিভেজ ফারো",
+      "কায়াজমা",
+      "সেল প্লেট",
+      "টেট্রাড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-02-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-02",
+    "text": "প্রাণী কোষে সাইটোকাইনেসিস কীভাবে ঘটে?",
+    "options": [
+      "সেল প্লেট গঠনের মাধ্যমে",
+      "ক্লিভেজ ফারো তৈরির মাধ্যমে",
+      "ক্রসিং ওভারের মাধ্যমে",
+      "নিউক্লিয়াস বিলুপ্তির মাধ্যমে"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q12",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "উদ্ভিদ কোষে সাইটোকাইনেসিসের সময় সাধারণত কী গঠিত হয়?",
+    "text": "মিয়োসিসে একটি কোষ ধারাবাহিকভাবে কয়বার নিউক্লিয়াস বিভাজনের মধ্য দিয়ে যায়?",
     "options": [
-      "কায়াজমা",
-      "স্পিন্ডল ফাইবার",
-      "সেল প্লেট",
-      "ক্লিভেজ ফারো"
+      "একবার",
+      "দুইবার",
+      "তিনবার",
+      "চারবার"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q13",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "প্রাণী কোষে সাইটোকাইনেসিসের সময় কোন গঠন দেখা যায়?",
+    "text": "একটি ডিপ্লয়েড মাতৃকোষ মিয়োসিস সম্পন্ন করলে সাধারণত কয়টি অপত্য কোষ তৈরি হয়?",
     "options": [
-      "কায়াজমা",
-      "ক্লিভেজ ফারো",
-      "সেল প্লেট",
-      "মিডল ল্যামেলা"
+      "2টি",
+      "3টি",
+      "4টি",
+      "8টি"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q14",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মিয়োসিসে ধারাবাহিকভাবে কয়বার নিউক্লিয়াস বিভাজিত হয়?",
+    "text": "সমসংস্থ ক্রোমোজোমের জোড় বাঁধাকে কী বলা হয়?",
     "options": [
-      "দুইবার",
-      "একবার",
-      "তিনবার",
-      "চারবার"
+      "সিন্যাপসিস",
+      "সাইটোকাইনেসিস",
+      "রেপ্লিকেশন",
+      "মিউটেশন"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q15",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "একটি ডিপ্লয়েড জনন মাতৃকোষের মিয়োসিস শেষে সাধারণত কয়টি হ্যাপ্লয়েড কোষ তৈরি হয়?",
+    "text": "মিয়োসিস-I-এর কোন উপপর্যায়ে synapsis প্রধানত ঘটে?",
     "options": [
-      "দুটি",
-      "একটি",
-      "আটটি",
-      "চারটি"
+      "লেপটোটিন",
+      "জাইগোটিন",
+      "প্যাকাইটিন",
+      "ডিপ্লোটিন"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q16",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মিয়োসিস-I এর কোন উপপর্যায়ে সমসংস্থ ক্রোমোজোমের synapsis ঘটে?",
+    "text": "Crossing over প্রধানত কোন পর্যায়ে ঘটে?",
     "options": [
-      "প্যাকাইটিন",
-      "ডিপ্লোটিন",
+      "লেপটোটিন",
       "জাইগোটিন",
-      "লেপটোটিন"
+      "প্যাকাইটিন",
+      "ডায়াকাইনেসিস"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q17",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "ক্রসিং ওভার প্রধানত মিয়োসিস-I এর কোন উপপর্যায়ে ঘটে?",
+    "text": "Crossing over-এর ফলে সৃষ্ট সংযোগস্থল দৃশ্যমান হয় কী নামে?",
     "options": [
-      "লেপটোটিন",
-      "প্যাকাইটিন",
-      "জাইগোটিন",
-      "ডায়াকাইনেসিস"
+      "সেন্ট্রোমিয়ার",
+      "কায়াজমা",
+      "নিউক্লিওলাস",
+      "সেন্ট্রিওল"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q18",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "কায়াজমা স্পষ্টভাবে দৃশ্যমান হয় কোন উপপর্যায়ে?",
+    "text": "কায়াজমা সবচেয়ে স্পষ্টভাবে কোন উপপর্যায়ে দেখা যায়?",
     "options": [
       "ডিপ্লোটিন",
-      "প্যাকাইটিন",
+      "লেপটোটিন",
       "জাইগোটিন",
-      "লেপটোটিন"
+      "মেটাফেজ-II"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q19",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মিয়োসিস-I এর অ্যানাফেজে কোন গঠনগুলো বিপরীত মেরুর দিকে যায়?",
+    "text": "মিয়োসিস-I-এর অ্যানাফেজে কোনগুলো পৃথক হয়?",
     "options": [
-      "সিস্টার ক্রোমাটিড",
-      "নিউক্লিওলাস",
-      "সেন্ট্রিওল মাত্র",
-      "সমসংস্থ ক্রোমোজোম"
+      "Sister chromatids",
+      "সমসংস্থ ক্রোমোজোম",
+      "সেন্ট্রোমিয়ার",
+      "নিউক্লিওলাস"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q20",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মিয়োসিস-II এর অ্যানাফেজে কোনগুলো পৃথক হয়?",
+    "text": "মিয়োসিস-II-এর অ্যানাফেজে কোনগুলো পৃথক হয়?",
     "options": [
+      "সমসংস্থ ক্রোমোজোম",
+      "Sister chromatids",
       "টেট্রাড",
-      "নিউক্লিওলাস",
-      "সিস্টার ক্রোমাটিড",
-      "সমসংস্থ ক্রোমোজোম জোড়া"
+      "জিন জোড়া"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q21",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "জিনগত বৈচিত্র্য সৃষ্টিতে কোন বিভাজন বিশেষ গুরুত্বপূর্ণ?",
+    "text": "মিয়োসিসের কোন বিভাজনকে reduction division বলা হয়?",
     "options": [
-      "বাডিং",
-      "মিয়োসিস",
+      "মিয়োসিস-I",
+      "মিয়োসিস-II",
       "মাইটোসিস",
-      "অ্যামাইটোসিস"
+      "সাইটোকাইনেসিস"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q22",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "ক্রোমোজোম সংখ্যা অর্ধেক করে কোন বিভাজন?",
+    "text": "মিয়োসিস জিনগত বৈচিত্র্য সৃষ্টিতে সাহায্য করে প্রধানত কোন ঘটনার মাধ্যমে?",
     "options": [
-      "মিয়োসিস",
-      "মাইটোসিস",
-      "ক্যারিওকাইনেসিস",
-      "সাইটোকাইনেসিস"
+      "সাইটোকাইনেসিস",
+      "Crossing over",
+      "কোষপ্রাচীর গঠন",
+      "নিউক্লিওলাস সৃষ্টি"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q23",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "DNA প্রতিলিপি কোষচক্রের কোন পর্যায়ে ঘটে?",
+    "text": "মানুষের দেহকোষে 46টি ক্রোমোজোম থাকলে স্বাভাবিক গ্যামেটে কতটি ক্রোমোজোম থাকবে?",
     "options": [
-      "প্রোফেজ",
-      "অ্যানাফেজ",
-      "টেলোফেজ",
-      "ইন্টারফেজের S পর্যায়"
+      "46",
+      "92",
+      "23",
+      "12"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q24",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "নিয়ন্ত্রণহীন কোষ বিভাজনের সঙ্গে কোন রোগের সম্পর্ক সবচেয়ে প্রত্যক্ষ?",
+    "text": "মাইটোসিসে মাতৃকোষ ও অপত্য কোষের ক্রোমোজোম সংখ্যা সাধারণত কেমন থাকে?",
     "options": [
-      "স্কার্ভি",
-      "ডায়াবেটিস ইনসিপিডাস",
-      "ক্যান্সার",
-      "রিকেটস"
+      "অপত্য কোষে অর্ধেক",
+      "অপত্য কোষে দ্বিগুণ",
+      "সমান",
+      "চারগুণ"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-biology-chapter-03-model-test-02-q25",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-02",
-    "text": "মাইটোসিসের ফলে অপত্য কোষে মাতৃকোষের তুলনায় ক্রোমোজোম সংখ্যা সাধারণত কেমন থাকে?",
+    "text": "কোন অবস্থার সঙ্গে নিয়ন্ত্রণহীন কোষ বিভাজনের সরাসরি সম্পর্ক রয়েছে?",
     "options": [
-      "চারগুণ",
-      "সমান",
-      "অর্ধেক",
-      "দ্বিগুণ"
+      "রিকেটস",
+      "ক্যান্সার",
+      "স্কার্ভি",
+      "রাতকানা"
     ],
     "image": null,
     "optionImages": null,
