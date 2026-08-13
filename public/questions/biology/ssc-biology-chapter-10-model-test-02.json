@@ -3,12 +3,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q01",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "পিটুইটারি গ্রন্থি কী?",
+    "text": "স্নায়ুতন্ত্রের গঠন ও কাজের মৌলিক একক কী?",
     "options": [
-      "পরিপাক গ্রন্থি",
-      "রেচন গ্রন্থি",
-      "শ্বাস গ্রন্থি",
-      "মাস্টার গ্রন্থি"
+      "ভিলাস",
+      "নিউরন",
+      "নেফ্রন",
+      "অ্যালভিওলাস"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q02",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "পার্শ্বীয় শাখা বৃদ্ধির এই শারীরবৃত্তীয় ঘটনার সাথে জড়িত হরমোন হলো — i. সাইটোকাইনিন ii. ইথিলিন iii. জিবেরেলিন",
+    "text": "নিউরনের কোন অংশ সাধারণত উদ্দীপনা গ্রহণ করে?",
     "options": [
-      "i, ii ও iii",
-      "ii ও iii",
-      "i ও ii",
-      "i ও iii"
+      "ডেনড্রাইট",
+      "অ্যাক্সন",
+      "মায়েলিন মাত্র",
+      "সিন্যাপটিক ভেসিকল"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q03",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "ইনসুলিন কমলে কী?",
+    "text": "নিউরনের কোন অংশ কোষদেহ থেকে স্নায়ু সংকেত দূরে বহন করে?",
     "options": [
-      "রক্তে গ্লুকোজ বাড়ে",
-      "ইউরিয়া বাড়ে",
-      "রক্তে O₂ বাড়ে",
-      "রক্ত চাপ কমে"
+      "ডেনড্রাইট",
+      "নিউক্লিয়াস",
+      "সেন্ট্রিওল",
+      "অ্যাক্সন"
     ],
     "image": null,
     "optionImages": null,
@@ -48,14 +48,14 @@
     "id": "ssc-biology-chapter-10-model-test-02-q04",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "অ্যাড্রেনালিন নিঃসৃত কী?",
+    "text": "নিউরনের নিউক্লিয়াস প্রধানত কোথায় থাকে?",
     "options": [
-      "প্যানক্রিয়াস",
-      "পিটুইটারি",
-      "থাইরয়েড",
-      "অ্যাড্রিনাল গ্রন্থি"
+      "ডেনড্রাইটের ডগায়",
+      "সিন্যাপসে",
+      "কোষদেহে",
+      "অ্যাক্সনের শেষে"
     ],
-    "image": "/images/quiz/bio-nephron.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -63,12 +63,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q05",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "সমন্বয়ের মাধ্যম কী?",
+    "text": "দুটি নিউরনের সংযোগস্থলকে কী বলা হয়?",
     "options": [
-      "স্নায়ু ও হরমোন",
-      "শুধু রক্ত",
-      "শুধু অস্থি",
-      "শুধু পানি"
+      "স্টোমাটা",
+      "সিন্যাপস",
+      "গ্লোমেরুলাস",
+      "সন্ধি"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q06",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "রহিম সাহেবের বয়স ৫০ বছর। ইদানীং তিনি খুব দুর্বল বোধ করছেন, ঘন ঘন প্রস্রাব হচ্ছে এবং ক্ষতস্থান সহজে শুকাচ্ছে না। ডাক্তার রক্ত পরীক্ষা করে জানালেন, তার অগ্ন্যাশয় থেকে একটি বিশেষ হরমোন পর্যাপ্ত পরিমাণে তৈরি হচ্ছে না। রহিম সাহেব কোন রোগে ভুগছেন বলে ধারণা করা যায়?",
+    "text": "মস্তিষ্ক ও সুষুম্নাকাণ্ড মিলে কোন তন্ত্র গঠন করে?",
     "options": [
-      "অ্যানিমিয়া",
-      "উচ্চ রক্তচাপ",
-      "ডায়াবেটিস",
-      "যক্ষ্মা"
+      "কেন্দ্রীয় স্নায়ুতন্ত্র",
+      "পরিধীয় স্নায়ুতন্ত্র",
+      "অন্তঃক্ষরা তন্ত্র",
+      "রেচনতন্ত্র"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q07",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "রক্তে ক্যালসিয়ামের মাত্রা নিয়ন্ত্রণ করে কোন গ্রন্থির হরমোন?",
+    "text": "মস্তিষ্কের সঙ্গে দেহের বিভিন্ন অংশে স্নায়ু সংযোগ কোন তন্ত্রের অংশ?",
     "options": [
-      "অগ্ন্যাশয়",
-      "প্যারাথাইরয়েড",
-      "থাইরয়েড",
-      "পিটুইটারি"
+      "কেন্দ্রীয় স্নায়ুতন্ত্র",
+      "পরিপাকতন্ত্র",
+      "রক্তসংবহন তন্ত্র",
+      "পরিধীয় স্নায়ুতন্ত্র"
     ],
     "image": null,
     "optionImages": null,
@@ -108,14 +108,14 @@
     "id": "ssc-biology-chapter-10-model-test-02-q08",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "স্নায়ু তন্ত্রের একক কী?",
+    "text": "চিন্তা, স্মৃতি ও ইচ্ছাধীন কাজের সঙ্গে মস্তিষ্কের কোন অংশ বেশি সম্পর্কিত?",
     "options": [
-      "নেফ্রন",
-      "অ্যালভিওলি",
-      "নিউক্লিয়াস",
-      "নিউরন"
+      "মেডুলা",
+      "পনস মাত্র",
+      "সেরিব্রাম",
+      "সেরিবেলাম"
     ],
-    "image": "/images/quiz/bio-neuron.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -123,12 +123,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q09",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "রক্তে সোডিয়াম ও পটাশিয়ামের মাত্রা নিয়ন্ত্রণ করে কোন হরমোন?",
+    "text": "দেহের ভারসাম্য ও পেশি সমন্বয়ে কোন অংশ গুরুত্বপূর্ণ?",
     "options": [
-      "গ্লুকাগন",
-      "থাইরক্সিন",
-      "ইনসুলিন",
-      "অ্যালডোস্টেরন"
+      "পিটুইটারি",
+      "সেরিবেলাম",
+      "সেরিব্রাম",
+      "হাইপোথ্যালামাস"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q10",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "রিফ্লেক্স উদাহরণ কোনটি?",
+    "text": "শ্বাস ও হৃদস্পন্দনের মতো অনৈচ্ছিক কাজ নিয়ন্ত্রণে কোন অংশ গুরুত্বপূর্ণ?",
     "options": [
-      "রেচন",
-      "হাঁচি",
-      "সালোকসংশ্লেষণ",
-      "পরিপাক"
+      "মেডুলা অবলংগাটা",
+      "সেরিব্রাম",
+      "ফ্রন্টাল লোব",
+      "অপটিক নার্ভ"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q11",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "শরীরের জরুরি অবস্থা মোকাবিলায় গতিশীলতা বাড়ায় কোন হরমোন?",
+    "text": "দ্রুত ও স্বয়ংক্রিয় প্রতিক্রিয়াকে কী বলা হয়?",
     "options": [
-      "অ্যাড্রেনালিন",
-      "ইনসুলিন",
-      "থাইরক্সিন",
-      "গ্রোথ হরমোন"
+      "পরাগায়ন",
+      "ব্যাপন",
+      "রেচন",
+      "প্রতিবর্ত ক্রিয়া"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q12",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "থাইরয়েড গ্রন্থি কোথায়?",
+    "text": "রিফ্লেক্স আর্কে উদ্দীপনা প্রথমে শনাক্ত করে কোনটি?",
     "options": [
-      "কিডনিতে",
-      "ফুসফুসে",
-      "গলায়",
-      "পাকস্থলীতে"
+      "মোটর নিউরন",
+      "গ্রন্থি",
+      "রিসেপ্টর",
+      "ইফেক্টর"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q13",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "স্পাইনাল কর্ডের কাজ কী?",
+    "text": "রিফ্লেক্স প্রতিক্রিয়ায় কাজ সম্পাদনকারী পেশি বা গ্রন্থিকে কী বলা হয়?",
     "options": [
-      "সালোকসংশ্লেষণ",
-      "রেচন",
-      "পরিপাক",
-      "রিফ্লেক্স নিয়ন্ত্রণ"
+      "সেন্সরি নিউরন",
+      "ইফেক্টর",
+      "রিসেপ্টর",
+      "সিন্যাপস"
     ],
     "image": null,
     "optionImages": null,
@@ -198,14 +198,14 @@
     "id": "ssc-biology-chapter-10-model-test-02-q14",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "স্নায়ু সংকেত কী?",
+    "text": "রিসেপ্টর থেকে CNS-এ সংকেত বহন করে কোন নিউরন?",
     "options": [
-      "শুধু আলো",
-      "শুধু তাপ",
-      "শুধু যান্ত্রিক",
-      "বৈদ্যুতিক ও রাসায়নিক"
+      "সংবেদী নিউরন",
+      "মোটর নিউরন",
+      "রিলে নিউরন মাত্র বাইরে",
+      "হরমোন"
     ],
-    "image": "/images/quiz/bio-neuron.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -213,12 +213,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q15",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "উদ্ভিদের কান্ডের অগ্রভাগে কোন হরমোনটির আধিক্য থাকে?",
+    "text": "CNS থেকে ইফেক্টরে সংকেত বহন করে কোন নিউরন?",
     "options": [
-      "সাইটোকাইনিন",
-      "ইথিলিন",
-      "অক্সিন",
-      "জিবেরেলিন"
+      "সংবেদী নিউরন",
+      "রড কোষ",
+      "কোন কোষ",
+      "মোটর নিউরন"
     ],
     "image": null,
     "optionImages": null,
@@ -228,14 +228,14 @@
     "id": "ssc-biology-chapter-10-model-test-02-q16",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "উদ্দীপক: রহিম সাহেবের বয়স ৫০ বছর। ইদানীং তিনি খুব দুর্বল বোধ করছেন, ঘন ঘন প্রস্রাব হচ্ছে এবং ক্ষতস্থান সহজে শুকাচ্ছে না। ডাক্তার রক্ত পরীক্ষা করে জানালেন, তার অগ্ন্যাশয় থেকে একটি বিশেষ হরমোন পর্যাপ্ত পরিমাণে তৈরি হচ্ছে না। উদ্দীপকে উল্লেখিত বিশেষ হরমোনটির নাম কী?",
+    "text": "হরমোন নিঃসরণকারী নালিবিহীন গ্রন্থিকে কী বলা হয়?",
     "options": [
-      "ইস্ট্রোজেন",
-      "ইনসুলিন",
-      "অ্যাড্রেনালিন",
-      "থাইরক্সিন"
+      "লালাগ্রন্থি",
+      "ঘর্মগ্রন্থি",
+      "অন্তঃক্ষরা গ্রন্থি",
+      "বহিঃক্ষরা গ্রন্থি"
     ],
-    "image": "/images/quiz/premium/ssc-biology-chapter-10-model-test-02-q16.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -243,12 +243,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q17",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "নিচের কোন হরমোনটি মানুষের রক্তে শর্করার মাত্রা কমায়?",
+    "text": "'মাস্টার গ্রন্থি' নামে পরিচিত গ্রন্থি কোনটি?",
     "options": [
-      "থাইরক্সিন",
-      "ইনসুলিন",
-      "গ্লুকাগন",
-      "এপিনাফ্রিন"
+      "অগ্ন্যাশয়",
+      "পিটুইটারি",
+      "থাইরয়েড",
+      "অ্যাড্রিনাল"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q18",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "মস্তিষ্কের কাজ কী?",
+    "text": "থাইরয়েড গ্রন্থির প্রধান হরমোন কোনটি?",
     "options": [
-      "রেচন",
-      "পরিপাক",
-      "চিন্তা ও সমন্বয়",
-      "শ্বাস"
+      "থাইরক্সিন",
+      "ইনসুলিন",
+      "অ্যাড্রিনালিন",
+      "ADH"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q19",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "রিফ্লেক্স দ্রুত হয় কারণ কী?",
+    "text": "রক্তে গ্লুকোজ কমাতে কোন হরমোন সাহায্য করে?",
     "options": [
-      "স্পাইনাল কর্ড",
-      "হৃৎপিণ্দ",
-      "মস্তিষ্ক",
-      "ফুসফুস"
+      "গ্লুকাগন",
+      "অ্যাড্রিনালিন",
+      "থাইরক্সিন",
+      "ইনসুলিন"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q20",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "থাইরক্সিনের কাজ কী?",
+    "text": "জরুরি অবস্থায় 'fight or flight' প্রতিক্রিয়ায় কোন হরমোন গুরুত্বপূর্ণ?",
     "options": [
-      "গ্যাস বিনিময়",
-      "রক্ত জমাট",
-      "বিপাক নিয়ন্ত্রণ",
-      "পানি শোষণ"
+      "অক্সিটোসিন",
+      "প্রোজেস্টেরন",
+      "অ্যাড্রিনালিন",
+      "ইনসুলিন"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q21",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "হরমোনের বৈশিষ্ট্য কী?",
+    "text": "উদ্ভিদের আলোর দিকে বৃদ্ধিতে কোন হরমোন বিশেষ গুরুত্বপূর্ণ?",
     "options": [
-      "রক্তে পরিবহিত",
-      "শুধু অস্থিতে",
-      "শুধু স্নায়ুতে",
-      "শুধু পেশিতে"
+      "অ্যাড্রিনালিন",
+      "অক্সিন",
+      "ইনসুলিন",
+      "থাইরক্সিন"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q22",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "ডায়াবেটিসে কমে কী?",
+    "text": "কাণ্ডের দৈর্ঘ্য বৃদ্ধিতে কোন উদ্ভিদ হরমোন গুরুত্বপূর্ণ?",
     "options": [
-      "থাইরক্সিন",
-      "অ্যাড্রেনালিন",
-      "ইনসুলিন",
-      "গ্রোথ হরমোন"
+      "জিবেরেলিন",
+      "ইথিলিন",
+      "অ্যাবসিসিক অ্যাসিড",
+      "ইনসুলিন"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q23",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "হরমোন নিঃসরণ গ্রন্থি কী?",
+    "text": "কোষ বিভাজন উদ্দীপনায় কোন উদ্ভিদ হরমোন গুরুত্বপূর্ণ?",
     "options": [
-      "শ্বসন",
-      "সালোকসংশ্লেষণ",
-      "এন্ডোক্রাইন",
-      "এক্সোক্রাইন"
+      "অক্সিটোসিন",
+      "থাইরক্সিন",
+      "ADH",
+      "সাইটোকাইনিন"
     ],
     "image": null,
     "optionImages": null,
@@ -348,14 +348,14 @@
     "id": "ssc-biology-chapter-10-model-test-02-q24",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "স্নায়ু তন্ত্র দুই ভাগ কী?",
+    "text": "ফল পাকাতে কোন উদ্ভিদ হরমোন বিশেষ ভূমিকা রাখে?",
     "options": [
-      "কেন্দ্রীয় ও পেরিফেরাল",
-      "রক্ত ও লসিকা",
-      "অস্থি ও পেশি",
-      "উদ্ভিদ ও প্রাণী"
+      "অক্সিন মাত্র",
+      "সাইটোকাইনিন",
+      "ইথিলিন",
+      "জিবেরেলিন"
     ],
-    "image": "/images/quiz/bio-neuron.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -363,12 +363,12 @@
     "id": "ssc-biology-chapter-10-model-test-02-q25",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-10-model-test-02",
-    "text": "সিন্যাপসে সংকেত কী?",
+    "text": "উদ্ভিদের প্রতিকূল পরিবেশে সুপ্তাবস্থা ও স্টোমাটা বন্ধে কোন হরমোন গুরুত্বপূর্ণ?",
     "options": [
       "ইনসুলিন",
-      "নিউরোট্রান্সমিটার",
-      "হিমোগ্লোবিন",
-      "এনজাইম"
+      "অ্যাবসিসিক অ্যাসিড",
+      "ইথিলিন",
+      "জিবেরেলিন"
     ],
     "image": null,
     "optionImages": null,

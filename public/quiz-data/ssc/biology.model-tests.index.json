@@ -249,12 +249,13 @@
     "ssc-biology-chapter-03-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৩ · কোষ বিভাজন · টেস্ট ০২",
+      "displayTitle": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -262,17 +263,18 @@
           "chapterName": "কোষ বিভাজন"
         }
       ],
-      "name": "অধ্যায় ০৩ · কোষ বিভাজন · টেস্ট ০২"
+      "name": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 02"
     },
     "ssc-biology-chapter-03-model-test-03": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৩ · কোষ বিভাজন · টেস্ট ০৩",
+      "displayTitle": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -280,17 +282,18 @@
           "chapterName": "কোষ বিভাজন"
         }
       ],
-      "name": "অধ্যায় ০৩ · কোষ বিভাজন · টেস্ট ০৩"
+      "name": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 03"
     },
     "ssc-biology-chapter-03-model-test-04": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৩ · কোষ বিভাজন · টেস্ট ০৪",
+      "displayTitle": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 04",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -298,17 +301,18 @@
           "chapterName": "কোষ বিভাজন"
         }
       ],
-      "name": "অধ্যায় ০৩ · কোষ বিভাজন · টেস্ট ০৪"
+      "name": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 04"
     },
     "ssc-biology-chapter-03-model-test-05": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৩ · কোষ বিভাজন · টেস্ট ০৫",
+      "displayTitle": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -316,7 +320,7 @@
           "chapterName": "কোষ বিভাজন"
         }
       ],
-      "name": "অধ্যায় ০৩ · কোষ বিভাজন · টেস্ট ০৫"
+      "name": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 05"
     },
     "ssc-biology-chapter-04-model-test-01": {
       "questionCount": 25,
@@ -609,12 +613,13 @@
     "ssc-biology-chapter-07-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৭ · গ্যাসীয় বিনিময় · টেস্ট ০২",
+      "displayTitle": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -622,17 +627,18 @@
           "chapterName": "গ্যাসীয় বিনিময়"
         }
       ],
-      "name": "অধ্যায় ০৭ · গ্যাসীয় বিনিময় · টেস্ট ০২"
+      "name": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 02"
     },
     "ssc-biology-chapter-07-model-test-03": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৭ · গ্যাসীয় বিনিময় · টেস্ট ০৩",
+      "displayTitle": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -640,17 +646,18 @@
           "chapterName": "গ্যাসীয় বিনিময়"
         }
       ],
-      "name": "অধ্যায় ০৭ · গ্যাসীয় বিনিময় · টেস্ট ০৩"
+      "name": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 03"
     },
     "ssc-biology-chapter-07-model-test-04": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৭ · গ্যাসীয় বিনিময় · টেস্ট ০৪",
+      "displayTitle": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 04",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -658,17 +665,18 @@
           "chapterName": "গ্যাসীয় বিনিময়"
         }
       ],
-      "name": "অধ্যায় ০৭ · গ্যাসীয় বিনিময় · টেস্ট ০৪"
+      "name": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 04"
     },
     "ssc-biology-chapter-07-model-test-05": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৭ · গ্যাসীয় বিনিময় · টেস্ট ০৫",
+      "displayTitle": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -676,7 +684,7 @@
           "chapterName": "গ্যাসীয় বিনিময়"
         }
       ],
-      "name": "অধ্যায় ০৭ · গ্যাসীয় বিনিময় · টেস্ট ০৫"
+      "name": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 05"
     },
     "ssc-biology-chapter-08-model-test-01": {
       "questionCount": 25,
@@ -699,12 +707,13 @@
     "ssc-biology-chapter-08-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৮ · রেচন প্রক্রিয়া · টেস্ট ০২",
+      "displayTitle": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -712,17 +721,18 @@
           "chapterName": "রেচন প্রক্রিয়া"
         }
       ],
-      "name": "অধ্যায় ০৮ · রেচন প্রক্রিয়া · টেস্ট ০২"
+      "name": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 02"
     },
     "ssc-biology-chapter-08-model-test-03": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৮ · রেচন প্রক্রিয়া · টেস্ট ০৩",
+      "displayTitle": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -730,17 +740,18 @@
           "chapterName": "রেচন প্রক্রিয়া"
         }
       ],
-      "name": "অধ্যায় ০৮ · রেচন প্রক্রিয়া · টেস্ট ০৩"
+      "name": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 03"
     },
     "ssc-biology-chapter-08-model-test-04": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৮ · রেচন প্রক্রিয়া · টেস্ট ০৪",
+      "displayTitle": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 04",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -748,17 +759,18 @@
           "chapterName": "রেচন প্রক্রিয়া"
         }
       ],
-      "name": "অধ্যায় ০৮ · রেচন প্রক্রিয়া · টেস্ট ০৪"
+      "name": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 04"
     },
     "ssc-biology-chapter-08-model-test-05": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৮ · রেচন প্রক্রিয়া · টেস্ট ০৫",
+      "displayTitle": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -766,7 +778,7 @@
           "chapterName": "রেচন প্রক্রিয়া"
         }
       ],
-      "name": "অধ্যায় ০৮ · রেচন প্রক্রিয়া · টেস্ট ০৫"
+      "name": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 05"
     },
     "ssc-biology-chapter-09-model-test-01": {
       "questionCount": 25,
@@ -789,12 +801,13 @@
     "ssc-biology-chapter-09-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৯ · দৃঢ়তা প্রদান ও চলন · টেস্ট ০২",
+      "displayTitle": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -802,17 +815,18 @@
           "chapterName": "দৃঢ়তা প্রদান ও চলন"
         }
       ],
-      "name": "অধ্যায় ০৯ · দৃঢ়তা প্রদান ও চলন · টেস্ট ০২"
+      "name": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 02"
     },
     "ssc-biology-chapter-09-model-test-03": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৯ · দৃঢ়তা প্রদান ও চলন · টেস্ট ০৩",
+      "displayTitle": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -820,17 +834,18 @@
           "chapterName": "দৃঢ়তা প্রদান ও চলন"
         }
       ],
-      "name": "অধ্যায় ০৯ · দৃঢ়তা প্রদান ও চলন · টেস্ট ০৩"
+      "name": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 03"
     },
     "ssc-biology-chapter-09-model-test-04": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৯ · দৃঢ়তা প্রদান ও চলন · টেস্ট ০৪",
+      "displayTitle": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 04",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -838,17 +853,18 @@
           "chapterName": "দৃঢ়তা প্রদান ও চলন"
         }
       ],
-      "name": "অধ্যায় ০৯ · দৃঢ়তা প্রদান ও চলন · টেস্ট ০৪"
+      "name": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 04"
     },
     "ssc-biology-chapter-09-model-test-05": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ০৯ · দৃঢ়তা প্রদান ও চলন · টেস্ট ০৫",
+      "displayTitle": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -856,7 +872,7 @@
           "chapterName": "দৃঢ়তা প্রদান ও চলন"
         }
       ],
-      "name": "অধ্যায় ০৯ · দৃঢ়তা প্রদান ও চলন · টেস্ট ০৫"
+      "name": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 05"
     },
     "ssc-biology-chapter-10-model-test-01": {
       "questionCount": 25,
@@ -879,12 +895,13 @@
     "ssc-biology-chapter-10-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১০ · সমন্বয় · টেস্ট ০২",
+      "displayTitle": "অধ্যায় 10 · সমন্বয় · টেস্ট 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -892,17 +909,18 @@
           "chapterName": "সমন্বয়"
         }
       ],
-      "name": "অধ্যায় ১০ · সমন্বয় · টেস্ট ০২"
+      "name": "অধ্যায় 10 · সমন্বয় · টেস্ট 02"
     },
     "ssc-biology-chapter-10-model-test-03": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১০ · সমন্বয় · টেস্ট ০৩",
+      "displayTitle": "অধ্যায় 10 · সমন্বয় · টেস্ট 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -910,17 +928,18 @@
           "chapterName": "সমন্বয়"
         }
       ],
-      "name": "অধ্যায় ১০ · সমন্বয় · টেস্ট ০৩"
+      "name": "অধ্যায় 10 · সমন্বয় · টেস্ট 03"
     },
     "ssc-biology-chapter-10-model-test-04": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১০ · সমন্বয় · টেস্ট ০৪",
+      "displayTitle": "অধ্যায় 10 · সমন্বয় · টেস্ট 04",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -928,17 +947,18 @@
           "chapterName": "সমন্বয়"
         }
       ],
-      "name": "অধ্যায় ১০ · সমন্বয় · টেস্ট ০৪"
+      "name": "অধ্যায় 10 · সমন্বয় · টেস্ট 04"
     },
     "ssc-biology-chapter-10-model-test-05": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১০ · সমন্বয় · টেস্ট ০৫",
+      "displayTitle": "অধ্যায় 10 · সমন্বয় · টেস্ট 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -946,7 +966,7 @@
           "chapterName": "সমন্বয়"
         }
       ],
-      "name": "অধ্যায় ১০ · সমন্বয় · টেস্ট ০৫"
+      "name": "অধ্যায় 10 · সমন্বয় · টেস্ট 05"
     },
     "ssc-biology-chapter-11-model-test-01": {
       "questionCount": 25,
@@ -969,12 +989,13 @@
     "ssc-biology-chapter-11-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১১ · জীবের প্রজনন · টেস্ট ০২",
+      "displayTitle": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -982,17 +1003,18 @@
           "chapterName": "জীবের প্রজনন"
         }
       ],
-      "name": "অধ্যায় ১১ · জীবের প্রজনন · টেস্ট ০২"
+      "name": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 02"
     },
     "ssc-biology-chapter-11-model-test-03": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১১ · জীবের প্রজনন · টেস্ট ০৩",
+      "displayTitle": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1000,17 +1022,18 @@
           "chapterName": "জীবের প্রজনন"
         }
       ],
-      "name": "অধ্যায় ১১ · জীবের প্রজনন · টেস্ট ০৩"
+      "name": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 03"
     },
     "ssc-biology-chapter-11-model-test-04": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১১ · জীবের প্রজনন · টেস্ট ০৪",
+      "displayTitle": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 04",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1018,17 +1041,18 @@
           "chapterName": "জীবের প্রজনন"
         }
       ],
-      "name": "অধ্যায় ১১ · জীবের প্রজনন · টেস্ট ০৪"
+      "name": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 04"
     },
     "ssc-biology-chapter-11-model-test-05": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১১ · জীবের প্রজনন · টেস্ট ০৫",
+      "displayTitle": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1036,7 +1060,7 @@
           "chapterName": "জীবের প্রজনন"
         }
       ],
-      "name": "অধ্যায় ১১ · জীবের প্রজনন · টেস্ট ০৫"
+      "name": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 05"
     },
     "ssc-biology-chapter-12-model-test-01": {
       "questionCount": 25,
@@ -1059,12 +1083,13 @@
     "ssc-biology-chapter-12-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১২ · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট ০২",
+      "displayTitle": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1072,17 +1097,18 @@
           "chapterName": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
         }
       ],
-      "name": "অধ্যায় ১২ · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট ০২"
+      "name": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 02"
     },
     "ssc-biology-chapter-12-model-test-03": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১২ · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট ০৩",
+      "displayTitle": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1090,17 +1116,18 @@
           "chapterName": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
         }
       ],
-      "name": "অধ্যায় ১২ · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট ০৩"
+      "name": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 03"
     },
     "ssc-biology-chapter-12-model-test-04": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১২ · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট ০৪",
+      "displayTitle": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 04",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1108,17 +1135,18 @@
           "chapterName": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
         }
       ],
-      "name": "অধ্যায় ১২ · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট ০৪"
+      "name": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 04"
     },
     "ssc-biology-chapter-12-model-test-05": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১২ · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট ০৫",
+      "displayTitle": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1126,7 +1154,7 @@
           "chapterName": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
         }
       ],
-      "name": "অধ্যায় ১২ · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট ০৫"
+      "name": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 05"
     },
     "ssc-biology-chapter-13-model-test-01": {
       "questionCount": 25,
@@ -1149,12 +1177,13 @@
     "ssc-biology-chapter-13-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১৩ · জীবের পরিবেশ · টেস্ট ০২",
+      "displayTitle": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1162,17 +1191,18 @@
           "chapterName": "জীবের পরিবেশ"
         }
       ],
-      "name": "অধ্যায় ১৩ · জীবের পরিবেশ · টেস্ট ০২"
+      "name": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 02"
     },
     "ssc-biology-chapter-13-model-test-03": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১৩ · জীবের পরিবেশ · টেস্ট ০৩",
+      "displayTitle": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1180,17 +1210,18 @@
           "chapterName": "জীবের পরিবেশ"
         }
       ],
-      "name": "অধ্যায় ১৩ · জীবের পরিবেশ · টেস্ট ০৩"
+      "name": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 03"
     },
     "ssc-biology-chapter-13-model-test-04": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১৩ · জীবের পরিবেশ · টেস্ট ০৪",
+      "displayTitle": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 04",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1198,17 +1229,18 @@
           "chapterName": "জীবের পরিবেশ"
         }
       ],
-      "name": "অধ্যায় ১৩ · জীবের পরিবেশ · টেস্ট ০৪"
+      "name": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 04"
     },
     "ssc-biology-chapter-13-model-test-05": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১৩ · জীবের পরিবেশ · টেস্ট ০৫",
+      "displayTitle": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1216,7 +1248,7 @@
           "chapterName": "জীবের পরিবেশ"
         }
       ],
-      "name": "অধ্যায় ১৩ · জীবের পরিবেশ · টেস্ট ০৫"
+      "name": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 05"
     },
     "ssc-biology-chapter-14-model-test-01": {
       "questionCount": 25,
@@ -1239,12 +1271,13 @@
     "ssc-biology-chapter-14-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১৪ · জীবপ্রযুক্তি · টেস্ট ০২",
+      "displayTitle": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1252,17 +1285,18 @@
           "chapterName": "জীবপ্রযুক্তি"
         }
       ],
-      "name": "অধ্যায় ১৪ · জীবপ্রযুক্তি · টেস্ট ০২"
+      "name": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 02"
     },
     "ssc-biology-chapter-14-model-test-03": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১৪ · জীবপ্রযুক্তি · টেস্ট ০৩",
+      "displayTitle": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1270,17 +1304,18 @@
           "chapterName": "জীবপ্রযুক্তি"
         }
       ],
-      "name": "অধ্যায় ১৪ · জীবপ্রযুক্তি · টেস্ট ০৩"
+      "name": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 03"
     },
     "ssc-biology-chapter-14-model-test-04": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১৪ · জীবপ্রযুক্তি · টেস্ট ০৪",
+      "displayTitle": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 04",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1288,17 +1323,18 @@
           "chapterName": "জীবপ্রযুক্তি"
         }
       ],
-      "name": "অধ্যায় ১৪ · জীবপ্রযুক্তি · টেস্ট ০৪"
+      "name": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 04"
     },
     "ssc-biology-chapter-14-model-test-05": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "অধ্যায় ১৪ · জীবপ্রযুক্তি · টেস্ট ০৫",
+      "displayTitle": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
         "chapter-wise",
-        "model-test"
+        "model-test",
+        "replacement"
       ],
       "chaptersCovered": [
         {
@@ -1306,7 +1342,862 @@
           "chapterName": "জীবপ্রযুক্তি"
         }
       ],
-      "name": "অধ্যায় ১৪ · জীবপ্রযুক্তি · টেস্ট ০৫"
+      "name": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 05"
+    },
+    "ssc-biology-chapter-03-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 06"
+    },
+    "ssc-biology-chapter-03-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 07"
+    },
+    "ssc-biology-chapter-03-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 08"
+    },
+    "ssc-biology-chapter-03-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 09"
+    },
+    "ssc-biology-chapter-03-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় 03 · কোষ বিভাজন · টেস্ট 10"
+    },
+    "ssc-biology-chapter-07-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ],
+      "name": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 06"
+    },
+    "ssc-biology-chapter-07-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ],
+      "name": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 07"
+    },
+    "ssc-biology-chapter-07-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ],
+      "name": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 08"
+    },
+    "ssc-biology-chapter-07-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ],
+      "name": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 09"
+    },
+    "ssc-biology-chapter-07-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ],
+      "name": "অধ্যায় 07 · গ্যাসীয় বিনিময় · টেস্ট 10"
+    },
+    "ssc-biology-chapter-08-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ],
+      "name": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 06"
+    },
+    "ssc-biology-chapter-08-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ],
+      "name": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 07"
+    },
+    "ssc-biology-chapter-08-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ],
+      "name": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 08"
+    },
+    "ssc-biology-chapter-08-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ],
+      "name": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 09"
+    },
+    "ssc-biology-chapter-08-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ],
+      "name": "অধ্যায় 08 · রেচন প্রক্রিয়া · টেস্ট 10"
+    },
+    "ssc-biology-chapter-09-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ],
+      "name": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 06"
+    },
+    "ssc-biology-chapter-09-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ],
+      "name": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 07"
+    },
+    "ssc-biology-chapter-09-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ],
+      "name": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 08"
+    },
+    "ssc-biology-chapter-09-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ],
+      "name": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 09"
+    },
+    "ssc-biology-chapter-09-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ],
+      "name": "অধ্যায় 09 · দৃঢ়তা প্রদান ও চলন · টেস্ট 10"
+    },
+    "ssc-biology-chapter-10-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · সমন্বয় · টেস্ট 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ],
+      "name": "অধ্যায় 10 · সমন্বয় · টেস্ট 06"
+    },
+    "ssc-biology-chapter-10-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · সমন্বয় · টেস্ট 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ],
+      "name": "অধ্যায় 10 · সমন্বয় · টেস্ট 07"
+    },
+    "ssc-biology-chapter-10-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · সমন্বয় · টেস্ট 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ],
+      "name": "অধ্যায় 10 · সমন্বয় · টেস্ট 08"
+    },
+    "ssc-biology-chapter-10-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · সমন্বয় · টেস্ট 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ],
+      "name": "অধ্যায় 10 · সমন্বয় · টেস্ট 09"
+    },
+    "ssc-biology-chapter-10-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · সমন্বয় · টেস্ট 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ],
+      "name": "অধ্যায় 10 · সমন্বয় · টেস্ট 10"
+    },
+    "ssc-biology-chapter-11-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 06"
+    },
+    "ssc-biology-chapter-11-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 07"
+    },
+    "ssc-biology-chapter-11-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 08"
+    },
+    "ssc-biology-chapter-11-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 09"
+    },
+    "ssc-biology-chapter-11-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় 11 · জীবের প্রজনন · টেস্ট 10"
+    },
+    "ssc-biology-chapter-12-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
+        }
+      ],
+      "name": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 06"
+    },
+    "ssc-biology-chapter-12-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
+        }
+      ],
+      "name": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 07"
+    },
+    "ssc-biology-chapter-12-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
+        }
+      ],
+      "name": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 08"
+    },
+    "ssc-biology-chapter-12-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
+        }
+      ],
+      "name": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 09"
+    },
+    "ssc-biology-chapter-12-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
+        }
+      ],
+      "name": "অধ্যায় 12 · জীবের বংশগতি ও জৈব অভিব্যক্তি · টেস্ট 10"
+    },
+    "ssc-biology-chapter-13-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ],
+      "name": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 06"
+    },
+    "ssc-biology-chapter-13-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ],
+      "name": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 07"
+    },
+    "ssc-biology-chapter-13-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ],
+      "name": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 08"
+    },
+    "ssc-biology-chapter-13-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ],
+      "name": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 09"
+    },
+    "ssc-biology-chapter-13-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ],
+      "name": "অধ্যায় 13 · জীবের পরিবেশ · টেস্ট 10"
+    },
+    "ssc-biology-chapter-14-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 06"
+    },
+    "ssc-biology-chapter-14-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 07"
+    },
+    "ssc-biology-chapter-14-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 08"
+    },
+    "ssc-biology-chapter-14-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 09"
+    },
+    "ssc-biology-chapter-14-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test",
+        "replacement"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় 14 · জীবপ্রযুক্তি · টেস্ট 10"
     }
   }
 }

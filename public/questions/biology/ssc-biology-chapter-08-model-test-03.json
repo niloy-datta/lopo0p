@@ -3,12 +3,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q01",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "ADH-এর কাজ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— গ্লোমেরুলাস মূলত কী দিয়ে গঠিত?",
     "options": [
-      "পানি পুনঃশোষণ",
-      "অক্সিজেন",
-      "প্রোটিন",
-      "গ্লুকোজ"
+      "কৈশিক রক্তনালির জালিকা",
+      "স্নায়ুতন্তু",
+      "পেশিতন্তু",
+      "তরুণাস্থি"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q02",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "রেচন তাপ নিয়ন্ত্রণে কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— গ্লোমেরুলাসে রক্ত নিয়ে আসে কোন নালি?",
     "options": [
-      "পরিপাক",
-      "সালোকসংশ্লেষণ",
-      "ঘাম",
-      "শ্বাস"
+      "ইফারেন্ট আর্টেরিওল",
+      "রেনাল ভেইন",
+      "ইউরেটার",
+      "অ্যাফারেন্ট আর্টেরিওল"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q03",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "মানব রেচন পদার্থ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— গ্লোমেরুলাস থেকে রক্ত বের করে কোন নালি?",
     "options": [
-      "ইউরিয়া",
-      "হিমোগ্লোবিন",
-      "অক্সিজেন",
-      "গ্লুকোজ"
+      "ইউরেথ্রা",
+      "রেনাল পেলভিস",
+      "ইফারেন্ট আর্টেরিওল",
+      "অ্যাফারেন্ট আর্টেরিওল"
     ],
     "image": null,
     "optionImages": null,
@@ -48,14 +48,14 @@
     "id": "ssc-biology-chapter-08-model-test-03-q04",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "হেনলির লুপ (Loop of Henle) নেফ্রনের কোন অংশে অবস্থিত?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— অতিপরিস্রাবণ প্রধানত কোথায় ঘটে?",
     "options": [
-      "রেনাল টিউবিউল",
-      "রেনাল কর্পাসল",
-      "সংগ্রাহী নালিকা",
-      "গলোমেরুলাস"
+      "ইউরেথ্রা",
+      "গ্লোমেরুলাস",
+      "মূত্রথলি",
+      "ইউরেটার"
     ],
-    "image": "/images/quiz/bio-nephron.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -63,12 +63,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q05",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "রেচনে অতিরিক্ত পানি বের হয় কোথায়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— ফিল্ট্রেট থেকে অধিকাংশ গ্লুকোজ পুনঃশোষিত হয় প্রধানত কোথায়?",
     "options": [
-      "ঘামে",
-      "মূত্রে",
-      "শ্বাসে",
-      "মলে"
+      "প্রক্সিমাল প্যাঁচানো নালি",
+      "বোম্যানস ক্যাপসুল",
+      "ইউরেটার",
+      "মূত্রথলি"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q06",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "ইউরিক এসিড বেশি কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— হেনলির লুপের গুরুত্বপূর্ণ ভূমিকা কোনটি?",
     "options": [
-      "মানুষে",
-      "সব জীবে",
-      "মাছে",
-      "পাখিতে"
+      "রক্ত তৈরি",
+      "পিত্ত তৈরি",
+      "গ্যাস বিনিময়",
+      "মূত্র ঘনীভবনে সহায়তা"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q07",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "মূত্রনালি সংক্রমণ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— দূরবর্তী প্যাঁচানো নালিকে সংক্ষেপে কী বলা হয়?",
     "options": [
-      "বেরিবেরি",
-      "রিকেটস",
-      "UTI",
-      "স্কার্ভি"
+      "RBC",
+      "CNS",
+      "DCT",
+      "PCT"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q08",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "মূত্রের রং হলুদ কারণ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বিভিন্ন নেফ্রন থেকে তরল কোন নালিতে এসে জমা হয়?",
     "options": [
-      "হিমোগ্লোবিন",
-      "ইউরোক্রোম",
-      "মেলানিন",
-      "ক্লোরোফিল"
+      "অ্যাফারেন্ট আর্টেরিওল",
+      "সংগ্রাহী নালি",
+      "রেনাল আর্টারি",
+      "ইউরেটার সরাসরি"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q09",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "রেচন গতি কমে কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— ADH-এর প্রভাবে বৃক্কে কী বাড়ে?",
     "options": [
-      "তৃষ্ণায়",
-      "গরমে",
-      "ব্যায়ামে",
-      "নিঃশেষণে"
+      "পানির পুনঃশোষণ",
+      "গ্লুকোজ ক্ষরণ",
+      "রক্তকণিকা ফিল্টারেশন",
+      "প্রোটিন ক্ষয়"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q10",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "রেচনে অ্যামোনিয়া রূপান্তর কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বৃক্কে অক্সিজেনযুক্ত রক্ত পৌঁছায় কোন নালির মাধ্যমে?",
     "options": [
-      "ইউরিয়ায়",
-      "গ্লুকোজে",
-      "DNA-তে",
-      "ATP-তে"
+      "রেনাল ভেইন",
+      "ইউরেটার",
+      "ইউরেথ্রা",
+      "রেনাল আর্টারি"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q11",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "রেচনের প্রধান অঙ্গ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বৃক্ক থেকে রক্ত ফিরে যায় কোন নালির মাধ্যমে?",
     "options": [
-      "পাকস্থলী",
-      "কিডনি",
-      "ফুসফুস",
-      "হৃৎপিণ্দ"
+      "ইউরেটার",
+      "সংগ্রাহী নালি",
+      "রেনাল ভেইন",
+      "রেনাল আর্টারি"
     ],
     "image": null,
     "optionImages": null,
@@ -168,14 +168,14 @@
     "id": "ssc-biology-chapter-08-model-test-03-q12",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "বৃক্কের (Kidney) গঠন ও কাজের একককে কী বলা হয়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বৃক্ক থেকে মূত্র মূত্রথলিতে বহন করে কোন নালি?",
     "options": [
-      "ভিলাই",
-      "অ্যালভিওলাস",
-      "নিউরন",
-      "নেফ্রন"
+      "মূত্রনালি নয়",
+      "ইউরেটার",
+      "ইউরেথ্রা",
+      "রেনাল ভেইন"
     ],
-    "image": "/images/quiz/bio-nephron.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -183,14 +183,14 @@
     "id": "ssc-biology-chapter-08-model-test-03-q13",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "নেফ্রনের গ্লোমেরুলাসে কী ঘটে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মূত্র সাময়িকভাবে কোথায় সঞ্চিত থাকে?",
     "options": [
-      "গ্যাস বিনিময়",
-      "সালোকসংশ্লেষণ",
-      "রক্ত পরিশোধন শুরু",
-      "প্রোটিন সংশ্লেষণ"
+      "মূত্রথলি",
+      "বৃক্কের কর্টেক্স",
+      "যকৃত",
+      "ফুসফুস"
     ],
-    "image": "/images/quiz/bio-nephron.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -198,12 +198,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q14",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "মূত্রাশয়ের কাজ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মূত্র দেহের বাইরে যায় কোন নালির মাধ্যমে?",
     "options": [
-      "রক্ত সংরক্ষণ",
-      "খাদ্য সংরক্ষণ",
-      "গ্যাস সংরক্ষণ",
-      "মূত্র সংরক্ষণ"
+      "ইউরেটার",
+      "রেনাল আর্টারি",
+      "হেনলির লুপ",
+      "ইউরেথ্রা"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q15",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "কিডনির কাজ?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বৃক্ক অকেজো হলে রক্ত থেকে বর্জ্য অপসারণের কৃত্রিম পদ্ধতি কোনটি?",
     "options": [
-      "পরিপাক",
-      "রক্ত পরিশোধন ও মূত্র",
-      "সমন্বয়",
-      "শ্বাস"
+      "ECG",
+      "রেডিওথেরাপি",
+      "ডায়ালাইসিস",
+      "এন্ডোসকপি"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q16",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "মূত্রাশয়ের স্থিতি ধারণ ক্ষমতা প্রায় কত?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— ত্বক কোন রেচন পদার্থ বের করতে সাহায্য করে?",
     "options": [
-      "২ লিটার",
-      "৪০০-৫০০ মিলি",
-      "৫ লিটার",
-      "১০ মিলি"
+      "লালা",
+      "ঘাম",
+      "পিত্ত",
+      "ইনসুলিন"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q17",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "কিডনি ব্যর্থ হলে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— ফুসফুস প্রধানত কোন রেচন পদার্থ বের করে?",
     "options": [
-      "পরিপাক বন্ধ",
-      "ডায়ালাইসিস দরকার",
-      "শ্বাস বন্ধ",
-      "চলন বন্ধ"
+      "CO₂ ও জলীয়বাষ্প",
+      "ইউরিয়া মাত্র",
+      "গ্লুকোজ",
+      "লবণ মাত্র"
     ],
     "image": null,
     "optionImages": null,
@@ -258,14 +258,14 @@
     "id": "ssc-biology-chapter-08-model-test-03-q18",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "নেফ্রনের কাজ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— পাখির প্রধান নাইট্রোজেনঘটিত রেচন পদার্থ কোনটি?",
     "options": [
-      "গ্যাস বিনিময়",
-      "প্রোটিন তৈরি",
-      "রক্ত পরিশোধন",
-      "শক্তি উৎপাদন"
+      "ইউরিয়া",
+      "অ্যামোনিয়া",
+      "গ্লুকোজ",
+      "ইউরিক অ্যাসিড"
     ],
-    "image": "/images/quiz/bio-nephron.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -273,12 +273,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q19",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "মূত্র তৈরির সঠিক প্রধান ধাপসমূহের ক্রম কোনটি?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মানবদেহের প্রধান রেচন অঙ্গ কোনটি?",
     "options": [
-      "পুনঃশোষণ → পরিস্রবণ → ক্ষরণ",
-      "পরিস্রবণ → ক্ষরণ → পুনঃশোষণ",
-      "পরিস্রবণ → পুনঃশোষণ → ক্ষরণ",
-      "ক্ষরণ → পরিস্রবণ → পুনঃশোষণ"
+      "প্লীহা",
+      "অগ্ন্যাশয়",
+      "বৃক্ক",
+      "পাকস্থলী"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q20",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "ADH (অ্যান্টিডাইউরেটিক হরমোন) কমলে মূত্রে কী হয়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মানুষের প্রধান নাইট্রোজেনঘটিত রেচন পদার্থ কোনটি?",
     "options": [
-      "প্রোটিন বাড়ে",
-      "পানির পরিমাণ বাড়ে",
-      "গ্লুকোজ বাড়ে",
-      "পানি কমে"
+      "হিমোগ্লোবিন",
+      "ইউরিয়া",
+      "গ্লুকোজ",
+      "গ্লাইকোজেন"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q21",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "কোনটির কারণে মানুষের মূত্রের রঙ খড় বা হালকা হলুদ দেখায়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— ইউরিয়া প্রধানত কোন অঙ্গে তৈরি হয়?",
     "options": [
-      "মেলানিন",
-      "বিলিরুবিন",
-      "ইউরোক্রোম",
-      "হিমোগ্লোবিন"
+      "যকৃত",
+      "বৃক্ক",
+      "ফুসফুস",
+      "হৃৎপিণ্ড"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q22",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "ইউরিয়া তৈরি হয় কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বৃক্কের গঠন ও কাজের একক কী?",
     "options": [
-      "লিভারে",
-      "পাকস্থলীতে",
-      "কিডনিতে",
-      "ফুসফুসে"
+      "নিউরন",
+      "অ্যালভিওলাস",
+      "ভিলাস",
+      "নেফ্রন"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q23",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "লিভার রেচনে ভূমিকা কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বৃক্কের বাইরের অংশের নাম কী?",
     "options": [
-      "প্রোটিন হজম",
-      "অক্সিজেন তৈরি",
-      "মূত্র তৈরি",
-      "ইউরিয়া তৈরি"
+      "পেলভিস",
+      "হাইলাম",
+      "কর্টেক্স",
+      "মেডুলা"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q24",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "কিডনি দুটি?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বৃক্কের ভেতরের অংশকে কী বলা হয়?",
     "options": [
-      "মস্তিষ্কে",
-      "পৃষ্ঠদেশীয় অবস্থান",
-      "ফুসফুসে",
-      "বক্ষে"
+      "ইউরেথ্রা",
+      "মেডুলা",
+      "কর্টেক্স",
+      "ক্যাপসুল"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-biology-chapter-08-model-test-03-q25",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-08-model-test-03",
-    "text": "মূত্রে গ্লুকোজ থাকলে কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— গ্লোমেরুলাস কোন গঠনের ভেতরে অবস্থান করে?",
     "options": [
-      "রিকেটস",
-      "স্বাভাবিক",
-      "স্কার্ভি",
-      "ডায়াবেটিস সন্দেহ"
+      "বোম্যানস ক্যাপসুল",
+      "হেনলির লুপ",
+      "ইউরেটার",
+      "মূত্রথলি"
     ],
     "image": null,
     "optionImages": null,

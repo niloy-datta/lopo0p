@@ -3,12 +3,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q01",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "একটি বাস্তুতন্ত্রে (Ecosystem) উৎপাদক থেকে সর্বোচ্চ খাদক পর্যন্ত শক্তি স্থানান্তরের সময় শক্তির পরিমাণ কীরূপ পরিবর্তিত হয়?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: একই প্রজাতির জীবের একটি নির্দিষ্ট এলাকার সমষ্টিকে কী বলা হয়?",
     "options": [
-      "প্রথমে কমে পরে বাড়ে",
-      "ধাপে ধাপে বৃদ্ধি পায়",
-      "ধাপে ধাপে হ্রাস পায়",
-      "একই থাকে"
+      "কমিউনিটি",
+      "বাস্তুতন্ত্র",
+      "বায়োম",
+      "জনসংখ্যা"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q02",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "খাদ্য শৃঙ্খলে প্রথম স্তরে কোন জীব থাকে?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: একই এলাকায় বিভিন্ন প্রজাতির জনসংখ্যার সমষ্টিকে কী বলা হয়?",
     "options": [
-      "উৎপাদক (স্বয়ংখাদী)",
-      "প্রাথমিক ভোক্তা",
-      "পরভোক্তা",
-      "অপব্যাখ্যাকারী"
+      "কোষসমষ্টি",
+      "টিস্যু",
+      "কমিউনিটি",
+      "জনসংখ্যা"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q03",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "গ্রিনহাউস গ্যাস কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: জীববৈচিত্র্য বলতে কী বোঝায়—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "N₂",
-      "O₂",
-      "CO₂",
-      "He"
+      "একই প্রজাতির অভিন্নতা",
+      "জীবের বিভিন্নতা",
+      "শুধু উদ্ভিদের সংখ্যা",
+      "শুধু প্রাণীর সংখ্যা"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q04",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "অম্লবৃষ্টির কারণ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বায়ুতে ক্ষতিকর পদার্থের মাত্রা বেড়ে যাওয়াকে কী বলা হয়?",
     "options": [
-      "SO₂ ও NOₓ",
-      "O₂",
-      "H₂",
-      "He"
+      "বায়ুদূষণ",
+      "জলদূষণ",
+      "মৃত্তিকাদূষণ",
+      "শব্দদূষণ"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q05",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "বায়ুমণ্ডলে সবচেয়ে বেশি কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: নদী-হ্রদে শিল্পবর্জ্য ফেলা প্রধানত কোন দূষণ ঘটায়?",
     "options": [
-      "O₂",
-      "CO₂",
-      "Ar",
-      "N₂"
+      "বায়ুদূষণ",
+      "শব্দদূষণ",
+      "আলোকদূষণ",
+      "জলদূষণ"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q06",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "জলবায়ু পরিবর্তন কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: অতিরিক্ত রাসায়নিক ও বর্জ্যে মাটির গুণ নষ্ট হলে তাকে কী বলা হয়—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "N₂ শূন্য",
-      "O₂ শূন্য",
-      "শীত বাড়ে",
-      "গ্লোবাল ওয়ার্মিং"
+      "বায়ুদূষণ",
+      "তাপদূষণ",
+      "মৃত্তিকাদূষণ",
+      "জলদূষণ"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q07",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "বায়ু দূষণের কারণ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: অতিরিক্ত অনাকাঙ্ক্ষিত শব্দ কোন ধরনের দূষণ?",
     "options": [
-      "অক্সিজেন",
-      "সূর্যালোক",
-      "বৃষ্টি",
-      "যানবাহন ধোঁয়া"
+      "মৃত্তিকাদূষণ",
+      "শব্দদূষণ",
+      "জলদূষণ",
+      "বায়ুদূষণ"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q08",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "খাদ্য জালের শীর্ষ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বৈশ্বিক উষ্ণায়নে গুরুত্বপূর্ণ গ্রিনহাউস গ্যাস কোনটি?",
     "options": [
-      "ডিকম্পোজার",
-      "শিকারি",
-      "উৎপাদক",
-      "হার্বিভোর"
+      "CO₂",
+      "O₂",
+      "N₂",
+      "He"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q09",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "বাস্তুতন্ত্রে কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: ওজোন স্তর ক্ষয়ের সঙ্গে কোন যৌগগোষ্ঠী বিশেষভাবে যুক্ত—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "শুধু মানুষ",
-      "শুধু জীব",
-      "জীব ও অজীব",
-      "শুধু অজীব"
+      "NaCl",
+      "গ্লুকোজ",
+      "প্রোটিন",
+      "CFC"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q10",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "বন উজাড়ের ফল কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: নিচের কোনটি নবায়নযোগ্য শক্তির উৎস?",
     "options": [
-      "বৃদ্ধি",
-      "বাস্তুতন্ত্র ধ্বংস",
-      "O₂ বাড়ে",
-      "বৃষ্টি বাড়ে"
+      "পেট্রোলিয়াম",
+      "প্রাকৃতিক গ্যাস",
+      "সৌরশক্তি",
+      "কয়লা"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q11",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "ডিকম্পোজারের কাজ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: Reduce, Reuse, Recycle—এই নীতিকে সংক্ষেপে কী বলা হয়?",
     "options": [
-      "মৃত জৈব পদার্থ পচানো",
-      "শ্বাস",
-      "রেচন",
-      "সালোকসংশ্লেষণ"
+      "ATP",
+      "3R",
+      "3C",
+      "DNA"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q12",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "জীবের আবাসস্থল কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: জীব ও তার জড় পরিবেশের পারস্পরিক সম্পর্কের কার্যকর একককে কী বলা হয়—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "ক্রোমোজোম",
-      "হ্যাবিট্যাট",
-      "জিন",
-      "ট্যাক্সন"
+      "বাস্তুতন্ত্র",
+      "কোষ",
+      "টিস্যু",
+      "অঙ্গ"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q13",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "মাটি দূষণের কারণ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বাস্তুতন্ত্রের জীবিত উপাদানকে কী বলা হয়?",
     "options": [
-      "রাসায়নিক সার",
-      "বৃষ্টি",
-      "অক্সিজেন",
-      "সূর্য"
+      "অজৈব উপাদান",
+      "খনিজ উপাদান মাত্র",
+      "ভৌত শক্তি",
+      "জৈব উপাদান"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q14",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "নবায়নযোগ্য সম্পদ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: আলো, পানি ও তাপমাত্রা কোন ধরনের পরিবেশীয় উপাদান?",
     "options": [
-      "ডিজেল",
-      "পেট্রোল",
-      "কয়লা",
-      "সৌর শক্তি"
+      "উৎপাদক",
+      "খাদক",
+      "অজৈব",
+      "জৈব"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q15",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "পরিবেশ সংরক্ষণ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: সবুজ উদ্ভিদ বাস্তুতন্ত্রে কোন ভূমিকা পালন করে—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "উজাড়",
-      "দূষণ",
-      "টেকসই উন্নয়ন",
-      "অপচয়"
+      "পরজীবী",
+      "উৎপাদক",
+      "বিয়োজক",
+      "দ্বিতীয় খাদক"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q16",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "ওজোন স্তর ক্ষতি কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: তৃণভোজী প্রাণী সাধারণত কোন স্তরের খাদক?",
     "options": [
-      "CO₂",
-      "CFC",
-      "N₂",
-      "O₂"
+      "প্রথম স্তরের খাদক",
+      "দ্বিতীয় স্তরের খাদক",
+      "উৎপাদক",
+      "বিয়োজক"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q17",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "জীববৈচিত্র্য কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: মৃত জৈব পদার্থ ভেঙে সরল পদার্থে পরিণত করে কারা?",
     "options": [
-      "জীবের বৈচিত্র্য",
-      "শুধু উদ্ভিদ",
-      "শুধু প্রাণী",
-      "শুধু মানুষ"
+      "উৎপাদক",
+      "প্রাথমিক খাদক",
+      "পরাগবাহক",
+      "বিয়োজক"
     ],
     "image": null,
     "optionImages": null,
@@ -258,14 +258,14 @@
     "id": "ssc-biology-chapter-13-model-test-04-q18",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "উদ্দীপক: শিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্তি উৎপাদন করে এবং অপরটি (B) উদ্ভিদ কোষে খাদ্য তৈরিতে সাহায্য করে। জীবজগতে 'B' অঙ্গাণুটির (ক্লোরোপ্লাস্ট) ভূমিকা বিশ্লেষণ করলে দেখা যায়— i. এটি সৌরশক্তিকে রাসায়নিক শক্তিতে রূপান্তর করে ii. এটি প্রাণী কোষে শর্করা জাতীয় খাদ্য সঞ্চয় করে iii. এটি পরিবেশের O2 ও CO2 এর ভারসাম্য রক্ষায় সাহায্য করে নিচের কোনটি সঠিক?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: খাদ্য ও শক্তি স্থানান্তরের সরল ধারাবাহিকতাকে কী বলা হয়—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
+      "জনসংখ্যা",
+      "বাসস্থান",
+      "খাদ্যশৃঙ্খল",
+      "খাদ্যজাল"
     ],
-    "image": "/images/quiz/premium/ssc-biology-chapter-13-model-test-04-q18.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -273,12 +273,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q19",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "খাদ্য শৃঙ্খলে শক্তি কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বহু খাদ্যশৃঙ্খল পরস্পর যুক্ত হলে কী গঠিত হয়?",
     "options": [
-      "এক দিকে প্রবাহ",
-      "বিপরীত",
-      "চক্রাকারে",
-      "শূন্য"
+      "একটি টিস্যু",
+      "খাদ্যজাল",
+      "একটি কোষ",
+      "একটি জিন"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q20",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "৩R নীতির R তিনটি কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: খাদ্যশৃঙ্খলে প্রতিটি খাদ্য অবস্থানকে কী বলা হয়?",
     "options": [
-      "Rain, River, Rock",
-      "Red, Rice, Rose",
-      "Run, Rest, Read",
-      "Reduce, Reuse, Recycle"
+      "ট্রফিক স্তর",
+      "জিনোটাইপ",
+      "ইকোটাইপ",
+      "নিউক্লিয়াস"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q21",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "বিলুপ্ত প্রজাতি কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বাস্তুতন্ত্রে শক্তি প্রবাহ সাধারণত কেমন—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "মানুষ",
-      "ছাগল",
-      "ডোডো",
-      "গরু"
+      "চক্রাকার সম্পূর্ণ",
+      "দ্বিমুখী সমান",
+      "স্থির",
+      "একমুখী"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q22",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "পারিস্থিতিক তন্ত্রে উৎপাদক কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: কার্বনকে পরিবেশ ও জীবদেহের মধ্যে ঘুরিয়ে আনে কোন প্রক্রিয়াসমষ্টি?",
     "options": [
-      "উদ্ভিদ",
-      "ছত্রাক",
-      "মানুষ",
-      "প্রাণী"
+      "জলচক্র",
+      "ফসফরাস মাত্র",
+      "কার্বন চক্র",
+      "নাইট্রোজেন চক্র"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q23",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "খাদ্য শৃঙ্খল শুরু কোথায়?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বায়ুমণ্ডলীয় নাইট্রোজেনকে ব্যবহারযোগ্য যৌগে রূপান্তরে কোন জীব গুরুত্বপূর্ণ?",
     "options": [
-      "ভোক্তা",
-      "অপব্যাখ্যাকারী",
-      "পরভোক্তা",
-      "উৎপাদক"
+      "প্রোটোজোয়া মাত্র",
+      "নাইট্রোজেন স্থিরকারী ব্যাকটেরিয়া",
+      "ভাইরাস",
+      "মানুষের RBC"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q24",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "৩R নীতি কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বাষ্পীভবন, ঘনীভবন ও বৃষ্টিপাত কোন চক্রের অংশ—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "Rain River Rock",
-      "Reduce Reuse Recycle",
-      "Run Rest Read",
-      "Red Rice Rose"
+      "জলচক্র",
+      "কার্বন চক্র",
+      "নাইট্রোজেন চক্র",
+      "অক্সিজেন চক্র মাত্র"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-biology-chapter-13-model-test-04-q25",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-04",
-    "text": "পরভোক্তা কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: কোনো জীব যেখানে স্বাভাবিকভাবে বাস করে তাকে কী বলা হয়?",
     "options": [
-      "শুধু উৎপাদক",
-      "শুধু মৃত",
-      "শুধু পানি",
-      "উভয় উৎপাদক ও ভোক্তা খায়"
+      "জনসংখ্যা",
+      "কমিউনিটি",
+      "ট্রফিক স্তর",
+      "বাসস্থান"
     ],
     "image": null,
     "optionImages": null,

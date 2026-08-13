@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: নিউরনের নিউক্লিয়াস প্রধানত কোথায় থাকে?",
+    "options": [
+      "সিন্যাপসে",
+      "কোষদেহে",
+      "অ্যাক্সনের শেষে",
+      "ডেনড্রাইটের ডগায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: দুটি নিউরনের সংযোগস্থলকে কী বলা হয়?",
+    "options": [
+      "সিন্যাপস",
+      "গ্লোমেরুলাস",
+      "সন্ধি",
+      "স্টোমাটা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: মস্তিষ্ক ও সুষুম্নাকাণ্ড মিলে কোন তন্ত্র গঠন করে?",
+    "options": [
+      "পরিধীয় স্নায়ুতন্ত্র",
+      "অন্তঃক্ষরা তন্ত্র",
+      "রেচনতন্ত্র",
+      "কেন্দ্রীয় স্নায়ুতন্ত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: মস্তিষ্কের সঙ্গে দেহের বিভিন্ন অংশে স্নায়ু সংযোগ কোন তন্ত্রের অংশ?",
+    "options": [
+      "পরিপাকতন্ত্র",
+      "রক্তসংবহন তন্ত্র",
+      "পরিধীয় স্নায়ুতন্ত্র",
+      "কেন্দ্রীয় স্নায়ুতন্ত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: চিন্তা, স্মৃতি ও ইচ্ছাধীন কাজের সঙ্গে মস্তিষ্কের কোন অংশ বেশি সম্পর্কিত?",
+    "options": [
+      "পনস মাত্র",
+      "সেরিব্রাম",
+      "সেরিবেলাম",
+      "মেডুলা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: দেহের ভারসাম্য ও পেশি সমন্বয়ে কোন অংশ গুরুত্বপূর্ণ?",
+    "options": [
+      "সেরিবেলাম",
+      "সেরিব্রাম",
+      "হাইপোথ্যালামাস",
+      "পিটুইটারি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: শ্বাস ও হৃদস্পন্দনের মতো অনৈচ্ছিক কাজ নিয়ন্ত্রণে কোন অংশ গুরুত্বপূর্ণ?",
+    "options": [
+      "সেরিব্রাম",
+      "ফ্রন্টাল লোব",
+      "অপটিক নার্ভ",
+      "মেডুলা অবলংগাটা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: দ্রুত ও স্বয়ংক্রিয় প্রতিক্রিয়াকে কী বলা হয়?",
+    "options": [
+      "ব্যাপন",
+      "রেচন",
+      "প্রতিবর্ত ক্রিয়া",
+      "পরাগায়ন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: রিফ্লেক্স আর্কে উদ্দীপনা প্রথমে শনাক্ত করে কোনটি?",
+    "options": [
+      "গ্রন্থি",
+      "রিসেপ্টর",
+      "ইফেক্টর",
+      "মোটর নিউরন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: রিফ্লেক্স প্রতিক্রিয়ায় কাজ সম্পাদনকারী পেশি বা গ্রন্থিকে কী বলা হয়?",
+    "options": [
+      "ইফেক্টর",
+      "রিসেপ্টর",
+      "সিন্যাপস",
+      "সেন্সরি নিউরন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: রিসেপ্টর থেকে CNS-এ সংকেত বহন করে কোন নিউরন?",
+    "options": [
+      "মোটর নিউরন",
+      "রিলে নিউরন মাত্র বাইরে",
+      "হরমোন",
+      "সংবেদী নিউরন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: CNS থেকে ইফেক্টরে সংকেত বহন করে কোন নিউরন?",
+    "options": [
+      "রড কোষ",
+      "কোন কোষ",
+      "মোটর নিউরন",
+      "সংবেদী নিউরন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: হরমোন নিঃসরণকারী নালিবিহীন গ্রন্থিকে কী বলা হয়?",
+    "options": [
+      "ঘর্মগ্রন্থি",
+      "অন্তঃক্ষরা গ্রন্থি",
+      "বহিঃক্ষরা গ্রন্থি",
+      "লালাগ্রন্থি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: 'মাস্টার গ্রন্থি' নামে পরিচিত গ্রন্থি কোনটি?",
+    "options": [
+      "পিটুইটারি",
+      "থাইরয়েড",
+      "অ্যাড্রিনাল",
+      "অগ্ন্যাশয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: থাইরয়েড গ্রন্থির প্রধান হরমোন কোনটি?",
+    "options": [
+      "ইনসুলিন",
+      "অ্যাড্রিনালিন",
+      "ADH",
+      "থাইরক্সিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: রক্তে গ্লুকোজ কমাতে কোন হরমোন সাহায্য করে?",
+    "options": [
+      "অ্যাড্রিনালিন",
+      "থাইরক্সিন",
+      "ইনসুলিন",
+      "গ্লুকাগন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: জরুরি অবস্থায় 'fight or flight' প্রতিক্রিয়ায় কোন হরমোন গুরুত্বপূর্ণ?",
+    "options": [
+      "প্রোজেস্টেরন",
+      "অ্যাড্রিনালিন",
+      "ইনসুলিন",
+      "অক্সিটোসিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: উদ্ভিদের আলোর দিকে বৃদ্ধিতে কোন হরমোন বিশেষ গুরুত্বপূর্ণ?",
+    "options": [
+      "অক্সিন",
+      "ইনসুলিন",
+      "থাইরক্সিন",
+      "অ্যাড্রিনালিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: কাণ্ডের দৈর্ঘ্য বৃদ্ধিতে কোন উদ্ভিদ হরমোন গুরুত্বপূর্ণ?",
+    "options": [
+      "ইথিলিন",
+      "অ্যাবসিসিক অ্যাসিড",
+      "ইনসুলিন",
+      "জিবেরেলিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: কোষ বিভাজন উদ্দীপনায় কোন উদ্ভিদ হরমোন গুরুত্বপূর্ণ?",
+    "options": [
+      "থাইরক্সিন",
+      "ADH",
+      "সাইটোকাইনিন",
+      "অক্সিটোসিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: ফল পাকাতে কোন উদ্ভিদ হরমোন বিশেষ ভূমিকা রাখে?",
+    "options": [
+      "সাইটোকাইনিন",
+      "ইথিলিন",
+      "জিবেরেলিন",
+      "অক্সিন মাত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: উদ্ভিদের প্রতিকূল পরিবেশে সুপ্তাবস্থা ও স্টোমাটা বন্ধে কোন হরমোন গুরুত্বপূর্ণ?",
+    "options": [
+      "অ্যাবসিসিক অ্যাসিড",
+      "ইথিলিন",
+      "জিবেরেলিন",
+      "ইনসুলিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: স্নায়ুতন্ত্রের গঠন ও কাজের মৌলিক একক কী?",
+    "options": [
+      "নেফ্রন",
+      "অ্যালভিওলাস",
+      "ভিলাস",
+      "নিউরন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: নিউরনের কোন অংশ সাধারণত উদ্দীপনা গ্রহণ করে?",
+    "options": [
+      "মায়েলিন মাত্র",
+      "সিন্যাপটিক ভেসিকল",
+      "ডেনড্রাইট",
+      "অ্যাক্সন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-06-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-06",
+    "text": "প্রয়োগভিত্তিক অনুশীলনে জিজ্ঞেস করা হলো: নিউরনের কোন অংশ কোষদেহ থেকে স্নায়ু সংকেত দূরে বহন করে?",
+    "options": [
+      "সেন্ট্রিওল",
+      "অ্যাক্সন",
+      "ডেনড্রাইট",
+      "নিউক্লিয়াস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

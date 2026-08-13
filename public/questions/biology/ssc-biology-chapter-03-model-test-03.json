@@ -3,12 +3,12 @@
     "id": "ssc-biology-chapter-03-model-test-03-q01",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "S দশায় কোষে কী ঘটে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মাইটোসিসে সেন্ট্রোমিয়ার বিভক্ত হয় কোন পর্যায়ে?",
     "options": [
-      "DNA প্রতিলিপি",
-      "কোষ বিভাজন",
-      "রেচন",
-      "প্রোটিন সংশ্লেষণ"
+      "অ্যানাফেজ",
+      "প্রোফেজ",
+      "মেটাফেজ",
+      "টেলোফেজ"
     ],
     "image": null,
     "optionImages": null,
@@ -18,14 +18,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q02",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মিয়োসিস কোষ বিভাজনের প্রোফেজ-১ ধাপে সমসংস্থ ক্রোমোজোমের জোড় বাঁধার প্রক্রিয়াকে কী বলে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মাইটোসিসে অপত্য ক্রোমাটিড বিপরীত মেরুর দিকে সরে যায় কোন পর্যায়ে?",
     "options": [
-      "সিন্যাপসিস",
-      "ক্রসিং ওভার",
-      "বাইভ্যালেন্ট",
-      "কায়াজমা"
+      "মেটাফেজ",
+      "প্রোফেজ",
+      "ইন্টারফেজ",
+      "অ্যানাফেজ"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -33,12 +33,12 @@
     "id": "ssc-biology-chapter-03-model-test-03-q03",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "গ্যামেটে ক্রোমোজোম সংখ্যা কত?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— দুটি নতুন নিউক্লিয়ার মেমব্রেন পুনর্গঠিত হয় কোন পর্যায়ে?",
     "options": [
-      "৪৪",
-      "৯২",
-      "৪৬",
-      "২৩"
+      "মেটাফেজ",
+      "অ্যানাফেজ",
+      "টেলোফেজ",
+      "প্রোফেজ"
     ],
     "image": null,
     "optionImages": null,
@@ -48,14 +48,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q04",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "উদ্দীপক: শিক্ষক বললেন, আমাদের দেহে দুই ধরনের কোষ বিভাজন ঘটে। 'P' বিভাজনের মাধ্যমে জীবদেহের বৃদ্ধি ঘটে এবং ক্ষতস্থান পূরণ হয়, আর 'Q' বিভাজনের মাধ্যমে জননকোষ উৎপন্ন হয়। 'Q' বিভাজনের (মিয়োসিস) ক্ষেত্রে নিচের কোন তথ্যটি সঠিক? i. ক্রোমোজোম সংখ্যা মাতৃকোষের অর্ধেক হয়ে যায় ii. এই বিভাজনে ক্রসিং ওভার ঘটে iii. এটি এককোষী জীবে বংশবৃদ্ধির প্রধান উপায় নিচের কোনটি সঠিক?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— নিউক্লিয়াস বিভাজনের পর সাইটোপ্লাজম বিভাজনকে কী বলা হয়?",
     "options": [
-      "ii ও iii",
-      "i, ii ও iii",
-      "i ও iii",
-      "i ও ii"
+      "ক্রসিং ওভার",
+      "সাইটোকাইনেসিস",
+      "ক্যারিওকাইনেসিস",
+      "সিন্যাপসিস"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -63,14 +63,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q05",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মিয়োসিসে কোষ বিভাজন কতবার ঘটে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— উদ্ভিদ কোষে সাইটোকাইনেসিসের সময় সাধারণত কী গঠিত হয়?",
     "options": [
-      "দুইবার",
-      "চারবার",
-      "তিনবার",
-      "একবার"
+      "সেল প্লেট",
+      "ক্লিভেজ ফারো",
+      "কায়াজমা",
+      "স্পিন্ডল ফাইবার"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -78,12 +78,12 @@
     "id": "ssc-biology-chapter-03-model-test-03-q06",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "টেলোফেজে কী গঠিত হয়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— প্রাণী কোষে সাইটোকাইনেসিসের সময় কোন গঠন দেখা যায়?",
     "options": [
-      "আট কেন্দ্রিকা",
-      "কোনো কেন্দ্রিকা নয়",
-      "দুটি কেন্দ্রিকা",
-      "চার কেন্দ্রিকা"
+      "সেল প্লেট",
+      "মিডল ল্যামেলা",
+      "কায়াজমা",
+      "ক্লিভেজ ফারো"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-biology-chapter-03-model-test-03-q07",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "জীবের জিনগত বৈচিত্র্য বা ভ্যারিয়েশন (Variation) সৃষ্টিতে নিচের কোনটির ভূমিকা সবচেয়ে বেশি?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মিয়োসিসে ধারাবাহিকভাবে কয়বার নিউক্লিয়াস বিভাজিত হয়?",
     "options": [
-      "মাইটোসিস",
-      "ক্রসিং ওভার",
-      "সাইটোকাইনেসিস",
-      "অ্যামাইটোসিস"
+      "তিনবার",
+      "চারবার",
+      "দুইবার",
+      "একবার"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-biology-chapter-03-model-test-03-q08",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "ক্রোমোজোমের ক্ষুদ্রতম কাঠামোর একক কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— একটি ডিপ্লয়েড জনন মাতৃকোষের মিয়োসিস শেষে সাধারণত কয়টি হ্যাপ্লয়েড কোষ তৈরি হয়?",
     "options": [
-      "নিউক্লিয়াস",
-      "ক্রোমাটিড",
-      "জিন",
-      "রাইবোসোম"
+      "আটটি",
+      "চারটি",
+      "দুটি",
+      "একটি"
     ],
     "image": null,
     "optionImages": null,
@@ -123,14 +123,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q09",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মাইটোসিস কোষ বিভাজনের পর্যায়গুলোর সঠিক ক্রম কোনটি?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মিয়োসিস-I এর কোন উপপর্যায়ে সমসংস্থ ক্রোমোজোমের synapsis ঘটে?",
     "options": [
-      "প্রোফেজ → প্রো-মেটাফেজ → মেটাফেজ → অ্যানাফেজ → টেলোফেজ",
-      "প্রোফেজ → মেটাফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → টেলোফেজ",
-      "মেটাফেজ → প্রোফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → টেলোফেজ",
-      "প্রোফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → মেটাফেজ → টেলোফেজ"
+      "জাইগোটিন",
+      "লেপটোটিন",
+      "প্যাকাইটিন",
+      "ডিপ্লোটিন"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -138,14 +138,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q10",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "কোষ বিভাজনের কোন ধাপে নিউক্লিওলাসের সম্পূর্ণ বিলুপ্তি ঘটে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— ক্রসিং ওভার প্রধানত মিয়োসিস-I এর কোন উপপর্যায়ে ঘটে?",
     "options": [
-      "অ্যানাফেজ",
-      "টেলোফেজ",
-      "প্রোফেজ",
-      "মেটাফেজ"
+      "জাইগোটিন",
+      "ডায়াকাইনেসিস",
+      "লেপটোটিন",
+      "প্যাকাইটিন"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -153,14 +153,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q11",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "কোষ বিভাজনের কোন ধাপে নিউক্লিওলাসের পুনরাবির্ভাব ঘটে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— কায়াজমা স্পষ্টভাবে দৃশ্যমান হয় কোন উপপর্যায়ে?",
     "options": [
-      "অ্যানাফেজ",
-      "প্রোফেজ",
-      "টেলোফেজ",
-      "মেটাফেজ"
+      "জাইগোটিন",
+      "লেপটোটিন",
+      "ডিপ্লোটিন",
+      "প্যাকাইটিন"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -168,14 +168,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q12",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মিয়োসিস-১-এ প্রধানত কী ঘটে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মিয়োসিস-I এর অ্যানাফেজে কোন গঠনগুলো বিপরীত মেরুর দিকে যায়?",
     "options": [
-      "কোষ বৃদ্ধি",
-      "DNA প্রতিলিপি",
-      "সাইটোকাইনেসিস",
-      "ক্রসিং ওভার"
+      "সেন্ট্রিওল মাত্র",
+      "সমসংস্থ ক্রোমোজোম",
+      "সিস্টার ক্রোমাটিড",
+      "নিউক্লিওলাস"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -183,14 +183,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q13",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "উদ্দীপক: একটি উদ্ভিদের মূল কোষে ক্রোমোজোম সংখ্যা ২৪। মাইটোসিস বিভাজনের পর প্রতিটি কণিকায় ক্রোমোজোম সংখ্যা কত হবে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মিয়োসিস-II এর অ্যানাফেজে কোনগুলো পৃথক হয়?",
     "options": [
-      "৪৮",
-      "১২",
-      "২৪",
-      "৬"
+      "সিস্টার ক্রোমাটিড",
+      "সমসংস্থ ক্রোমোজোম জোড়া",
+      "টেট্রাড",
+      "নিউক্লিওলাস"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -198,12 +198,12 @@
     "id": "ssc-biology-chapter-03-model-test-03-q14",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "ইন্টারফেজে কোষে প্রধানত কী ঘটে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— জিনগত বৈচিত্র্য সৃষ্টিতে কোন বিভাজন বিশেষ গুরুত্বপূর্ণ?",
     "options": [
-      "ক্রসিং ওভার",
-      "DNA প্রতিলিপি ও বৃদ্ধি",
-      "ক্রোমোজোম বিভাজন",
-      "সাইটোকাইনেসিস"
+      "মাইটোসিস",
+      "অ্যামাইটোসিস",
+      "বাডিং",
+      "মিয়োসিস"
     ],
     "image": null,
     "optionImages": null,
@@ -213,14 +213,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q15",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মাইটোসিসের প্রধান কাজ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— ক্রোমোজোম সংখ্যা অর্ধেক করে কোন বিভাজন?",
     "options": [
-      "গ্যামেট তৈরি",
-      "জনন",
-      "ক্রসিং ওভার",
-      "ক্ষত নিরাময় ও বৃদ্ধি"
+      "ক্যারিওকাইনেসিস",
+      "সাইটোকাইনেসিস",
+      "মিয়োসিস",
+      "মাইটোসিস"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -228,14 +228,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q16",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "দেহ বৃদ্ধির জন্য প্রধানত কোন কোষ বিভাজন ঘটে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— DNA প্রতিলিপি কোষচক্রের কোন পর্যায়ে ঘটে?",
     "options": [
-      "মিয়োসিস",
-      "বাইনারি ফিশন",
-      "মাইটোসিস",
-      "অ্যামাইটোসিস"
+      "টেলোফেজ",
+      "ইন্টারফেজের S পর্যায়",
+      "প্রোফেজ",
+      "অ্যানাফেজ"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -243,12 +243,12 @@
     "id": "ssc-biology-chapter-03-model-test-03-q17",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মাকুতন্ত্র গঠন হয় কোন পর্যায়ে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— নিয়ন্ত্রণহীন কোষ বিভাজনের সঙ্গে কোন রোগের সম্পর্ক সবচেয়ে প্রত্যক্ষ?",
     "options": [
-      "অ্যানাফেজে",
-      "প্রোফেজে",
-      "টেলোফেজে",
-      "মেটাফেজে"
+      "ক্যান্সার",
+      "রিকেটস",
+      "স্কার্ভি",
+      "ডায়াবেটিস ইনসিপিডাস"
     ],
     "image": null,
     "optionImages": null,
@@ -258,14 +258,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q18",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "প্রো-মেটাফেজে কোন গঠন স্পষ্ট হয়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মাইটোসিসের ফলে অপত্য কোষে মাতৃকোষের তুলনায় ক্রোমোজোম সংখ্যা সাধারণত কেমন থাকে?",
     "options": [
-      "রাইবোসোম",
-      "স্পিন্ডল যন্ত্র",
-      "ক্লোরোপ্লাস্ট",
-      "গলজি বডি"
+      "অর্ধেক",
+      "দ্বিগুণ",
+      "চারগুণ",
+      "সমান"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -273,14 +273,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q19",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মিয়োসিস বিভাজনের ফলে কয়টি হ্যাপ্লয়েড কণিকা উৎপন্ন হয় কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— কোষচক্রের কোন পর্যায়ে কোষ বিভাজনের প্রস্তুতি ও অধিকাংশ বৃদ্ধি ঘটে?",
     "options": [
-      "৮",
-      "১",
-      "২",
-      "৪"
+      "মেটাফেজ",
+      "টেলোফেজ",
+      "ইন্টারফেজ",
+      "প্রোফেজ"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -288,14 +288,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q20",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "কোষ বিভাজনের কোন ধাপে স্পিন্ডল যন্ত্রের (Spindle Apparatus) সৃষ্টি হয়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— দেহের বৃদ্ধি ও ক্ষত মেরামতে প্রধানত কোন ধরনের কোষ বিভাজন ভূমিকা রাখে?",
     "options": [
-      "ইন্টারফেজ",
-      "মেটাফেজ",
-      "প্রোফেজ",
-      "অ্যানাফেজ"
+      "নিষেক",
+      "মাইটোসিস",
+      "মিয়োসিস",
+      "অ্যামাইটোসিস"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -303,14 +303,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q21",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "কোষ বিভাজনের কোন ধাপে ক্রোমোজোমগুলো সবচেয়ে বেশি খাটো ও মোটা দেখায়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— গ্যামেট তৈরির পূর্বে জনন মাতৃকোষে সাধারণত কোন বিভাজন ঘটে?",
     "options": [
-      "মেটাফেজ",
-      "টেলোফেজ",
-      "অ্যানাফেজ",
-      "প্রোফেজ"
+      "মিয়োসিস",
+      "মাইটোসিস",
+      "বাইনারি ফিশন",
+      "বাডিং"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -318,14 +318,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q22",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মিয়োসিস-১ ও মিয়োসিস-২-এর মধ্যে প্রধান পার্থক্য কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মাইটোসিসের কোন পর্যায়ে ক্রোমোজোমগুলো মোটা ও খাটো হয়ে দৃশ্যমান হয়?",
     "options": [
-      "মিয়োসিস-২-এ কোষ বিভাজন হয় না",
-      "মিয়োসিস-১-এ ক্রসিং ওভার ঘটে",
-      "মিয়োসিস-১-এ ক্রোমোজোম সংখ্যা অর্ধেক হয় না",
-      "মিয়োসিস-২-এ ক্রসিং ওভার ঘটে"
+      "মেটাফেজ",
+      "অ্যানাফেজ",
+      "টেলোফেজ",
+      "প্রোফেজ"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -333,14 +333,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q23",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মাইটোসিসে ক্রোমোজোম সংখ্যা কীরূপ থাকে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মাইটোসিসের কোন পর্যায়ে নিউক্লিয়ার মেমব্রেন বিলুপ্ত হতে শুরু করে?",
     "options": [
-      "দ্বিগুণ",
-      "অর্ধেক",
-      "শূন্য",
-      "অপরিবর্তিত"
+      "অ্যানাফেজ",
+      "সাইটোকাইনেসিস",
+      "প্রোফেজ",
+      "ইন্টারফেজ"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -348,14 +348,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q24",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "মিয়োসিস বিভাজনের ফলে কয়টি হ্যাপ্লয়েড কণিকা উৎপন্ন হয়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মাকুতন্ত্র বা spindle apparatus গঠনের সূচনা কোন পর্যায়ে হয়?",
     "options": [
-      "৮",
-      "৪",
-      "২",
-      "১"
+      "সাইটোকাইনেসিস",
+      "প্রোফেজ",
+      "টেলোফেজ",
+      "ইন্টারফেজ"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -363,14 +363,14 @@
     "id": "ssc-biology-chapter-03-model-test-03-q25",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-03-model-test-03",
-    "text": "ক্রসিং ওভার (Crossing Over) মিয়োসিস-১ এর কোন উপধাপে ঘটে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— ক্রোমোজোমগুলো বিষুবীয় সমতলে সারিবদ্ধ হয় কোন পর্যায়ে?",
     "options": [
-      "প্যাকাইটিন",
-      "জাইগোটিন",
-      "লেপটোটিন",
-      "ডিপ্লোটিন"
+      "মেটাফেজ",
+      "প্রোফেজ",
+      "অ্যানাফেজ",
+      "টেলোফেজ"
     ],
-    "image": "/images/quiz/bio-crossing-over.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   }

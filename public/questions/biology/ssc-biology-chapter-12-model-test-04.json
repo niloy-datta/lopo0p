@@ -3,12 +3,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q01",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "বংশগতি ও পরিবেশ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: একই ধরনের দুই অ্যালিল থাকলে জিনোটাইপকে কী বলা হয়?",
     "options": [
-      "শুধু খাদ্য",
-      "শুধু জিন",
-      "শুধু ব্যায়াম",
-      "উভয়ই গুরুত্বপূর্ণ"
+      "হেটারোজাইগাস",
+      "হ্যাপ্লয়েড",
+      "পলিপ্লয়েড",
+      "হোমোজাইগাস"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q02",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "DNA-এর ডাবল হেলিক্সের একটি পূর্ণ ঘূর্ণনে কয়টি নাইট্রোজেনাস বেস জোড়া থাকে?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: দুই ভিন্ন অ্যালিল থাকলে জিনোটাইপকে কী বলা হয়?",
     "options": [
-      "২০টি",
-      "৫টি",
-      "১৫টি",
-      "১০টি"
+      "হোমোলোগাস",
+      "হ্যাপ্লয়েড",
+      "হেটারোজাইগাস",
+      "হোমোজাইগাস"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q03",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "মেন্ডেলের বংশধর কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: মেন্ডেলের পৃথকীকরণ সূত্রে কী পৃথক হয়—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "সবুজ",
-      "হলুদ",
-      "গোল",
-      "ডাল"
+      "অস্থি",
+      "অ্যালিল জোড়া",
+      "রাইবোসোম",
+      "মাইটোকন্ড্রিয়া"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q04",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "বংশগত রোগ উদাহরণ কোনটি?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: একসংকর ক্রসে F₂ প্রজন্মের সাধারণ ফিনোটাইপিক অনুপাত কত?",
     "options": [
-      "স্কার্ভি",
-      "রিকেটস",
-      "হিমোফিলিয়া",
-      "বেরিবেরি"
+      "৩:১",
+      "১:১",
+      "১:২:১",
+      "৯:৩:৩:১"
     ],
     "image": null,
     "optionImages": null,
@@ -63,14 +63,14 @@
     "id": "ssc-biology-chapter-12-model-test-04-q05",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "উদ্দীপক: বিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান করেন। তার পরীক্ষার প্রধান উপাদান ছিল ক্রোমোজোমে অবস্থিত একটি বিশেষ অণু, যা দ্বিসূত্রক প্যাঁচানো সিঁড়ির মতো। উদ্দীপকে উল্লেখিত বিশেষ অণুটির নাম কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: মানুষের স্ত্রী sex chromosome কোনটি?",
     "options": [
-      "প্রোটিন",
-      "DNA",
-      "RNA",
-      "এনজাইম"
+      "XY",
+      "YY",
+      "XO",
+      "XX"
     ],
-    "image": "/images/quiz/premium/ssc-biology-chapter-12-model-test-04-q05.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -78,12 +78,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q06",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "মানবদেহের সাধারণ দেহকোষে কত জোড়া ক্রোমোজোম থাকে?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: মানুষের পুরুষ sex chromosome কোনটি—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "৪৬ জোড়া",
-      "২৩ জোড়া",
-      "২২ জোড়া",
-      "৪৪ জোড়া"
+      "YY",
+      "XXX",
+      "XY",
+      "XX"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q07",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "DNA প্রতিলিপি কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: DNA-তে স্থায়ী পরিবর্তনকে কী বলা হয়?",
     "options": [
-      "ট্রান্সক্রিপশন",
-      "ট্রান্সলেশন",
-      "রেপ্লিকেশন",
-      "মাইটোসিস"
+      "পরাগায়ন",
+      "মিউটেশন",
+      "নিষেক",
+      "ট্রান্সপিরেশন"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q08",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "DNA অণুর অ্যাডেনিনের পরিপূরক ক্ষারক (Base) কোনটি?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: একই প্রজাতির জীবের মধ্যে পার্থক্যকে কী বলা হয়?",
     "options": [
-      "ইউরাসিল",
-      "গুয়ানিন",
-      "সাইটোসিন",
-      "তায়ামিন"
+      "বৈচিত্র্য",
+      "অভিন্নতা",
+      "সমতা",
+      "নিষেক"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q09",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "রিসেসিভ অ্যালিল কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: প্রাকৃতিক নির্বাচনের তত্ত্বের সঙ্গে কে যুক্ত—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "সবসময় প্রকাশ",
-      "লুকিয়ে থাকে",
-      "DNA নষ্ট",
-      "RNA নষ্ট"
+      "গ্রেগর মেন্ডেল",
+      "ওয়াটসন",
+      "রবার্ট ব্রাউন",
+      "চার্লস ডারউইন"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q10",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "বিবর্তনের প্রমাণ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: অর্জিত বৈশিষ্ট্যের উত্তরাধিকারের তত্ত্বের সঙ্গে কে যুক্ত?",
     "options": [
-      "জীবাশ্ম",
-      "শুধু গণিত",
-      "শুধু কল্পনা",
-      "শুধু পদার্থ"
+      "মেন্ডেল",
+      "ক্রিক",
+      "ল্যামার্ক",
+      "ডারউইন"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q11",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "প্রোটিন সংশ্লেষণ ধাপ কোনটি?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: DNA নিজের অনুরূপ কপি তৈরির প্রক্রিয়াকে কী বলা হয়?",
     "options": [
-      "ট্রান্সলেশন",
+      "গ্লাইকোলাইসিস",
       "রেপ্লিকেশন",
-      "রেচন",
-      "মিয়োসিস"
+      "ট্রান্সলেশন",
+      "পরাগায়ন"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q12",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "মেন্ডেলের আইন কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বংশগতির কার্যকরী মৌলিক একক কী—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "শ্বাস",
-      "রেচন",
-      "পরিপাক",
-      "বিচ্ছেদ ও স্বতন্ত্র বিন্যাস"
+      "জিন",
+      "নেফ্রন",
+      "নিউরন",
+      "অ্যালভিওলাস"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q13",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "RNA-এর কাজ কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: জিন প্রধানত কোন গঠনে অবস্থান করে?",
     "options": [
-      "শক্তি উৎপাদন",
-      "রক্ত জমাট",
-      "পানি শোষণ",
-      "প্রোটিন সংশ্লেষণে"
+      "রাইবোসোমে",
+      "লাইসোজোমে",
+      "গলজি বডিতে",
+      "ক্রোমোজোমে"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q14",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "অ্যালিল কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বংশগত তথ্যের প্রধান রাসায়নিক বাহক কোন অণু?",
     "options": [
-      "জিনের বিকল্প রূপ",
-      "ক্রোমোজোম",
-      "RNA",
-      "প্রোটিন"
+      "গ্লুকোজ",
+      "লিপিড",
+      "DNA",
+      "ATP"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q15",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "বংশগতি বাহক কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: DNA-এর গঠনমূলক একক কী—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "অক্সিজেন",
-      "জিন",
-      "রক্ত",
-      "পানি"
+      "মনোস্যাকারাইড",
+      "নিউক্লিওটাইড",
+      "অ্যামিনো অ্যাসিড",
+      "ফ্যাটি অ্যাসিড"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q16",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "বিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান করেন। তার পরীক্ষার প্রধান উপাদান ছিল ক্রোমোজোমে অবস্থিত একটি বিশেষ অণু, যা দ্বিসূত্রক প্যাঁচানো সিঁড়ির মতো। উক্ত অণুটির গঠনে অ্যাডেনিনের (A) পরিপূরক ক্ষারক কোনটি?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: DNA-তে অ্যাডেনিনের পরিপূরক ক্ষারক কোনটি?",
     "options": [
-      "সাইটোসিন (C)",
-      "থায়ামিন (T)",
-      "ইউরাসিল (U)",
-      "গুয়ানিন (G)"
+      "থাইমিন",
+      "গুয়ানিন",
+      "সাইটোসিন",
+      "ইউরাসিল"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q17",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "ক্রোমোজোমে থাকে কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: DNA-তে গুয়ানিনের পরিপূরক ক্ষারক কোনটি?",
     "options": [
-      "শুধু শর্করা",
-      "শুধু RNA",
-      "শুধু লিপিড",
-      "DNA ও প্রোটিন"
+      "থাইমিন",
+      "অ্যাডেনিন",
+      "ইউরাসিল",
+      "সাইটোসিন"
     ],
     "image": null,
     "optionImages": null,
@@ -258,14 +258,14 @@
     "id": "ssc-biology-chapter-12-model-test-04-q18",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "DNA-এর ডাবল হেলিক্স (Double helix) মডেল আবিষ্কারের জন্য কারা নোবেল পুরস্কার পান?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: DNA অণুর সাধারণ গঠন কেমন—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "মেন্ডেল ও মরগান",
-      "রবার্ট হুক ও লিনিয়াস",
-      "ওয়াটসন ও ক্রিক",
-      "লুই পাস্তুর ও কখ"
+      "ট্রাইগ্লিসারাইড",
+      "সেলুলোজ প্রাচীর",
+      "ডাবল হেলিক্স",
+      "একক প্রোটিন শৃঙ্খল"
     ],
-    "image": "/images/quiz/bio-dna-helix.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -273,12 +273,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q19",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "ট্রান্সক্রিপশনে তৈরি কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: DNA-এর ডাবল হেলিক্স মডেলের সঙ্গে কারা সবচেয়ে বেশি যুক্ত?",
     "options": [
-      "mRNA",
-      "DNA",
-      "লিপিড",
-      "প্রোটিন"
+      "পাস্তুর ও লিস্টার",
+      "ওয়াটসন ও ক্রিক",
+      "মেন্ডেল ও ডারউইন",
+      "হুক ও হার্ভে"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q20",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "জৈব অভিব্যক্তি মানে কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: বংশগতিবিদ্যার জনক কে?",
     "options": [
-      "RNA নষ্ট",
-      "জিন প্রকাশ",
-      "DNA নষ্ট",
-      "প্রোটিন নষ্ট"
+      "গ্রেগর মেন্ডেল",
+      "চার্লস ডারউইন",
+      "ল্যামার্ক",
+      "রবার্ট হুক"
     ],
     "image": null,
     "optionImages": null,
@@ -303,14 +303,14 @@
     "id": "ssc-biology-chapter-12-model-test-04-q21",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "কোষ বিভাজনের কোন ধাপে ক্রোমোজোমগুলো সবচেয়ে বেশি খাটো ও মোটা দেখায়?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: মেন্ডেল কোন উদ্ভিদ নিয়ে বিখ্যাত পরীক্ষা করেন—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "মেটাফেজ",
-      "অ্যানাফেজ",
-      "টেলোফেজ",
-      "প্রোফেজ"
+      "ধান",
+      "গম",
+      "আম",
+      "মটরগাছ"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -318,12 +318,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q22",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "হেটেরোজাইগাস কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: যে অ্যালিল heterozygous অবস্থায় প্রকাশিত হয় তাকে কী বলা হয়?",
     "options": [
-      "কোনো অ্যালিল নেই",
-      "চার অ্যালিল",
-      "একই অ্যালিল",
-      "দুই ভিন্ন অ্যালিল"
+      "মিউট্যান্ট মাত্র",
+      "লিঙ্কড জিন",
+      "প্রকট অ্যালিল",
+      "প্রচ্ছন্ন অ্যালিল"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q23",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "হোমোজাইগাস কী?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: যে অ্যালিল heterozygous অবস্থায় প্রকাশ পায় না তাকে কী বলা হয়?",
     "options": [
-      "শূন্য",
-      "দুই ভিন্ন",
-      "একই অ্যালিল",
-      "তিন ভিন্ন"
+      "অ্যান্টিকোডন",
+      "প্রচ্ছন্ন অ্যালিল",
+      "প্রকট অ্যালিল",
+      "কোডন"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q24",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "টার্নার সিন্ড্রোম (Turner Syndrome) আক্রান্ত নারীর ক্রোমোজোম বিন্যাস কেমন হয়?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: কোনো জীবের জিনগত গঠনকে কী বলা হয়—সঠিক বিকল্পটি কোনটি?",
     "options": [
-      "45, XO",
-      "45, YO",
-      "47, XXY",
-      "47, XYY"
+      "জিনোটাইপ",
+      "ফিনোটাইপ",
+      "ক্যারিওপ্লাজম",
+      "মরফোজেন"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-biology-chapter-12-model-test-04-q25",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-12-model-test-04",
-    "text": "জীবের জিনগত বৈচিত্র্য বা ভ্যারিয়েশন (Variation) সৃষ্টিতে নিচের কোনটির ভূমিকা সবচেয়ে বেশি?",
+    "text": "একটি শ্রেণিকক্ষের আলোচনায় প্রশ্নটি উঠল: কোনো জীবের দৃশ্যমান/প্রকাশিত বৈশিষ্ট্যকে কী বলা হয়?",
     "options": [
-      "সাইটোকাইনেসিস",
-      "ক্রসিং ওভার",
-      "মাইটোসিস",
-      "অ্যামাইটোসিস"
+      "জিনোটাইপ",
+      "লোকাস",
+      "অ্যালিল",
+      "ফিনোটাইপ"
     ],
     "image": null,
     "optionImages": null,

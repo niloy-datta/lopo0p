@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: ফুসফুসকে যান্ত্রিক আঘাত থেকে রক্ষায় কোন অস্থিগুচ্ছ গুরুত্বপূর্ণ?",
+    "options": [
+      "কবজি",
+      "হাঁটুর প্যাটেলা",
+      "পাঁজর খাঁচা",
+      "শ্রোণিচক্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: মানুষের শ্বাসগ্রহণে বায়ু প্রথমে প্রধানত কোন পথে প্রবেশ করে?",
+    "options": [
+      "রেনাল ধমনি",
+      "নাসারন্ধ্র",
+      "ইউরেটার",
+      "খাদ্যনালি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: খাদ্য গিলবার সময় শ্বাসনালির মুখ বন্ধ রাখতে কোন গঠন সাহায্য করে?",
+    "options": [
+      "এপিগ্লটিস",
+      "অ্যালভিওলাস",
+      "ডায়াফ্রাম",
+      "প্লুরা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: ট্রাকিয়ার প্রাচীরকে ধসে পড়া থেকে রক্ষা করে প্রধানত কোন গঠন?",
+    "options": [
+      "ভিলাই",
+      "নেফ্রন",
+      "টেনডন",
+      "C-আকৃতির তরুণাস্থি বলয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: ট্রাকিয়া বিভক্ত হয়ে কোন দুটি প্রধান নালিতে পরিণত হয়?",
+    "options": [
+      "ক্যাপিলারি",
+      "ল্যাকটিয়াল",
+      "ব্রঙ্কাস",
+      "ইউরেটার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: ব্রঙ্কাসের ক্ষুদ্র শাখাগুলোকে কী বলা হয়?",
+    "options": [
+      "ভিলাস",
+      "ব্রঙ্কিওল",
+      "অ্যালভিওলাস",
+      "নেফ্রিডিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: ফুসফুসে গ্যাস বিনিময়ের প্রধান ক্ষুদ্র থলির নাম কী?",
+    "options": [
+      "অ্যালভিওলাস",
+      "নেফ্রন",
+      "গ্লোমেরুলাস",
+      "অ্যাক্সন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: অ্যালভিওলি ও কৈশিক রক্তনালির মধ্যে O₂ ও CO₂ বিনিময় প্রধানত কোন প্রক্রিয়ায় ঘটে?",
+    "options": [
+      "সক্রিয় পরিবহন",
+      "ফ্যাগোসাইটোসিস",
+      "পিনোসাইটোসিস",
+      "ব্যাপন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: রক্তে অধিকাংশ অক্সিজেন কোন রঞ্জকের সঙ্গে যুক্ত হয়ে পরিবাহিত হয়?",
+    "options": [
+      "কেরাটিন",
+      "ক্লোরোফিল",
+      "হিমোগ্লোবিন",
+      "মেলানিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: রক্তে কার্বন ডাই-অক্সাইডের বড় অংশ কোন রূপে পরিবাহিত হয়?",
+    "options": [
+      "ইউরিয়া",
+      "বাইকার্বনেট আয়ন",
+      "অক্সিহিমোগ্লোবিন",
+      "গ্লাইকোজেন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: শ্বাসগ্রহণের সময় ডায়াফ্রাম সাধারণত কী করে?",
+    "options": [
+      "সংকুচিত হয়ে নিচে নামে",
+      "শিথিল হয়ে ওপরে ওঠে",
+      "সম্পূর্ণ স্থির থাকে",
+      "ভেঙে যায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: শ্বাসত্যাগের সময় ডায়াফ্রাম সাধারণত কী করে?",
+    "options": [
+      "সংকুচিত হয়ে নিচে নামে",
+      "অ্যালভিওলিতে প্রবেশ করে",
+      "ব্রঙ্কাস বন্ধ করে",
+      "শিথিল হয়ে গম্বুজাকারে ওপরে ওঠে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: শ্বাস-প্রশ্বাসে পাঁজরের নড়াচড়ায় কোন পেশি গুরুত্বপূর্ণ?",
+    "options": [
+      "ট্রাইসেপস",
+      "গ্যাস্ট্রোকনিমিয়াস",
+      "ইন্টারকোস্টাল পেশি",
+      "বাইসেপস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: ব্যায়ামের সময় শ্বাসের হার সাধারণত কেন বাড়ে?",
+    "options": [
+      "হিমোগ্লোবিন নষ্ট হয়",
+      "কোষে O₂ চাহিদা ও CO₂ উৎপাদন বাড়ে",
+      "রক্তে O₂ দরকার হয় না",
+      "ফুসফুস ছোট হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: ধূমপান শ্বাসনালির কোন পরিষ্কারকারী গঠনকে ক্ষতিগ্রস্ত করতে পারে?",
+    "options": [
+      "সিলিয়া",
+      "ভিলাই",
+      "নেফ্রন",
+      "মাইক্রোভিলাই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: এমফাইসেমায় প্রধানত কোন গঠন ক্ষতিগ্রস্ত হয়?",
+    "options": [
+      "গ্লোমেরুলাস",
+      "অস্থিমজ্জা",
+      "পিত্তথলি",
+      "অ্যালভিওলির প্রাচীর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: অ্যাজমায় প্রধান সমস্যা কোনটি?",
+    "options": [
+      "অস্থি ভঙ্গুরতা",
+      "রক্তে প্লেটলেট বৃদ্ধি",
+      "শ্বাসনালির সংকোচন",
+      "কিডনির ফিল্টারেশন বৃদ্ধি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: নিউমোনিয়ায় সাধারণত কোন অংশের গ্যাস বিনিময় ব্যাহত হয়?",
+    "options": [
+      "অস্থিমজ্জা",
+      "অ্যালভিওলি",
+      "ইউরেটার",
+      "টেনডন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: উদ্ভিদের পাতায় প্রধান গ্যাস বিনিময় ছিদ্র কোনটি?",
+    "options": [
+      "স্টোমাটা",
+      "লেন্টিসেল মাত্র",
+      "জাইলেম",
+      "ফ্লোয়েম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: স্টোমাটার খোলা-বন্ধ নিয়ন্ত্রণ করে কোন কোষ?",
+    "options": [
+      "সঙ্গী কোষ",
+      "ট্রাকিড",
+      "স্ক্লেরেনকাইমা",
+      "রক্ষী কোষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: সালোকসংশ্লেষণের সময় পাতায় প্রধানত কোন গ্যাস প্রবেশ করে?",
+    "options": [
+      "N₂",
+      "H₂",
+      "CO₂",
+      "O₂"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: সালোকসংশ্লেষণের সময় সাধারণত কোন গ্যাস বাইরে নির্গত হয়?",
+    "options": [
+      "NH₃",
+      "O₂",
+      "CO₂",
+      "SO₂"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: কাষ্ঠল কাণ্ডে গ্যাস বিনিময়ে কোন গঠন সাহায্য করে?",
+    "options": [
+      "লেন্টিসেল",
+      "স্টোমাটা মাত্র",
+      "নেফ্রন",
+      "ভিলাই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: উদ্ভিদের মূল কোষ শ্বসনের জন্য O₂ প্রধানত কোথা থেকে পায়?",
+    "options": [
+      "জাইলেমের পানি থেকে সর্বদা",
+      "ক্লোরোফিল থেকে",
+      "বীজ থেকে",
+      "মাটির বায়ুফাঁক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-09-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-09",
+    "text": "শিক্ষক দ্রুত মূল্যায়নে জানতে চাইলেন: দক্ষ গ্যাস বিনিময় পৃষ্ঠের বৈশিষ্ট্য কোনটি?",
+    "options": [
+      "অভেদ্য",
+      "ক্যালসিয়ামযুক্ত",
+      "পাতলা ও আর্দ্র",
+      "পুরু ও শুষ্ক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

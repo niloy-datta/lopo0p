@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— কার্বনকে পরিবেশ ও জীবদেহের মধ্যে ঘুরিয়ে আনে কোন প্রক্রিয়াসমষ্টি?",
+    "options": [
+      "কার্বন চক্র",
+      "নাইট্রোজেন চক্র",
+      "জলচক্র",
+      "ফসফরাস মাত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— বায়ুমণ্ডলীয় নাইট্রোজেনকে ব্যবহারযোগ্য যৌগে রূপান্তরে কোন জীব গুরুত্বপূর্ণ?",
+    "options": [
+      "ভাইরাস",
+      "মানুষের RBC",
+      "প্রোটোজোয়া মাত্র",
+      "নাইট্রোজেন স্থিরকারী ব্যাকটেরিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— বাষ্পীভবন, ঘনীভবন ও বৃষ্টিপাত কোন চক্রের অংশ—সঠিক বিকল্পটি কোনটি?",
+    "options": [
+      "নাইট্রোজেন চক্র",
+      "অক্সিজেন চক্র মাত্র",
+      "জলচক্র",
+      "কার্বন চক্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— কোনো জীব যেখানে স্বাভাবিকভাবে বাস করে তাকে কী বলা হয়?",
+    "options": [
+      "ট্রফিক স্তর",
+      "বাসস্থান",
+      "জনসংখ্যা",
+      "কমিউনিটি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— একই প্রজাতির জীবের একটি নির্দিষ্ট এলাকার সমষ্টিকে কী বলা হয়?",
+    "options": [
+      "জনসংখ্যা",
+      "কমিউনিটি",
+      "বাস্তুতন্ত্র",
+      "বায়োম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— একই এলাকায় বিভিন্ন প্রজাতির জনসংখ্যার সমষ্টিকে কী বলা হয়—সঠিক বিকল্পটি কোনটি?",
+    "options": [
+      "জনসংখ্যা",
+      "কোষসমষ্টি",
+      "টিস্যু",
+      "কমিউনিটি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— জীববৈচিত্র্য বলতে কী বোঝায়?",
+    "options": [
+      "শুধু প্রাণীর সংখ্যা",
+      "একই প্রজাতির অভিন্নতা",
+      "জীবের বিভিন্নতা",
+      "শুধু উদ্ভিদের সংখ্যা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— বায়ুতে ক্ষতিকর পদার্থের মাত্রা বেড়ে যাওয়াকে কী বলা হয়?",
+    "options": [
+      "শব্দদূষণ",
+      "বায়ুদূষণ",
+      "জলদূষণ",
+      "মৃত্তিকাদূষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— নদী-হ্রদে শিল্পবর্জ্য ফেলা প্রধানত কোন দূষণ ঘটায়—সঠিক বিকল্পটি কোনটি?",
+    "options": [
+      "জলদূষণ",
+      "বায়ুদূষণ",
+      "শব্দদূষণ",
+      "আলোকদূষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— অতিরিক্ত রাসায়নিক ও বর্জ্যে মাটির গুণ নষ্ট হলে তাকে কী বলা হয়?",
+    "options": [
+      "জলদূষণ",
+      "বায়ুদূষণ",
+      "তাপদূষণ",
+      "মৃত্তিকাদূষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— অতিরিক্ত অনাকাঙ্ক্ষিত শব্দ কোন ধরনের দূষণ?",
+    "options": [
+      "বায়ুদূষণ",
+      "মৃত্তিকাদূষণ",
+      "শব্দদূষণ",
+      "জলদূষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— বৈশ্বিক উষ্ণায়নে গুরুত্বপূর্ণ গ্রিনহাউস গ্যাস কোনটি—সঠিক বিকল্পটি কোনটি?",
+    "options": [
+      "He",
+      "CO₂",
+      "O₂",
+      "N₂"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— ওজোন স্তর ক্ষয়ের সঙ্গে কোন যৌগগোষ্ঠী বিশেষভাবে যুক্ত?",
+    "options": [
+      "CFC",
+      "NaCl",
+      "গ্লুকোজ",
+      "প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— নিচের কোনটি নবায়নযোগ্য শক্তির উৎস?",
+    "options": [
+      "কয়লা",
+      "পেট্রোলিয়াম",
+      "প্রাকৃতিক গ্যাস",
+      "সৌরশক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— Reduce, Reuse, Recycle—এই নীতিকে সংক্ষেপে কী বলা হয়—সঠিক বিকল্পটি কোনটি?",
+    "options": [
+      "DNA",
+      "ATP",
+      "3R",
+      "3C"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— জীব ও তার জড় পরিবেশের পারস্পরিক সম্পর্কের কার্যকর একককে কী বলা হয়?",
+    "options": [
+      "অঙ্গ",
+      "বাস্তুতন্ত্র",
+      "কোষ",
+      "টিস্যু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— বাস্তুতন্ত্রের জীবিত উপাদানকে কী বলা হয়?",
+    "options": [
+      "জৈব উপাদান",
+      "অজৈব উপাদান",
+      "খনিজ উপাদান মাত্র",
+      "ভৌত শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— আলো, পানি ও তাপমাত্রা কোন ধরনের পরিবেশীয় উপাদান—সঠিক বিকল্পটি কোনটি?",
+    "options": [
+      "জৈব",
+      "উৎপাদক",
+      "খাদক",
+      "অজৈব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— সবুজ উদ্ভিদ বাস্তুতন্ত্রে কোন ভূমিকা পালন করে?",
+    "options": [
+      "দ্বিতীয় খাদক",
+      "পরজীবী",
+      "উৎপাদক",
+      "বিয়োজক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— তৃণভোজী প্রাণী সাধারণত কোন স্তরের খাদক?",
+    "options": [
+      "বিয়োজক",
+      "প্রথম স্তরের খাদক",
+      "দ্বিতীয় স্তরের খাদক",
+      "উৎপাদক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— মৃত জৈব পদার্থ ভেঙে সরল পদার্থে পরিণত করে কারা—সঠিক বিকল্পটি কোনটি?",
+    "options": [
+      "বিয়োজক",
+      "উৎপাদক",
+      "প্রাথমিক খাদক",
+      "পরাগবাহক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— খাদ্য ও শক্তি স্থানান্তরের সরল ধারাবাহিকতাকে কী বলা হয়?",
+    "options": [
+      "খাদ্যজাল",
+      "জনসংখ্যা",
+      "বাসস্থান",
+      "খাদ্যশৃঙ্খল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— বহু খাদ্যশৃঙ্খল পরস্পর যুক্ত হলে কী গঠিত হয়?",
+    "options": [
+      "একটি জিন",
+      "একটি টিস্যু",
+      "খাদ্যজাল",
+      "একটি কোষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— খাদ্যশৃঙ্খলে প্রতিটি খাদ্য অবস্থানকে কী বলা হয়—সঠিক বিকল্পটি কোনটি?",
+    "options": [
+      "নিউক্লিয়াস",
+      "ট্রফিক স্তর",
+      "জিনোটাইপ",
+      "ইকোটাইপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-07-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-07",
+    "text": "মডেল টেস্টের ধারণাভিত্তিক অংশে— বাস্তুতন্ত্রে শক্তি প্রবাহ সাধারণত কেমন?",
+    "options": [
+      "একমুখী",
+      "চক্রাকার সম্পূর্ণ",
+      "দ্বিমুখী সমান",
+      "স্থির"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -3,12 +3,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q01",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "একটি বাস্তুতন্ত্রে (Ecosystem) উৎপাদক থেকে সর্বোচ্চ খাদক পর্যন্ত শক্তি স্থানান্তরের সময় শক্তির পরিমাণ কীরূপ পরিবর্তিত হয়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বহু খাদ্যশৃঙ্খল পরস্পর যুক্ত হলে কী গঠিত হয়?",
     "options": [
-      "ধাপে ধাপে হ্রাস পায়",
-      "ধাপে ধাপে বৃদ্ধি পায়",
-      "প্রথমে কমে পরে বাড়ে",
-      "একই থাকে"
+      "খাদ্যজাল",
+      "একটি কোষ",
+      "একটি জিন",
+      "একটি টিস্যু"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q02",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "উন্মুক্ত সিস্টেমে সিস্টেম ও পরিবেশের মধ্যে আদান-প্রদান হয় কোনটি?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— খাদ্যশৃঙ্খলে প্রতিটি খাদ্য অবস্থানকে কী বলা হয়?",
     "options": [
-      "ভরবেগ ও শক্তি",
-      "ভর ও ভরবেগ",
-      "ভর ও চাপ",
-      "ভর ও শক্তি"
+      "জিনোটাইপ",
+      "ইকোটাইপ",
+      "নিউক্লিয়াস",
+      "ট্রফিক স্তর"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q03",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "বায়ুমণ্ডলে সবচেয়ে বেশি কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বাস্তুতন্ত্রে শক্তি প্রবাহ সাধারণত কেমন?",
     "options": [
-      "O₂",
-      "CO₂",
-      "Ar",
-      "N₂"
+      "দ্বিমুখী সমান",
+      "স্থির",
+      "একমুখী",
+      "চক্রাকার সম্পূর্ণ"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q04",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "অম্লবৃষ্টির কারণ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— কার্বনকে পরিবেশ ও জীবদেহের মধ্যে ঘুরিয়ে আনে কোন প্রক্রিয়াসমষ্টি?",
     "options": [
-      "SO₂ ও NOₓ",
-      "O₂",
-      "H₂",
-      "He"
+      "ফসফরাস মাত্র",
+      "কার্বন চক্র",
+      "নাইট্রোজেন চক্র",
+      "জলচক্র"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q05",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "৩R নীতি কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বায়ুমণ্ডলীয় নাইট্রোজেনকে ব্যবহারযোগ্য যৌগে রূপান্তরে কোন জীব গুরুত্বপূর্ণ?",
     "options": [
-      "Rain River Rock",
-      "Reduce Reuse Recycle",
-      "Run Rest Read",
-      "Red Rice Rose"
+      "নাইট্রোজেন স্থিরকারী ব্যাকটেরিয়া",
+      "ভাইরাস",
+      "মানুষের RBC",
+      "প্রোটোজোয়া মাত্র"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q06",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "মানব কার্যকলাপে কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বাষ্পীভবন, ঘনীভবন ও বৃষ্টিপাত কোন চক্রের অংশ?",
     "options": [
-      "বৃষ্টি বাড়ে",
-      "বন বাড়ে",
-      "O₂ বাড়ে",
-      "পরিবেশ দূষণ"
+      "কার্বন চক্র",
+      "নাইট্রোজেন চক্র",
+      "অক্সিজেন চক্র মাত্র",
+      "জলচক্র"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q07",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "বাস্তুতন্ত্রে কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— কোনো জীব যেখানে স্বাভাবিকভাবে বাস করে তাকে কী বলা হয়?",
     "options": [
-      "শুধু মানুষ",
-      "শুধু জীব",
-      "জীব ও অজীব",
-      "শুধু অজীব"
+      "কমিউনিটি",
+      "ট্রফিক স্তর",
+      "বাসস্থান",
+      "জনসংখ্যা"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q08",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "খাদ্য শৃঙ্খলে শক্তি কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— একই প্রজাতির জীবের একটি নির্দিষ্ট এলাকার সমষ্টিকে কী বলা হয়?",
     "options": [
-      "এক দিকে প্রবাহ",
-      "বিপরীত",
-      "চক্রাকারে",
-      "শূন্য"
+      "বায়োম",
+      "জনসংখ্যা",
+      "কমিউনিটি",
+      "বাস্তুতন্ত্র"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q09",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "পারিস্থিতিক তন্ত্রে উৎপাদক কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— একই এলাকায় বিভিন্ন প্রজাতির জনসংখ্যার সমষ্টিকে কী বলা হয়?",
     "options": [
-      "উদ্ভিদ",
-      "ছত্রাক",
-      "মানুষ",
-      "প্রাণী"
+      "কমিউনিটি",
+      "জনসংখ্যা",
+      "কোষসমষ্টি",
+      "টিস্যু"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q10",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "পারিস্থিতিক ভারসাম্য কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— জীববৈচিত্র্য বলতে কী বোঝায়?",
     "options": [
-      "শুধু জীব",
-      "জীব-অজীব সমতা",
-      "শুধু অজীব",
-      "শুধু মানুষ"
+      "শুধু উদ্ভিদের সংখ্যা",
+      "শুধু প্রাণীর সংখ্যা",
+      "একই প্রজাতির অভিন্নতা",
+      "জীবের বিভিন্নতা"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q11",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "বায়ু দূষণের কারণ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বায়ুতে ক্ষতিকর পদার্থের মাত্রা বেড়ে যাওয়াকে কী বলা হয়?",
     "options": [
-      "অক্সিজেন",
-      "সূর্যালোক",
-      "বৃষ্টি",
-      "যানবাহন ধোঁয়া"
+      "মৃত্তিকাদূষণ",
+      "শব্দদূষণ",
+      "বায়ুদূষণ",
+      "জলদূষণ"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q12",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "খাদ্য শৃঙ্খলে প্রথম স্তরে কোন জীব থাকে?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— নদী-হ্রদে শিল্পবর্জ্য ফেলা প্রধানত কোন দূষণ ঘটায়?",
     "options": [
-      "উৎপাদক (স্বয়ংখাদী)",
-      "প্রাথমিক ভোক্তা",
-      "পরভোক্তা",
-      "অপব্যাখ্যাকারী"
+      "আলোকদূষণ",
+      "জলদূষণ",
+      "বায়ুদূষণ",
+      "শব্দদূষণ"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q13",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "বন উজাড়ের ফল কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— অতিরিক্ত রাসায়নিক ও বর্জ্যে মাটির গুণ নষ্ট হলে তাকে কী বলা হয়?",
     "options": [
-      "বৃদ্ধি",
-      "বাস্তুতন্ত্র ধ্বংস",
-      "O₂ বাড়ে",
-      "বৃষ্টি বাড়ে"
+      "মৃত্তিকাদূষণ",
+      "জলদূষণ",
+      "বায়ুদূষণ",
+      "তাপদূষণ"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q14",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "মাটি দূষণের কারণ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— অতিরিক্ত অনাকাঙ্ক্ষিত শব্দ কোন ধরনের দূষণ?",
     "options": [
-      "রাসায়নিক সার",
-      "বৃষ্টি",
-      "অক্সিজেন",
-      "সূর্য"
+      "জলদূষণ",
+      "বায়ুদূষণ",
+      "মৃত্তিকাদূষণ",
+      "শব্দদূষণ"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q15",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "খাদ্য জালের শীর্ষ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বৈশ্বিক উষ্ণায়নে গুরুত্বপূর্ণ গ্রিনহাউস গ্যাস কোনটি?",
     "options": [
-      "ডিকম্পোজার",
-      "শিকারি",
-      "উৎপাদক",
-      "হার্বিভোর"
+      "N₂",
+      "He",
+      "CO₂",
+      "O₂"
     ],
     "image": null,
     "optionImages": null,
@@ -228,14 +228,14 @@
     "id": "ssc-biology-chapter-13-model-test-03-q16",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "উদ্দীপক: শিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্তি উৎপাদন করে এবং অপরটি (B) উদ্ভিদ কোষে খাদ্য তৈরিতে সাহায্য করে। জীবজগতে 'B' অঙ্গাণুটির (ক্লোরোপ্লাস্ট) ভূমিকা বিশ্লেষণ করলে দেখা যায়— i. এটি সৌরশক্তিকে রাসায়নিক শক্তিতে রূপান্তর করে ii. এটি প্রাণী কোষে শর্করা জাতীয় খাদ্য সঞ্চয় করে iii. এটি পরিবেশের O2 ও CO2 এর ভারসাম্য রক্ষায় সাহায্য করে নিচের কোনটি সঠিক?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— ওজোন স্তর ক্ষয়ের সঙ্গে কোন যৌগগোষ্ঠী বিশেষভাবে যুক্ত?",
     "options": [
-      "i ও iii",
-      "i, ii ও iii",
-      "ii ও iii",
-      "i ও ii"
+      "প্রোটিন",
+      "CFC",
+      "NaCl",
+      "গ্লুকোজ"
     ],
-    "image": "/images/quiz/premium/ssc-biology-chapter-13-model-test-03-q16.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -243,12 +243,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q17",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "খাদ্য শৃঙ্খল শুরু কোথায়?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— নিচের কোনটি নবায়নযোগ্য শক্তির উৎস?",
     "options": [
-      "ভোক্তা",
-      "অপব্যাখ্যাকারী",
-      "পরভোক্তা",
-      "উৎপাদক"
+      "সৌরশক্তি",
+      "কয়লা",
+      "পেট্রোলিয়াম",
+      "প্রাকৃতিক গ্যাস"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q18",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "জীববৈচিত্র্য কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— Reduce, Reuse, Recycle—এই নীতিকে সংক্ষেপে কী বলা হয়?",
     "options": [
-      "জীবের বৈচিত্র্য",
-      "শুধু উদ্ভিদ",
-      "শুধু প্রাণী",
-      "শুধু মানুষ"
+      "3C",
+      "DNA",
+      "ATP",
+      "3R"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q19",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "গ্রিনহাউস গ্যাস কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— জীব ও তার জড় পরিবেশের পারস্পরিক সম্পর্কের কার্যকর একককে কী বলা হয়?",
     "options": [
-      "N₂",
-      "O₂",
-      "CO₂",
-      "He"
+      "টিস্যু",
+      "অঙ্গ",
+      "বাস্তুতন্ত্র",
+      "কোষ"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q20",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "৩R নীতির R তিনটি কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— বাস্তুতন্ত্রের জীবিত উপাদানকে কী বলা হয়?",
     "options": [
-      "Rain, River, Rock",
-      "Red, Rice, Rose",
-      "Run, Rest, Read",
-      "Reduce, Reuse, Recycle"
+      "ভৌত শক্তি",
+      "জৈব উপাদান",
+      "অজৈব উপাদান",
+      "খনিজ উপাদান মাত্র"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q21",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "জীববৈচিত্র্য রক্ষায় কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— আলো, পানি ও তাপমাত্রা কোন ধরনের পরিবেশীয় উপাদান?",
     "options": [
-      "বন উজাড়",
-      "দূষণ",
-      "বন সংরক্ষণ",
-      "প্লাস্টিক"
+      "অজৈব",
+      "জৈব",
+      "উৎপাদক",
+      "খাদক"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q22",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "পরভোক্তা কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— সবুজ উদ্ভিদ বাস্তুতন্ত্রে কোন ভূমিকা পালন করে?",
     "options": [
-      "শুধু উৎপাদক",
-      "শুধু মৃত",
-      "শুধু পানি",
-      "উভয় উৎপাদক ও ভোক্তা খায়"
+      "বিয়োজক",
+      "দ্বিতীয় খাদক",
+      "পরজীবী",
+      "উৎপাদক"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q23",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "একটি পুকুরের বাস্তুতন্ত্রে ব্যাঙ সাধারণত কোন স্তরের খাদক?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— তৃণভোজী প্রাণী সাধারণত কোন স্তরের খাদক?",
     "options": [
-      "সর্বোচ্চ স্তরের খাদক",
-      "দ্বিতীয় স্তরের খাদক",
+      "উৎপাদক",
+      "বিয়োজক",
       "প্রথম স্তরের খাদক",
-      "উৎপাদক"
+      "দ্বিতীয় স্তরের খাদক"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q24",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "ডিকম্পোজারের কাজ কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— মৃত জৈব পদার্থ ভেঙে সরল পদার্থে পরিণত করে কারা?",
     "options": [
-      "মৃত জৈব পদার্থ পচানো",
-      "শ্বাস",
-      "রেচন",
-      "সালোকসংশ্লেষণ"
+      "পরাগবাহক",
+      "বিয়োজক",
+      "উৎপাদক",
+      "প্রাথমিক খাদক"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-biology-chapter-13-model-test-03-q25",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-13-model-test-03",
-    "text": "ওজোন স্তর ক্ষতি কী?",
+    "text": "বোর্ড প্রস্তুতির একটি অনুশীলনে— খাদ্য ও শক্তি স্থানান্তরের সরল ধারাবাহিকতাকে কী বলা হয়?",
     "options": [
-      "CO₂",
-      "CFC",
-      "N₂",
-      "O₂"
+      "খাদ্যশৃঙ্খল",
+      "খাদ্যজাল",
+      "জনসংখ্যা",
+      "বাসস্থান"
     ],
     "image": null,
     "optionImages": null,

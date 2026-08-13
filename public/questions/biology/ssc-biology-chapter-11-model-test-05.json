@@ -3,14 +3,14 @@
     "id": "ssc-biology-chapter-11-model-test-05-q01",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "মাইটোসিসে বৃদ্ধি কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— নারীর প্রধান জনন অঙ্গ কোনটি?",
     "options": [
-      "সোমাটিক কোষ",
-      "জাইগোট",
-      "গ্যামেট",
-      "স্পোর"
+      "যোনি",
+      "মূত্রথলি",
+      "ডিম্বাশয়",
+      "জরায়ু মাত্র"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -18,12 +18,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q02",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "জাইগোটে ক্রোমোজোম কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— মানুষের নিষেক সাধারণত কোথায় ঘটে?",
     "options": [
-      "0",
-      "4n",
-      "n",
-      "২n"
+      "যোনি",
+      "ফ্যালোপিয়ান টিউব",
+      "জরায়ু",
+      "ডিম্বাশয়"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q03",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "সেক্সুয়াল প্রজননের সুবিধা কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— শুক্রাণু ও ডিম্বাণুর মিলনে প্রথম যে কোষ তৈরি হয় তার নাম কী?",
     "options": [
-      "একরূপতা",
-      "বৈচিত্র্য",
-      "ক্লোন",
-      "দ্রুত বৃদ্ধি"
+      "জাইগোট",
+      "ভ্রূণ",
+      "গ্যামেট",
+      "প্লাসেন্টা"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q04",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "প্রজনন অঙ্গ কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— মানুষে সাধারণত স্ত্রী ও পুরুষের sex chromosome যথাক্রমে কোনটি—কোন উত্তরটি সবচেয়ে যথাযথ?",
     "options": [
-      "লিভার",
-      "অস্থি",
-      "ফুসফুস",
-      "গোনাড"
+      "XY ও XX",
+      "XX ও XX",
+      "XY ও XY",
+      "XX ও XY"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q05",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "মানবে স্ত্রী গ্যামেট কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— একটি জীব থেকে গ্যামেটের মিলন ছাড়াই নতুন জীব সৃষ্টি হলে তাকে কী বলে?",
     "options": [
-      "স্পোর",
-      "শুক্রাণু",
-      "বীজ",
-      "ডিম্বাণু"
+      "নিষেক",
+      "পরাগায়ন",
+      "অযৌন প্রজনন",
+      "যৌন প্রজনন"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q06",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "উদ্ভিদে বীজ গঠন কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— অ্যামিবার অযৌন প্রজননের সাধারণ পদ্ধতি কোনটি?",
     "options": [
-      "শ্বসনে",
-      "নিষেকের পর",
-      "মাইটোসিসে",
-      "রেচনে"
+      "পরাগায়ন",
+      "দ্বিবিভাজন",
+      "বাডিং",
+      "স্পোরুলেশন মাত্র"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q07",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "অ্যাসেক্সুয়াল প্রজনন কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— ইস্টে অযৌন প্রজননের পরিচিত পদ্ধতি কোনটি?",
     "options": [
-      "দুই অভিভাবক",
-      "মিয়োসিস",
-      "ক্রসিং",
-      "এক অভিভাবক"
+      "কুঁড়ি সৃষ্টি বা budding",
+      "দ্বিনিষেক",
+      "সংযোজন",
+      "পরাগায়ন"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q08",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "উদ্ভিদে স্ব-পরাগায়ন কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— উদ্ভিদের কাণ্ড/মূল/পাতা থেকে নতুন উদ্ভিদ সৃষ্টিকে কী বলা হয়—কোন উত্তরটি সবচেয়ে যথাযথ?",
     "options": [
-      "দূর ফুলে",
-      "পানিতে",
-      "এক ফুলে",
-      "বাতাসে"
+      "যৌন প্রজনন",
+      "মিয়োসিস",
+      "নিষেক",
+      "অঙ্গজ প্রজনন"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q09",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "XX ক্রোমোজোমযুক্ত ভ্রূণের লিঙ্গ কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— দুই ভিন্ন গ্যামেটের মিলনের মাধ্যমে নতুন জীব সৃষ্টিকে কী বলা হয়?",
     "options": [
-      "পুরুষ",
-      "স্ত্রী",
-      "অনির্ধারিত",
-      "উভয়"
+      "বাডিং",
+      "দ্বিবিভাজন",
+      "যৌন প্রজনন",
+      "অযৌন প্রজনন"
     ],
     "image": null,
     "optionImages": null,
@@ -138,14 +138,14 @@
     "id": "ssc-biology-chapter-11-model-test-05-q10",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "কোন উদ্ভিদটি আবৃতবীজী (Angiosperm) কিন্তু এর জাইলেমে প্রকৃত ভেসেল কোষ থাকে না?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— সপুষ্পক উদ্ভিদের যৌন প্রজনন অঙ্গ কোনটি?",
     "options": [
-      "পাইনাস",
-      "ধান",
-      "স্পাইরোগাইরা",
-      "উইন্টারসি (Winteraceae) গোত্রের উদ্ভিদ"
+      "পাতা",
+      "ফুল",
+      "মূল",
+      "কাণ্ড"
     ],
-    "image": "/images/quiz/bio-xylem-phloem.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -153,14 +153,14 @@
     "id": "ssc-biology-chapter-11-model-test-05-q11",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "মিয়োসিসে সৃষ্টি কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— ফুলের পুংজনন অংশ কোনটি?",
     "options": [
-      "সোমাটিক কোষ",
-      "অঙ্গ",
-      "টিস্যু",
-      "গ্যামেট"
+      "পুংকেশর",
+      "গর্ভকেশর",
+      "বৃতি",
+      "পাপড়ি"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -168,12 +168,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q12",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "মানবে গর্ভাবস্থা কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— পরাগরেণু কোথায় তৈরি হয়—কোন উত্তরটি সবচেয়ে যথাযথ?",
     "options": [
-      "৫২ সপ্তাহ",
-      "৩৮-৪০ সপ্তাহ",
-      "২০ সপ্তাহ",
-      "১০ সপ্তাহ"
+      "গর্ভাশয়",
+      "গর্ভমুণ্ড",
+      "ডিম্বক",
+      "পরাগধানী"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q13",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "নিষেকের ফল কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— ফুলের স্ত্রীজনন অংশকে কী বলা হয়?",
     "options": [
-      "জাইগোট",
-      "বীজ",
-      "মূল",
-      "স্পোর"
+      "বৃতি",
+      "পাপড়ি",
+      "গর্ভকেশর",
+      "পুংকেশর"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q14",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "মানব ভ্রূণ বিকাশ কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— পরাগরেণু গ্রহণ করে গর্ভকেশরের কোন অংশ?",
     "options": [
-      "গর্ভাশয়ে",
-      "ফুসফুসে",
-      "পাকস্থলীতে",
-      "কিডনিতে"
+      "ডিম্বক",
+      "গর্ভমুণ্ড",
+      "গর্ভদণ্ড",
+      "গর্ভাশয়"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q15",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "সপুষ্পক উদ্ভিদে যৌন প্রজননের সঠিক পর্যায়ক্রম কোনটি?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— গর্ভমুণ্ড ও গর্ভাশয়কে যুক্ত করে কোন অংশ?",
     "options": [
-      "জাইগোট গঠন → পরাগায়ন → নিষেক → পরাগনালির বৃদ্ধি",
-      "পরাগনালির বৃদ্ধি → পরাগায়ন → জাইগোট গঠন → নিষেক",
-      "নিষেক → পরাগায়ন → পরাগনালির বৃদ্ধি → জাইগোট গঠন",
-      "পরাগায়ন → পরাগনালির বৃদ্ধি → নিষেক → জাইগোট গঠন"
+      "গর্ভদণ্ড",
+      "পরাগধানী",
+      "ফিলামেন্ট",
+      "বৃতি"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q16",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "মানব পুরুষে শুক্রাণু কোথায় তৈরি হয়?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— ডিম্বক কোন অংশের ভেতরে থাকে—কোন উত্তরটি সবচেয়ে যথাযথ?",
     "options": [
-      "যকৃতে",
-      "অণ্ডকে",
-      "ডিম্বাশয়ে",
-      "অগ্ন্যাশয়ে"
+      "পরাগধানী",
+      "গর্ভমুণ্ড",
+      "পাপড়ি",
+      "গর্ভাশয়"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q17",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "নিচের কোনটি নগ্নবীজী (Gymnosperm) উদ্ভিদের বৈশিষ্ট্য নয়?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— পরাগধানী থেকে গর্ভমুণ্ডে পরাগরেণু স্থানান্তরকে কী বলা হয়?",
     "options": [
-      "গর্ভাশয় অনুপস্থিত",
-      "বীজ নগ্ন অবস্থায় থাকে",
-      "ফল উৎপন্ন হয় না",
-      "দ্বিনিষেক ঘটে"
+      "অঙ্কুরোদগম",
+      "বাডিং",
+      "পরাগায়ন",
+      "নিষেক"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q18",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "পুংফুলের অংশ কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— একই ফুল বা একই উদ্ভিদের ফুলের মধ্যে পরাগায়নকে কী বলা হয়?",
     "options": [
-      "বীপণী",
-      "ভ্রূণপত্র",
-      "পরাগধানী",
-      "গর্ভমুণ্ড"
+      "বাডিং",
+      "স্ব-পরাগায়ন",
+      "পর-পরাগায়ন",
+      "দ্বিনিষেক"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q19",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "পর-পরাগায়ন সুবিধা কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— এক উদ্ভিদ থেকে একই প্রজাতির অন্য উদ্ভিদে পরাগ স্থানান্তরকে কী বলা হয়?",
     "options": [
-      "বৈচিত্র্য",
-      "একরূপ",
-      "দ্রুত",
-      "ক্লোন"
+      "পর-পরাগায়ন",
+      "স্ব-পরাগায়ন",
+      "অঙ্গজ প্রজনন",
+      "দ্বিবিভাজন"
     ],
     "image": null,
     "optionImages": null,
@@ -288,14 +288,14 @@
     "id": "ssc-biology-chapter-11-model-test-05-q20",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "মিয়োসিস কোথায়?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— পুরুষ ও স্ত্রী গ্যামেটের মিলনকে কী বলা হয়—কোন উত্তরটি সবচেয়ে যথাযথ?",
     "options": [
-      "ত্বকে",
-      "গোনাডে",
-      "ফুসফুসে",
-      "পাকস্থলীতে"
+      "পরাগায়ন",
+      "অঙ্কুরোদগম",
+      "বৃদ্ধি",
+      "নিষেক"
     ],
-    "image": "/images/quiz/cell-division.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -303,12 +303,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q21",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "নিচের কোনটি জলপরাগী উদ্ভিদ?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— সপুষ্পক উদ্ভিদের বিশেষ বৈশিষ্ট্য কোনটি?",
     "options": [
-      "কদম",
-      "পাতাঝাঁঝি",
-      "সরিষা",
-      "শিমুল"
+      "বাডিং মাত্র",
+      "কোনো নিষেক নয়",
+      "দ্বিনিষেক",
+      "বাইনারি ফিশন"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q22",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "মানবে পুরুষ গ্যামেট কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— নিষেকের পর ডিম্বক সাধারণত কীতে পরিণত হয়?",
     "options": [
-      "জাইগোট",
-      "শুক্রাণু",
-      "ডিম্বাণু",
-      "ভ্রূণ"
+      "বৃতি",
+      "বীজ",
+      "ফল",
+      "পাপড়ি"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q23",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "উদ্ভিদে অ্যাসেক্সুয়াল কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— নিষেকের পর গর্ভাশয় সাধারণত কীতে পরিণত হয়?",
     "options": [
-      "নিষেক",
-      "কলম",
-      "জাইগোট",
-      "মিয়োসিস"
+      "ফল",
+      "বীজ",
+      "পরাগরেণু",
+      "মূল"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q24",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "বীজের অংশ কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— বীজ অঙ্কুরোদগমের জন্য কোনটি সাধারণত অপরিহার্য—কোন উত্তরটি সবচেয়ে যথাযথ?",
     "options": [
-      "পরাগ",
-      "ভ্রূণ ও বীজপত্র",
-      "গর্ভমুণ্ড",
-      "পরাগধানী"
+      "শুধু আলো",
+      "শুধু সার",
+      "শুধু CO₂",
+      "পানি, অক্সিজেন ও উপযুক্ত তাপমাত্রা"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-biology-chapter-11-model-test-05-q25",
     "subject": "biology",
     "chapter": "ssc-biology-chapter-11-model-test-05",
-    "text": "স্ত্রীফুলের অংশ কী?",
+    "text": "একজন শিক্ষার্থী ধারণাটি যাচাই করতে চাইল— পুরুষের প্রধান জনন অঙ্গ কোনটি?",
     "options": [
-      "গর্ভপত্র",
-      "পরাগধানী",
-      "বীজ",
-      "পরাগ"
+      "ইউরেটার",
+      "মূত্রথলি",
+      "অণ্ডকোষ",
+      "প্রোস্টেট"
     ],
     "image": null,
     "optionImages": null,
