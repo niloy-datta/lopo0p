@@ -1,0 +1,90 @@
+{
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q01": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q02": {
+    "correctOption": "90 Volt",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q03": {
+    "correctOption": "1.5 V",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q04": {
+    "correctOption": "জুল",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q05": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q06": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q07": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q08": {
+    "correctOption": "1 \\mu F",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q09": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q10": {
+    "correctOption": "33.33%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q11": {
+    "correctOption": "ফ্যারাড",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q12": {
+    "correctOption": "1:9",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q13": {
+    "correctOption": "E শূন্য, V পৃষ্ঠের সমান (ধ্রুবক)",
+    "explanation": "চার্জ গোলকের বাইরের পৃষ্ঠে থাকে। ভেতরে E=0, তাই V = constant (পৃষ্ঠের বিভবের সমান)।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q14": {
+    "correctOption": "V = E − Ir",
+    "explanation": "ব্যাটারি কারেন্ট সরবরাহ করলে V = E − Ir হয়, কিন্তু ব্যাটারি চার্জ করার সময় V = E + Ir হয়।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q15": {
+    "correctOption": "ভোল্টমিটার",
+    "explanation": "ভোল্টমিটার বিভব পার্থক্য পরিমাপ করতে ব্যবহৃত হয়।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q16": {
+    "correctOption": "U = ½ CV²",
+    "explanation": "ধারকের সঞ্চিত শক্তি U = ½ CV² = ½ QV = Q²/(2C)"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q17": {
+    "correctOption": "\\frac{1}{\\gamma}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q18": {
+    "correctOption": "3.6 \\times 10^6 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q19": {
+    "correctOption": "6 \\times 10^4 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q20": {
+    "correctOption": "-0.2857",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q21": {
+    "correctOption": "\\frac{14}{3} m^3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-01-q22": {
+    "correctOption": "3:5",
+    "explanation": ""
+  }
+}

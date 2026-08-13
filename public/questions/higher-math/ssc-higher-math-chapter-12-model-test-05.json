@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=2i+3j, b=4i+6j হলে a ও b-এর দিক কেমন?",
+    "options": [
+      "একই দিক",
+      "বিপরীত দিক",
+      "লম্ব দিক",
+      "নির্দিষ্ট নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=2i+3j, b=-4i-6j হলে a ও b-এর দিক কেমন?",
+    "options": [
+      "বিপরীত দিক",
+      "একই দিক",
+      "লম্ব দিক",
+      "সমান দিক ও মান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=3i+4j হলে কোন ভেক্টরটি a-এর সমান্তরাল?",
+    "options": [
+      "6i+8j",
+      "4i+3j",
+      "3i-4j",
+      "i+4j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=5i-2j হলে কোন ভেক্টরটি a-এর বিপরীতমুখী সমান্তরাল?",
+    "options": [
+      "-10i+4j",
+      "10i-4j",
+      "5i+2j",
+      "-5i-2j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=4i+3j হলে |a| কত?",
+    "options": [
+      "5",
+      "7",
+      "1",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=4i+3j হলে 3a-এর মান কত?",
+    "options": [
+      "15",
+      "5",
+      "10",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=4i+3j হলে -2a-এর মান কত?",
+    "options": [
+      "10",
+      "-10",
+      "5",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "A(1, 1), B(4, 5), C(7, 9) হলে AB ও BC ভেক্টরের সম্পর্ক কী?",
+    "options": [
+      "AB=BC",
+      "AB=-BC",
+      "AB=2BC",
+      "BC=2AB"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "A(0,0), B(2,3), C(6,9) হলে AB ও AC ভেক্টরের সম্পর্ক কী?",
+    "options": [
+      "AC=3AB",
+      "AB=3AC",
+      "AC=-3AB",
+      "AB=AC"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "A(0,0), B(2,3), C(-4,-6) হলে AC ও AB-এর সম্পর্ক কী?",
+    "options": [
+      "AC=-2AB",
+      "AC=2AB",
+      "AB=-2AC",
+      "AB=AC"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "A(3, 4) বিন্দুর অবস্থান ভেক্টর ও O(0,0) থেকে A পর্যন্ত দূরত্ব কত?",
+    "options": [
+      "3i+4j, 5",
+      "4i+3j, 5",
+      "3i+4j, 7",
+      "-3i-4j, 5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "A(-5, 12) বিন্দুর অবস্থান ভেক্টর ও তার মান কোনটি?",
+    "options": [
+      "-5i+12j, 13",
+      "5i-12j, 13",
+      "-5i+12j, 17",
+      "12i-5j, 13"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=2i+3j, b=4i+6j, c=-6i-9j হলে a+b+c কত?",
+    "options": [
+      "0i+0j",
+      "6i+9j",
+      "-6i-9j",
+      "12i+18j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=i+2j, b=2i+j, c=-3i-3j হলে a+b+c কত?",
+    "options": [
+      "0i+0j",
+      "3i+3j",
+      "-3i-3j",
+      "i+j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=3i+4j হলে কোনটি a-এর একই দিকে 10 মানবিশিষ্ট ভেক্টর?",
+    "options": [
+      "6i+8j",
+      "3i+4j",
+      "10i+10j",
+      "8i+6j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=5i+12j হলে কোনটি a-এর একই দিকে 26 মানবিশিষ্ট ভেক্টর?",
+    "options": [
+      "10i+24j",
+      "5i+12j",
+      "24i+10j",
+      "26i+26j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=3i+4j হলে কোনটি a-এর বিপরীত দিকে 10 মানবিশিষ্ট ভেক্টর?",
+    "options": [
+      "-6i-8j",
+      "6i+8j",
+      "-3i-4j",
+      "8i+6j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=2i+3j হলে কোনটি a-এর বিপরীত ভেক্টর?",
+    "options": [
+      "-2i-3j",
+      "2i-3j",
+      "-2i+3j",
+      "3i+2j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=7i-24j হলে a-এর বিপরীত ভেক্টরের মান কত?",
+    "options": [
+      "25",
+      "-25",
+      "31",
+      "17"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=0i+5j হলে a-এর দিক কোন অক্ষ বরাবর?",
+    "options": [
+      "ধনাত্মক y-অক্ষ",
+      "ধনাত্মক x-অক্ষ",
+      "ঋণাত্মক y-অক্ষ",
+      "ঋণাত্মক x-অক্ষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=-6i+0j হলে a-এর দিক কোন অক্ষ বরাবর?",
+    "options": [
+      "ঋণাত্মক x-অক্ষ",
+      "ধনাত্মক x-অক্ষ",
+      "ধনাত্মক y-অক্ষ",
+      "ঋণাত্মক y-অক্ষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=5i এবং b=-5i হলে a+b কত?",
+    "options": [
+      "0i+0j",
+      "10i",
+      "-10i",
+      "5i"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=3j এবং b=4i হলে a+b কোনটি?",
+    "options": [
+      "4i+3j",
+      "3i+4j",
+      "7ij",
+      "i+j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=4i+3j হলে a-এর উপাংশদ্বয় কোনটি?",
+    "options": [
+      "4 ও 3",
+      "3 ও 4",
+      "4i ও 3j নয়",
+      "7 ও 1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-05-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-05",
+    "text": "a=-2i+7j হলে x-উপাংশ ও y-উপাংশ যথাক্রমে কত?",
+    "options": [
+      "-2 ও 7",
+      "2 ও -7",
+      "7 ও -2",
+      "-7 ও 2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

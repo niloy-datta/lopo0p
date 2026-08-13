@@ -1,0 +1,102 @@
+{
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q01": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q02": {
+    "correctOption": "শূন্য",
+    "explanation": "F = qvB sinθ। সমান্তরালে চললে θ = 0°, তাই sin 0° = 0, ফলে বল শূন্য।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q03": {
+    "correctOption": "টরয়েডের কোর এর বাইরের ব্যাসার্ধ",
+    "explanation": "টরয়েডের ভেতরে B = μ₀nI, যা কোরের ব্যাসার্ধের ওপর নির্ভর করে না।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q04": {
+    "correctOption": "দ্রুতগামী ইলেকট্রন",
+    "explanation": "β⁻ কণা হলো দ্রুতগামী ইলেকট্রন। α কণা হিলিয়াম নিউক্লিয়াস, γ রশ্মি তড়িৎচুম্বকীয় তরঙ্গ।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q05": {
+    "correctOption": "হেনরি (Henry)",
+    "explanation": "ইন্ডাকট্যান্সের একক হেনরি (H)। ওয়েবার চৌম্বক ফ্লাক্সের, টেসলা চৌম্বকক্ষেত্রের, ফ্যারাড ধারকত্বের একক।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q06": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q07": {
+    "correctOption": "\\frac{1}{\\gamma}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q08": {
+    "correctOption": "3.6 \\times 10^6 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q09": {
+    "correctOption": "6 \\times 10^4 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q10": {
+    "correctOption": "90 Volt",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q11": {
+    "correctOption": "-0.2857",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q12": {
+    "correctOption": "\\frac{14}{3} m^3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q13": {
+    "correctOption": "3:5",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q14": {
+    "correctOption": "σ/ε₀",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q15": {
+    "correctOption": "1.32 \\times 10^8 ms^{-1}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q16": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q17": {
+    "correctOption": "1.5 V",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q18": {
+    "correctOption": "(√3/2) m₀c²",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q19": {
+    "correctOption": "230.4 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q20": {
+    "correctOption": "নিউট্রন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q21": {
+    "correctOption": "83",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q22": {
+    "correctOption": "5.6 fm",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q23": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q24": {
+    "correctOption": "10⁻⁴ Ωm",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-01-q25": {
+    "correctOption": "জুল",
+    "explanation": ""
+  }
+}

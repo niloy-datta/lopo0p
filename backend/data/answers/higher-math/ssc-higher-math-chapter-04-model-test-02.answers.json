@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-04-model-test-02-q01": {
+    "correctOption": "কম্পাস",
+    "explanation": "কম্পাস দিয়ে প্রদত্ত রেখাংশের দৈর্ঘ্য নিয়ে অন্য স্থানে একই দৈর্ঘ্যের রেখাংশ আঁকা যায়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q02": {
+    "correctOption": "চাপ ও জ্যার দূরত্ব",
+    "explanation": "প্রদত্ত কোণের সমান কোণ আঁকতে একই ব্যাসার্ধে চাপ কেটে জ্যার দূরত্ব স্থানান্তর করা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q03": {
+    "correctOption": "সমবাহু ত্রিভুজ",
+    "explanation": "সমবাহু ত্রিভুজের প্রতিটি কোণ $60^\\circ$। তাই এটি দিয়ে $60^\\circ$ কোণ নির্মাণ করা যায়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q04": {
+    "correctOption": "$45^\\circ$",
+    "explanation": "কোণসমদ্বিখণ্ডক $90^\\circ$ কোণকে দুইটি $45^\\circ$ কোণে ভাগ করে।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q05": {
+    "correctOption": "$30^\\circ$",
+    "explanation": "$60^\\circ$-এর অর্ধেক $30^\\circ$।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q06": {
+    "correctOption": "সমকোণ",
+    "explanation": "সরলকোণ $180^\\circ$। এর অর্ধেক $90^\\circ$, অর্থাৎ সমকোণ।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q07": {
+    "correctOption": "সহায়ক রশ্মিতে সমান দূরত্ব চিহ্নিত করে সমান্তরাল রেখা আঁকা",
+    "explanation": "রেখাংশকে সমান ভাগে ভাগ করতে সহায়ক রশ্মিতে সমান অংশ নিয়ে শেষ বিন্দু যুক্ত করে সমান্তরাল রেখা টানা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q08": {
+    "correctOption": "SSS",
+    "explanation": "তিনটি বাহুর দৈর্ঘ্য দেওয়া আছে, তাই SSS পদ্ধতি।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q09": {
+    "correctOption": "SAS",
+    "explanation": "দুই বাহু ও অন্তর্ভুক্ত কোণ দেওয়া থাকলে SAS পদ্ধতি ব্যবহার হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q10": {
+    "correctOption": "$60^\\circ$",
+    "explanation": "ত্রিভুজের কোণসমষ্টি $180^\\circ$। তাই তৃতীয় কোণ = $180^\\circ-40^\\circ-80^\\circ=60^\\circ$।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q11": {
+    "correctOption": "ত্রিভুজ সম্ভব নয়",
+    "explanation": "3+4=7, যা 8-এর চেয়ে ছোট। তাই ত্রিভুজ সম্ভব নয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q12": {
+    "correctOption": "7 cm ও 7 cm",
+    "explanation": "সমবাহু ত্রিভুজে তিনটি বাহুই সমান। তাই বাকি দুই বাহুও 7 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q13": {
+    "correctOption": "SSS",
+    "explanation": "এখানে তিন বাহুর দৈর্ঘ্য জানা আছে: 6 cm, 5 cm, 5 cm। তাই SSS পদ্ধতি।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q14": {
+    "correctOption": "RHS",
+    "explanation": "সমকোণ, অতিভুজ ও একটি বাহু দেওয়া থাকলে RHS construction প্রযোজ্য।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q15": {
+    "correctOption": "লম্বদ্বিখণ্ডক",
+    "explanation": "পরিকেন্দ্র পেতে ত্রিভুজের বাহুগুলোর লম্বদ্বিখণ্ডক আঁকা হয়; এরপর পরিবৃত্ত আঁকা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q16": {
+    "correctOption": "কোণসমদ্বিখণ্ডক",
+    "explanation": "অন্তঃকেন্দ্র পেতে ত্রিভুজের কোণসমদ্বিখণ্ডক আঁকা হয়; সেটিই অন্তঃবৃত্তের কেন্দ্র।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q17": {
+    "correctOption": "তিনটি শীর্ষবিন্দু দিয়ে",
+    "explanation": "পরিবৃত্ত ত্রিভুজের তিনটি শীর্ষবিন্দু দিয়ে অতিক্রম করে।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q18": {
+    "correctOption": "তিনটি বাহুকেই",
+    "explanation": "অন্তঃবৃত্ত ত্রিভুজের তিনটি বাহুকেই স্পর্শ করে।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q19": {
+    "correctOption": "ব্যাসার্ধ",
+    "explanation": "স্পর্শবিন্দুতে ব্যাসার্ধ আঁকা হয় এবং তার উপর লম্ব রেখাই স্পর্শক।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q20": {
+    "correctOption": "সমান",
+    "explanation": "একই বহিঃস্থ বিন্দু থেকে বৃত্তে অঙ্কিত দুইটি স্পর্শকের দৈর্ঘ্য সমান।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q21": {
+    "correctOption": "কেন্দ্রদ্বয়ের মাঝে",
+    "explanation": "বহিঃস্পর্শী বৃত্তে স্পর্শবিন্দু দুই কেন্দ্রকে যুক্তকারী সরলরেখার উপর এবং কেন্দ্রদ্বয়ের মাঝে থাকে।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q22": {
+    "correctOption": "বড় বৃত্তের বাইরে নয়, একই সরলরেখায়",
+    "explanation": "অন্তঃস্পর্শী বৃত্তে দুই কেন্দ্র ও স্পর্শবিন্দু একই সরলরেখায় থাকে; স্পর্শবিন্দু বড় বৃত্তের পরিধিতে থাকে।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q23": {
+    "correctOption": "11 cm",
+    "explanation": "বহিঃস্পর্শে কেন্দ্রদূরত্ব = 4+7 = 11 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q24": {
+    "correctOption": "4 cm",
+    "explanation": "অন্তঃস্পর্শে কেন্দ্রদূরত্ব = 10−6 = 4 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-02-q25": {
+    "correctOption": "প্রমাণ/যুক্তি দিয়ে অঙ্কন সঠিক দেখানো",
+    "explanation": "জ্যামিতিক অঙ্কনে শুধু চিত্র নয়, প্রদত্ত শর্ত পূরণ হয়েছে তা যুক্তি দিয়ে দেখানো গুরুত্বপূর্ণ।"
+  }
+}

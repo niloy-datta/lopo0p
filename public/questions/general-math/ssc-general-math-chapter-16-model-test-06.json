@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "3a+2a=?",
+    "options": [
+      "5a",
+      "6a",
+      "5a²",
+      "6a²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "(2x)(3x)=?",
+    "options": [
+      "5x",
+      "6x",
+      "6x²",
+      "5x²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "(a+b)+c=?",
+    "options": [
+      "a+(b+c)",
+      "abc",
+      "a²+b²+c²",
+      "3abc"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "5(x+2)=?",
+    "options": [
+      "5x+2",
+      "5x+10",
+      "x+10",
+      "5x+7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "3x−x=?",
+    "options": [
+      "2x",
+      "2",
+      "x",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "(x+3)+(x−1)=?",
+    "options": [
+      "2x+2",
+      "2x+4",
+      "x+2",
+      "2x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "2(x−4)=?",
+    "options": [
+      "2x−4",
+      "2x−8",
+      "x−8",
+      "2x+8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "(2a)²=?",
+    "options": [
+      "2a²",
+      "4a",
+      "4a²",
+      "2a"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "3x+2y+4x−y=?",
+    "options": [
+      "7x+y",
+      "7x+3y",
+      "x+y",
+      "12xy"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "(x+2)(x+3)=?",
+    "options": [
+      "x²+5x+6",
+      "x²+6",
+      "x²+5x+5",
+      "2x+5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "−(3x−5)=?",
+    "options": [
+      "−3x−5",
+      "−3x+5",
+      "3x+5",
+      "3x−5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "4x/2=?",
+    "options": [
+      "2x",
+      "2",
+      "4x",
+      "x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "(a+b)−(a−b)=?",
+    "options": [
+      "2b",
+      "2a",
+      "0",
+      "a+b"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "x²+2x+1=?",
+    "options": [
+      "(x+1)²",
+      "(x−1)²",
+      "x²+1",
+      "(x+2)²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "5×3x=?",
+    "options": [
+      "8x",
+      "15x",
+      "15",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "2a+3b+4a=?",
+    "options": [
+      "6a+3b",
+      "9ab",
+      "5a+3b",
+      "6ab"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "3(x+y)=?",
+    "options": [
+      "3x+y",
+      "3x+3y",
+      "x+3y",
+      "3xy"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "a×0=?",
+    "options": [
+      "a",
+      "0",
+      "1",
+      "−a"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "(−2x)(3)=?",
+    "options": [
+      "−6x",
+      "6x",
+      "−5x",
+      "x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "x/5 + x/5=?",
+    "options": [
+      "2x/5",
+      "2x/10",
+      "x/10",
+      "x/25"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "(4x)÷2=?",
+    "options": [
+      "2x",
+      "2",
+      "4x",
+      "8x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "7x−3x+2=?",
+    "options": [
+      "4x+2",
+      "10x+2",
+      "4x−2",
+      "x+2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "(x+1)²=?",
+    "options": [
+      "x²+1",
+      "x²+2x+1",
+      "x²+x+1",
+      "2x+1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "2x·3y=?",
+    "options": [
+      "5xy",
+      "6xy",
+      "6x+y",
+      "5x+y"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-16-model-test-06-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-16-model-test-06",
+    "text": "x⁰=?(x≠0)",
+    "options": [
+      "0",
+      "1",
+      "x",
+      "−1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

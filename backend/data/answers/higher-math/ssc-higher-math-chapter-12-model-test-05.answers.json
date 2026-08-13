@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-12-model-test-05-q01": {
+    "correctOption": "একই দিক",
+    "explanation": "b=2a এবং 2 ধনাত্মক স্কেলার। তাই a ও b একই দিকে।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q02": {
+    "correctOption": "বিপরীত দিক",
+    "explanation": "b=-2a। ঋণাত্মক স্কেলার গুণিতক হওয়ায় b, a-এর বিপরীতমুখী।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q03": {
+    "correctOption": "6i+8j",
+    "explanation": "6i+8j=2(3i+4j)। তাই এটি a-এর সমান্তরাল।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q04": {
+    "correctOption": "-10i+4j",
+    "explanation": "-10i+4j=-2(5i-2j)। ঋণাত্মক স্কেলার গুণিতক, তাই বিপরীতমুখী সমান্তরাল।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q05": {
+    "correctOption": "5",
+    "explanation": "|a|=√(4²+3²)=5।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q06": {
+    "correctOption": "15",
+    "explanation": "|3a|=3|a|। এখানে |a|=5, তাই |3a|=15।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q07": {
+    "correctOption": "10",
+    "explanation": "|-2a|=2|a|=2×5=10। ভেক্টরের মান কখনও ঋণাত্মক হয় না।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q08": {
+    "correctOption": "AB=BC",
+    "explanation": "AB=(3i+4j) এবং BC=(3i+4j)। তাই AB=BC।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q09": {
+    "correctOption": "AC=3AB",
+    "explanation": "AB=2i+3j এবং AC=6i+9j=3AB।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q10": {
+    "correctOption": "AC=-2AB",
+    "explanation": "AB=2i+3j এবং AC=-4i-6j=-2AB।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q11": {
+    "correctOption": "3i+4j, 5",
+    "explanation": "অবস্থান ভেক্টর 3i+4j এবং মান √(3²+4²)=5।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q12": {
+    "correctOption": "-5i+12j, 13",
+    "explanation": "অবস্থান ভেক্টর -5i+12j। মান √(25+144)=13।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q13": {
+    "correctOption": "0i+0j",
+    "explanation": "a+b=6i+9j এবং c=-6i-9j। তাই যোগফল 0i+0j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q14": {
+    "correctOption": "0i+0j",
+    "explanation": "a+b=3i+3j এবং c=-3i-3j। তাই a+b+c=0i+0j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q15": {
+    "correctOption": "6i+8j",
+    "explanation": "a-এর একক ভেক্টর (3/5)i+(4/5)j। 10 মানবিশিষ্ট ভেক্টর = 10×একক ভেক্টর = 6i+8j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q16": {
+    "correctOption": "10i+24j",
+    "explanation": "|a|=13। 26 মানবিশিষ্ট একই দিকের ভেক্টর = 2a = 10i+24j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q17": {
+    "correctOption": "-6i-8j",
+    "explanation": "a-এর একই দিকে 10 মানবিশিষ্ট ভেক্টর 6i+8j। বিপরীত দিকে হবে -6i-8j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q18": {
+    "correctOption": "-2i-3j",
+    "explanation": "a-এর বিপরীত ভেক্টর -a=-2i-3j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q19": {
+    "correctOption": "25",
+    "explanation": "|a|=√(7²+(-24)²)=25। বিপরীত ভেক্টরের মানও 25।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q20": {
+    "correctOption": "ধনাত্মক y-অক্ষ",
+    "explanation": "a=5j, অর্থাৎ এটি ধনাত্মক y-অক্ষ বরাবর।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q21": {
+    "correctOption": "ঋণাত্মক x-অক্ষ",
+    "explanation": "a=-6i, অর্থাৎ এটি ঋণাত্মক x-অক্ষ বরাবর।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q22": {
+    "correctOption": "0i+0j",
+    "explanation": "b=-a। তাই a+b=0i+0j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q23": {
+    "correctOption": "4i+3j",
+    "explanation": "a=3j এবং b=4i। তাই a+b=4i+3j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q24": {
+    "correctOption": "4 ও 3",
+    "explanation": "a=xi+yj আকারে x-উপাংশ 4 এবং y-উপাংশ 3।"
+  },
+  "ssc-higher-math-chapter-12-model-test-05-q25": {
+    "correctOption": "-2 ও 7",
+    "explanation": "a=-2i+7j আকারে x-উপাংশ -2 এবং y-উপাংশ 7।"
+  }
+}

@@ -1,0 +1,453 @@
+[
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q01",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $U=\{1,2,3,\dots,20\}$, $A=\{x:x\in U,\ x$ হলো 4-এর গুণিতক$\}$ এবং $B=\{x:x\in U,\ x$ হলো 6-এর গুণিতক$\}$ হয়, তবে $A\cap B$ কোনটি?",
+  "options": [
+  "$\{12\}$",
+  "$\{4,8,12,16,20\}$",
+  "$\{6,12,18\}$",
+  "$\{12,24\}$"
+  ],
+  "answer": "$\{12\}$",
+  "answerIndex": 0,
+  "explanation": "$U$-এর মধ্যে 4-এর গুণিতক $\{4,8,12,16,20\}$ এবং 6-এর গুণিতক $\{6,12,18\}$। সাধারণ উপাদান শুধু 12।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q02",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "$A=\{x:x\in N,\ x^2-7x+10=0\}$ হলে $A$-এর প্রকৃত উপসেটের সংখ্যা কত?",
+  "options": [
+  "1",
+  "2",
+  "3",
+  "4"
+  ],
+  "answer": "3",
+  "answerIndex": 2,
+  "explanation": "$x^2-7x+10=(x-2)(x-5)$। তাই $A=\{2,5\}$। 2টি উপাদানের মোট উপসেট $2^2=4$, প্রকৃত উপসেট $=4-1=3$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q03",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $n(A-B)=11$, $n(B-A)=7$ এবং $n(A\cap B)=5$ হয়, তবে $n(A\cup B)$ কত?",
+  "options": [
+  "18",
+  "21",
+  "23",
+  "28"
+  ],
+  "answer": "23",
+  "answerIndex": 2,
+  "explanation": "$A\cup B$ তিন ভাগে বিভক্ত: $A-B$, $B-A$ এবং $A\cap B$। তাই $n(A\cup B)=11+7+5=23$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q04",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "একটি শ্রেণিতে 60 জন শিক্ষার্থীর মধ্যে 35 জন গণিত, 28 জন ইংরেজি এবং 12 জন উভয় বিষয় পছন্দ করে। কোনো বিষয়ই পছন্দ করে না কয়জন?",
+  "options": [
+  "7",
+  "9",
+  "11",
+  "12"
+  ],
+  "answer": "9",
+  "answerIndex": 1,
+  "explanation": "অন্তত একটি বিষয় পছন্দ করে $=35+28-12=51$ জন। তাই কোনো বিষয়ই পছন্দ করে না $=60-51=9$ জন।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q05",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $A\subseteq B$ এবং $B\subseteq C$ হয়, তবে নিচের কোনটি অবশ্যই সত্য?",
+  "options": [
+  "$A\subseteq C$",
+  "$C\subseteq A$",
+  "$A\cap C=\varnothing$",
+  "$A\cup C=B$"
+  ],
+  "answer": "$A\subseteq C$",
+  "answerIndex": 0,
+  "explanation": "$A$-এর সব উপাদান $B$-তে এবং $B$-এর সব উপাদান $C$-তে থাকলে $A$-এর সব উপাদানও $C$-তে থাকবে। তাই $A\subseteq C$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q06",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "$A=\{1,2,3,4,5,6\}$ এবং $B=\{2,4,6,8\}$ হলে $A-(A\cap B)$ কোনটি?",
+  "options": [
+  "$\{1,3,5\}$",
+  "$\{2,4,6\}$",
+  "$\{8\}$",
+  "$\{1,2,3,4,5,6,8\}$"
+  ],
+  "answer": "$\{1,3,5\}$",
+  "answerIndex": 0,
+  "explanation": "$A\cap B=\{2,4,6\}$। তাই $A-(A\cap B)=\{1,3,5\}$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q07",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "$U=\{1,2,3,4,5,6,7,8,9\}$, $A=\{1,2,3,4\}$ এবং $B=\{3,4,5,6\}$ হলে $(A\cup B)'$ কোনটি?",
+  "options": [
+  "$\{7,8,9\}$",
+  "$\{3,4\}$",
+  "$\{1,2,5,6\}$",
+  "$\{1,2,3,4,5,6\}$"
+  ],
+  "answer": "$\{7,8,9\}$",
+  "answerIndex": 0,
+  "explanation": "$A\cup B=\{1,2,3,4,5,6\}$। $U$-এর বাকি উপাদান $\{7,8,9\}$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q08",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "De Morgan-এর সূত্র অনুযায়ী $(A\cap B)'$ কোনটির সমান?",
+  "options": [
+  "$A'\cup B'$",
+  "$A'\cap B'$",
+  "$A\cup B$",
+  "$A-B$"
+  ],
+  "answer": "$A'\cup B'$",
+  "answerIndex": 0,
+  "explanation": "De Morgan-এর সূত্র অনুযায়ী $(A\cap B)'=A'\cup B'$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 45
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q09",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "$A=\{x:x\in N,\ x$ হলো 18-এর গুণনীয়ক$\}$ হলে $n(A)$ কত?",
+  "options": [
+  "4",
+  "5",
+  "6",
+  "7"
+  ],
+  "answer": "6",
+  "answerIndex": 2,
+  "explanation": "18-এর স্বাভাবিক গুণনীয়ক হলো $1,2,3,6,9,18$। তাই $n(A)=6$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 45
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q10",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $A=\{1,2,3,4\}$ হয়, তবে power set $P(A)$-এর উপাদান সংখ্যা কত?",
+  "options": [
+  "4",
+  "8",
+  "12",
+  "16"
+  ],
+  "answer": "16",
+  "answerIndex": 3,
+  "explanation": "$n(A)=4$ হলে power set-এর উপাদান সংখ্যা $2^4=16$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 45
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q11",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "$A=\{1,2,3,4,5\}$ এবং $B=\{2,4,6,8\}$ হলে $B-A$ কোনটি?",
+  "options": [
+  "$\{6,8\}$",
+  "$\{2,4\}$",
+  "$\{1,3,5\}$",
+  "$\{1,2,3,4,5,6,8\}$"
+  ],
+  "answer": "$\{6,8\}$",
+  "answerIndex": 0,
+  "explanation": "$B-A$ অর্থ $B$-এর যেসব উপাদান $A$-তে নেই। তাই $B-A=\{6,8\}$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 45
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q12",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "$A=\{2,3,5,7\}$ এবং $B=\{1,4,6,8\}$ হলে $A\cap B$ কোনটি?",
+  "options": [
+  "$\varnothing$",
+  "$\{2,4,6,8\}$",
+  "$\{1,3,5,7\}$",
+  "$\{1,2,3,4,5,6,7,8\}$"
+  ],
+  "answer": "$\varnothing$",
+  "answerIndex": 0,
+  "explanation": "দুই সেটের কোনো সাধারণ উপাদান নেই। তাই $A\cap B=\varnothing$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 45
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q13",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "নিচের কোন অন্বয়টি ফাংশন?",
+  "options": [
+  "$\{(1,2),(2,4),(3,6),(4,8)\}$",
+  "$\{(1,2),(1,3),(2,4)\}$",
+  "$\{(2,5),(2,6),(3,7)\}$",
+  "$\{(3,1),(3,2),(4,3)\}$"
+  ],
+  "answer": "$\{(1,2),(2,4),(3,6),(4,8)\}$",
+  "answerIndex": 0,
+  "explanation": "ফাংশনে একই input-এর একাধিক output থাকতে পারে না। শুধু প্রথম অন্বয়ে প্রতিটি input আলাদা এবং একটি করে output আছে।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q14",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "$R=\{(1,3),(2,5),(3,7),(4,9)\}$ হলে অন্বয়টির range কোনটি?",
+  "options": [
+  "$\{3,5,7,9\}$",
+  "$\{1,2,3,4\}$",
+  "$\{1,3,5,7\}$",
+  "$\{2,4,6,8\}$"
+  ],
+  "answer": "$\{3,5,7,9\}$",
+  "answerIndex": 0,
+  "explanation": "ordered pair-এর দ্বিতীয় উপাদানগুলো নিয়ে range গঠিত হয়। তাই range $\{3,5,7,9\}$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 45
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q15",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "$R=\{(1,4),(2,7),(3,10),(4,13)\}$ হলে অন্বয়টির rule কোনটি হতে পারে?",
+  "options": [
+  "$y=3x+1$",
+  "$y=2x+2$",
+  "$y=x+4$",
+  "$y=4x-1$"
+  ],
+  "answer": "$y=3x+1$",
+  "answerIndex": 0,
+  "explanation": "$x=1,2,3,4$ বসালে $y=3x+1$ থেকে যথাক্রমে 4, 7, 10, 13 পাওয়া যায়।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q16",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $f(x)=x^2-4x+1$ হয়, তবে $f(3)$ কত?",
+  "options": [
+  "$-2$",
+  "$-1$",
+  "1",
+  "2"
+  ],
+  "answer": "$-2$",
+  "answerIndex": 0,
+  "explanation": "$f(3)=3^2-4\times3+1=9-12+1=-2$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q17",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $f(x)=3x-2$ হয়, তবে $f(2a-1)$ কোনটি?",
+  "options": [
+  "$6a-5$",
+  "$6a-3$",
+  "$3a-5$",
+  "$2a+1$"
+  ],
+  "answer": "$6a-5$",
+  "answerIndex": 0,
+  "explanation": "$f(2a-1)=3(2a-1)-2=6a-3-2=6a-5$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q18",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $f(x)=4x+3$ এবং $f(x)=27$ হয়, তবে $x$ এর মান কত?",
+  "options": [
+  "4",
+  "5",
+  "6",
+  "7"
+  ],
+  "answer": "6",
+  "answerIndex": 2,
+  "explanation": "$4x+3=27 \Rightarrow 4x=24 \Rightarrow x=6$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 45
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q19",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $f(x)=x+2$ এবং $g(x)=3x-1$ হয়, তবে $(g\circ f)(2)$ কত?",
+  "options": [
+  "8",
+  "9",
+  "10",
+  "11"
+  ],
+  "answer": "11",
+  "answerIndex": 3,
+  "explanation": "$f(2)=4$। তাই $(g\circ f)(2)=g(4)=3\times4-1=11$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q20",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $f(x)=2x-1$ এবং $g(x)=x^2+1$ হয়, তবে $(f\circ g)(2)$ কত?",
+  "options": [
+  "7",
+  "8",
+  "9",
+  "10"
+  ],
+  "answer": "9",
+  "answerIndex": 2,
+  "explanation": "$g(2)=2^2+1=5$। তাই $f(g(2))=f(5)=2\times5-1=9$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q21",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "$f=\{(2,1),(4,2),(6,3),(8,4)\}$ হলে $f^{-1}$ কোনটি?",
+  "options": [
+  "$\{(1,2),(2,4),(3,6),(4,8)\}$",
+  "$\{(2,1),(4,2),(6,3),(8,4)\}$",
+  "$\{(1,4),(2,3),(3,2),(4,1)\}$",
+  "$\{(2,4),(4,6),(6,8),(8,10)\}$"
+  ],
+  "answer": "$\{(1,2),(2,4),(3,6),(4,8)\}$",
+  "answerIndex": 0,
+  "explanation": "বিপরীত অন্বয়ে প্রতিটি ordered pair-এর প্রথম ও দ্বিতীয় উপাদান স্থান বদল করে।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q22",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $f(x)=\frac{x+5}{2}$ হয়, তবে $f^{-1}(x)$ কোনটি?",
+  "options": [
+  "$2x-5$",
+  "$2x+5$",
+  "$\frac{x-5}{2}$",
+  "$\frac{x+5}{2}$"
+  ],
+  "answer": "$2x-5$",
+  "answerIndex": 0,
+  "explanation": "$y=\frac{x+5}{2}$ হলে $2y=x+5 \Rightarrow x=2y-5$। তাই $f^{-1}(x)=2x-5$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q23",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $f(x)=ax+4$ এবং $f(3)=19$ হয়, তবে $a$ কত?",
+  "options": [
+  "3",
+  "4",
+  "5",
+  "6"
+  ],
+  "answer": "5",
+  "answerIndex": 2,
+  "explanation": "$3a+4=19 \Rightarrow 3a=15 \Rightarrow a=5$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q24",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $f(x)=x^2-3$ হয়, তবে $f(-2)+f(3)$ কত?",
+  "options": [
+  "5",
+  "7",
+  "8",
+  "10"
+  ],
+  "answer": "7",
+  "answerIndex": 1,
+  "explanation": "$f(-2)=4-3=1$ এবং $f(3)=9-3=6$। তাই যোগফল $1+6=7$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-chapter-01-model-test-03-q25",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-chapter-01-model-test-03",
+  "text": "যদি $f(x)=3x-4$ হয়, তবে কোন $x$-এর জন্য $f(x)=2x+6$ হবে?",
+  "options": [
+  "8",
+  "9",
+  "10",
+  "11"
+  ],
+  "answer": "10",
+  "answerIndex": 2,
+  "explanation": "$3x-4=2x+6 \Rightarrow x=10$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  }
+  ]
+  

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "6^2 × 6^3 এর মান কত?",
+    "options": [
+      "7776",
+      "1296",
+      "216",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "10^6 ÷ 10^2 এর মান কত?",
+    "options": [
+      "10000",
+      "1000",
+      "100000",
+      "100"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "(4^2)^3 এর মান কত?",
+    "options": [
+      "4096",
+      "1024",
+      "256",
+      "64"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "100^(1/2) এর মান কত?",
+    "options": [
+      "10",
+      "100",
+      "50",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "1000^(1/3) এর মান কত?",
+    "options": [
+      "10",
+      "100",
+      "30",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "121^(1/2) এর মান কত?",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "121"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "343^(1/3) এর মান কত?",
+    "options": [
+      "7",
+      "49",
+      "21",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "125^(2/3) এর মান কত?",
+    "options": [
+      "25",
+      "5",
+      "10",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "27^(-2/3) এর মান কত?",
+    "options": [
+      "1/9",
+      "9",
+      "1/3",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "9^(x) = 729 হলে x কত?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "5^(x-2) = 125 হলে x কত?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "2^(3x) = 64 হলে x কত?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₂128 এর মান কত?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₆36 এর মান কত?",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₁₁121 এর মান কত?",
+    "options": [
+      "2",
+      "11",
+      "1",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₄(1/64) এর মান কত?",
+    "options": [
+      "-3",
+      "3",
+      "-2",
+      "1/3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₅(1/125) এর মান কত?",
+    "options": [
+      "-3",
+      "3",
+      "-2",
+      "1/3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₁₀0.0001 এর মান কত?",
+    "options": [
+      "-4",
+      "4",
+      "-3",
+      "1/4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₂8 + log₂32 এর মান কত?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₃243 - log₃9 এর মান কত?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₅(25×125) এর মান কত?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₂(128/4) এর মান কত?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₄(16^2) এর মান কত?",
+    "options": [
+      "4",
+      "2",
+      "8",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₂x = 3 এবং log₂y = 4 হলে log₂(xy) কত?",
+    "options": [
+      "7",
+      "12",
+      "1",
+      "4/3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "log₃x = 5 এবং log₃y = 2 হলে log₃(x/y) কত?",
+    "options": [
+      "3",
+      "7",
+      "10",
+      "2/5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  }
+]

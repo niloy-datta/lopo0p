@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "u=17 m/s, a=3 m/s², t=4 s হলে v=?",
+    "options": [
+      "29",
+      "4.25",
+      "5",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "s=19 m, t=2 s হলে গড় বেগ=?",
+    "options": [
+      "38",
+      "21",
+      "0.10526315789473684",
+      "9.5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "একটি গাড়ির বেগ 18 ms⁻¹। গাড়িটিতে ব্রেক চাপার পর 2 ms⁻² মন্দন হতে থাকে। 3 sec পর এর বেগ কত হবে?",
+    "options": [
+      "27 ms⁻¹",
+      "12 ms⁻¹",
+      "9 ms⁻¹",
+      "3 ms⁻¹"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "সিলিন্ডারের ভিতর পিস্টনের গতি- i. চলন ii. পর্যায়বৃত্ত iii. স্পন্দন নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "একটি অবতল দর্পণের ফোকাস থেকে 5 cm দূরে একটি বস্তু স্থাপন করা হলো। দর্পণের বক্রতার ব্যাসার্ধ 20 cm হলে প্রতিবিম্বের দূরত্ব কত?",
+    "options": [
+      "50 cm",
+      "40 cm",
+      "30 cm",
+      "10 cm"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-02-model-test-02-q05.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "একটি বস্তুর বেগ 4 sec-এ 4 ms⁻¹ থেকে বৃদ্ধি পেয়ে 12 ms⁻¹ হলে 8 sec পরে বস্তুটির বেগ কত হবে?",
+    "options": [
+      "2 ms⁻¹",
+      "8 ms⁻¹",
+      "16 ms⁻¹",
+      "20 ms⁻¹"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "একটি বস্তু সোজা পথে 20 m অতিক্রম করে এবং একই পথে 8 m ফিরে আসে তাহলে দূরত্ব ও সরণের মধ্যে পার্থক্য কত হবে?",
+    "options": [
+      "8 m",
+      "12 m",
+      "16 m",
+      "28 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "দুটি আহিত বস্তুর মধ্যবর্তী দূরত্ব অর্ধেক করা হলে ক্রিয়াশীল বল কত হবে?",
+    "options": [
+      "অর্ধেক",
+      "এক-চতুর্থাংশ",
+      "২ গুণ",
+      "৪ গুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 7 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+    "options": [
+      "28 সেমি",
+      "7 সেমি",
+      "3.5 সেমি",
+      "14 সেমি"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-02-model-test-02-q09.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "একটি গাড়ির আদিবেগ 5 m/s এবং ত্বরণ 5 m/s²। 8 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "{u + a*t} m/s",
+      "40 m/s",
+      "{u - a*t} m/s",
+      "{u + 2*a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "একটি 12 m/s বেগে চলমান 3 kg ভরের বস্তুর গতিশক্তি কত?",
+    "options": [
+      "36 J",
+      "m*v*v J",
+      "216 J",
+      "0.5*m*v J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "একটি 4 kg ভরের বস্তুর ওপর 3 m/s² ত্বরণ সৃষ্টি করতে কত বল প্রয়োগ করতে হবে?",
+    "options": [
+      "a/m N",
+      "12 N",
+      "m/a N",
+      "{(m+a)} N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "গাড়ির সর্বোচ্চ গতিশক্তি কত?",
+    "options": [
+      "2 × 10⁴ J",
+      "4 × 10⁴ J",
+      "8 × 10⁵ J",
+      "16 × 10⁷ J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "অবতল আয়নার- i. ফোকাস দূরত্ব, বক্রতার ব্যাসার্ধের অর্ধেক ii. ফোকাস দূরত্ব অসীম হলে, সেটি সমতল আয়না হবে iii. মেরু ও প্রধান ফোকাসের মাঝে কোনো বস্তু রাখলে তার প্রতিবিম্ব অবাস্তব হবে নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "স্থির অবস্থান থেকে সুষম ত্বরণে চলমান কোনো বস্তুর বেগ-",
+    "options": [
+      "সময়ের বর্গমূলের সমানুপাতিক",
+      "সরণের বর্গমূলের সমানুপাতিক",
+      "সময়ের বর্গের সমানুপাতিক",
+      "সরণের বর্গের সমানুপাতিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "বস্তুর ভরবেগের পরিবর্তনের হার তার উপর প্রযুক্ত বলের-",
+    "options": [
+      "ব্যস্তানুপাতিক",
+      "বর্গের সমানুপাতিক",
+      "সমানুপাতিক",
+      "বর্গের ব্যস্তানুপাতিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "উদ্দীপক: দুইটি বস্তু A ও B পৃথিবীপৃষ্ঠে 3m ব্যবধানে রাখা আছে। এদের ভর যথাক্রমে 1kg ও 500g। চন্দ্রপৃষ্ঠে অভিকর্ষজ ত্বরণের মান 1.63 m s⁻²। চন্দ্রপৃষ্ঠে B বস্তুটির ওজন কত?",
+    "options": [
+      "0.815 N",
+      "4.9 N",
+      "8.15 N",
+      "815 N"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-02-model-test-02-q17.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "উদ্দীপক: দুইটি বস্তু A ও B পৃথিবীপৃষ্ঠে 3m ব্যবধানে রাখা আছে। এদের ভর যথাক্রমে 1kg ও 500g। চন্দ্রপৃষ্ঠে অভিকর্ষজ ত্বরণের মান 1.63 m s⁻²। A ও B এর মধ্যে ক্রিয়াশীল বলের মান কত?",
+    "options": [
+      "3 × 10⁻⁹ N",
+      "3.70 × 10⁻¹⁰ N",
+      "3.70 × 10⁻¹¹ N",
+      "3.70 × 10⁻¹² N"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-02-model-test-02-q18.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "তরঙ্গস্থিত দুটি সমদশা সম্পন্ন কণার সর্বনিম্ন দূরত্ব কত?",
+    "options": [
+      "λ/4",
+      "λ/2",
+      "2λ/3",
+      "λ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "$50\\text{ m}$ উচ্চতা থেকে বস্তুকে নিচে ফেলে দেয়া হলে কত $\\text{ms}^{-1}$ বেগে ভূমিকে আঘাত করবে? $[g = 9.8\\text{ m/s}^2]$",
+    "options": [
+      "$22.13$",
+      "$31.3$",
+      "$100$",
+      "$980$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "সাইকেলের প্যাডেলের গতি কোন ধরনের গতি?",
+    "options": [
+      "চলন গতি",
+      "স্পন্দন গতি",
+      "দোলন গতি",
+      "ঘূর্ণন গতি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "জড়তা— i. বস্তুর স্থিতি অবস্থা বজায় রাখতে সাহায্য করে ii. বস্তুকে সমত্বরণে গতিশীল রাখে iii. বস্তুর ভরের সাথে সম্পর্কিত নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "১৮। কাঁচের প্রতিসরাঙ্ক $1.5$, কাঁচে আলোর বেগ $2 \\times 10^8\\text{ ms}^{-1}$ হলে বায়ুতে আলোর বেগ কত?",
+    "options": [
+      "$1.5 \\times 10^8\\text{ ms}^{-1}$",
+      "$2 \\times 10^8\\text{ ms}^{-1}$",
+      "$2.5 \\times 10^8\\text{ ms}^{-1}$",
+      "$3 \\times 10^8\\text{ ms}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "একটি পাথরকে সুতা দিয়ে বেঁধে মাথার উপর ঘুরালে- i. ক্রমাগত দিক পরিবর্তন করবে ii. ত্বরণ সৃষ্টি হবে iii. সুষম বেগে চলতে থাকবে নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-02-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-02",
+    "text": "বন্দুক দিয়ে গুলি ছোড়া হলে- i. বন্দুকের পশ্চাৎ বেগ গুলির তুলনায় কম হবে ii. বন্দুক সামনের দিকে ধাক্কা দেবে iii. গুলি ও বন্দুকের ভরবেগ হবে সমান ও বিপরীতমুখী নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

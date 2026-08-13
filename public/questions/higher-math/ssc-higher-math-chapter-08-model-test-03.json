@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$120^\\circ$ কোণের রেডিয়ান মান কত?",
+    "options": [
+      "$\\frac{2\\pi}{3}$",
+      "$\\frac{\\pi}{3}$",
+      "$\\frac{3\\pi}{2}$",
+      "$\\frac{\\pi}{6}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$150^\\circ$ কোণের রেডিয়ান মান কত?",
+    "options": [
+      "$\\frac{5\\pi}{6}$",
+      "$\\frac{2\\pi}{3}$",
+      "$\\frac{3\\pi}{4}$",
+      "$\\frac{\\pi}{6}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\frac{3\\pi}{4}$ রেডিয়ান সমান কত ডিগ্রি?",
+    "options": [
+      "$135^\\circ$",
+      "$120^\\circ$",
+      "$150^\\circ$",
+      "$90^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "ব্যাসার্ধ 14 cm এবং কেন্দ্রীয় কোণ $\\frac{\\pi}{7}$ radian হলে চাপের দৈর্ঘ্য কত?",
+    "options": [
+      "$2\\pi$ cm",
+      "$7\\pi$ cm",
+      "$14\\pi$ cm",
+      "$\\pi$ cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "চাপের দৈর্ঘ্য $6\\pi$ cm এবং ব্যাসার্ধ 18 cm হলে কেন্দ্রীয় কোণ কত?",
+    "options": [
+      "$\\frac{\\pi}{3}$",
+      "$\\frac{\\pi}{6}$",
+      "$\\pi$",
+      "$\\frac{2\\pi}{3}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\tan\\theta=\\frac{\\sin\\theta}{\\cos\\theta}$ হলে $\\cot\\theta$ কোনটির সমান?",
+    "options": [
+      "$\\frac{\\cos\\theta}{\\sin\\theta}$",
+      "$\\frac{\\sin\\theta}{\\cos\\theta}$",
+      "$\\frac{1}{\\cos\\theta}$",
+      "$\\frac{1}{\\sin\\theta}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\sin\\theta\\cdot\\csc\\theta$ এর মান কত?",
+    "options": [
+      "1",
+      "0",
+      "$\\tan\\theta$",
+      "$\\cos\\theta$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\cos\\theta\\cdot\\sec\\theta$ এর মান কত?",
+    "options": [
+      "1",
+      "0",
+      "$\\sin\\theta$",
+      "$\\tan\\theta$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\cot45^\\circ$ এর মান কত?",
+    "options": [
+      "1",
+      "0",
+      "$\\sqrt3$",
+      "$\\frac{1}{\\sqrt3}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\cot30^\\circ$ এর মান কত?",
+    "options": [
+      "$\\sqrt3$",
+      "$\\frac{1}{\\sqrt3}$",
+      "1",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\cot60^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac1{\\sqrt3}$",
+      "$\\sqrt3$",
+      "1",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\sec45^\\circ$ এর মান কত?",
+    "options": [
+      "$\\sqrt2$",
+      "$\\frac1{\\sqrt2}$",
+      "1",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\csc60^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac{2}{\\sqrt3}$",
+      "$\\frac{\\sqrt3}{2}$",
+      "2",
+      "$\\sqrt3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\sec30^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac{2}{\\sqrt3}$",
+      "$\\frac{\\sqrt3}{2}$",
+      "2",
+      "$\\sqrt3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\sin60^\\circ\\cos30^\\circ+\\cos60^\\circ\\sin30^\\circ$ এর মান কত?",
+    "options": [
+      "1",
+      "$\\frac12$",
+      "$\\frac{\\sqrt3}{2}$",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\tan60^\\circ\\cdot\\tan30^\\circ$ এর মান কত?",
+    "options": [
+      "1",
+      "$\\sqrt3$",
+      "$\\frac1{\\sqrt3}$",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\sin^260^\\circ+\\cos^260^\\circ$ এর মান কত?",
+    "options": [
+      "1",
+      "$\\frac34$",
+      "$\\frac14$",
+      "$\\frac32$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$1-\\sin^2\\theta$ কোনটির সমান?",
+    "options": [
+      "$\\cos^2\\theta$",
+      "$\\sin^2\\theta$",
+      "$\\tan^2\\theta$",
+      "$\\sec^2\\theta$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$1-\\cos^2\\theta$ কোনটির সমান?",
+    "options": [
+      "$\\sin^2\\theta$",
+      "$\\cos^2\\theta$",
+      "$\\cot^2\\theta$",
+      "$\\csc^2\\theta$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "যদি $\\sec\\theta=\\frac{13}{5}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\cos\\theta$ কত?",
+    "options": [
+      "$\\frac5{13}$",
+      "$\\frac{12}{13}$",
+      "$\\frac{13}{5}$",
+      "$\\frac5{12}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "যদি $\\csc\\theta=\\frac{17}{8}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\sin\\theta$ কত?",
+    "options": [
+      "$\\frac8{17}$",
+      "$\\frac{15}{17}$",
+      "$\\frac{17}{8}$",
+      "$\\frac8{15}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "যদি $\\cot\\theta=\\frac{12}{5}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\tan\\theta$ কত?",
+    "options": [
+      "$\\frac5{12}$",
+      "$\\frac{12}{5}$",
+      "$\\frac5{13}$",
+      "$\\frac{12}{13}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "একটি দালানের উচ্চতা $20\\sqrt3$ m এবং দালান থেকে পর্যবেক্ষকের দূরত্ব 20 m হলে উন্নতি কোণ কত?",
+    "options": [
+      "$60^\\circ$",
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$90^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "একটি গাছের উচ্চতা 10 m এবং গাছ থেকে পর্যবেক্ষকের দূরত্ব $10\\sqrt3$ m হলে উন্নতি কোণ কত?",
+    "options": [
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "$\\sin\\theta=\\cos\\theta$ হলে $\\theta$ সূক্ষ্মকোণ হিসেবে কত?",
+    "options": [
+      "$45^\\circ$",
+      "$30^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

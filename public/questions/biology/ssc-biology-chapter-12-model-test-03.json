@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "প্রোটিন সংশ্লেষণ ধাপ কোনটি?",
+    "options": [
+      "ট্রান্সলেশন",
+      "রেপ্লিকেশন",
+      "রেচন",
+      "মিয়োসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "হোমোজাইগাস কী?",
+    "options": [
+      "শূন্য",
+      "দুই ভিন্ন",
+      "একই অ্যালিল",
+      "তিন ভিন্ন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "উদ্দীপক: বিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান করেন। তার পরীক্ষার প্রধান উপাদান ছিল ক্রোমোজোমে অবস্থিত একটি বিশেষ অণু, যা দ্বিসূত্রক প্যাঁচানো সিঁড়ির মতো। উদ্দীপকে উল্লেখিত বিশেষ অণুটির নাম কী?",
+    "options": [
+      "এনজাইম",
+      "প্রোটিন",
+      "RNA",
+      "DNA"
+    ],
+    "image": "/images/quiz/premium/ssc-biology-chapter-12-model-test-03-q03.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "বংশগতি ও পরিবেশ কী?",
+    "options": [
+      "শুধু খাদ্য",
+      "শুধু জিন",
+      "শুধু ব্যায়াম",
+      "উভয়ই গুরুত্বপূর্ণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "DNA-এর ডাবল হেলিক্স (Double helix) মডেল আবিষ্কারের জন্য কারা নোবেল পুরস্কার পান?",
+    "options": [
+      "রবার্ট হুক ও লিনিয়াস",
+      "ওয়াটসন ও ক্রিক",
+      "লুই পাস্তুর ও কখ",
+      "মেন্ডেল ও মরগান"
+    ],
+    "image": "/images/quiz/bio-dna-helix.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "লিঙ্গ নির্ধারণে পুরুষ কী?",
+    "options": [
+      "YY",
+      "XO",
+      "XY",
+      "XX"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "মানবে ক্রোমোজোম জোড়া কী?",
+    "options": [
+      "২৩ জোড়া",
+      "৪৬ জোড়া",
+      "১২ জোড়া",
+      "২৩টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "DNA-এর ডাবল হেলিক্সের একটি পূর্ণ ঘূর্ণনে কয়টি নাইট্রোজেনাস বেস জোড়া থাকে?",
+    "options": [
+      "২০টি",
+      "১৫টি",
+      "৫টি",
+      "১০টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "অ্যালিল কী?",
+    "options": [
+      "জিনের বিকল্প রূপ",
+      "ক্রোমোজোম",
+      "RNA",
+      "প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "বিবর্তনের প্রমাণ কী?",
+    "options": [
+      "জীবাশ্ম",
+      "শুধু গণিত",
+      "শুধু কল্পনা",
+      "শুধু পদার্থ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "ক্রোমোজোম অস্বাভাবিক কী?",
+    "options": [
+      "গলগণ্ড",
+      "রিকেটস",
+      "ডাউন সিন্ড্রোম",
+      "স্কার্ভি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "রিসেসিভ অ্যালিল কী?",
+    "options": [
+      "সবসময় প্রকাশ",
+      "লুকিয়ে থাকে",
+      "DNA নষ্ট",
+      "RNA নষ্ট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "মিউটেশন কী?",
+    "options": [
+      "প্রোটিন পরিবর্তন",
+      "RNA পরিবর্তন",
+      "পানি পরিবর্তন",
+      "DNA পরিবর্তন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "ট্রান্সক্রিপশনে তৈরি কী?",
+    "options": [
+      "mRNA",
+      "DNA",
+      "লিপিড",
+      "প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "জীবের জিনগত বৈচিত্র্য বা ভ্যারিয়েশন (Variation) সৃষ্টিতে নিচের কোনটির ভূমিকা সবচেয়ে বেশি?",
+    "options": [
+      "মাইটোসিস",
+      "সাইটোকাইনেসিস",
+      "অ্যামাইটোসিস",
+      "ক্রসিং ওভার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "DNA প্রতিলিপি কী?",
+    "options": [
+      "ট্রান্সক্রিপশন",
+      "ট্রান্সলেশন",
+      "রেপ্লিকেশন",
+      "মাইটোসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "বংশগতির রাসায়নিক ভিত্তি (Chemical Basis) বলা হয় কোনটিকে?",
+    "options": [
+      "প্রোটিন",
+      "ক্রোমোজোম",
+      "DNA",
+      "সেন্ট্রোমিয়ার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "বংশগত রোগ উদাহরণ কোনটি?",
+    "options": [
+      "স্কার্ভি",
+      "রিকেটস",
+      "হিমোফিলিয়া",
+      "বেরিবেরি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "বংশগতি বাহক কী?",
+    "options": [
+      "অক্সিজেন",
+      "জিন",
+      "রক্ত",
+      "পানি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "DNA-এর পূর্ণরূপ কী?",
+    "options": [
+      "Adenosine",
+      "Protein Acid",
+      "Ribonucleic Acid",
+      "Deoxyribonucleic Acid"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "লিঙ্গ নির্ধারণে স্ত্রী কী?",
+    "options": [
+      "XX",
+      "XO",
+      "XY",
+      "YY"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "DNA অণুর অ্যাডেনিনের পরিপূরক ক্ষারক (Base) কোনটি?",
+    "options": [
+      "তায়ামিন",
+      "সাইটোসিন",
+      "ইউরাসিল",
+      "গুয়ানিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "ডারউইনের তত্ত্ব কী?",
+    "options": [
+      "মেন্ডেল",
+      "প্রাকৃতিক নির্বাচন",
+      "নিউটন",
+      "পাস্তুর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "বংশগতিবিদ্যার জনক (Father of Genetics) বলা হয় কাকে?",
+    "options": [
+      "গ্রেগর জোহান মেন্ডেল",
+      "চার্লস ডারউইন",
+      "ক্যারোলাস লিনিয়াস",
+      "টমাস হান্ট মরগান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-03-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-03",
+    "text": "DNA-এর ডাবল হেলিক্সের একটি পূর্ণ ঘূর্ণনের দৈর্ঘ্য কত?",
+    "options": [
+      "3.4 Å",
+      "20 Å",
+      "340 Å",
+      "34 Å"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

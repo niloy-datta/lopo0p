@@ -1,0 +1,1156 @@
+{
+  "exam": {
+    "title": "HSC Chemistry 2nd Paper — Board Standard MCQ",
+    "full_marks": 25,
+    "time_minutes": 25,
+    "subject_code": 176
+  },
+  "sets": [
+    {
+      "set_id": 3,
+      "label": "SET 03",
+      "title": "SET 03 — Core Conceptual Grid",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "passage": null,
+          "questionText": "স্থির তাপমাত্রায় নির্দিষ্ট ভরের গ্যাসের ক্ষেত্রে P বনাম 1/V লেখচিত্রের প্রকৃতি কীরূপ?",
+          "options": [
+            "ক) মূলবিন্দুগামী সরলরেখা",
+            "খ) এক্স-অক্ষের সমান্তরাল",
+            "গ) পরাবৃত্তাকার",
+            "ঘ) উপবৃত্তাকার"
+          ],
+          "correctOption": "ক",
+          "explanation": "বয়েলের সূত্র: P ∝ 1/V, তাই P বনাম 1/V লেখচিত্র মূলবিন্দুগামী সরলরেখা।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 2,
+          "passage": null,
+          "questionText": "27°C তাপমাত্রায় ১ মোল কোনো আদর্শ গ্যাসের গতিশক্তি কত?",
+          "options": [
+            "ক) 3741.3 J",
+            "খ) 2494.2 J",
+            "গ) 1247.1 J",
+            "ঘ) 4988.4 J"
+          ],
+          "correctOption": "ক",
+          "explanation": "KE = (3/2)RT = 1.5 × 8.314 × 300 = 3741.3 J।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 3,
+          "passage": null,
+          "questionText": "রক্তের প্লাজমার pH নিয়ন্ত্রণে প্রধান ভূমিকা রাখে কোন বাফারটি?",
+          "options": [
+            "ক) CH₃COOH – CH₃COONa",
+            "খ) H₂CO₃ – HCO₃⁻",
+            "গ) NH₄OH – NH₄Cl",
+            "ঘ) Na₂HPO₄ – NaH₂PO₄"
+          ],
+          "correctOption": "খ",
+          "explanation": "রক্তে কার্বনিক এসিড–বাইকার্বনেট বাফার pH ≈ 7.4 বজায় রাখে।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 4,
+          "passage": null,
+          "questionText": "পানিতে নিচের কোন জোড়াটির উপস্থিতির কারণে স্থায়ী খরতা সৃষ্টি হয়?",
+          "options": [
+            "ক) Ca(HCO₃)₂ এবং Mg(HCO₃)₂",
+            "খ) CaCl₂ এবং MgSO₄",
+            "গ) NaCl এবং K₂SO₄",
+            "ঘ) FeCO₃ এবং CaCO₃"
+          ],
+          "correctOption": "ক",
+          "explanation": "বাইকার্বনেট স্থায়ী খরতা; ক্লোরাইড/সালফেট স্থায়ী খরতা নয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 5,
+          "passage": null,
+          "questionText": "IUPAC নিয়মে CH₃–CH(OH)–CH₂–CHO যৌগটির নাম কী?",
+          "options": [
+            "ক) ৩-হাইড্রক্সি বিউটান্যাল",
+            "খ) ২-হাইড্রক্সি বিউটান্যাল",
+            "গ) ১-অক্সো বিউটান-৩-অল",
+            "ঘ) ৩-অক্সো বিউটানল"
+          ],
+          "correctOption": "ক",
+          "explanation": "অ্যালডিহাইডকে অগ্রাধিকার; OH ৩ নম্বর কার্বনে → ৩-হাইড্রক্সি বিউটান্যাল।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 6,
+          "passage": null,
+          "questionText": "নিচের কোন যৌগটি জ্যামিতিক সমাবয়বতা (সিস-ট্রান্স) প্রদর্শন করে?",
+          "options": [
+            "ক) প্রোপিন",
+            "খ) ২-মিথাইল প্রোপিন",
+            "গ) বিউট-২-ইন",
+            "ঘ) বিউট-১-ইন"
+          ],
+          "correctOption": "গ",
+          "explanation": "বিউট-২-ইনে C=C বন্ধনে সিস ও ট্রান্স আইসোমার সম্ভব।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 7,
+          "passage": null,
+          "questionText": "বেনজিন বলয়ে মেটা (m-) নির্দেশক মূলক কোনটি?",
+          "options": [
+            "ক) –OCH₃",
+            "খ) –CN",
+            "গ) –Cl",
+            "ঘ) –OH"
+          ],
+          "correctOption": "খ",
+          "explanation": "–CN মেটা নির্দেশক ও বলয় নিষ্ক্রিয়কারী।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 8,
+          "passage": null,
+          "questionText": "অ্যালকাইল হ্যালাইডের কেন্দ্রাকর্ষী প্রতিস্থাপন বিক্রিয়ায় SN2 এর সক্রিয়তার সঠিক ক্রম কোনটি?",
+          "options": [
+            "ক) ১° > ₂° > ৩°",
+            "খ) ৩° > ₂° > মিথাইল হ্যালাইড",
+            "গ) ৩° > ₂° > ১°",
+            "ঘ) ২° > ১° > ৩°"
+          ],
+          "correctOption": "ক",
+          "explanation": "SN2 এ স্টেরিক বাধা কম হলে বিক্রিয়া দ্রুত → ১° সবচেয়ে সক্রিয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 9,
+          "passage": null,
+          "questionText": "কোন বিকারকটি ব্যবহার করে মিথান্যাল এবং ইথান্যালের মধ্যে পার্থক্য করা যায়?",
+          "options": [
+            "ক) টলেন বিকারক",
+            "খ) ফেহলিং দ্রবণ",
+            "গ) ক্যানিজারো বিক্রিয়া ও আয়োডোফর্ম পরীক্ষা",
+            "ঘ) ২,৪-DNPH বিকারক"
+          ],
+          "correctOption": "ক",
+          "explanation": "মিথান্যাল টলেন/ফেহলিং পরীক্ষায় ধনাত্মক; ইথান্যাল সাধারণত নেতিবাচক।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 10,
+          "passage": null,
+          "questionText": "ইথাইন যৌগে জলীয় বাষ্প ও 2% HgSO₄/20% H₂SO₄ যোগ করলে প্রধান উৎপাদ কী হবে?",
+          "options": [
+            "ক) ইথানল",
+            "খ) ইথান্যাল",
+            "গ) ইথানয়িক এসিড",
+            "ঘ) ডাইমিথাইল ইথার"
+          ],
+          "correctOption": "খ",
+          "explanation": "মারকনিকভ হাইড্রেশনে অ্যাসিটিলিন → ইথান্যাল।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 11,
+          "passage": null,
+          "questionText": "১ লিটার দ্রবণে ৫.৩ গ্রাম Na₂CO₃ দ্রবীভূত থাকলে দ্রবণের মোলারিটি কত?",
+          "options": [
+            "ক) 0.1 M",
+            "খ) 0.05 M",
+            "গ) 0.5 M",
+            "ঘ) 1.0 M"
+          ],
+          "correctOption": "খ",
+          "explanation": "M = 5.3/106 = 0.05 M।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 12,
+          "passage": null,
+          "questionText": "Cr₂O₇²⁻ আয়নে ক্রোমিয়ামের জারণ সংখ্যা কত?",
+          "options": [
+            "ক) +3",
+            "খ) +5",
+            "গ) +6",
+            "ঘ) +7"
+          ],
+          "correctOption": "গ",
+          "explanation": "২x + 7(−2) = −2 ⇒ x = +6।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 13,
+          "passage": null,
+          "questionText": "অম্লীয় মাধ্যমে ১ মোল K₂Cr₂O₇ কত মোল Fe²⁺ কে জারিত করতে পারে?",
+          "options": [
+            "ক) ১ মোল",
+            "খ) ৩ মোল",
+            "গ) ৫ মোল",
+            "ঘ) ৬ মোল"
+          ],
+          "correctOption": "ঘ",
+          "explanation": "Cr₂O₇²⁻ + 6Fe²⁺ + 14H⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 14,
+          "passage": null,
+          "questionText": "নিচের কোনটি সেকেন্ডারি স্ট্যান্ডার্ড পদার্থ?",
+          "options": [
+            "ক) Na₂CO₃",
+            "খ) H₂C₂O₄",
+            "গ) KMnO₄",
+            "ঘ) বিশুদ্ধ NaCl"
+          ],
+          "correctOption": "খ",
+          "explanation": "অক্সালিক এসিড সেকেন্ডারি স্ট্যান্ডার্ড; K₂Cr₂O₇ ও প্রাইমারি স্ট্যান্ডার্ডও ব্যবহৃত হয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 15,
+          "passage": null,
+          "questionText": "৫ অ্যাম্পিয়ার তড়িৎ ২ ঘণ্টা ধরে কোনো পরিবাহীর মধ্য দিয়ে চালনা করলে প্রবাহিত আধানের পরিমাণ কত কুলম্ব?",
+          "options": [
+            "ক) 10 C",
+            "খ) 600 C",
+            "গ) 36000 C",
+            "ঘ) 18000 C"
+          ],
+          "correctOption": "গ",
+          "explanation": "Q = It = 5 × 7200 = 36000 C।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 16,
+          "passage": null,
+          "questionText": "কপার সালফেট (CuSO₄) দ্রবণে ২ ফ্যারাডে তড়িৎ চালনা করলে ক্যাথোডে কত মোল কপার জমা হবে?",
+          "options": [
+            "ক) 0.5 মোল",
+            "খ) 1.0 মোল",
+            "গ) 2.0 মোল",
+            "ঘ) 4.0 মোল"
+          ],
+          "correctOption": "খ",
+          "explanation": "Cu²⁺ + 2e⁻ → Cu; ২ F = ১ মোল Cu।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 17,
+          "passage": null,
+          "questionText": "গ্যালভানিক কোষে লবণ সেতুতে (Salt bridge) নিচের কোন তড়িৎ বিশ্লেষ্যটি ব্যবহার করা উপযুক্ত?",
+          "options": [
+            "ক) AgCl",
+            "খ) KNO₃",
+            "গ) CH₃COOH",
+            "ঘ) BaSO₄"
+          ],
+          "correctOption": "খ",
+          "explanation": "KNO₃ উভয় অর্ধকোষে অবিশ্লেষ্য; তড়িৎ নিরপেক্ষতা বজায় রাখে।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 18,
+          "passage": null,
+          "questionText": "বাণিজ্যিকভাবে ব্যবহৃত লিথিয়াম আয়ন ব্যাটারিতে অ্যানোড হিসেবে কোনটি থাকে?",
+          "options": [
+            "ক) LiCoO₂",
+            "খ) লিথিয়াম গ্রাফাইট (LiC₆)",
+            "গ) MnO₂",
+            "ঘ) লেড ডাইঅক্সাইড"
+          ],
+          "correctOption": "খ",
+          "explanation": "ডিসচার্জে LiC₆ থেকে Li⁺ মুক্ত হয় (অ্যানোড)।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 19,
+          "passage": null,
+          "questionText": "পোর্টল্যান্ড সিমেন্টের প্রধান উপাদান কোনটি?",
+          "options": [
+            "ক) জিপসাম",
+            "খ) ক্যালসিয়াম সিলিকেট ও অ্যালুমিনেট চূর্ণ",
+            "গ) বালি বা সিলিকা",
+            "ঘ) ম্যাগনেসিয়া"
+          ],
+          "correctOption": "খ",
+          "explanation": "ক্লিংকারের প্রধান উপাদান ট্রাইক্যালসিয়াম সিলিকেট ও অ্যালুমিনেট।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 20,
+          "passage": null,
+          "questionText": "চামড়া ট্যানিং প্রক্রিয়ায় ব্যবহৃত 'বেটিং' (Bating) এর মূল উদ্দেশ্য কী?",
+          "options": [
+            "ক) চামড়ার চুল দূর করা",
+            "খ) অম্লীয় ভাব দূর করা ও চামড়াকে নরম করা",
+            "গ) চামড়াকে লবণাক্ত করা",
+            "ঘ) চামড়ার পানি শোষণ ক্ষমতা কমানো"
+          ],
+          "correctOption": "খ",
+          "explanation": "বেটিং এনজাইম দ্বারা অম্লীয়তা কমিয়ে চামড়া নরম ও নমনীয় করে।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 21,
+          "passage": "E°Zn²⁺/Zn = −0.76 V এবং E°Ag⁺/Ag = +0.80 V",
+          "questionText": "উদ্দীপকের উপাদানগুলো দিয়ে গঠিত কোষের প্রমাণ কোষ বিভব (E°cell) কত?",
+          "options": [
+            "ক) +0.04 V",
+            "খ) +1.56 V",
+            "গ) −1.56 V",
+            "ঘ) +2.36 V"
+          ],
+          "correctOption": "খ",
+          "explanation": "E°cell = E°cathode − E°anode = 0.80 − (−0.76) = +1.56 V।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 22,
+          "passage": "উপরের উদ্দীপক অনুসারে।",
+          "questionText": "উদ্দীপকের তথ্যমতে সিলভারের পাত্রে জিঙ্ক সালফেট (ZnSO₄) এর দ্রবণ রাখা যাবে কি না?",
+          "options": [
+            "ক) রাখা যাবে না, কারণ বিক্রিয়া স্বতঃস্ফূর্ত",
+            "খ) রাখা যাবে, কারণ সিলভারের পাত্র ক্ষয় হবে না",
+            "গ) রাখা যাবে না, কারণ কোষ বিভব ঋণাত্মক",
+            "ঘ) পাত্রটি গলে যাবে"
+          ],
+          "correctOption": "খ",
+          "explanation": "Ag Zn-এর চেয়ে কম সক্রিয়; Ag পাত্রে ZnSO₄ রাখলে বিক্রিয়া হয় না।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 23,
+          "passage": null,
+          "questionText": "শিল্প ক্ষেত্রে তরল বর্জ্য শোধনাগার বা ETP-তে অ্যারোবিক ডাইজেশন ট্যাংকের কাজ কী?",
+          "options": [
+            "ক) ভারী ধাতু অধঃক্ষেপণ করা",
+            "খ) ব্যাকটেরিয়ার সাহায্যে জৈব বর্জ্য ভেঙে ফেলা",
+            "গ) পানির pH নিয়ন্ত্রণ করা",
+            "ঘ) ক্লোরিন যোগ করে জীবাণুমুক্ত করা"
+          ],
+          "correctOption": "খ",
+          "explanation": "অ্যারোবিক ডাইজেশনে ব্যাকটেরিয়া জৈব পদার্থ ভেঙে BOD কমায়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 24,
+          "passage": null,
+          "questionText": "ন্যানো প্রযুক্তির চিকিৎসাক্ষেত্রে বহুল ব্যবহৃত 'কোয়ান্টাম ডট' (Quantum dots) এর আকার কত সীমার মধ্যে থাকে?",
+          "options": [
+            "ক) 1–10 nm",
+            "খ) 100–500 nm",
+            "গ) 1000 nm",
+            "ঘ) 0.1 nm"
+          ],
+          "correctOption": "ক",
+          "explanation": "কোয়ান্টাম ডট সাধারণত ১–১০ nm আকারের অর্ধপরিবাহী কণা।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 25,
+          "passage": null,
+          "questionText": "ফেনলকে দস্তা চূর্ণ (Zn dust) সহ পাতন করলে নিচের কোনটি উৎপন্ন হয়?",
+          "options": [
+            "ক) বেনজিন",
+            "খ) টলুইন",
+            "গ) সাইক্লোহেক্সেন",
+            "ঘ) অ্যানিলিন"
+          ],
+          "correctOption": "ক",
+          "explanation": "ফেনলের Zn ধাতু দ্বারা বিজারণে বেনজিন উৎপন্ন হয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "label": "SET 04",
+      "title": "SET 04 — High Trap Calculation Edition",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "passage": null,
+          "questionText": "গ্যাস ধ্রুবক R এর মান লিটার-বায়ুমণ্ডল এককে নিচের কোনটি সঠিক?",
+          "options": [
+            "ক) 8.314 J K⁻¹ mol⁻¹",
+            "খ) 0.0821 L atm K⁻¹ mol⁻¹",
+            "গ) 1.987 cal K⁻¹ mol⁻¹",
+            "ঘ) 83.14 L atm K⁻¹ mol⁻¹"
+          ],
+          "correctOption": "খ",
+          "explanation": "R = 0.0821 L·atm·K⁻¹·mol⁻¹।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 2,
+          "passage": null,
+          "questionText": "নাইট্রোজেন গ্যাসের ক্ষেত্রে ক্রান্তিক তাপমাত্রা বা সংকট তাপমাত্রা কত?",
+          "options": [
+            "ক) −147°C",
+            "খ) 31.1°C",
+            "গ) 100°C",
+            "ঘ) 0°C"
+          ],
+          "correctOption": "ক",
+          "explanation": "N₂ এর ক্রান্তিক তাপমাত্রা প্রায় −147°C।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 3,
+          "passage": null,
+          "questionText": "অনুবন্ধী অম্ল-ক্ষারক তত্ত্বানুযায়ী, NH₄⁺ আয়নের অনুবন্ধী ক্ষারক কোনটি?",
+          "options": [
+            "ক) NH₃",
+            "খ) NH₂⁻",
+            "গ) NH₄OH",
+            "ঘ) H₃O⁺"
+          ],
+          "correctOption": "ক",
+          "explanation": "NH₄⁺ ⇌ NH₃ + H⁺; অনুবন্ধী ক্ষারক NH₃।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 4,
+          "passage": null,
+          "questionText": "বিশ্ব স্বাস্থ্য সংস্থা (WHO) অনুমোদিত পানের যোগ্য পানিতে As (আর্সেনিক) এর সর্বোচ্চ গ্রহণযোগ্য মাত্রা কত?",
+          "options": [
+            "ক) 0.01 ppm",
+            "খ) 0.05 ppm",
+            "গ) 0.5 ppm",
+            "ঘ) 1.0 ppm"
+          ],
+          "correctOption": "ক",
+          "explanation": "WHO অনুযায়ী As এর সীমা 0.01 mg/L (0.01 ppm)।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 5,
+          "passage": null,
+          "questionText": "আলোক সক্রিয় সমাবয়বতার শর্ত কোনটি?",
+          "options": [
+            "ক) যৌগে কার্বন-কার্বন দ্বিবন্ধন থাকতে হবে",
+            "খ) অনুটিতে প্রতিসাম্য তল থাকতে হবে",
+            "গ) অনুটিতে অন্তত একটি কাইরাল কেন্দ্র বা অসম কার্বন থাকতে হবে",
+            "ঘ) জ্যামিতিক কাঠামো রৈখিক হতে হবে"
+          ],
+          "correctOption": "গ",
+          "explanation": "অসম কার্বন বা কাইরাল কেন্দ্র থাকলে আলোক সমাবয়বতা সম্ভব।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 6,
+          "passage": null,
+          "questionText": "বেনজিনের নাইট্রেশন বিক্রিয়ায় উৎপাদিত সক্রিয় ইলেকট্রোফাইল কোনটি?",
+          "options": [
+            "ক) NO₂⁻",
+            "খ) NO₃⁻",
+            "গ) NO₂⁺",
+            "ঘ) NO⁺"
+          ],
+          "correctOption": "গ",
+          "explanation": "HNO₃ + H₂SO₄ → NO₂⁺ (নাইট্রোনিয়াম আয়ন)।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 7,
+          "passage": null,
+          "questionText": "নিচের কোন যৌগটি হফম্যান ক্ষুদ্রাংশকরণ (Degradation) বিক্রিয়া প্রদর্শন করে?",
+          "options": [
+            "ক) CH₃CONH₂",
+            "খ) CH₃NH₂",
+            "গ) CH₃CH₂Cl",
+            "ঘ) CH₃COOH"
+          ],
+          "correctOption": "ক",
+          "explanation": "প্রাইমারি অ্যামাইড Br₂/NaOH এ হফম্যান ডিগ্রেডেশনে অ্যামিন দেয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 8,
+          "passage": null,
+          "questionText": "ল্যাবরেটরিতে ১° এবং ২° অ্যালকোহলের মধ্যে পার্থক্য করার জন্য নিচের কোনটি সবচেয়ে উপযুক্ত?",
+          "options": [
+            "ক) লুকাস বিকারক",
+            "খ) টলেন বিকারক",
+            "গ) ডায়াজোনিয়াম লবণ পরীক্ষা",
+            "ঘ) ক্ষারীয় পটাশিয়াম পারম্যাঙ্গানেট"
+          ],
+          "correctOption": "ক",
+          "explanation": "লুকাস বিকারক ৩° > ২° > ১° ক্রমে দ্রুত প্রতিক্রিয়া করে।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 9,
+          "passage": null,
+          "questionText": "মিথাইল ক্লোরাইডকে সোডিয়াম ধাতুসহ শুষ্ক ইথারে বিক্রিয়া করালে কোন হাইড্রোকার্বন পাওয়া যায়?",
+          "options": [
+            "ক) মিথেন",
+            "খ) ইথেন",
+            "গ) প্রোপেন",
+            "ঘ) ইথিন"
+          ],
+          "correctOption": "খ",
+          "explanation": "ওয়ার্টজ বিক্রিয়ায় ২CH₃Cl + 2Na → CH₃CH₃ + 2NaCl।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 10,
+          "passage": null,
+          "questionText": "কার্বিল অ্যামিন বিক্রিয়ায় তীব্র দুর্গন্ধযুক্ত কোন বিষাক্ত যৌগটি উৎপন্ন হয়?",
+          "options": [
+            "ক) ফেনাইল আইসোসায়ানাইড",
+            "খ) নাইট্রোবেনজিন",
+            "গ) ক্লোরোপিক্রিন",
+            "ঘ) মিথাইল সায়ানাইড"
+          ],
+          "correctOption": "ক",
+          "explanation": "অ্যারোমেটিক প্রাইমারি অ্যামিনে কার্বিল অ্যামিন → ফেনাইল আইসোসায়ানাইড।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 11,
+          "passage": null,
+          "questionText": "0.005 M Ba(OH)₂ দ্রবণের pOH কত?",
+          "options": [
+            "ক) 2.0",
+            "খ) 1.0",
+            "গ) 12.0",
+            "ঘ) 13.0"
+          ],
+          "correctOption": "ক",
+          "explanation": "[OH⁻] = 2 × 0.005 = 0.01 M; pOH = −log(0.01) = 2।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 12,
+          "passage": null,
+          "questionText": "250 mL 0.2 M NaOH দ্রবণ প্রস্তুত করতে কত গ্রাম ওজনের দ্রাব লাগবে?",
+          "options": [
+            "ক) 2.0 গ্রাম",
+            "খ) 4.0 গ্রাম",
+            "গ) 8.0 গ্রাম",
+            "ঘ) 1.0 গ্রাম"
+          ],
+          "correctOption": "ক",
+          "explanation": "m = 0.25 × 0.2 × 40 = 2.0 g।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 13,
+          "passage": null,
+          "questionText": "H₂SO₅ (ক্যারোস এসিড) যৌগে সালফারের প্রকৃত জারণ সংখ্যা কত?",
+          "options": [
+            "ক) +8",
+            "খ) +6",
+            "গ) +4",
+            "ঘ) +2"
+          ],
+          "correctOption": "খ",
+          "explanation": "ক্যারোস এসিডে S এর জারণ সংখ্যা +6।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 14,
+          "passage": null,
+          "questionText": "আয়োডিমিটি (Iodimetry) টাইট্রেশনের মূল ভিত্তি কী?",
+          "options": [
+            "ক) প্রমাণ আয়োডিন দ্রবণ দ্বারা বিজারক পদার্থের পরিমাপ",
+            "খ) অজ্ঞাত আয়োডিন উৎপন্ন করে থায়োসালফেটের পরিমাপ",
+            "গ) এসিড-ক্ষারকের প্রশমন বিক্রিয়া",
+            "ঘ) নির্দেশক ছাড়া জটিল যৌগ তৈরি"
+          ],
+          "correctOption": "ক",
+          "explanation": "আয়োডিমিটিতে সরাসরি I₂ দ্রবণ দিয়ে বিজারক টাইট্রেট করা হয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 15,
+          "passage": null,
+          "questionText": "সিলভারের তড়িৎ রাসায়নিক তুল্যাঙ্ক (Z) এর একক কোনটি?",
+          "options": [
+            "ক) g C⁻¹",
+            "খ) C g⁻¹",
+            "গ) mol C⁻¹",
+            "ঘ) Amp sec"
+          ],
+          "correctOption": "ক",
+          "explanation": "Z = m/E = g/C (গ্রাম প্রতি কুলম্ব)।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 16,
+          "passage": null,
+          "questionText": "লেড স্টোরেজ ব্যাটারি যখন বিদ্যুৎ সরবরাহ করে (Discharging), তখন ক্যাথোডে কী ঘটে?",
+          "options": [
+            "ক) Pb জারিত হয়ে PbSO₄ তৈরি করে",
+            "খ) PbO₂ বিজারিত হয়ে PbSO₄ তৈরি করে",
+            "গ) পানি তড়িৎ বিশ্লেষিত হয়",
+            "ঘ) সালফিউরিক এসিডের ঘনত্ব বৃদ্ধি পায়"
+          ],
+          "correctOption": "খ",
+          "explanation": "ডিসচার্জে ক্যাথোডে PbO₂ + H₂SO₄ + 2H⁺ + 2e⁻ → PbSO₄ + 2H₂O।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 17,
+          "passage": null,
+          "questionText": "লোহার পাইপকে মরিচা থেকে বাঁচাতে দস্তার প্রলেপ দেওয়াকে কী বলা হয়?",
+          "options": [
+            "ক) অ্যানোডাইজিং",
+            "খ) গ্যালভানাইজিং",
+            "গ) ভলকানাইজিং",
+            "ঘ) ইলেকট্রোপ্লেটিং"
+          ],
+          "correctOption": "খ",
+          "explanation": "Zn প্রলেপ = গ্যালভানাইজিং।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 18,
+          "passage": null,
+          "questionText": "হাইড্রোজেন-অক্সিজেন ফুয়েল সেলের কোষ বিক্রিয়ায় উপজাত (Byproduct) হিসেবে কী উৎপন্ন হয়?",
+          "options": [
+            "ক) কার্বন ডাইঅক্সাইড",
+            "খ) পানি",
+            "গ) সালফার ডাইঅক্সাইড",
+            "ঘ) হাইড্রোজেন পারঅক্সাইড"
+          ],
+          "correctOption": "খ",
+          "explanation": "২H₂ + O₂ → ২H₂O।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 19,
+          "passage": null,
+          "questionText": "পোর্টল্যান্ড সিমেন্ট ক্লিংকার তৈরির ঘূর্ণায়মান চুল্লির সর্বোচ্চ তাপমাত্রা কত থাকে?",
+          "options": [
+            "ক) 500°C–600°C",
+            "খ) 1400°C–1600°C",
+            "গ) 2000°C",
+            "ঘ) 100°C"
+          ],
+          "correctOption": "খ",
+          "explanation": "রোটারি কিল্নে ক্লিংকার তৈরি ~১৪০০–১৬০০°C।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 20,
+          "passage": null,
+          "questionText": "ইউরিয়া সার উৎপাদনে কার্বন ডাইঅক্সাইডের সাথে কোন গ্যাসটি উচ্চ চাপে ও তাপমাত্রায় বিক্রিয়া করানো হয়?",
+          "options": [
+            "ক) প্রাকৃতিক গ্যাস",
+            "খ) তরল অ্যামোনিয়া",
+            "গ) নাইট্রোজেন ডাইঅক্সাইড",
+            "ঘ) হাইড্রোজেন গ্যাস"
+          ],
+          "correctOption": "খ",
+          "explanation": "ইউরিয়া: CO₂ + 2NH₃ → NH₂CONH₂ + H₂O (তরল NH₃)।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 21,
+          "passage": "একটি অপ্রতিসম অ্যালকিন: CH₃–CH=CH₂ + HBr → প্রধান উৎপাদ [X]",
+          "questionText": "উদ্দীপকের বিক্রিয়াটি কোন নীতি মেনে চলে এবং এর প্রধান উৎপাদ [X] কোনটি?",
+          "options": [
+            "ক) খারাশ নীতি; ১-ব্রোমোপ্রোপেন",
+            "খ) মারকনিকভ নীতি; ২-ব্রোমোপ্রোপেন",
+            "গ) সায়জেফ নীতি; ২-ব্রোমোপ্রোপেন",
+            "ঘ) বায়ার নীতি; ১,২-ডাইব্রোমোপ্রোপেন"
+          ],
+          "correctOption": "খ",
+          "explanation": "প্রোপিনে HBr যোগ মারকনিকভ → ২-ব্রোমোপ্রোপেন।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 22,
+          "passage": "উপরের উদ্দীপক অনুসারে।",
+          "questionText": "উদ্দীপকের বিক্রিয়াটিতে যদি জৈব পারঅক্সাইড (R₂O₂) উপস্থিত থাকত, তবে প্রধান উৎপাদ কী হতো?",
+          "options": [
+            "ক) ২-ব্রোমোপ্রোপেন",
+            "খ) ১-ব্রোমোপ্রোপেন",
+            "গ) প্রোপানল",
+            "ঘ) কোনো বিক্রিয়া হতো না"
+          ],
+          "correctOption": "খ",
+          "explanation": "পারঅক্সাইডে অ্যান্টি-মারকনিকভ → ১-ব্রোমোপ্রোপেন।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 23,
+          "passage": null,
+          "questionText": "কোনো গ্যাসের অণুর বেগ শূন্য হয় কোন তাপমাত্রায়?",
+          "options": [
+            "ক) 0°C",
+            "খ) 0 K",
+            "গ) 273 K",
+            "ঘ) 100°C"
+          ],
+          "correctOption": "খ",
+          "explanation": "আদর্শ গ্যাসের গতিবিদ্যা অনুযায়ী পরম শূন্য (0 K) তে বেগ শূন্য।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 24,
+          "passage": null,
+          "questionText": "শিল্প কারখানার রাসায়নিক ধোঁয়া থেকে পরিবেশ রক্ষায় চিমনিতে কোন যন্ত্র ব্যবহার করা হয়?",
+          "options": [
+            "ক) ইটিপি ট্যাংকার",
+            "খ) ইলেক্ট্রোস্ট্যাটিক প্রিসিপিটেটর",
+            "গ) সেন্ট্রিফিউজ মেশিন",
+            "ঘ) ক্রোমাটোগ্রাফিক কলাম"
+          ],
+          "correctOption": "খ",
+          "explanation": "ESP ধূলিকণা/ধোঁয়া আয়নিত করে অধঃক্ষেপ করে।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 25,
+          "passage": null,
+          "questionText": "নাইলন-৬:৬ তৈরিতে হেক্সামিথিলিন ডাইঅ্যামিনের সাথে কোন এসিডের ঘনীভবন পলিমারকরণ করা হয়?",
+          "options": [
+            "ক) অক্সালিক এসিড",
+            "খ) এডিপিক এসিড",
+            "গ) থ্যালিক এসিড",
+            "ঘ) স্যালিসিলিক এসিড"
+          ],
+          "correctOption": "খ",
+          "explanation": "নাইলন-৬,৬ = HMDA + adipic acid।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        }
+      ]
+    },
+    {
+      "set_id": 5,
+      "label": "SET 05",
+      "title": "SET 05 — Full Syllabus Blueprint",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "passage": null,
+          "questionText": "ডালটনের আংশিক চাপ সূত্রটি নিচের কোন গ্যাস মিশ্রণের ক্ষেত্রে প্রযোজ্য নয়?",
+          "options": [
+            "ক) N₂ এবং O₂",
+            "খ) He এবং Ne",
+            "গ) NH₃ এবং HCl",
+            "ঘ) CO₂ এবং O₂"
+          ],
+          "correctOption": "গ",
+          "explanation": "NH₃ ও HCl একসাথে থাকলে বিক্রিয়া করে; আংশিক চাপ সূত্র প্রযোজ্য নয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 2,
+          "passage": null,
+          "questionText": "27°C তাপমাত্রায় কার্বন ডাইঅক্সাইড (CO₂) গ্যাসের আরএমএস (RMS) বেগ কত?",
+          "options": [
+            "ক) 412.3 m/s",
+            "খ) 13.01 m/s",
+            "গ) 41.23 m/s",
+            "ঘ) 310.5 m/s"
+          ],
+          "correctOption": "ক",
+          "explanation": "Crms = √(3RT/M) = √(3×8.314×300/0.044) ≈ 412.3 m/s।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 3,
+          "passage": null,
+          "questionText": "কোনো জলাশয়ের পানির ক্ষেত্রে COD এর মান 20 mg/L এবং BOD এর মান 5 mg/L হলে কোনটি সত্য?",
+          "options": [
+            "ক) পানিটি সম্পূর্ণ বিশুদ্ধ",
+            "খ) পানিতে অনুজীব দ্বারা পচনশীল বর্জ্যের চেয়ে অপচনশীল রাসায়নিক বর্জ্য বেশি",
+            "গ) পানিতে দ্রবীভূত অক্সিজেনের পরিমাণ বৃদ্ধি পেয়েছে",
+            "ঘ) পানিটি পানের জন্য আদর্শ"
+          ],
+          "correctOption": "খ",
+          "explanation": "COD > BOD মানে অজৈব/অপচনশীল দূষণ বেশি।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 4,
+          "passage": null,
+          "questionText": "নিচের কোনটি ওজোন স্তর ধ্বংসের জন্য চেইন বিক্রিয়া শুরু করতে ফ্রি রডিক্যাল তৈরি করে?",
+          "options": [
+            "ক) CO₂",
+            "খ) CFC বা ক্লোরোফ্লুরোকার্বন",
+            "গ) SO₂",
+            "ঘ) CH₄"
+          ],
+          "correctOption": "খ",
+          "explanation": "CFC ফোটোলাইসিসে Cl· মুক্ত করে ওজোন ধ্বংসের চেইন শুরু করে।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 5,
+          "passage": null,
+          "questionText": "টটামারিজম (গতিশীল কার্যকরী মূলক সমাবয়বতা) প্রদর্শন করে নিচের কোনটি?",
+          "options": [
+            "ক) প্রোপানোন",
+            "খ) ডাইমিথাইল ইথার",
+            "গ) ইথানল",
+            "ঘ) প্রোপেন"
+          ],
+          "correctOption": "ক",
+          "explanation": "প্রোপানোন কেটো-এনল টটামেরিজম দেখায়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 6,
+          "passage": null,
+          "questionText": "বেকিং পাউডারের অন্যতম প্রধান উপাদান এবং কাইরাল কার্বনযুক্ত যৌগ কোনটি?",
+          "options": [
+            "ক) ল্যাকটিক এসিড",
+            "খ) টারটারিক এসিড",
+            "গ) সাইট্রিক এসিড",
+            "ঘ) অক্সালিক এসিড"
+          ],
+          "correctOption": "খ",
+          "explanation": "টারটারিক এসিড কাইরাল; বেকিং পাউডারে NaHCO₃ এর সাথে ব্যবহৃত।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 7,
+          "passage": null,
+          "questionText": "বেনজিন বলয় সক্রিয়কারী অর্থো-প্যারা নির্দেশক মূলক কোনটি?",
+          "options": [
+            "ক) –NO₂",
+            "খ) –COOH",
+            "গ) –NH₂",
+            "ঘ) –CHO"
+          ],
+          "correctOption": "গ",
+          "explanation": "–NH₂ অর্থো-প্যারা নির্দেশক ও বলয় সক্রিয়কারী।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 8,
+          "passage": null,
+          "questionText": "অ্যালডিহাইড ও কিটোনের মধ্যে পার্থক্য করার জন্য নিচের কোন পরীক্ষাটি ব্যবহৃত হয়?",
+          "options": [
+            "ক) লুকাস বিকারক পরীক্ষা",
+            "খ) ফেহলিং দ্রবণ পরীক্ষা",
+            "গ) কার্বিল অ্যামিন পরীক্ষা",
+            "ঘ) বায়ার পরীক্ষা"
+          ],
+          "correctOption": "খ",
+          "explanation": "ফেহলিং/টলেন অ্যালডিহাইডে ধনাত্মক; সাধারণ কিটোনে নেতিবাচক।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 9,
+          "passage": null,
+          "questionText": "ক্যানিজারো বিক্রিয়া দেয় নিচের কোন কার্বনিল যৌগটি?",
+          "options": [
+            "ক) যার আলফা-হাইড্রোজেন নেই",
+            "খ) যার আলফা-হাইড্রোজেন আছে",
+            "গ) সব ধরনের কিটোন",
+            "ঘ) দীর্ঘ চেইনের ফ্যাটি এসিড"
+          ],
+          "correctOption": "ক",
+          "explanation": "আলফা-H নেই এমন অ্যালডিহাইড (যেমন HCHO) ক্যানিজারো দেয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 10,
+          "passage": null,
+          "questionText": "ইথানয়িক এসিডকে সোডালাইম (NaOH + CaO) সহ উত্তপ্ত করলে কোন গ্যাসটি পাওয়া যায়?",
+          "options": [
+            "ক) ইথেন",
+            "খ) মিথেন",
+            "গ) কার্বন মনোক্সাইড",
+            "ঘ) অ্যাসিটিলিন"
+          ],
+          "correctOption": "খ",
+          "explanation": "ডেকার্বক্সিলেশনে CH₃COONa → CH₄ (মিথেন)।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 11,
+          "passage": null,
+          "questionText": "কোনো দ্রবণের ঘনমাত্রা 250 ppm হলে তার অর্থ কী?",
+          "options": [
+            "ক) ১ লিটার দ্রবণে ২৫০ মিলিগ্রাম দ্রাব আছে",
+            "খ) ১ লিটার দ্রবণে ২৫০ গ্রাম দ্রাব আছে",
+            "গ) ১ মিলি লিটার দ্রবণে ২৫০ গ্রাম দ্রাব আছে",
+            "ঘ) ১০ লিটার দ্রবণে ২৫০ মিলিগ্রাম দ্রাব আছে"
+          ],
+          "correctOption": "ক",
+          "explanation": "ppm = mg/L; 250 ppm = 250 mg প্রতি লিটার।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 12,
+          "passage": null,
+          "questionText": "সোডিয়াম থায়োসালফেট (Na₂S₂O₃) যৌগে সালফারের জারণ সংখ্যা কত?",
+          "options": [
+            "ক) +2",
+            "খ) +2.5",
+            "গ) +4",
+            "ঘ) +6"
+          ],
+          "correctOption": "ক",
+          "explanation": "Na₂S₂O₃ এ S এর গড় জারণ সংখ্যা +2।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 13,
+          "passage": null,
+          "questionText": "অম্লীয় মাধ্যমে পটাশিয়াম পারম্যাঙ্গানেট (KMnO₄) কোন বিজারকের সাথে বিক্রিয়া করে বর্ণহীন হয়ে যায়?",
+          "options": [
+            "ক) FeSO₄",
+            "খ) K₂Cr₂O₇",
+            "গ) HNO₃",
+            "ঘ) HCl"
+          ],
+          "correctOption": "ক",
+          "explanation": "অম্লীয় KMnO₄ Fe²⁺ কে Fe³⁺ এ জারিত করে বেগুনি বর্ণ হারায়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 14,
+          "passage": null,
+          "questionText": "নিচের কোনটি প্রাইমারি স্ট্যান্ডার্ড ক্ষারীয় পদার্থ?",
+          "options": [
+            "ক) NaOH",
+            "খ) Na₂CO₃",
+            "গ) KOH",
+            "ঘ) Ca(OH)₂"
+          ],
+          "correctOption": "খ",
+          "explanation": "Na₂CO₃ প্রাইমারি স্ট্যান্ডার্ড; NaOH হাইগ্রোস্কোপিক।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 15,
+          "passage": null,
+          "questionText": "১ ফ্যারাডে তড়িৎ আধান সমান কত কুলম্ব?",
+          "options": [
+            "ক) 96500 C",
+            "খ) 1.6 × 10⁻¹⁹ C",
+            "গ) 6.023 × 10²³ C",
+            "ঘ) 3 × 10⁸ C"
+          ],
+          "correctOption": "ক",
+          "explanation": "১ F = 96500 C (≈ 96485 C)।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 16,
+          "passage": null,
+          "questionText": "অম্ল মিশ্রিত পানিতে তড়িৎ বিশ্লেষণ করলে অ্যানোডে কোন গ্যাসটি মুক্ত হয়?",
+          "options": [
+            "ক) হাইড্রোজেন গ্যাস",
+            "খ) অক্সিজেন গ্যাস",
+            "গ) ওজোন গ্যাস",
+            "ঘ) ক্লোরিন গ্যাস"
+          ],
+          "correctOption": "খ",
+          "explanation": "অম্লীয় জল বিশ্লেষণে অ্যানোডে O₂ মুক্ত হয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 17,
+          "passage": null,
+          "questionText": "ড্যানিয়েল কোষে অ্যানোড হিসেবে দস্তার পাত কোন দ্রবণে ডুবানো থাকে?",
+          "options": [
+            "ক) 1 M CuSO₄ দ্রবণ",
+            "খ) 1 M ZnSO₄ দ্রবণ",
+            "গ) লঘু H₂SO₄ দ্রবণ",
+            "ঘ) সম্পৃক্ত KCl দ্রবণ"
+          ],
+          "correctOption": "খ",
+          "explanation": "Zn অ্যানোড ZnSO₄ দ্রবণে; Cu ক্যাথোড CuSO₄ এ।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 18,
+          "passage": null,
+          "questionText": "নার্নস্ট সমীকরণ অনুযায়ী তাপমাত্রা বৃদ্ধি পেলে কোষ বিভবের (Ecell) মানের কী পরিবর্তন ঘটে?",
+          "options": [
+            "ক) সবসময় বৃদ্ধি পায়",
+            "খ) বিক্রিয়ক ও উৎপাদের ঘনমাত্রার অনুপাতের ওপর ভিত্তি করে হ্রাস বা বৃদ্ধি পেতে পারে",
+            "গ) অপরিবর্তিত থাকে",
+            "ঘ) শূন্য হয়ে যায়"
+          ],
+          "correctOption": "খ",
+          "explanation": "Ecell নির্ভর করে ΔG° ও ঘনমাত্রার ওপর; তাপমাত্রা পরিবর্তনে E পরিবর্তন হতে পারে।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 19,
+          "passage": null,
+          "questionText": "ক্রোম ট্যানিং প্রক্রিয়ায় কাঁচা চামড়ার কোলাজেন প্রোটিনের সাথে কোন রাসায়নিকের বন্ধন তৈরি হয়?",
+          "options": [
+            "ক) বেসিক ক্রোমিয়াম সালফেট",
+            "খ) সোডিয়াম ক্লোরাইড",
+            "গ) ফরমালডিহাইড",
+            "ঘ) সালফিউরিক এসিড"
+          ],
+          "correctOption": "ক",
+          "explanation": "Cr³⁺ কোলাজেনের সাথে ক্রস-লিংক করে চামড়া ট্যান হয়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 20,
+          "passage": null,
+          "questionText": "প্রাকৃতিক গ্যাস থেকে অ্যামোনিয়া গ্যাস তৈরির শিল্প পদ্ধতির নাম কী?",
+          "options": [
+            "ক) হেবার-বস পদ্ধতি",
+            "খ) সলভে পদ্ধতি",
+            "গ) কন্টাক্ট পদ্ধতি",
+            "ঘ) ডাউন পদ্ধতি"
+          ],
+          "correctOption": "ক",
+          "explanation": "N₂ + 3H₂ ⇌ 2NH₃ (হেবার-বস)।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 21,
+          "passage": "একটি ২-স্টেপ অ্যালকোহল জারণ চেইন:\nCH₃CH₂OH →[K₂Cr₂O₇/H⁺] [P] →[তীব্র জারণ] [Q]",
+          "questionText": "উদ্দীপকের [P] এবং [Q] যৌগ দুটি যথাক্রমে কী?",
+          "options": [
+            "ক) ইথান্যাল এবং ইথানয়িক এসিড",
+            "খ) প্রোপানোন এবং প্রোপানয়িক এসিড",
+            "গ) ইথেন এবং কার্বন ডাইঅক্সাইড",
+            "ঘ) ইথাইল ইথার এবং এস্টার"
+          ],
+          "correctOption": "ক",
+          "explanation": "ইথানল মৃদু জারণে ইথান্যাল, তীব্র জারণে ইথানয়িক এসিড।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 22,
+          "passage": "উপরের উদ্দীপক অনুসারে।",
+          "questionText": "উদ্দীপকের [P] যৌগটি নিচের কোন পরীক্ষাটি ইতিবাচকভাবে প্রদর্শন করবে?",
+          "options": [
+            "ক) সিলভার দর্পণ পরীক্ষা (টলেন বিকারক)",
+            "খ) লুকাস বিকারক পরীক্ষা",
+            "গ) লিটমাস পেপার পরীক্ষা",
+            "ঘ) কার্বিল অ্যামিন পরীক্ষা"
+          ],
+          "correctOption": "ক",
+          "explanation": "ইথান্যাল অ্যালডিহাইড; টলেন/ফেহলিং পরীক্ষায় ধনাত্মক।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 23,
+          "passage": null,
+          "questionText": "কোনো কোষের কোষ বিক্রিয়া স্বতঃস্ফূর্ত হওয়ার জন্য গিভসের মুক্ত শক্তির পরিবর্তন (ΔG) কেমন হতে হবে?",
+          "options": [
+            "ক) ধনাত্মক",
+            "খ) ঋণাত্মক",
+            "গ) শূন্য",
+            "ঘ) অসীম"
+          ],
+          "correctOption": "খ",
+          "explanation": "ΔG < 0 হলে বিক্রিয়া স্বতঃস্ফূর্ত।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 24,
+          "passage": null,
+          "questionText": "কাগজ শিল্পে পাল্প বা মণ্ড তৈরির সবচেয়ে পরিবেশবান্ধব ও আধুনিক ব্লিচিং এজেন্ট কোনটি?",
+          "options": [
+            "ক) ক্লোরিন গ্যাস",
+            "খ) ওজোন গ্যাস বা হাইড্রোজেন পারঅক্সাইড",
+            "গ) ক্যালসিয়াম হাইপোক্লোরাইট",
+            "ঘ) সোডিয়াম কার্বনেট"
+          ],
+          "correctOption": "খ",
+          "explanation": "TCF ব্লিচিংয়ে O₃ বা H₂O₂ ব্যবহার পরিবেশবান্ধব।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 25,
+          "passage": null,
+          "questionText": "বাস্তব গ্যাসসমূহ কোন শর্তে আদর্শ গ্যাসের মতো আচরণ করে?",
+          "options": [
+            "ক) উচ্চ চাপ ও নিম্ন তাপমাত্রা",
+            "খ) নিম্ন চাপ ও উচ্চ তাপমাত্রা",
+            "গ) নিম্ন চাপ ও নিম্ন তাপমাত্রা",
+            "ঘ) উচ্চ চাপ ও উচ্চ তাপমাত্রা"
+          ],
+          "correctOption": "খ",
+          "explanation": "নিম্ন চাপে আন্তঃঅণু বল কম; উচ্চ তাপমাত্রায় আকর্ষণ কমে যায়।",
+          "topic": "HSC Chemistry 2nd Paper",
+          "probability": "Board Standard"
+        }
+      ]
+    }
+  ]
+}

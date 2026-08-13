@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-08-model-test-04-q01": {
+    "correctOption": "$\\frac{3\\pi}{2}$",
+    "explanation": "$270^\\circ=\\frac{270}{180}\\pi=\\frac{3\\pi}{2}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q02": {
+    "correctOption": "$2\\pi$",
+    "explanation": "$360^\\circ=2\\pi$ radian।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q03": {
+    "correctOption": "$150^\\circ$",
+    "explanation": "$\\frac{5\\pi}{6}\\times\\frac{180^\\circ}{\\pi}=150^\\circ$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q04": {
+    "correctOption": "$14\\pi$ cm",
+    "explanation": "$s=r\\theta=21\\times\\frac{2\\pi}{3}=14\\pi$ cm।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q05": {
+    "correctOption": "20 cm",
+    "explanation": "$s=r\\theta$। তাই $10\\pi=r\\times\\frac{\\pi}{2}$, সুতরাং $r=20$ cm।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q06": {
+    "correctOption": "অতিভুজ/লম্ব",
+    "explanation": "$\\csc\\theta=\\frac1{\\sin\\theta}=\\frac{অতিভুজ}{লম্ব}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q07": {
+    "correctOption": "অতিভুজ/ভূমি",
+    "explanation": "$\\sec\\theta=\\frac1{\\cos\\theta}=\\frac{অতিভুজ}{ভূমি}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q08": {
+    "correctOption": "ভূমি/লম্ব",
+    "explanation": "$\\cot\\theta=\\frac1{\\tan\\theta}=\\frac{ভূমি}{লম্ব}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q09": {
+    "correctOption": "$\\frac43$",
+    "explanation": "$1+\\tan^2\\theta=\\sec^2\\theta$। $\\tan30^\\circ=\\frac1{\\sqrt3}$, তাই $1+\\frac13=\\frac43$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q10": {
+    "correctOption": "$\\frac43$",
+    "explanation": "$\\sec30^\\circ=\\frac{2}{\\sqrt3}$। তাই $\\sec^230^\\circ=\\frac43$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q11": {
+    "correctOption": "$\\frac43$",
+    "explanation": "$\\cot60^\\circ=\\frac1{\\sqrt3}$। তাই $1+\\cot^260^\\circ=1+\\frac13=\\frac43$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q12": {
+    "correctOption": "$\\frac43$",
+    "explanation": "$\\csc60^\\circ=\\frac{2}{\\sqrt3}$। তাই $\\csc^260^\\circ=\\frac43$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q13": {
+    "correctOption": "1",
+    "explanation": "$\\sin30^\\circ=\\frac12$ এবং $\\cos60^\\circ=\\frac12$। সমষ্টি 1।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q14": {
+    "correctOption": "0",
+    "explanation": "$\\sin60^\\circ=\\frac{\\sqrt3}{2}$ এবং $\\cos30^\\circ=\\frac{\\sqrt3}{2}$। তাই পার্থক্য 0।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q15": {
+    "correctOption": "2",
+    "explanation": "$\\tan45^\\circ=1$ এবং $\\cot45^\\circ=1$। সমষ্টি 2।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q16": {
+    "correctOption": "4",
+    "explanation": "$\\sec60^\\circ=2$ এবং $\\csc30^\\circ=2$। সমষ্টি 4।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q17": {
+    "correctOption": "$\\frac12$",
+    "explanation": "$\\sin45^\\circ=\\frac1{\\sqrt2}$। তাই $\\sin^245^\\circ=\\frac12$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q18": {
+    "correctOption": "$\\frac12$",
+    "explanation": "$\\cos45^\\circ=\\frac1{\\sqrt2}$। তাই $\\cos^245^\\circ=\\frac12$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q19": {
+    "correctOption": "1",
+    "explanation": "$\\tan45^\\circ=1$। তাই $\\tan^245^\\circ=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q20": {
+    "correctOption": "$\\frac{24}{25}$",
+    "explanation": "লম্ব=7, অতিভুজ=25 হলে ভূমি=24। তাই $\\cos\\theta=\\frac{24}{25}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q21": {
+    "correctOption": "$\\frac7{24}$",
+    "explanation": "ভূমি=24, অতিভুজ=25 হলে লম্ব=7। তাই $\\tan\\theta=\\frac7{24}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q22": {
+    "correctOption": "$\\frac{25}{24}$",
+    "explanation": "লম্ব=7, ভূমি=24 হলে অতিভুজ=25। তাই $\\sec\\theta=\\frac{অতিভুজ}{ভূমি}=\\frac{25}{24}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q23": {
+    "correctOption": "15 m",
+    "explanation": "$\\tan45^\\circ=\\frac{h}{15}=1$। তাই $h=15$ m।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q24": {
+    "correctOption": "20 m",
+    "explanation": "$\\tan30^\\circ=\\frac{h}{20\\sqrt3}=\\frac1{\\sqrt3}$। তাই $h=20$ m।"
+  },
+  "ssc-higher-math-chapter-08-model-test-04-q25": {
+    "correctOption": "$60^\\circ$",
+    "explanation": "$\\tan\\theta=\\frac{30\\sqrt3}{30}=\\sqrt3$। তাই $\\theta=60^\\circ$।"
+  }
+}

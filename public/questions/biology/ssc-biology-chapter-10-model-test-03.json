@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "রক্তে ক্যালসিয়ামের মাত্রা নিয়ন্ত্রণ করে কোন গ্রন্থির হরমোন?",
+    "options": [
+      "অগ্ন্যাশয়",
+      "পিটুইটারি",
+      "থাইরয়েড",
+      "প্যারাথাইরয়েড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "ইনসুলিন নিঃসৃত কী?",
+    "options": [
+      "অ্যাড্রিনাল",
+      "পিটুইটারি",
+      "থাইরয়েড",
+      "প্যানক্রিয়াস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "স্নায়ু তন্ত্রের একক কী?",
+    "options": [
+      "নেফ্রন",
+      "অ্যালভিওলি",
+      "নিউক্লিয়াস",
+      "নিউরন"
+    ],
+    "image": "/images/quiz/bio-neuron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "অ্যাড্রেনালিন হরমোনটি কোন গ্রন্থি থেকে নিঃসৃত হয়?",
+    "options": [
+      "থাইরয়েড",
+      "অ্যাড্রেনাল গ্রন্থি",
+      "পিটুইটারি",
+      "অগ্ন্যাশয়"
+    ],
+    "image": "/images/quiz/bio-nephron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "মস্তিষ্কের কাজ কী?",
+    "options": [
+      "রেচন",
+      "পরিপাক",
+      "চিন্তা ও সমন্বয়",
+      "শ্বাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "উদ্ভিদের কান্ডের অগ্রভাগে কোন হরমোনটির আধিক্য থাকে?",
+    "options": [
+      "অক্সিন",
+      "ইথিলিন",
+      "জিবেরেলিন",
+      "সাইটোকাইনিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "নিউরনের কাজ কী?",
+    "options": [
+      "রক্ত তৈরি",
+      "প্রোটিন তৈরি",
+      "তথ্য পরিবহন",
+      "পানি শোষণ"
+    ],
+    "image": "/images/quiz/bio-neuron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "পার্শ্বীয় শাখা বৃদ্ধির এই শারীরবৃত্তীয় ঘটনার সাথে জড়িত হরমোন হলো — i. সাইটোকাইনিন ii. ইথিলিন iii. জিবেরেলিন",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i, ii ও iii",
+      "i ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "রিফ্লেক্স উদাহরণ কোনটি?",
+    "options": [
+      "রেচন",
+      "হাঁচি",
+      "সালোকসংশ্লেষণ",
+      "পরিপাক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "থাইরয়েড গ্রন্থি কোথায়?",
+    "options": [
+      "কিডনিতে",
+      "ফুসফুসে",
+      "গলায়",
+      "পাকস্থলীতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "শরীরের জরুরি অবস্থা মোকাবিলায় গতিশীলতা বাড়ায় কোন হরমোন?",
+    "options": [
+      "থাইরক্সিন",
+      "ইনসুলিন",
+      "অ্যাড্রেনালিন",
+      "গ্রোথ হরমোন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "সমন্বয় অঙ্গ কী?",
+    "options": [
+      "অস্থি",
+      "মস্তিষ্ক",
+      "চুল",
+      "ত্বক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "মস্তিষ্কের অংশ কী?",
+    "options": [
+      "অ্যালভিওলি",
+      "সেরিব্রাম",
+      "নেফ্রন",
+      "ভিলাই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "হরমোন নিঃসরণ গ্রন্থি কী?",
+    "options": [
+      "শ্বসন",
+      "সালোকসংশ্লেষণ",
+      "এন্ডোক্রাইন",
+      "এক্সোক্রাইন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "সিন্যাপসে সংকেত কী?",
+    "options": [
+      "ইনসুলিন",
+      "নিউরোট্রান্সমিটার",
+      "হিমোগ্লোবিন",
+      "এনজাইম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "মানবদেহের কোন অঙ্গটি একই সাথে বহিঃক্ষরা (Exocrine) ও অন্তঃক্ষরা (Endocrine) গ্রন্থি বা 'মিশ্র গ্রন্থি' হিসেবে কাজ করে?",
+    "options": [
+      "যকৃৎ",
+      "অগ্ন্যাশয়",
+      "থাইরয়েড",
+      "পিটুইটারি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "রহিম সাহেবের বয়স ৫০ বছর। ইদানীং তিনি খুব দুর্বল বোধ করছেন, ঘন ঘন প্রস্রাব হচ্ছে এবং ক্ষতস্থান সহজে শুকাচ্ছে না। ডাক্তার রক্ত পরীক্ষা করে জানালেন, তার অগ্ন্যাশয় থেকে একটি বিশেষ হরমোন পর্যাপ্ত পরিমাণে তৈরি হচ্ছে না। রহিম সাহেব কোন রোগে ভুগছেন বলে ধারণা করা যায়?",
+    "options": [
+      "উচ্চ রক্তচাপ",
+      "ডায়াবেটিস",
+      "যক্ষ্মা",
+      "অ্যানিমিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "স্পাইনাল কর্ডের কাজ কী?",
+    "options": [
+      "সালোকসংশ্লেষণ",
+      "রেচন",
+      "পরিপাক",
+      "রিফ্লেক্স নিয়ন্ত্রণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "অ্যাড্রেনালিন নিঃসৃত কী?",
+    "options": [
+      "প্যানক্রিয়াস",
+      "পিটুইটারি",
+      "থাইরয়েড",
+      "অ্যাড্রিনাল গ্রন্থি"
+    ],
+    "image": "/images/quiz/bio-nephron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "চিত্রে দুটি নিউরনের সংযোগস্থল দেখানো হলে, এই ফাঁকা স্থানটিকে কী বলা হয় যার মাধ্যমে স্নায়ু উদ্দীপনা পরিবাহিত হয়?",
+    "options": [
+      "মেনিনজেস",
+      "সিন্যাপস",
+      "অ্যাক্সন",
+      "ডেনড্রাইট"
+    ],
+    "image": "/images/quiz/bio-neuron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "উদ্ভিদের কান্ডের বৃদ্ধি হ্রাসের জন্য দায়ী প্রধান বৃদ্ধিনিরোধক হরমোন কোনটি?",
+    "options": [
+      "সাইটোকাইনিন",
+      "জিবেরেলিন",
+      "অ্যাবসিসিক অ্যাসিড",
+      "অক্সিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "গ্রোথ হরমোনের কাজ কী?",
+    "options": [
+      "গ্যাস বিনিময়",
+      "বৃদ্ধি",
+      "পানি শোষণ",
+      "রক্ত জমাট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "নিচের কোন হরমোনটি মানুষের রক্তে শর্করার মাত্রা কমায়?",
+    "options": [
+      "থাইরক্সিন",
+      "গ্লুকাগন",
+      "ইনসুলিন",
+      "এপিনাফ্রিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "অ্যাড্রিনালিন বাড়লে কী?",
+    "options": [
+      "হৃৎস্পন্দন বাড়ে",
+      "পরিপাক বাড়ে",
+      "ঘুম আসে",
+      "রেচন বন্ধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-10-model-test-03-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-10-model-test-03",
+    "text": "স্নায়ু সংকেত কী?",
+    "options": [
+      "শুধু আলো",
+      "শুধু তাপ",
+      "শুধু যান্ত্রিক",
+      "বৈদ্যুতিক ও রাসায়নিক"
+    ],
+    "image": "/images/quiz/bio-neuron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

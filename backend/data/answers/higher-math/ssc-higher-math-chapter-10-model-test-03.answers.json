@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-10-model-test-03-q01": {
+    "correctOption": "60",
+    "explanation": "x⁴ পেতে r=2। সহগ = ⁶C₂ × 2² = 15×4 = 60।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q02": {
+    "correctOption": "80",
+    "explanation": "x³ পদের সহগ = ⁵C₃ × 2³ = 10×8 = 80।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q03": {
+    "correctOption": "216",
+    "explanation": "x² পেতে r=2। সহগ = ⁴C₂ × 3² × (-2)² = 6×9×4 = 216।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q04": {
+    "correctOption": "40",
+    "explanation": "x²-এর সহগ = ⁵C₂ × (-2)² = 10×4 = 40।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q05": {
+    "correctOption": "-80",
+    "explanation": "x³-এর সহগ = ⁵C₃ × (-2)³ = 10×(-8) = -80।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q06": {
+    "correctOption": "216",
+    "explanation": "x পদের সহগ = ⁴C₁ × (2x) × 3³ = 4×2×27 = 216।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q07": {
+    "correctOption": "216",
+    "explanation": "x² পদের সহগ = ⁴C₂ × (2²) × 3² = 6×4×9 = 216।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q08": {
+    "correctOption": "243",
+    "explanation": "x⁵ পদের সহগ আসে (3x)^5 থেকে। তাই সহগ 3^5 = 243।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q09": {
+    "correctOption": "405",
+    "explanation": "x⁴ পদের সহগ = ⁵C₁ × 3⁴ = 5×81 = 405।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q10": {
+    "correctOption": "-12",
+    "explanation": "x³ পদের সহগ = ⁴C₁ × (-3) = -12।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q11": {
+    "correctOption": "54",
+    "explanation": "x² পদের সহগ = ⁴C₂ × (-3)² = 6×9 = 54।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q12": {
+    "correctOption": "81",
+    "explanation": "ধ্রুবক পদ = (-3)^4 = 81।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q13": {
+    "correctOption": "252",
+    "explanation": "x⁵-এর সহগ = ¹⁰C₅ = 252।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q14": {
+    "correctOption": "120",
+    "explanation": "x³-এর সহগ = ¹⁰C₃ = 120।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q15": {
+    "correctOption": "120",
+    "explanation": "x⁷-এর সহগ = ¹⁰C₇ = ¹⁰C₃ = 120।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q16": {
+    "correctOption": "45",
+    "explanation": "x⁸-এর সহগ = ¹⁰C₈ = ¹⁰C₂ = 45।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q17": {
+    "correctOption": "সমমিত সহগ",
+    "explanation": "Pascal triangle-এ দুই পাশের সমদূরবর্তী সহগ সমান। তাই ⁿCᵣ = ⁿC_(n-r)।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q18": {
+    "correctOption": "20a³b³",
+    "explanation": "৪র্থ পদে r=3। তাই T₄ = ⁶C₃ a³b³ = 20a³b³।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q19": {
+    "correctOption": "10a³b²",
+    "explanation": "৩য় পদে r=2। T₃ = ⁵C₂ a³b² = 10a³b²।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q20": {
+    "correctOption": "-5a⁴b",
+    "explanation": "২য় পদে r=1। T₂ = ⁵C₁a⁴(-b) = -5a⁴b।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q21": {
+    "correctOption": "6a²b²",
+    "explanation": "৩য় পদে r=2। T₃ = ⁴C₂a²(-b)² = 6a²b²।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q22": {
+    "correctOption": "35",
+    "explanation": "৪র্থ পদে r=3। সহগ = ⁷C₃ = 35।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q23": {
+    "correctOption": "70",
+    "explanation": "n=8 হলে মধ্যপদ 5ম পদ, r=4। সহগ = ⁸C₄ = 70।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q24": {
+    "correctOption": "35 ও 35",
+    "explanation": "n=7 হলে মধ্যপদ ৪র্থ ও ৫ম। সহগ ⁷C₃ = 35 এবং ⁷C₄ = 35।"
+  },
+  "ssc-higher-math-chapter-10-model-test-03-q25": {
+    "correctOption": "20",
+    "explanation": "x³ পদের সহগ = ⁶C₃ = 20।"
+  }
+}

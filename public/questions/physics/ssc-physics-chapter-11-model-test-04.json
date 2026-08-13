@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "ট্রান্সফরমারের সেকেন্ডারি কয়েলের প্যাঁচসংখ্যা 10 গুণ করলে সেকেন্ডারি ভোল্টেজ কত গুণ হবে?",
+    "options": [
+      "0.1",
+      "1",
+      "10",
+      "100"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "বর্তনীতে ব্যবহৃত রোধক কত প্রকার?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "বর্তনীতে কী পরিমাণ তড়িৎ প্রবাহিত হচ্ছে? [R₁ = 6Ω, R₂ = 4Ω, R₃ = 2Ω, EMF = 6V]",
+    "options": [
+      "0.5 A",
+      "2 A",
+      "5.5 A",
+      "72 A"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "সকলটি রোধকে সমান্তরালে সাজালে তুল্য রোধ 'Rp' কেমন হবে? [R₁ = 6Ω, R₂ = 4Ω, R₃ = 2Ω]",
+    "options": [
+      "Rp < R₂ কিন্তু Rp > R₃",
+      "Rp < R₁ কিন্তু Rp > R₂",
+      "Rp < R₂ এবং Rp = R₃",
+      "Rp < R₂ এবং Rp > R₃"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "বাল্বটির রোধ কত? [60W – 220V বাল্ব]",
+    "options": [
+      "0.0012 Ω",
+      "0.273 Ω",
+      "3.667 Ω",
+      "806.67 Ω"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "বর্তনীর তুল্যরোধ কত? [20V উৎস, 6Ω ও 12Ω সমান্তরাল, তারপর 6Ω শ্রেণিতে]",
+    "options": [
+      "10 Ω",
+      "12 Ω",
+      "24 Ω",
+      "30 Ω"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "বর্তনীর মূল তড়িৎ প্রবাহ কত? [6V উৎস, R₁ = 2Ω, R₂ = 3Ω, R₃ = 5Ω শ্রেণিবদ্ধ এবং V = 5V]",
+    "options": [
+      "12.5 A",
+      "2.5 A",
+      "2 A",
+      "0.5 A"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "তড়িৎ প্রবাহের একক কোনটি?",
+    "options": [
+      "অ্যাম্পিয়ার",
+      "ওয়াট",
+      "ভোল্ট",
+      "ওহম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "তড়িৎ আধানের একক কী?",
+    "options": [
+      "ওহম",
+      "ভোল্ট",
+      "অ্যাম্পিয়ার",
+      "কুলম্ব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 29 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "174 A",
+      "0.21 A",
+      "35 A",
+      "4.8 A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "I=5 A, R=9 Ω হলে V = ?",
+    "options": [
+      "1.8",
+      "90",
+      "14",
+      "45"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "তাপধারণ ক্ষমতা নির্ভর করে না, বস্তুর—",
+    "options": [
+      "ভরের উপর",
+      "উপাদানের উপর",
+      "তাপমাত্রার উপর",
+      "আকারের উপর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "-4D ক্ষমতাসম্পন্ন লেন্সের ফোকাস দূরত্ব কত?",
+    "options": [
+      "-25cm",
+      "-4cm",
+      "-0.25cm",
+      "25cm"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-04-q13.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "কোনটি রূপার আপেক্ষিক রোধ?",
+    "options": [
+      "1.59 × 10⁻⁸ Ωm",
+      "1.68 × 10⁻⁸ Ωm",
+      "2.44 × 10⁻⁸ Ωm",
+      "2.50 × 10⁻⁶ Ωm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "ট্রান্সফরমারে আউটপুট ভোল্টেজ বৃদ্ধি করা যায়, যদি—",
+    "options": [
+      "সেকেন্ডারি কয়েলে প্যাঁচসংখ্যা বেশি হয়",
+      "প্রাইমারি কয়েলে প্যাঁচসংখ্যা বেশি হয়",
+      "দুই পাশের কয়েলে প্যাঁচসংখ্যা সমান হয়",
+      "প্রাইমারি কয়েলে ডিসি ভোল্টেজ প্রয়োগ করা হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "I=3 A, R=4 Ω হলে V=?",
+    "options": [
+      "12 V",
+      "7 V",
+      "1.33 V",
+      "12 Ω"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "5Ω ও 10Ω রোধ শ্রেণিতে যুক্ত হলে তুল্য রোধ কত?",
+    "options": [
+      "15 Ω",
+      "3.33 Ω",
+      "50 Ω",
+      "5 Ω"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "6Ω ও 3Ω রোধ সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+    "options": [
+      "2 Ω",
+      "9 Ω",
+      "18 Ω",
+      "3 Ω"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "লেন্সের ক্ষমতার একক কোনটি?",
+    "options": [
+      "জুল",
+      "মিটার",
+      "ডায়োপ্টার",
+      "ওয়াট"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-04-q19.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "চোখ দূরের বস্তু দেখতে পায় না কারণ— i. চক্ষু লেন্সের অভিসারী ক্ষমতা বৃদ্ধি পেলে ii. অক্ষি গোলকের ব্যাসার্ধ বৃদ্ধি পেলে iii. চক্ষু লেন্সের ফোকাস দূরত্ব বৃদ্ধি পেলে নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-04-q20.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "উদ্দীপক: চিত্রে প্রদর্শিত বর্তনীতে $R_1 = 4\\ \\Omega$, $R_2 = 2\\ \\Omega$, $R_3 = 6\\ \\Omega$, $R_4 = 2\\ \\Omega$ এবং তড়িৎচালক শক্তি $V = 12\\text{ V}$। বর্তনীর তুল্য রোধ কত? তাদের তুল্য রোধ $R_{p} = \\frac{R_2 \\times R_3}{R_2 + R_3} = \\frac{2 \\times 6}{2 + 6} = 1.5\\ \\Omega$। এই সমান্তরাল সমবায়ের সাথে $R_1$ এবং $R_4$ শ্রেণিতে যুক্ত। সুতরাং বর্তনীর মোট তুল্য রোধ $R_s = R_1 + R_p + R_4 = 4 + 1.5 + 2 = 7.5\\ \\Omega$।",
+    "options": [
+      "$0.7\\ \\Omega$",
+      "$3.43\\ \\Omega$",
+      "$7.5\\ \\Omega$",
+      "$14\\ \\Omega$"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "ক্ষমতার মাত্রা কোনটি? মাত্রার সমীকরণ: $[P] = \\frac{\\text{M} \\times \\text{LT}^{-2} \\times \\text{L}}{\\text{T}} = \\text{ML}^2\\text{T}^{-3}$।",
+    "options": [
+      "$\\text{ML}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-1}$",
+      "$\\text{ML}^{-1}\\text{T}^{-2}$",
+      "$\\text{ML}^2\\text{T}^{-3}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "একটি ট্রান্সফরমারের প্রাইমারি কয়েলের প্যাঁচ সংখ্যা 100, সেকেন্ডারি কয়েলের প্যাঁচ সংখ্যা 1000, প্রাইমারি কয়েল দিয়ে 10V DC দেওয়া হলে সেকেন্ডারি কয়েলে ভোল্টেজ কত?",
+    "options": [
+      "$0\\text{ V}$",
+      "$1\\text{ V}$",
+      "$1000\\text{ V}$",
+      "$10,000\\text{ V}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "বর্তনীতে কত তড়িৎ প্রবাহিত হবে?",
+    "options": [
+      "2.18 A",
+      "3.43 A",
+      "3.86 A",
+      "10.80 A"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "আপেক্ষিক রোধ নির্ভর করে- i. দৈর্ঘ্যের উপর ii. তাপমাত্রার উপর iii. উপাদানের উপর নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

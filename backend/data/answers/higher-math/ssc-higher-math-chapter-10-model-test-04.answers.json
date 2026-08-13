@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-10-model-test-04-q01": {
+    "correctOption": "4র্থ পদ",
+    "explanation": "n=6 জোড় হলে মধ্যপদ = n/2+1 = 4র্থ পদ।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q02": {
+    "correctOption": "160x³",
+    "explanation": "৪র্থ পদে r=3। T₄ = ⁶C₃×2³×x³ = 20×8x³ = 160x³।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q03": {
+    "correctOption": "35x³ ও 35x⁴",
+    "explanation": "n=7 হলে মধ্যপদ ৪র্থ ও ৫ম। পদ দুটি ⁷C₃x³=35x³ এবং ⁷C₄x⁴=35x⁴।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q04": {
+    "correctOption": "-160x³",
+    "explanation": "n=6 হলে মধ্যপদ ৪র্থ পদ। T₄ = ⁶C₃(1)^3(-2x)^3 = 20×(-8x³) = -160x³।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q05": {
+    "correctOption": "40x³",
+    "explanation": "৩য় পদে r=2। T₃=⁵C₂x³2²=10×4x³=40x³।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q06": {
+    "correctOption": "15x⁴",
+    "explanation": "২য় পদে r=1। T₂=⁵C₁x⁴×3=5×3x⁴=15x⁴।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q07": {
+    "correctOption": "60",
+    "explanation": "x² পদের সহগ = ⁶C₂ × (2x)² = 15×4 = 60।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q08": {
+    "correctOption": "240",
+    "explanation": "x⁴ পদের সহগ = ⁶C₂ × 2⁴ = 15×16 = 240।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q09": {
+    "correctOption": "1080",
+    "explanation": "x³ পদের সহগ = ⁵C₂ × 3³ × 2² = 10×27×4 = 1080।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q10": {
+    "correctOption": "1080",
+    "explanation": "x³ পেতে (3x)^3 এবং (-2)^2 লাগে। সহগ = ⁵C₂×3³×(-2)² = 10×27×4 = 1080।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q11": {
+    "correctOption": "60",
+    "explanation": "x⁴ পেতে r=2। সহগ = ⁶C₂×(-2)² = 15×4 = 60।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q12": {
+    "correctOption": "-160",
+    "explanation": "x³ পেতে r=3। সহগ = ⁶C₃×(-2)³ = 20×(-8) = -160।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q13": {
+    "correctOption": "560",
+    "explanation": "x³-এর সহগ = ⁷C₃×2⁴ = 35×16 = 560।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q14": {
+    "correctOption": "280",
+    "explanation": "x⁴-এর সহগ = ⁷C₄×2³ = 35×8 = 280।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q15": {
+    "correctOption": "270",
+    "explanation": "x³-এর সহগ = ⁵C₃×3³ = 10×27 = 270।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q16": {
+    "correctOption": "-270",
+    "explanation": "x³-এর সহগ = ⁵C₃×(-3)³ = 10×(-27) = -270।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q17": {
+    "correctOption": "13",
+    "explanation": "ঘাত 12 হলে পদসংখ্যা 12+1=13।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q18": {
+    "correctOption": "12",
+    "explanation": "ঘাত 11 হলে পদসংখ্যা 11+1=12।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q19": {
+    "correctOption": "7ম পদ",
+    "explanation": "n=12 জোড় হলে মধ্যপদ = n/2+1 = 7ম পদ।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q20": {
+    "correctOption": "6ষ্ঠ ও 7ম পদ",
+    "explanation": "n=11 বিজোড় হলে মধ্যপদ দুটি: 6ষ্ঠ ও 7ম পদ।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q21": {
+    "correctOption": "924",
+    "explanation": "x⁶-এর সহগ = ¹²C₆ = 924।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q22": {
+    "correctOption": "462",
+    "explanation": "x⁵-এর সহগ = ¹¹C₅ = 462।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q23": {
+    "correctOption": "462",
+    "explanation": "x⁶-এর সহগ = ¹¹C₆ = ¹¹C₅ = 462।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q24": {
+    "correctOption": "70x⁴",
+    "explanation": "৫ম পদে r=4। T₅ = ⁸C₄x⁴ = 70x⁴।"
+  },
+  "ssc-higher-math-chapter-10-model-test-04-q25": {
+    "correctOption": "70x⁴",
+    "explanation": "৫ম পদে r=4। T₅ = ⁸C₄x⁴(-1)^4 = 70x⁴।"
+  }
+}

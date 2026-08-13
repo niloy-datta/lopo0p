@@ -1,0 +1,78 @@
+{
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q01": {
+    "correctOption": "1",
+    "explanation": "উত্তর: B) 1 — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q02": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "অনেক তত্ত্বের প্রয়োগে i, ii এবং iii সবকটি বিবেচ্য। — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q03": {
+    "correctOption": "AB̄ + ĀB",
+    "explanation": "XOR গেট: Y = A ⊕ B = A·B̄ + Ā·B। আউটপুট 1 হবে যখন ইনপুটদ্বয় ভিন্ন।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q04": {
+    "correctOption": "NAND",
+    "explanation": "প্রশ্নের প্রদত্ত বিকল্পগুলির মধ্যে NAND নিকটতম বিকল্প হিসেবে নেওয়া হয়েছে।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q05": {
+    "correctOption": "[বর্তনী ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q06": {
+    "correctOption": "NOR",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q07": {
+    "correctOption": "জুল",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q08": {
+    "correctOption": "থার্মোমিটার",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q09": {
+    "correctOption": "হ্রাস পায়",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q10": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q11": {
+    "correctOption": "[E-r লেখচিত্র ৩]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q12": {
+    "correctOption": "[লেখচিত্র ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q13": {
+    "correctOption": "Nm^2C^{-1}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q14": {
+    "correctOption": "ফ্যারাড",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q15": {
+    "correctOption": "সমানুপাতিক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q16": {
+    "correctOption": "পানি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q17": {
+    "correctOption": "পোস্টঅফিস বক্স",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q18": {
+    "correctOption": "রুদ্ধতাপীয় পরিবর্তন বয়েলের সূত্র মেনে চলে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-09-q19": {
+    "correctOption": "তাপমাত্রা",
+    "explanation": ""
+  }
+}

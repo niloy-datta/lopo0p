@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "শব্দের ক্ষেত্রে— i. তাপমাত্রা বাড়লে বায়ুতে শব্দের বেগ হ্রাস পায় ii. বিস্তার দ্বিগুণ করলে তীব্রতা চারগুণ হবে iii. বাতাসের ঘনত্ব কমলে শব্দের বেগ বৃদ্ধি পাবে নিচের কোনটি সঠিক? ii. শব্দের তীব্রতা বিস্তারের বর্গের সমানুপাতিক ($I \\propto A^2$), তাই বিস্তার দ্বিগুণ করলে তীব্রতা চারগুণ হবে। iii. শব্দের বেগ ঘনত্বের ব্যস্তানুপাতিক ($v \\propto \\frac{1}{\\sqrt{\\rho}}$), তাই বাতাসের ঘনত্ব কমলে শব্দের বেগ বৃদ্ধি পাবে।",
+    "options": [
+      "i",
+      "ii",
+      "i ও iii",
+      "ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "20°C তাপমাত্রা বৃদ্ধিতে তারটির চূড়ান্ত দৈর্ঘ্য কত হবে? (উদ্দীপকভিত্তিক)",
+    "options": [
+      "0.00096 m",
+      "0.0146 m",
+      "30.00096 m",
+      "30.0146 m"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-06-model-test-01-q02.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "উদ্দীপকের ক্ষেত্রে— i. তারটি তামার তৈরি ii. তারটির তাপমাত্রা বৃদ্ধি পেলে রোধ কমে যাবে iii. তারটিতে প্রচুর মুক্ত ইলেকট্রন থাকে",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-06-model-test-01-q03.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "উদ্দীপক: 25°C তাপমাত্রায় 2 মোল গ্যাসীয় পদার্থের আয়তন 200 ঘন সে.মি.। সার্বজনীন গ্যাস ধ্রুবক 8.314 J K⁻¹mol⁻¹। উদ্দীপকের পদার্থটির আয়তন প্রসারণ সহগ— i. পরম তাপমাত্রার বিপরীত ii. এর মান 8.314 J K⁻¹mol⁻¹ iii. এর SI একক K⁻¹ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-06-model-test-01-q04.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "উদ্দীপক: 25°C তাপমাত্রায় 2 মোল গ্যাসীয় পদার্থের আয়তন 200 ঘন সে.মি.। সার্বজনীন গ্যাস ধ্রুবক 8.314 J K⁻¹mol⁻¹। উদ্দীপকের গ্যাসীয় পদার্থের চাপ কত?",
+    "options": [
+      "2.48 × 10¹ atm",
+      "2.45 × 10² atm",
+      "2.07 × 10⁶ atm",
+      "2.48 × 10⁷ atm"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-06-model-test-01-q05.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "1 g পানির তাপমাত্রা 1°C বাড়াতে হলে যে পরিমাণ তাপের দরকার সেটা হচ্ছে—",
+    "options": [
+      "1 ক্যালরি",
+      "1 কেলভিন",
+      "1 কিলো ক্যালরি",
+      "1 কিলো কেলভিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "আপেক্ষিক রোধ নির্ভর করে- i. দৈর্ঘ্যের উপর ii. তাপমাত্রার উপর iii. উপাদানের উপর নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "শব্দের বেগ শুষ্ক বায়ুতে 0°C তাপমাত্রায় কত?",
+    "options": [
+      "1500 m/s",
+      "343 m/s",
+      "300 m/s",
+      "332 m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "এক জুল তাপ কত ক্যালরির সমান?",
+    "options": [
+      "0.24",
+      "0.42",
+      "2.4",
+      "4.2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "$2\\text{ kg}$ পানির তাপমাত্রা $2^\\circ\\text{C}$ বাড়াতে প্রয়োজনীয় তাপ কত? $[S_w = 4200\\text{ J kg}^{-1}\\text{K}^{-1}]$",
+    "options": [
+      "$16800\\text{ J}$",
+      "$8400\\text{ J}$",
+      "$4000\\text{ J}$",
+      "$2000\\text{ J}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "সুস্থ মানবদেহের শরীরের তাপমাত্রা কত?",
+    "options": [
+      "\\(36.89^{\\circ}\\text{C}\\)",
+      "\\(98.4^{\\circ}\\text{C}\\)",
+      "\\(309.89^{\\circ}\\text{C}\\)",
+      "\\(371.4^{\\circ}\\text{C}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "0.5 kg পানির তাপমাত্রা 30°C থেকে 50°C করতে তাপ লাগবে—",
+    "options": [
+      "21000 J",
+      "42000 J",
+      "84000 J",
+      "105000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "বরফ গলনের সুপ্ততাপ বলতে বোঝায়—",
+    "options": [
+      "তাপমাত্রা বাড়ানোর তাপ",
+      "বরফকে পানিতে রূপান্তর করতে প্রয়োজনীয় তাপ",
+      "পানি ফুটানোর তাপ",
+      "গ্যাস ঠান্ডা করার তাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "নিচের কোনটি ভেক্টর রাশি?",
+    "options": [
+      "ভর",
+      "তাপমাত্রা",
+      "সরণ",
+      "সময়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "বরফ গলনের সময় এর তাপমাত্রা—",
+    "options": [
+      "বাড়তে থাকে",
+      "কমতে থাকে",
+      "স্থির থাকে",
+      "দ্বিগুণ হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "তাপ সঞ্চালনের যে পদ্ধতিতে কোনো জড় মাধ্যমের প্রয়োজন হয় না—",
+    "options": [
+      "পরিবহন",
+      "পরিচলন",
+      "বিকিরণ",
+      "প্রবাহ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "পানির সর্বোচ্চ ঘনত্ব কোন তাপমাত্রায়?",
+    "options": [
+      "4°C",
+      "0°C",
+      "100°C",
+      "-4°C"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "46°C থেকে 12°C তাপমাত্রার পার্থক্য=?",
+    "options": [
+      "552",
+      "34",
+      "58",
+      "-34"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "তাপ পরিবহনে তাপ প্রবাহিত হয়—",
+    "options": [
+      "উচ্চ থেকে নিম্ন তাপমাত্রায়",
+      "নিম্ন থেকে উচ্চ",
+      "যেকোনো",
+      "স্থির"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "m=4 kg, c=798 J/kg·K, ΔT=6 K হলে Q=?",
+    "options": [
+      "19152",
+      "24",
+      "808",
+      "4788"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "তাপ পরিবহনে তাপ কোন দিকে প্রবাহিত হয়?",
+    "options": [
+      "উচ্চ তাপমাত্রা থেকে নিম্ন",
+      "নিম্ন থেকে উচ্চ",
+      "যেকোনো",
+      "স্থির"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "তাপের SI একক কোনটি?",
+    "options": [
+      "জুল",
+      "কেলভিন",
+      "ক্যালরি",
+      "ওয়াট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "তাপমাত্রার SI একক কোনটি?",
+    "options": [
+      "কেলভিন",
+      "সেলসিয়াস",
+      "ফারেনহাইট",
+      "জুল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-01-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-01",
+    "text": "কঠিন পদার্থের প্রসারণ সাধারণত কোন তাপমাত্রার সাথে বৃদ্ধি পায়?",
+    "options": [
+      "তাপমাত্রা বৃদ্ধির সাথে",
+      "তাপমাত্রা হ্রাসের সাথে",
+      "চাপ বৃদ্ধির সাথে",
+      "ঘনত্ব বৃদ্ধির সাথে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

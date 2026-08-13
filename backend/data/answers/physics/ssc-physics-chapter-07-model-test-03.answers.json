@@ -1,0 +1,102 @@
+{
+  "ssc-physics-chapter-07-model-test-03-q01": {
+    "correctOption": "বেগুনি",
+    "explanation": "সঠিক উত্তর: ক।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q02": {
+    "correctOption": "400nm – 500nm",
+    "explanation": "সঠিক উত্তর: ঘ।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q03": {
+    "correctOption": "থেলিস",
+    "explanation": "সঠিক উত্তর: খ।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q04": {
+    "correctOption": "বেতার তরঙ্গ",
+    "explanation": "সঠিক উত্তর: ঘ।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q05": {
+    "correctOption": "হাইড্রোজেন",
+    "explanation": "সঠিক উত্তর: খ।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q06": {
+    "correctOption": "শব্দেতর",
+    "explanation": "সঠিক উত্তর: গ।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q07": {
+    "correctOption": "0.5 m",
+    "explanation": "তরঙ্গদৈর্ঘ্য λ = v/f = ৩৪০ / ১৭০ = ২ m।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q08": {
+    "correctOption": "125 ms⁻¹",
+    "explanation": "বেগ v = fλ = ৫০০ × ০.৪ = ২০০ ms⁻¹।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q09": {
+    "correctOption": "20 Hz",
+    "explanation": "f = 1/T = 1 / 0.02 = 50 Hz।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q10": {
+    "correctOption": "0.5 m",
+    "explanation": "তরঙ্গদৈর্ঘ্য λ = v/f = 300 / 150 = 2 m।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q11": {
+    "correctOption": "0.01 s",
+    "explanation": "পর্যায়কাল T = 1 / f = 1 / 50 = 0.02 s।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q12": {
+    "correctOption": "25 Hz",
+    "explanation": "কম্পাঙ্ক f = v / λ = 100 / 2 = 50 Hz।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q13": {
+    "correctOption": "0.5 Hz",
+    "explanation": "কম্পাঙ্ক f = N / t = 4 / 2 = 2 Hz।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q14": {
+    "correctOption": "150 ms⁻¹",
+    "explanation": "v=fλ=200×1.5=300 ms⁻¹।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q15": {
+    "correctOption": "8.5 m",
+    "explanation": "সর্বনিম্ন দূরত্ব=vt/2=340×0.1/2=17m।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q16": {
+    "correctOption": "অগুণিত",
+    "explanation": "wave"
+  },
+  "ssc-physics-chapter-07-model-test-03-q17": {
+    "correctOption": "অনুদৈর্ঘ্য",
+    "explanation": "সঠিক উত্তর: ক।"
+  },
+  "ssc-physics-chapter-07-model-test-03-q18": {
+    "correctOption": "$40$",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-07-model-test-03-q19": {
+    "correctOption": "300 nm - 700 nm",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-07-model-test-03-q20": {
+    "correctOption": "0.001s",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-07-model-test-03-q21": {
+    "correctOption": "গ্রিড",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-07-model-test-03-q22": {
+    "correctOption": "0.00143 Hz",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-07-model-test-03-q23": {
+    "correctOption": "আলোক তরঙ্গ",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-07-model-test-03-q24": {
+    "correctOption": "0m",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-07-model-test-03-q25": {
+    "correctOption": "0.1428 m",
+    "explanation": ""
+  }
+}

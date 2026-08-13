@@ -1,0 +1,117 @@
+{
+  "ssc-physics-chapter-11-model-test-01-q01": {
+    "correctOption": "4.8 A",
+    "explanation": "ওহমের সূত্র অনুযায়ী I = V/R = 29/6 ≈ 4.8 A।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q02": {
+    "correctOption": "$7.5\\ \\Omega$",
+    "explanation": "$R_2$ ও $R_3$ সমান্তরাল: $R_p = 2\\times6/(2+6)=1.5\\ \\Omega$। মোট রোধ $R_s = 4+1.5+2=7.5\\ \\Omega$।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q03": {
+    "correctOption": "i ও iii",
+    "explanation": "মোট রোধ 7.5 Ω, তাই I = 12/7.5 = 1.6 A। BC অংশে V = 1.6×1.5 = 2.4 V। R1-এ ক্ষমতা = (1.6)^2×4 = 10.24 W, 48 W নয়।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q04": {
+    "correctOption": "$0\\text{ V}$",
+    "explanation": "ট্রান্সফরমার পরিবর্তী প্রবাহে কাজ করে; স্থির DC-তে ক্রমাগত আবেশ হয় না।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q05": {
+    "correctOption": "9 V",
+    "explanation": "আদর্শ ট্রান্সফরমারে $V_pI_p = V_sI_s$। তাই $V_s = 12×3/4 = 9$ V।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q06": {
+    "correctOption": "সমান",
+    "explanation": "আপেক্ষিক রোধ উপাদান ও তাপমাত্রার ধর্ম; দৈর্ঘ্য বা ক্ষেত্রফলের উপর নির্ভর করে না।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q07": {
+    "correctOption": "প্রস্থচ্ছেদের ক্ষেত্রফল",
+    "explanation": "$R = \\rho L/A$; তাই R ক্ষেত্রফল A-এর সাথে ব্যস্তানুপাতিক।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q08": {
+    "answer": "শ্রেণিতে",
+    "answerIndex": 0,
+    "explanation": "অ্যামিটারকে শ্রেণিতে যুক্ত করা হয়, যাতে পুরো প্রবাহটি এর মধ্য দিয়ে যায়।",
+    "topic": "চল বিদ্যুৎ",
+    "difficulty": 1200
+  },
+  "ssc-physics-chapter-11-model-test-01-q09": {
+    "answer": "সমান্তরালে",
+    "answerIndex": 1,
+    "explanation": "বিভব পার্থক্য মাপার জন্য ভোল্টমিটারকে সংশ্লিষ্ট অংশের দুই প্রান্তে সমান্তরালে যুক্ত করা হয়।",
+    "topic": "চল বিদ্যুৎ",
+    "difficulty": 1200
+  },
+  "ssc-physics-chapter-11-model-test-01-q10": {
+    "correctOption": "15 Ω",
+    "explanation": "শ্রেণি সংযোগে তুল্য রোধ $R = R_1 + R_2 = 15$ Ω।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q11": {
+    "correctOption": "2 Ω",
+    "explanation": "$1/R = 1/6 + 1/3 = 1/2$; তাই $R = 2$ Ω।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q12": {
+    "correctOption": "কুলম্ব",
+    "explanation": "তড়িৎ আধানের SI একক কুলম্ব (C)।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q13": {
+    "correctOption": "অ্যাম্পিয়ার",
+    "explanation": "তড়িৎ প্রবাহের SI একক অ্যাম্পিয়ার (A)।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q14": {
+    "correctOption": "তাপমাত্রা",
+    "explanation": "তাপমাত্রা স্থির থাকলে পরিবাহীর V ও I সমানুপাতিক হয়।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q15": {
+    "answer": "$P = VI$",
+    "answerIndex": 0,
+    "explanation": "বৈদ্যুতিক ক্ষমতা $P = VI$; একই সঙ্গে $P=I^2R$ এবং $P=V^2/R$।",
+    "topic": "চল বিদ্যুৎ",
+    "difficulty": 1200
+  },
+  "ssc-physics-chapter-11-model-test-01-q16": {
+    "answer": "তড়িৎ প্রবাহের তাপীয় প্রভাব",
+    "answerIndex": 0,
+    "explanation": "রোধকের মধ্য দিয়ে তড়িৎ প্রবাহ গেলে জুলের তাপীয় প্রভাবে তাপ উৎপন্ন হয়।",
+    "topic": "চল বিদ্যুৎ",
+    "difficulty": 1200
+  },
+  "ssc-physics-chapter-11-model-test-01-q17": {
+    "correctOption": "ii ও iii",
+    "explanation": "আপেক্ষিক রোধ তাপমাত্রা ও উপাদানের উপর নির্ভর করে, দৈর্ঘ্যের উপর নয়।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q18": {
+    "correctOption": "2",
+    "explanation": "রোধক প্রধানত দুই প্রকার: স্থির রোধক ও পরিবর্তনশীল রোধক।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q19": {
+    "correctOption": "$3.6\\times10^6$ J",
+    "explanation": "1 kWh = 1000 W × 3600 s = $3.6×10^6$ J।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q20": {
+    "answer": "30 W",
+    "answerIndex": 0,
+    "explanation": "$P = VI = 10×3 = 30$ W।",
+    "topic": "চল বিদ্যুৎ",
+    "difficulty": 1200
+  },
+  "ssc-physics-chapter-11-model-test-01-q21": {
+    "correctOption": "i",
+    "explanation": "জাংশনে প্রবেশকারী প্রবাহ বের হওয়া প্রবাহগুলোর যোগফলের সমান। প্রদত্ত চিত্রে নিশ্চিত সম্পর্ক $I_1 = I_2 + I_3$।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q22": {
+    "correctOption": "তাৎপর্যপূর্ণ অঙ্ক",
+    "explanation": "প্রথম দুইটি রঙ ব্যান্ড রোধের তাৎপর্যপূর্ণ অঙ্ক নির্দেশ করে।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q23": {
+    "correctOption": "0.5 A",
+    "explanation": "শ্রেণিতে মোট রোধ 6+4+2 = 12 Ω। তাই I = 6/12 = 0.5 A।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q24": {
+    "correctOption": "$R_p$ সবচেয়ে ছোট রোধ 2 Ω থেকেও কম",
+    "explanation": "সমান্তরাল সংযোগে তুল্য রোধ সবসময় সবচেয়ে ছোট রোধের চেয়েও কম হয়।"
+  },
+  "ssc-physics-chapter-11-model-test-01-q25": {
+    "correctOption": "$2.10\\times10^3\\ \\Omega$",
+    "explanation": "$R = V^2/P = 220^2/23 ≈ 2.10×10^3$ Ω।"
+  }
+}

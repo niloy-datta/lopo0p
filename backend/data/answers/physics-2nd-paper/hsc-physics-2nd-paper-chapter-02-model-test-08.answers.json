@@ -1,0 +1,82 @@
+{
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q01": {
+    "correctOption": "ফ্যারাড",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q02": {
+    "correctOption": "1:9",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q03": {
+    "correctOption": "E শূন্য, V পৃষ্ঠের সমান (ধ্রুবক)",
+    "explanation": "চার্জ গোলকের বাইরের পৃষ্ঠে থাকে। ভেতরে E=0, তাই V = constant (পৃষ্ঠের বিভবের সমান)।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q04": {
+    "correctOption": "V = E − Ir",
+    "explanation": "ব্যাটারি কারেন্ট সরবরাহ করলে V = E − Ir হয়, কিন্তু ব্যাটারি চার্জ করার সময় V = E + Ir হয়।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q05": {
+    "correctOption": "ভোল্টমিটার",
+    "explanation": "ভোল্টমিটার বিভব পার্থক্য পরিমাপ করতে ব্যবহৃত হয়।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q06": {
+    "correctOption": "U = ½ CV²",
+    "explanation": "ধারকের সঞ্চিত শক্তি U = ½ CV² = ½ QV = Q²/(2C)"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q07": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q08": {
+    "correctOption": "90 Volt",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q09": {
+    "correctOption": "1.5 V",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q10": {
+    "correctOption": "জুল",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q11": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q12": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q13": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q14": {
+    "correctOption": "1 \\mu F",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q15": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q16": {
+    "correctOption": "33.33%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q17": {
+    "correctOption": "ম্যাক্স প্লাঙ্ক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q18": {
+    "correctOption": "প্রোটন (সঠিক উত্তর নেই)",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q19": {
+    "correctOption": "আয়রন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q20": {
+    "correctOption": "আলফা কণা",
+    "explanation": ""
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-06-model-test-05-q01": {
+    "correctOption": "$x\\ge13$",
+    "explanation": "$x-4\\ge9 \\Rightarrow x\\ge13$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q02": {
+    "correctOption": "$x<6$",
+    "explanation": "$6x+2<38 \\Rightarrow 6x<36 \\Rightarrow x<6$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q03": {
+    "correctOption": "$x>-3$",
+    "explanation": "$-8$ দিয়ে ভাগ করলে অসমতার চিহ্ন উল্টে যায়। তাই $x>-3$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q04": {
+    "correctOption": "$x\\le3$",
+    "explanation": "$15-3x\\ge6 \\Rightarrow -3x\\ge-9$। $-3$ দিয়ে ভাগ করলে $x\\le3$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q05": {
+    "correctOption": "$x>10$",
+    "explanation": "$\frac{x+4}{2}>7 \\Rightarrow x+4>14 \\Rightarrow x>10$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q06": {
+    "correctOption": "$x>4$",
+    "explanation": "$10x-7>6x+9 \\Rightarrow 4x>16 \\Rightarrow x>4$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q07": {
+    "correctOption": "$x\\le6$",
+    "explanation": "$11x+2\\le8x+20 \\Rightarrow 3x\\le18 \\Rightarrow x\\le6$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q08": {
+    "correctOption": "$x<-5$",
+    "explanation": "$-5x-5>20 \\Rightarrow -5x>25$। $-5$ দিয়ে ভাগ করলে $x<-5$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q09": {
+    "correctOption": "ফাঁকা বৃত্ত",
+    "explanation": "$x<0$ হলে 0 অন্তর্ভুক্ত নয়, তাই ফাঁকা বৃত্ত।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q10": {
+    "correctOption": "ডান দিকে",
+    "explanation": "$x\\ge-1$ মানে $-1$ বা তার বড় মানগুলো, যা ডান দিকে থাকে।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q11": {
+    "correctOption": "7",
+    "explanation": "পূর্ণসংখ্যা: $-3,-2,-1,0,1,2,3$। মোট 7টি।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q12": {
+    "correctOption": "3, 5, 7",
+    "explanation": "2 ও 9-এর মাঝের বিজোড় পূর্ণসংখ্যা হলো 3,5,7।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q13": {
+    "correctOption": "$3x+4<25$",
+    "explanation": "সংখ্যা $x$ হলে 3 গুণ $3x$; সঙ্গে 4 যোগ করলে $3x+4$। তাই $3x+4<25$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q14": {
+    "correctOption": "$5x-2\\ge18$",
+    "explanation": "কমপক্ষে 18 মানে $\\ge18$। তাই $5x-2\\ge18$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q15": {
+    "correctOption": "$x\\ge100$",
+    "explanation": "100-এর কম নয় মানে 100 বা তার বেশি। তাই $x\\ge100$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q16": {
+    "correctOption": "1, 2, 3, 4",
+    "explanation": "$5x\\le20 \\Rightarrow x\\le4$। স্বাভাবিক সংখ্যা হলে 1,2,3,4।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q17": {
+    "correctOption": "-3, -2, -1, 0, 1, 2",
+    "explanation": "$-4$ অন্তর্ভুক্ত নয়, 2 অন্তর্ভুক্ত। তাই -3 থেকে 2 পর্যন্ত পূর্ণসংখ্যা।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q18": {
+    "correctOption": "হ্যাঁ",
+    "explanation": "$(1,3)$ বসালে $1+2\times3=7$। তাই $\\le7$ শর্ত পূরণ করে।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q19": {
+    "correctOption": "হ্যাঁ",
+    "explanation": "$(4,2)$ বসালে $2\times4-2=6>5$। তাই সমাধান।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q20": {
+    "correctOption": "$4x-y=8$",
+    "explanation": "অসমতার সীমারেখা পেতে $\\ge$-এর জায়গায় $=$ বসানো হয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q21": {
+    "correctOption": "ছিন্ন রেখা",
+    "explanation": "$>$ থাকলে boundary line সমাধানের অংশ নয়, তাই ছিন্ন রেখা।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q22": {
+    "correctOption": "অবিচ্ছিন্ন রেখা",
+    "explanation": "$\\ge$ থাকলে সীমারেখা সমাধানের অংশ, তাই অবিচ্ছিন্ন রেখা।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q23": {
+    "correctOption": "$y$-অক্ষসহ ডান পাশের অঞ্চল",
+    "explanation": "$x\\ge0$ হলে $y$-অক্ষ ও তার ডান পাশের অঞ্চল অন্তর্ভুক্ত হয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q24": {
+    "correctOption": "$x$-অক্ষের নিচের অঞ্চল",
+    "explanation": "$y<0$ হলে $x$-অক্ষ অন্তর্ভুক্ত নয়, শুধু নিচের অঞ্চল।"
+  },
+  "ssc-higher-math-chapter-06-model-test-05-q25": {
+    "correctOption": "সমাধান অঞ্চলের বাইরে",
+    "explanation": "$(0,0)$ বসালে $0>5$ মিথ্যা। তাই উৎসবিন্দু সমাধান অঞ্চলের বাইরে।"
+  }
+}

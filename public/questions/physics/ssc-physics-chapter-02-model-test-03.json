@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "s=21 m, t=2 s হলে গড় বেগ=?",
+    "options": [
+      "10.5",
+      "0.09523809523809523",
+      "23",
+      "42"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "একটি পাথরকে সুতা দিয়ে বেঁধে মাথার উপর ঘুরালে- i. ক্রমাগত দিক পরিবর্তন করবে ii. ত্বরণ সৃষ্টি হবে iii. সুষম বেগে চলতে থাকবে নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "বন্দুক দিয়ে গুলি ছোড়া হলে- i. বন্দুকের পশ্চাৎ বেগ গুলির তুলনায় কম হবে ii. বন্দুক সামনের দিকে ধাক্কা দেবে iii. গুলি ও বন্দুকের ভরবেগ হবে সমান ও বিপরীতমুখী নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "স্বাভাবিক উচ্চতার একজন মানুষের মাটি থেকে পেট পর্যন্ত দূরত্ব কত মিটার?",
+    "options": [
+      "0.75m",
+      "1.0m",
+      "1.5m",
+      "1.75m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "একটি শিশু দোলনায় দুলছে। এর গতি- i. ঘূর্ণন গতি ii. পর্যায়বৃত্ত গতি iii. স্পন্দন গতি নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "গতিশক্তি 9 গুণ হলে বস্তুর বেগ কত হবে?",
+    "options": [
+      "2 গুণ",
+      "3 গুণ",
+      "4 গুণ",
+      "9 গুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "নিচের কোনটি পড়ন্ত বস্তুর লেখচিত্র? [s-t গ্রাফ, বক্ররেখা উপরে উঠছে]",
+    "options": [
+      "K",
+      "L",
+      "M",
+      "N"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "$144\\text{ km h}^{-1}$ বেগে একটি বলকে খাড়া উপরের দিকে ছোঁড়া হলে, বলটা কত উপরে উঠবে?",
+    "options": [
+      "2.04 মিটার",
+      "7.35 মিটার",
+      "81.63 মিটার",
+      "1057.96 মিটার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "একটি 50 kg ভরের বস্তু $10\\text{m s}^{-1}$ বেগে চলছে। বল প্রয়োগ করে বস্তুটির বেগ 5s এ $20\\text{m s}^{-1}$ করা হলো এবং এ সময়ে বস্তুটি 75m পথ অতিক্রম করে। বল প্রয়োগে কী পরিমাণ কাজ হবে?",
+    "options": [
+      "100 J",
+      "7500 J",
+      "22500 J",
+      "37500 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "পারদে শব্দের বেগ কত?",
+    "options": [
+      "$1284\\text{ m s}^{-1}$",
+      "$1450\\text{ m s}^{-1}$",
+      "$1493\\text{ m s}^{-1}$",
+      "$5130\\text{ m s}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 23 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+    "options": [
+      "11.5 সেমি",
+      "23 সেমি",
+      "46 সেমি",
+      "92 সেমি"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-02-model-test-03-q12.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "একটি গাড়ির আদিবেগ 2 m/s এবং ত্বরণ 6 m/s²। 10 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "{u + 2*a*t} m/s",
+      "{u - a*t} m/s",
+      "20 m/s",
+      "{u + a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "একটি 1 kg ভরের বস্তুর ওপর 6 m/s² ত্বরণ সৃষ্টি করতে কত বল প্রয়োগ করতে হবে?",
+    "options": [
+      "6 N",
+      "a/m N",
+      "m/a N",
+      "{(m+a)} N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "একটি 10 m/s বেগে চলমান 2 kg ভরের বস্তুর গতিশক্তি কত?",
+    "options": [
+      "20 J",
+      "m*v*v J",
+      "0.5*m*v J",
+      "100 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "কোথায় শব্দের বেগ সবচেয়ে বেশি?",
+    "options": [
+      "বায়ু",
+      "পারদ",
+      "লোহা",
+      "হীরা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "উদ্দীপক: একটি দূরত্ব-সময় লেখচিত্র দেওয়া আছে। লেখচিত্রে Y-অক্ষে দূরত্ব \\(s\\text{ (মিটার)}\\) এবং X-অক্ষে সময় \\(t\\text{ (সেকেন্ড)}\\) নির্দেশ করা হয়েছে। লেখচিত্রের রেখাটি \\(O(0,0)\\) থেকে শুরু হয়ে \\(A(10, 10)\\), এরপর \\(B(20, 10)\\) এবং অবশেষে \\(C(30, 20)\\) বিন্দুতে পৌঁছায়। OA অংশের দ্রুতি কত?",
+    "options": [
+      "\\(0.5\\text{ ms}^{-1}\\)",
+      "\\(1\\text{ ms}^{-1}\\)",
+      "\\(2\\text{ ms}^{-1}\\)",
+      "\\(6\\text{ ms}^{-1}\\)"
+    ],
+    "image": "/images/quiz/ssc-st-graph.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "উদ্দীপক: একটি দূরত্ব-সময় লেখচিত্র দেওয়া আছে। লেখচিত্রে Y-অক্ষে দূরত্ব \\(s\\text{ (মিটার)}\\) এবং X-অক্ষে সময় \\(t\\text{ (সেকেন্ড)}\\) নির্দেশ করা হয়েছে। লেখচিত্রের রেখাটি \\(O(0,0)\\) থেকে শুরু হয়ে \\(A(10, 10)\\), এরপর \\(B(20, 10)\\) এবং অবশেষে \\(C(30, 20)\\) বিন্দুতে পৌঁছায়। উদ্দীপকের ক্ষেত্রে— i. OA অংশের দ্রুতি BC অংশের দ্রুতি অপেক্ষা বেশি ii. AB অংশে দ্রুতি নেই iii. OY অক্ষ বরাবর বেগ থাকলে OA অংশের বেগ সুষম বেগ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/ssc-st-graph.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "\\(60\\text{ kg}\\) ভরের একজন দৌড়বিদের গতিশক্তি \\(1920\\text{ J}\\) হলে তার বেগ কত? \\(\\implies 1920 = \\frac{1}{2} \\times 60 \\times v^2\\) \\(\\implies v^2 = \\frac{1920}{30} = 64\\) \\(\\implies v = 8\\text{ ms}^{-1}\\)।",
+    "options": [
+      "\\(8\\text{ ms}^{-1}\\)",
+      "\\(16\\text{ ms}^{-1}\\)",
+      "\\(32\\text{ ms}^{-1}\\)",
+      "\\(64\\text{ ms}^{-1}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "\\(500\\text{ gm}\\) ভরের একটি বস্তুর উপর \\(5\\text{ N}\\) বল প্রয়োগ করা হলে এর ত্বরণ কত হবে?",
+    "options": [
+      "\\(0.01\\text{ ms}^{-2}\\)",
+      "\\(2.5\\text{ ms}^{-2}\\)",
+      "\\(10\\text{ ms}^{-2}\\)",
+      "\\(100\\text{ ms}^{-2}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "হৃদপিণ্ডের সংকোচন প্রসারণ কোন ধরনের গতি?",
+    "options": [
+      "সরল রৈখিক গতি",
+      "চলন গতি",
+      "পর্যায়বৃত্ত গতি",
+      "সরল স্পন্দন গতি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "5 kg ভরের একটি বস্তুকে 50 ms⁻¹ বেগে খাড়া উপরের দিকে ছুড়ে দিলে সর্বোচ্চ উচ্চতায় এর যান্ত্রিক শক্তি কত হবে?",
+    "options": [
+      "3150 J",
+      "6250 J",
+      "12500 J",
+      "25000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "নিচের কোন মাধ্যমে শব্দের বেগ সবচেয়ে কম?",
+    "options": [
+      "লোহা",
+      "পানি",
+      "বাতাস",
+      "কেরোসিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "একটি গাড়ির বেগ 2 মিনিটে স্থির অবস্থা থেকে বেড়ে 90 km/hour হয়েছে, গাড়িটির ত্বরণ কত ms⁻²?",
+    "options": [
+      "0.108",
+      "0.128",
+      "0.208",
+      "0.228"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-02-model-test-03-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-02-model-test-03",
+    "text": "তরঙ্গ সঞ্চালনকারী কোনো কণার বেগ বৃদ্ধি পাবে, যদি— i. কম্পাঙ্ক বৃদ্ধি পায় ii. তরঙ্গদৈর্ঘ্য বৃদ্ধি পায় iii. পর্যায়কাল বৃদ্ধি পায়",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

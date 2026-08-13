@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-09-model-test-03-q01": {
+    "correctOption": "1024",
+    "explanation": "4^3 × 4^2 = 4^5 = 1024।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q02": {
+    "correctOption": "49",
+    "explanation": "7^6 ÷ 7^4 = 7^2 = 49।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q03": {
+    "correctOption": "4096",
+    "explanation": "(2^4)^3 = 2^12 = 4096।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q04": {
+    "correctOption": "5/3",
+    "explanation": "ঋণাত্মক সূচক হলে ভগ্নাংশ উল্টে যায়। তাই (3/5)^(-1) = 5/3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q05": {
+    "correctOption": "1/5",
+    "explanation": "25^(-1/2) = 1/√25 = 1/5।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q06": {
+    "correctOption": "6",
+    "explanation": "216^(1/3) = ∛216 = 6।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q07": {
+    "correctOption": "343",
+    "explanation": "49^(3/2) = (√49)^3 = 7^3 = 343।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q08": {
+    "correctOption": "27",
+    "explanation": "81 = 3^4। তাই 81^(3/4) = (3^4)^(3/4) = 3^3 = 27।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q09": {
+    "correctOption": "1/8",
+    "explanation": "16 = 2^4। তাই 16^(-3/4) = 2^(-3) = 1/8।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q10": {
+    "correctOption": "4",
+    "explanation": "625 = 5^4। তাই x = 4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q11": {
+    "correctOption": "6",
+    "explanation": "32 = 2^5। তাই x-1 = 5, সুতরাং x = 6।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q12": {
+    "correctOption": "5/2",
+    "explanation": "81 = 3^4। তাই 2x-1 = 4 ⇒ 2x = 5 ⇒ x = 5/2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q13": {
+    "correctOption": "6",
+    "explanation": "2^6 = 64। তাই log₂64 = 6।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q14": {
+    "correctOption": "2",
+    "explanation": "8^2 = 64। তাই log₈64 = 2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q15": {
+    "correctOption": "2",
+    "explanation": "9^2 = 81। তাই log₉81 = 2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q16": {
+    "correctOption": "-5",
+    "explanation": "1/32 = 2^(-5)। তাই log₂(1/32) = -5।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q17": {
+    "correctOption": "-3",
+    "explanation": "1/27 = 3^(-3)। তাই log₃(1/27) = -3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q18": {
+    "correctOption": "-3",
+    "explanation": "0.001 = 10^(-3)। তাই log₁₀0.001 = -3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q19": {
+    "correctOption": "5",
+    "explanation": "log₂16 = 4 এবং log₂2 = 1। তাই যোগফল 5।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q20": {
+    "correctOption": "2",
+    "explanation": "log₅125 = 3 এবং log₅5 = 1। তাই মান 2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q21": {
+    "correctOption": "3",
+    "explanation": "16×4 = 64 = 4^3। তাই log₄(64) = 3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q22": {
+    "correctOption": "3",
+    "explanation": "64/8 = 8 = 2^3। তাই মান 3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q23": {
+    "correctOption": "6",
+    "explanation": "9^3 = (3^2)^3 = 3^6। তাই log₃(9^3) = 6।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q24": {
+    "correctOption": "a^2",
+    "explanation": "log_a x = 2 ⇒ a^2 = x। তাই x = a^2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-03-q25": {
+    "correctOption": "1/a",
+    "explanation": "log_a x = -1 ⇒ a^(-1) = x। তাই x = 1/a।"
+  }
+}

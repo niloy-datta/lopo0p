@@ -1,0 +1,2279 @@
+{
+  "sets": [
+    {
+      "setName": "অধ্যায় 7 · ক্রম ও ধারা · মডেল টেস্ট 01",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 3, 7, 11, 15, ... এর সাধারণ অন্তর কত?",
+          "options": [
+            "4",
+            "3",
+            "7",
+            "11"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "পরপর দুই পদের পার্থক্য 7−3=4, 11−7=4। তাই সাধারণ অন্তর 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 5, 9, 13, 17, ... এর 10ম পদ কত?",
+          "options": [
+            "41",
+            "37",
+            "45",
+            "49"
+          ],
+          "answer": "41",
+          "answerIndex": 0,
+          "explanation": "এখানে প্রথম পদ a=5, সাধারণ অন্তর d=4। 10ম পদ = a+(10−1)d = 5+9×4 = 41।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 2, 5, 8, 11, ... এর nতম পদ কোনটি?",
+          "options": [
+            "3n−1",
+            "2n+1",
+            "3n+1",
+            "n+3"
+          ],
+          "answer": "3n−1",
+          "answerIndex": 0,
+          "explanation": "প্রথম পদ a=2 এবং সাধারণ অন্তর d=3। nতম পদ = a+(n−1)d = 2+3n−3 = 3n−1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 4, 8, 12, 16, ... এর প্রথম 8টি পদের সমষ্টি কত?",
+          "options": [
+            "144",
+            "128",
+            "160",
+            "120"
+          ],
+          "answer": "144",
+          "answerIndex": 0,
+          "explanation": "a=4, d=4, n=8। S₈ = n/2[2a+(n−1)d] = 8/2[8+28] = 4×36 = 144।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "গাণিতিক ধারার প্রথম পদ 6 এবং সাধারণ অন্তর 5 হলে 7ম পদ কত?",
+          "options": [
+            "36",
+            "31",
+            "41",
+            "35"
+          ],
+          "answer": "36",
+          "answerIndex": 0,
+          "explanation": "7ম পদ = a+(7−1)d = 6+6×5 = 36।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 3, 6, 12, 24, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "পরপর দুই পদের অনুপাত 6/3=2, 12/6=2। তাই সাধারণ অনুপাত 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "গুণোত্তর ধারার প্রথম পদ 2 এবং সাধারণ অনুপাত 3 হলে 5ম পদ কত?",
+          "options": [
+            "162",
+            "81",
+            "54",
+            "243"
+          ],
+          "answer": "162",
+          "answerIndex": 0,
+          "explanation": "nতম পদ = ar^(n−1)। তাই 5ম পদ = 2×3⁴ = 2×81 = 162।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 5, 10, 20, 40, ... এর 6ষ্ঠ পদ কত?",
+          "options": [
+            "160",
+            "200",
+            "320",
+            "80"
+          ],
+          "answer": "160",
+          "answerIndex": 0,
+          "explanation": "a=5, r=2। 6ষ্ঠ পদ = 5×2⁵ = 160।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 1, 3, 9, 27, ... এর প্রথম 5টি পদের সমষ্টি কত?",
+          "options": [
+            "121",
+            "81",
+            "120",
+            "243"
+          ],
+          "answer": "121",
+          "answerIndex": 0,
+          "explanation": "প্রথম 5টি পদ: 1+3+9+27+81 = 121।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "অসীম গুণোত্তর ধারার সমষ্টি থাকার শর্ত কোনটি?",
+          "options": [
+            "|r|<1",
+            "|r|>1",
+            "r=1",
+            "r=0 নয়"
+          ],
+          "answer": "|r|<1",
+          "answerIndex": 0,
+          "explanation": "অসীম গুণোত্তর ধারার অসীমতক সমষ্টি থাকে যদি সাধারণ অনুপাতের মান |r|<1 হয়।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "অসীম গুণোত্তর ধারা 1 + 1/2 + 1/4 + 1/8 + ... এর সমষ্টি কত?",
+          "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "এখানে a=1, r=1/2। S∞ = a/(1−r) = 1/(1−1/2) = 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "অসীম গুণোত্তর ধারা 3 + 1 + 1/3 + 1/9 + ... এর সমষ্টি কত?",
+          "options": [
+            "9/2",
+            "3",
+            "6",
+            "5"
+          ],
+          "answer": "9/2",
+          "answerIndex": 0,
+          "explanation": "এখানে a=3, r=1/3। S∞ = 3/(1−1/3)=3/(2/3)=9/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 8, 4, 2, 1, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "16",
+            "12",
+            "8",
+            "10"
+          ],
+          "answer": "16",
+          "answerIndex": 0,
+          "explanation": "a=8, r=1/2। S∞ = 8/(1−1/2)=16।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 10, 5, 5/2, 5/4, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "1/2",
+            "2",
+            "5",
+            "1/5"
+          ],
+          "answer": "1/2",
+          "answerIndex": 0,
+          "explanation": "5/10=1/2 এবং (5/2)/5=1/2। তাই সাধারণ অনুপাত 1/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "0.\\overline{3} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "1/3",
+            "3/10",
+            "3/9",
+            "1/9"
+          ],
+          "answer": "1/3",
+          "answerIndex": 0,
+          "explanation": "0.333... = 3/9 = 1/3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "0.\\overline{6} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "2/3",
+            "1/6",
+            "3/5",
+            "6/10"
+          ],
+          "answer": "2/3",
+          "answerIndex": 0,
+          "explanation": "0.666... = 6/9 = 2/3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "0.\\overline{27} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "3/11",
+            "27/100",
+            "9/27",
+            "2/7"
+          ],
+          "answer": "3/11",
+          "answerIndex": 0,
+          "explanation": "0.272727... = 27/99 = 3/11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "অনুক্রম 1/n এর প্রান্তীয় মান n অসীমের দিকে গেলে কত?",
+          "options": [
+            "0",
+            "1",
+            "n",
+            "অসীম"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "explanation": "n যত বড় হয়, 1/n তত 0-এর কাছাকাছি যায়। তাই প্রান্তীয় মান 0।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "অনুক্রম 2n+1 এর প্রথম তিনটি পদ কোনটি?",
+          "options": [
+            "3, 5, 7",
+            "1, 3, 5",
+            "2, 3, 4",
+            "4, 6, 8"
+          ],
+          "answer": "3, 5, 7",
+          "answerIndex": 0,
+          "explanation": "n=1,2,3 বসালে পদগুলো হয় 3,5,7।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "অনুক্রম n² এর প্রথম চারটি পদ কোনটি?",
+          "options": [
+            "1, 4, 9, 16",
+            "1, 2, 3, 4",
+            "2, 4, 6, 8",
+            "1, 3, 5, 7"
+          ],
+          "answer": "1, 4, 9, 16",
+          "answerIndex": 0,
+          "explanation": "n=1,2,3,4 বসালে n² = 1,4,9,16।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "গাণিতিক ধারায় a=4, d=3 হলে 12তম পদ কত?",
+          "options": [
+            "37",
+            "34",
+            "40",
+            "43"
+          ],
+          "answer": "37",
+          "answerIndex": 0,
+          "explanation": "12তম পদ = 4+(12−1)×3 = 4+33 = 37।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "গুণোত্তর ধারায় a=3, r=2 হলে 4র্থ পদ কত?",
+          "options": [
+            "24",
+            "12",
+            "16",
+            "18"
+          ],
+          "answer": "24",
+          "answerIndex": 0,
+          "explanation": "4র্থ পদ = ar³ = 3×2³ = 24।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 2, 4, 6, 8, ... কোন ধরনের ধারা?",
+          "options": [
+            "গাণিতিক ধারা",
+            "গুণোত্তর ধারা",
+            "অসীম গুণোত্তর ধারা",
+            "পৌনঃপুনিক দশমিক"
+          ],
+          "answer": "গাণিতিক ধারা",
+          "answerIndex": 0,
+          "explanation": "পরপর দুই পদের পার্থক্য সমান, তাই এটি গাণিতিক ধারা।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 2, 6, 18, 54, ... কোন ধরনের ধারা?",
+          "options": [
+            "গুণোত্তর ধারা",
+            "গাণিতিক ধারা",
+            "ধ্রুব ধারা",
+            "সসীম ধারা নয়"
+          ],
+          "answer": "গুণোত্তর ধারা",
+          "answerIndex": 0,
+          "explanation": "পরপর পদের অনুপাত 3, তাই এটি গুণোত্তর ধারা।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-01-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-01",
+          "text": "ধারা 1, 1/2, 1/4, 1/8, ... এর 5ম পদ কত?",
+          "options": [
+            "1/16",
+            "1/8",
+            "1/32",
+            "1/4"
+          ],
+          "answer": "1/16",
+          "answerIndex": 0,
+          "explanation": "এখানে a=1, r=1/2। 5ম পদ = (1/2)^4 = 1/16।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 7 · ক্রম ও ধারা · মডেল টেস্ট 02",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 7, 10, 13, 16, ... এর সাধারণ অন্তর কত?",
+          "options": [
+            "3",
+            "7",
+            "10",
+            "4"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "পরপর পদের পার্থক্য 10−7=3 এবং 13−10=3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 12, 9, 6, 3, ... এর সাধারণ অন্তর কত?",
+          "options": [
+            "-3",
+            "3",
+            "6",
+            "-6"
+          ],
+          "answer": "-3",
+          "answerIndex": 0,
+          "explanation": "9−12=-3, 6−9=-3। তাই সাধারণ অন্তর -3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 10, 15, 20, 25, ... এর nতম পদ কোনটি?",
+          "options": [
+            "5n+5",
+            "5n",
+            "10n+5",
+            "n+5"
+          ],
+          "answer": "5n+5",
+          "answerIndex": 0,
+          "explanation": "a=10, d=5। nতম পদ = 10+(n−1)5 = 5n+5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "গাণিতিক ধারার প্রথম পদ 8 এবং সাধারণ অন্তর 6 হলে 9ম পদ কত?",
+          "options": [
+            "56",
+            "54",
+            "62",
+            "48"
+          ],
+          "answer": "56",
+          "answerIndex": 0,
+          "explanation": "9ম পদ = 8+(9−1)×6 = 8+48 = 56।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 6, 11, 16, 21, ... এর প্রথম 10টি পদের সমষ্টি কত?",
+          "options": [
+            "285",
+            "275",
+            "295",
+            "250"
+          ],
+          "answer": "285",
+          "answerIndex": 0,
+          "explanation": "a=6, d=5, n=10। S₁₀=10/2[2×6+9×5]=5[12+45]=285।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 4, 12, 36, 108, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "3",
+            "4",
+            "8",
+            "12"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "12/4=3 এবং 36/12=3। তাই সাধারণ অনুপাত 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 81, 27, 9, 3, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "1/3",
+            "3",
+            "1/9",
+            "9"
+          ],
+          "answer": "1/3",
+          "answerIndex": 0,
+          "explanation": "27/81=1/3 এবং 9/27=1/3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "গুণোত্তর ধারায় a=4, r=3 হলে 5ম পদ কত?",
+          "options": [
+            "324",
+            "243",
+            "108",
+            "81"
+          ],
+          "answer": "324",
+          "answerIndex": 0,
+          "explanation": "5ম পদ = ar⁴ = 4×3⁴ = 4×81 = 324।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 2, 6, 18, 54, ... এর প্রথম 4টি পদের সমষ্টি কত?",
+          "options": [
+            "80",
+            "78",
+            "81",
+            "72"
+          ],
+          "answer": "80",
+          "answerIndex": 0,
+          "explanation": "প্রথম 4টি পদ: 2+6+18+54 = 80।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "গুণোত্তর ধারার প্রথম পদ 3, সাধারণ অনুপাত 2 হলে প্রথম 5টি পদের সমষ্টি কত?",
+          "options": [
+            "93",
+            "63",
+            "96",
+            "45"
+          ],
+          "answer": "93",
+          "answerIndex": 0,
+          "explanation": "পদগুলো 3,6,12,24,48। সমষ্টি = 93।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "অসীম গুণোত্তর ধারা 5 + 5/2 + 5/4 + 5/8 + ... এর সমষ্টি কত?",
+          "options": [
+            "10",
+            "5",
+            "15",
+            "20"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "a=5, r=1/2। S∞=5/(1−1/2)=10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "অসীম গুণোত্তর ধারা 6 + 2 + 2/3 + 2/9 + ... এর সমষ্টি কত?",
+          "options": [
+            "9",
+            "8",
+            "12",
+            "10"
+          ],
+          "answer": "9",
+          "answerIndex": 0,
+          "explanation": "a=6, r=1/3। S∞=6/(1−1/3)=6/(2/3)=9।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 12, 6, 3, 3/2, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "24",
+            "18",
+            "12",
+            "20"
+          ],
+          "answer": "24",
+          "answerIndex": 0,
+          "explanation": "a=12, r=1/2। S∞=12/(1−1/2)=24।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 1 + 2 + 4 + 8 + ... এর অসীমতক সমষ্টি আছে কি?",
+          "options": [
+            "নেই",
+            "আছে, 2",
+            "আছে, 1",
+            "আছে, 4"
+          ],
+          "answer": "নেই",
+          "answerIndex": 0,
+          "explanation": "এখানে r=2, অর্থাৎ |r|>1। তাই অসীমতক সমষ্টি নেই।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "0.\\overline{9} এর মান কত?",
+          "options": [
+            "1",
+            "9/10",
+            "1/9",
+            "9/99"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "0.999... = 9/9 = 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "0.\\overline{12} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "4/33",
+            "12/100",
+            "2/11",
+            "1/12"
+          ],
+          "answer": "4/33",
+          "answerIndex": 0,
+          "explanation": "0.121212... = 12/99 = 4/33।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "0.\\overline{45} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "5/11",
+            "45/100",
+            "9/20",
+            "1/45"
+          ],
+          "answer": "5/11",
+          "answerIndex": 0,
+          "explanation": "0.454545... = 45/99 = 5/11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "অনুক্রম 1, 4, 9, 16, ... এর nতম পদ কোনটি?",
+          "options": [
+            "n²",
+            "2n",
+            "n+1",
+            "2n−1"
+          ],
+          "answer": "n²",
+          "answerIndex": 0,
+          "explanation": "পদগুলো 1², 2², 3², 4², ... তাই nতম পদ n²।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "অনুক্রম 2, 4, 6, 8, ... এর nতম পদ কোনটি?",
+          "options": [
+            "2n",
+            "n²",
+            "2n−1",
+            "n+2"
+          ],
+          "answer": "2n",
+          "answerIndex": 0,
+          "explanation": "এটি জোড় সংখ্যার অনুক্রম; nতম পদ 2n।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "অনুক্রম 1, 3, 5, 7, ... এর nতম পদ কোনটি?",
+          "options": [
+            "2n−1",
+            "2n",
+            "n²",
+            "n+1"
+          ],
+          "answer": "2n−1",
+          "answerIndex": 0,
+          "explanation": "এটি বিজোড় সংখ্যার অনুক্রম; nতম পদ 2n−1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "গাণিতিক ধারায় 5ম পদ 17 এবং সাধারণ অন্তর 3 হলে প্রথম পদ কত?",
+          "options": [
+            "5",
+            "2",
+            "8",
+            "11"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "5ম পদ = a+4d। তাই 17=a+4×3 ⇒ a=5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "গুণোত্তর ধারায় 3য় পদ 12 এবং সাধারণ অনুপাত 2 হলে প্রথম পদ কত?",
+          "options": [
+            "3",
+            "4",
+            "6",
+            "2"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "3য় পদ = ar²। তাই 12=a×2² ⇒ a=3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 1/2, 1/4, 1/8, 1/16, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "1",
+            "2",
+            "1/2",
+            "1/4"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "a=1/2, r=1/2। S∞=(1/2)/(1−1/2)=1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 20, 10, 5, 5/2, ... এর 4র্থ পদ কত?",
+          "options": [
+            "5/2",
+            "5",
+            "10",
+            "20"
+          ],
+          "answer": "5/2",
+          "answerIndex": 0,
+          "explanation": "পদগুলো 20,10,5,5/2। তাই 4র্থ পদ 5/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-02-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-02",
+          "text": "ধারা 9, 3, 1, 1/3, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "27/2",
+            "9",
+            "12",
+            "18"
+          ],
+          "answer": "27/2",
+          "answerIndex": 0,
+          "explanation": "a=9, r=1/3। S∞=9/(1−1/3)=9/(2/3)=27/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 7 · ক্রম ও ধারা · মডেল টেস্ট 03",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 11, 18, 25, 32, ... এর সাধারণ অন্তর কত?",
+          "options": [
+            "7",
+            "6",
+            "8",
+            "11"
+          ],
+          "answer": "7",
+          "answerIndex": 0,
+          "explanation": "18−11=7 এবং 25−18=7। তাই সাধারণ অন্তর 7।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 20, 16, 12, 8, ... এর 6ষ্ঠ পদ কত?",
+          "options": [
+            "0",
+            "4",
+            "-4",
+            "2"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "explanation": "a=20, d=-4। 6ষ্ঠ পদ = 20+5×(-4)=0।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 9, 14, 19, 24, ... এর nতম পদ কোনটি?",
+          "options": [
+            "5n+4",
+            "5n−4",
+            "4n+5",
+            "9n+5"
+          ],
+          "answer": "5n+4",
+          "answerIndex": 0,
+          "explanation": "a=9, d=5। nতম পদ = 9+(n−1)5 = 5n+4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "গাণিতিক ধারায় a=3, d=7 হলে 15তম পদ কত?",
+          "options": [
+            "101",
+            "98",
+            "105",
+            "94"
+          ],
+          "answer": "101",
+          "answerIndex": 0,
+          "explanation": "15তম পদ = 3+(15−1)×7 = 3+98 = 101।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 1, 4, 7, 10, ... এর প্রথম 20টি পদের সমষ্টি কত?",
+          "options": [
+            "590",
+            "580",
+            "600",
+            "570"
+          ],
+          "answer": "590",
+          "answerIndex": 0,
+          "explanation": "a=1, d=3, n=20। S₂₀=20/2[2+19×3]=10×59=590।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 7, 14, 28, 56, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "2",
+            "7",
+            "14",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "14/7=2 এবং 28/14=2। তাই সাধারণ অনুপাত 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 16, 8, 4, 2, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "1/2",
+            "2",
+            "1/4",
+            "4"
+          ],
+          "answer": "1/2",
+          "answerIndex": 0,
+          "explanation": "8/16=1/2 এবং 4/8=1/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "গুণোত্তর ধারায় a=5, r=2 হলে 6ষ্ঠ পদ কত?",
+          "options": [
+            "160",
+            "80",
+            "100",
+            "320"
+          ],
+          "answer": "160",
+          "answerIndex": 0,
+          "explanation": "6ষ্ঠ পদ = ar⁵ = 5×2⁵ = 160।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 3, 6, 12, 24, 48 এর সমষ্টি কত?",
+          "options": [
+            "93",
+            "90",
+            "96",
+            "87"
+          ],
+          "answer": "93",
+          "answerIndex": 0,
+          "explanation": "3+6+12+24+48 = 93।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "গুণোত্তর ধারার প্রথম পদ 2 এবং সাধারণ অনুপাত 4 হলে প্রথম 4টি পদের সমষ্টি কত?",
+          "options": [
+            "170",
+            "160",
+            "150",
+            "180"
+          ],
+          "answer": "170",
+          "answerIndex": 0,
+          "explanation": "পদগুলো 2,8,32,128। সমষ্টি = 170।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "অসীম গুণোত্তর ধারা 4 + 2 + 1 + 1/2 + ... এর সমষ্টি কত?",
+          "options": [
+            "8",
+            "6",
+            "10",
+            "12"
+          ],
+          "answer": "8",
+          "answerIndex": 0,
+          "explanation": "a=4, r=1/2। S∞=4/(1−1/2)=8।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "অসীম গুণোত্তর ধারা 2 + 2/3 + 2/9 + 2/27 + ... এর সমষ্টি কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "6"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "a=2, r=1/3। S∞=2/(1−1/3)=2/(2/3)=3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 15, 5, 5/3, 5/9, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "45/2",
+            "15",
+            "20",
+            "30"
+          ],
+          "answer": "45/2",
+          "answerIndex": 0,
+          "explanation": "a=15, r=1/3। S∞=15/(1−1/3)=15/(2/3)=45/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 3 + 6 + 12 + 24 + ... এর অসীমতক সমষ্টি আছে কি?",
+          "options": [
+            "নেই",
+            "আছে, 6",
+            "আছে, 12",
+            "আছে, 3"
+          ],
+          "answer": "নেই",
+          "answerIndex": 0,
+          "explanation": "এখানে r=2, অর্থাৎ |r|>1। তাই অসীমতক সমষ্টি নেই।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "0.\\overline{18} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "2/11",
+            "18/100",
+            "1/18",
+            "3/11"
+          ],
+          "answer": "2/11",
+          "answerIndex": 0,
+          "explanation": "0.181818... = 18/99 = 2/11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "0.\\overline{72} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "8/11",
+            "72/100",
+            "7/12",
+            "6/11"
+          ],
+          "answer": "8/11",
+          "answerIndex": 0,
+          "explanation": "0.727272... = 72/99 = 8/11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "0.1\\overline{6} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "1/6",
+            "16/100",
+            "2/15",
+            "1/3"
+          ],
+          "answer": "1/6",
+          "answerIndex": 0,
+          "explanation": "0.1666... = 1/6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "অনুক্রম 3n এর প্রথম চারটি পদ কোনটি?",
+          "options": [
+            "3, 6, 9, 12",
+            "1, 2, 3, 4",
+            "3, 9, 27, 81",
+            "4, 5, 6, 7"
+          ],
+          "answer": "3, 6, 9, 12",
+          "answerIndex": 0,
+          "explanation": "n=1,2,3,4 বসালে 3n = 3,6,9,12।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "অনুক্রম n²+1 এর প্রথম তিনটি পদ কোনটি?",
+          "options": [
+            "2, 5, 10",
+            "1, 4, 9",
+            "3, 6, 11",
+            "2, 4, 6"
+          ],
+          "answer": "2, 5, 10",
+          "answerIndex": 0,
+          "explanation": "n=1,2,3 হলে n²+1 = 2,5,10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "অনুক্রম 1/n এর 5ম পদ কত?",
+          "options": [
+            "1/5",
+            "5",
+            "1/4",
+            "1/6"
+          ],
+          "answer": "1/5",
+          "answerIndex": 0,
+          "explanation": "n=5 বসালে 1/n = 1/5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "গাণিতিক ধারায় 10ম পদ 45 এবং d=4 হলে প্রথম পদ কত?",
+          "options": [
+            "9",
+            "5",
+            "13",
+            "10"
+          ],
+          "answer": "9",
+          "answerIndex": 0,
+          "explanation": "10ম পদ = a+9d। তাই 45=a+9×4 ⇒ a=9।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "গুণোত্তর ধারায় 4র্থ পদ 40 এবং r=2 হলে প্রথম পদ কত?",
+          "options": [
+            "5",
+            "10",
+            "4",
+            "8"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "4র্থ পদ = ar³। তাই 40=a×8 ⇒ a=5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 100, 50, 25, 25/2, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "200",
+            "150",
+            "100",
+            "250"
+          ],
+          "answer": "200",
+          "answerIndex": 0,
+          "explanation": "a=100, r=1/2। S∞=100/(1−1/2)=200।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 1, -1/2, 1/4, -1/8, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "-1/2",
+            "1/2",
+            "-2",
+            "2"
+          ],
+          "answer": "-1/2",
+          "answerIndex": 0,
+          "explanation": "দ্বিতীয় পদ / প্রথম পদ = (-1/2)/1 = -1/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-03-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-03",
+          "text": "ধারা 1, -1/2, 1/4, -1/8, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "2/3",
+            "1/2",
+            "1",
+            "3/2"
+          ],
+          "answer": "2/3",
+          "answerIndex": 0,
+          "explanation": "a=1, r=-1/2। S∞=1/[1−(-1/2)] = 1/(3/2)=2/3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 7 · ক্রম ও ধারা · মডেল টেস্ট 04",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 2, 9, 16, 23, ... এর সাধারণ অন্তর কত?",
+          "options": [
+            "7",
+            "5",
+            "9",
+            "11"
+          ],
+          "answer": "7",
+          "answerIndex": 0,
+          "explanation": "9−2=7 এবং 16−9=7। তাই সাধারণ অন্তর 7।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 50, 45, 40, 35, ... এর 8ম পদ কত?",
+          "options": [
+            "15",
+            "20",
+            "10",
+            "25"
+          ],
+          "answer": "15",
+          "answerIndex": 0,
+          "explanation": "a=50, d=-5। 8ম পদ = 50+7×(-5)=15।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 6, 10, 14, 18, ... এর nতম পদ কোনটি?",
+          "options": [
+            "4n+2",
+            "4n−2",
+            "6n+4",
+            "2n+4"
+          ],
+          "answer": "4n+2",
+          "answerIndex": 0,
+          "explanation": "a=6, d=4। nতম পদ = 6+(n−1)4 = 4n+2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 4, 9, 14, 19, ... এর প্রথম 12টি পদের সমষ্টি কত?",
+          "options": [
+            "378",
+            "360",
+            "390",
+            "348"
+          ],
+          "answer": "378",
+          "answerIndex": 0,
+          "explanation": "a=4, d=5, n=12। S₁₂=12/2[8+11×5]=6×63=378।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "গাণিতিক ধারায় a=12, d=-2 হলে 10ম পদ কত?",
+          "options": [
+            "-6",
+            "6",
+            "-8",
+            "0"
+          ],
+          "answer": "-6",
+          "answerIndex": 0,
+          "explanation": "10ম পদ = 12+9×(-2)=12−18=-6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 2, 10, 50, 250, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "5",
+            "2",
+            "10",
+            "25"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "10/2=5 এবং 50/10=5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 64, 32, 16, 8, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "1/2",
+            "2",
+            "1/4",
+            "4"
+          ],
+          "answer": "1/2",
+          "answerIndex": 0,
+          "explanation": "32/64=1/2 এবং 16/32=1/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "গুণোত্তর ধারায় a=6, r=3 হলে 4র্থ পদ কত?",
+          "options": [
+            "162",
+            "54",
+            "108",
+            "216"
+          ],
+          "answer": "162",
+          "answerIndex": 0,
+          "explanation": "4র্থ পদ = ar³ = 6×27 = 162।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 4, 8, 16, 32, 64 এর সমষ্টি কত?",
+          "options": [
+            "124",
+            "120",
+            "128",
+            "132"
+          ],
+          "answer": "124",
+          "answerIndex": 0,
+          "explanation": "4+8+16+32+64 = 124।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "গুণোত্তর ধারার প্রথম পদ 1 এবং সাধারণ অনুপাত 5 হলে প্রথম 4টি পদের সমষ্টি কত?",
+          "options": [
+            "156",
+            "125",
+            "155",
+            "160"
+          ],
+          "answer": "156",
+          "answerIndex": 0,
+          "explanation": "পদগুলো 1,5,25,125। সমষ্টি = 156।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "অসীম গুণোত্তর ধারা 7 + 7/2 + 7/4 + 7/8 + ... এর সমষ্টি কত?",
+          "options": [
+            "14",
+            "7",
+            "21",
+            "28"
+          ],
+          "answer": "14",
+          "answerIndex": 0,
+          "explanation": "a=7, r=1/2। S∞=7/(1−1/2)=14।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "অসীম গুণোত্তর ধারা 8 + 4/3 + 2/9 + 1/27 + ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "1/6",
+            "1/3",
+            "1/2",
+            "2/3"
+          ],
+          "answer": "1/6",
+          "answerIndex": 0,
+          "explanation": "(4/3)/8 = 4/24 = 1/6। তাই সাধারণ অনুপাত 1/6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 18, 6, 2, 2/3, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "27",
+            "24",
+            "18",
+            "30"
+          ],
+          "answer": "27",
+          "answerIndex": 0,
+          "explanation": "a=18, r=1/3। S∞=18/(1−1/3)=18/(2/3)=27।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 1 − 1/3 + 1/9 − 1/27 + ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "3/4",
+            "1/2",
+            "4/3",
+            "2/3"
+          ],
+          "answer": "3/4",
+          "answerIndex": 0,
+          "explanation": "a=1, r=-1/3। S∞=1/[1−(-1/3)] = 1/(4/3)=3/4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "0.\\overline{24} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "8/33",
+            "24/100",
+            "6/25",
+            "4/11"
+          ],
+          "answer": "8/33",
+          "answerIndex": 0,
+          "explanation": "0.242424... = 24/99 = 8/33।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "0.\\overline{81} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "9/11",
+            "81/100",
+            "8/11",
+            "3/4"
+          ],
+          "answer": "9/11",
+          "answerIndex": 0,
+          "explanation": "0.818181... = 81/99 = 9/11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "0.2\\overline{3} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "7/30",
+            "2/3",
+            "1/3",
+            "23/100"
+          ],
+          "answer": "7/30",
+          "answerIndex": 0,
+          "explanation": "0.2333... = 0.2+0.0333... = 1/5+1/30 = 7/30।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "অনুক্রম 4n−1 এর প্রথম তিনটি পদ কোনটি?",
+          "options": [
+            "3, 7, 11",
+            "4, 8, 12",
+            "1, 3, 5",
+            "5, 9, 13"
+          ],
+          "answer": "3, 7, 11",
+          "answerIndex": 0,
+          "explanation": "n=1,2,3 বসালে 4n−1 = 3,7,11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "অনুক্রম 2n² এর প্রথম তিনটি পদ কোনটি?",
+          "options": [
+            "2, 8, 18",
+            "2, 4, 6",
+            "4, 8, 12",
+            "1, 4, 9"
+          ],
+          "answer": "2, 8, 18",
+          "answerIndex": 0,
+          "explanation": "n=1,2,3 হলে 2n² = 2,8,18।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "অনুক্রম 1/(n+1) এর প্রথম পদ কত?",
+          "options": [
+            "1/2",
+            "1",
+            "2",
+            "1/3"
+          ],
+          "answer": "1/2",
+          "answerIndex": 0,
+          "explanation": "n=1 বসালে 1/(n+1)=1/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "গাণিতিক ধারায় 6ষ্ঠ পদ 22 এবং d=4 হলে প্রথম পদ কত?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "6ষ্ঠ পদ = a+5d। তাই 22=a+20 ⇒ a=2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "গুণোত্তর ধারায় 5ম পদ 81 এবং r=3 হলে প্রথম পদ কত?",
+          "options": [
+            "1",
+            "3",
+            "9",
+            "27"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "5ম পদ = ar⁴। তাই 81=a×3⁴=a×81 ⇒ a=1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 30, 15, 15/2, 15/4, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "60",
+            "45",
+            "30",
+            "90"
+          ],
+          "answer": "60",
+          "answerIndex": 0,
+          "explanation": "a=30, r=1/2। S∞=30/(1−1/2)=60।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 1/3, 1/9, 1/27, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "1/2",
+            "1/3",
+            "1",
+            "2/3"
+          ],
+          "answer": "1/2",
+          "answerIndex": 0,
+          "explanation": "a=1/3, r=1/3। S∞=(1/3)/(1−1/3)=(1/3)/(2/3)=1/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-04-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-04",
+          "text": "ধারা 5, -5/2, 5/4, -5/8, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "10/3",
+            "5",
+            "2/3",
+            "15/2"
+          ],
+          "answer": "10/3",
+          "answerIndex": 0,
+          "explanation": "a=5, r=-1/2। S∞=5/[1−(-1/2)] = 5/(3/2)=10/3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 7 · ক্রম ও ধারা · মডেল টেস্ট 05",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 13, 17, 21, 25, ... এর সাধারণ অন্তর কত?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "13"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "17−13=4 এবং 21−17=4। তাই সাধারণ অন্তর 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 100, 90, 80, 70, ... এর 9ম পদ কত?",
+          "options": [
+            "20",
+            "10",
+            "30",
+            "40"
+          ],
+          "answer": "20",
+          "answerIndex": 0,
+          "explanation": "a=100, d=-10। 9ম পদ = 100+8×(-10)=20।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 8, 13, 18, 23, ... এর nতম পদ কোনটি?",
+          "options": [
+            "5n+3",
+            "5n−3",
+            "8n+5",
+            "3n+5"
+          ],
+          "answer": "5n+3",
+          "answerIndex": 0,
+          "explanation": "a=8, d=5। nতম পদ = 8+(n−1)5 = 5n+3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 5, 12, 19, 26, ... এর প্রথম 15টি পদের সমষ্টি কত?",
+          "options": [
+            "810",
+            "795",
+            "825",
+            "780"
+          ],
+          "answer": "810",
+          "answerIndex": 0,
+          "explanation": "a=5, d=7, n=15। S₁₅=15/2[10+14×7]=15/2×108=810।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "গাণিতিক ধারায় a=9, d=6 হলে 11তম পদ কত?",
+          "options": [
+            "69",
+            "63",
+            "75",
+            "66"
+          ],
+          "answer": "69",
+          "answerIndex": 0,
+          "explanation": "11তম পদ = 9+10×6 = 69।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 5, 25, 125, 625, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "5",
+            "25",
+            "10",
+            "125"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "25/5=5 এবং 125/25=5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 125, 25, 5, 1, ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "1/5",
+            "5",
+            "1/25",
+            "25"
+          ],
+          "answer": "1/5",
+          "answerIndex": 0,
+          "explanation": "25/125=1/5 এবং 5/25=1/5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "গুণোত্তর ধারায় a=2, r=5 হলে 4র্থ পদ কত?",
+          "options": [
+            "250",
+            "125",
+            "50",
+            "100"
+          ],
+          "answer": "250",
+          "answerIndex": 0,
+          "explanation": "4র্থ পদ = ar³ = 2×5³ = 250।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 1, 5, 25, 125 এর সমষ্টি কত?",
+          "options": [
+            "156",
+            "155",
+            "150",
+            "125"
+          ],
+          "answer": "156",
+          "answerIndex": 0,
+          "explanation": "1+5+25+125 = 156।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "গুণোত্তর ধারার প্রথম পদ 3 এবং সাধারণ অনুপাত 4 হলে প্রথম 4টি পদের সমষ্টি কত?",
+          "options": [
+            "255",
+            "240",
+            "256",
+            "252"
+          ],
+          "answer": "255",
+          "answerIndex": 0,
+          "explanation": "পদগুলো 3,12,48,192। সমষ্টি = 255।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "অসীম গুণোত্তর ধারা 9 + 9/2 + 9/4 + 9/8 + ... এর সমষ্টি কত?",
+          "options": [
+            "18",
+            "9",
+            "27",
+            "36"
+          ],
+          "answer": "18",
+          "answerIndex": 0,
+          "explanation": "a=9, r=1/2। S∞=9/(1−1/2)=18।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "অসীম গুণোত্তর ধারা 5 + 5/5 + 5/25 + 5/125 + ... এর সাধারণ অনুপাত কত?",
+          "options": [
+            "1/5",
+            "5",
+            "1/25",
+            "2/5"
+          ],
+          "answer": "1/5",
+          "answerIndex": 0,
+          "explanation": "দ্বিতীয় পদ/প্রথম পদ = 1/5। তাই সাধারণ অনুপাত 1/5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 20, 4, 4/5, 4/25, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "25",
+            "24",
+            "20",
+            "30"
+          ],
+          "answer": "25",
+          "answerIndex": 0,
+          "explanation": "a=20, r=1/5। S∞=20/(1−1/5)=20/(4/5)=25।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 2 − 1 + 1/2 − 1/4 + ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "4/3",
+            "2",
+            "1",
+            "3/2"
+          ],
+          "answer": "4/3",
+          "answerIndex": 0,
+          "explanation": "a=2, r=-1/2। S∞=2/[1−(-1/2)] = 2/(3/2)=4/3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "0.\\overline{36} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "4/11",
+            "36/100",
+            "3/8",
+            "6/11"
+          ],
+          "answer": "4/11",
+          "answerIndex": 0,
+          "explanation": "0.363636... = 36/99 = 4/11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "0.\\overline{63} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "7/11",
+            "63/100",
+            "6/13",
+            "3/7"
+          ],
+          "answer": "7/11",
+          "answerIndex": 0,
+          "explanation": "0.636363... = 63/99 = 7/11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "0.4\\overline{6} এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "7/15",
+            "2/5",
+            "4/6",
+            "1/2"
+          ],
+          "answer": "7/15",
+          "answerIndex": 0,
+          "explanation": "0.4666... = 0.4+0.0666... = 2/5+1/15 = 7/15।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "অনুক্রম 5n−2 এর প্রথম তিনটি পদ কোনটি?",
+          "options": [
+            "3, 8, 13",
+            "5, 10, 15",
+            "2, 7, 12",
+            "1, 3, 5"
+          ],
+          "answer": "3, 8, 13",
+          "answerIndex": 0,
+          "explanation": "n=1,2,3 বসালে 5n−2 = 3,8,13।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "অনুক্রম n²−1 এর প্রথম তিনটি পদ কোনটি?",
+          "options": [
+            "0, 3, 8",
+            "1, 4, 9",
+            "2, 5, 10",
+            "1, 3, 5"
+          ],
+          "answer": "0, 3, 8",
+          "answerIndex": 0,
+          "explanation": "n=1,2,3 হলে n²−1 = 0,3,8।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "অনুক্রম 2/(n+1) এর দ্বিতীয় পদ কত?",
+          "options": [
+            "2/3",
+            "1",
+            "1/2",
+            "2"
+          ],
+          "answer": "2/3",
+          "answerIndex": 0,
+          "explanation": "n=2 বসালে 2/(n+1)=2/3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "গাণিতিক ধারায় 8ম পদ 36 এবং d=5 হলে প্রথম পদ কত?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "8ম পদ = a+7d। তাই 36=a+35 ⇒ a=1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "গুণোত্তর ধারায় 4র্থ পদ 135 এবং r=3 হলে প্রথম পদ কত?",
+          "options": [
+            "5",
+            "3",
+            "9",
+            "15"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "4র্থ পদ = ar³। তাই 135=a×27 ⇒ a=5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 40, 20, 10, 5, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "80",
+            "60",
+            "100",
+            "40"
+          ],
+          "answer": "80",
+          "answerIndex": 0,
+          "explanation": "a=40, r=1/2। S∞=40/(1−1/2)=80।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 1/5, 1/25, 1/125, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "1/4",
+            "1/5",
+            "1/6",
+            "1/3"
+          ],
+          "answer": "1/4",
+          "answerIndex": 0,
+          "explanation": "a=1/5, r=1/5। S∞=(1/5)/(1−1/5)=(1/5)/(4/5)=1/4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-07-model-test-05-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-07-model-test-05",
+          "text": "ধারা 6, -3, 3/2, -3/4, ... এর অসীমতক সমষ্টি কত?",
+          "options": [
+            "4",
+            "6",
+            "3",
+            "9/2"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "a=6, r=-1/2। S∞=6/[1−(-1/2)] = 6/(3/2)=4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        }
+      ]
+    }
+  ]
+}

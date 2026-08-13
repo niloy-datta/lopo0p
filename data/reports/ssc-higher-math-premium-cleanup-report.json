@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-06-29T11:09:40.593Z",
+  "source": "ssc_higher_math_premium_full/ssc_higher_math_premium.json",
+  "before": {
+    "chapters": 7,
+    "sets": 70,
+    "questions": 1750
+  },
+  "after": {
+    "chapters": 0,
+    "sets": 0,
+    "questions": 0
+  },
+  "removed": {
+    "chapters": 7,
+    "sets": 70,
+    "questions": 1750
+  },
+  "chapters": [
+    {
+      "chapter": "05",
+      "chapterName": "ত্রিকোণমিতি",
+      "beforeSets": 10,
+      "afterSets": 0,
+      "beforeQuestions": 250,
+      "afterQuestions": 0,
+      "removedQuestions": 250
+    },
+    {
+      "chapter": "06",
+      "chapterName": "জ্যামিতি",
+      "beforeSets": 10,
+      "afterSets": 0,
+      "beforeQuestions": 250,
+      "afterQuestions": 0,
+      "removedQuestions": 250
+    },
+    {
+      "chapter": "07",
+      "chapterName": "স্থানাঙ্ক জ্যামিতি",
+      "beforeSets": 10,
+      "afterSets": 0,
+      "beforeQuestions": 250,
+      "afterQuestions": 0,
+      "removedQuestions": 250
+    },
+    {
+      "chapter": "08",
+      "chapterName": "বৃত্ত",
+      "beforeSets": 10,
+      "afterSets": 0,
+      "beforeQuestions": 250,
+      "afterQuestions": 0,
+      "removedQuestions": 250
+    },
+    {
+      "chapter": "09",
+      "chapterName": "সম্ভাবনা",
+      "beforeSets": 10,
+      "afterSets": 0,
+      "beforeQuestions": 250,
+      "afterQuestions": 0,
+      "removedQuestions": 250
+    },
+    {
+      "chapter": "13",
+      "chapterName": "লগারিদম",
+      "beforeSets": 10,
+      "afterSets": 0,
+      "beforeQuestions": 250,
+      "afterQuestions": 0,
+      "removedQuestions": 250
+    },
+    {
+      "chapter": "14",
+      "chapterName": "জটিল সংখ্যা",
+      "beforeSets": 10,
+      "afterSets": 0,
+      "beforeQuestions": 250,
+      "afterQuestions": 0,
+      "removedQuestions": 250
+    }
+  ]
+}

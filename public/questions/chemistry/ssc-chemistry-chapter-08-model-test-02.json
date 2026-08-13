@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q01",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "রাসায়নিক বন্ধন গঠনের সময় সাধারণত শক্তির কী পরিবর্তন ঘটে?",
+    "options": [
+      "শক্তি নির্গত হয় (তাপোৎপাদী)",
+      "শক্তি শোষিত হয় (তাপহারী)",
+      "শক্তির কোনো পরিবর্তন হয় না",
+      "ভর ধ্বংস হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q02",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "এক মোল HCl গ্যাস তৈরিতে H-H বন্ধন শক্তি ৪৩৬ kJ, Cl-Cl বন্ধন শক্তি ২৪৪ kJ এবং H-Cl বন্ধন শক্তি ৪৩১ kJ হলে বিক্রিয়ার ΔH কত?",
+    "options": [
+      "-১৮৪ kJ",
+      "+১৮৪ kJ",
+      "-৯২ kJ",
+      "+৯২ kJ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q03",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "প্রশমন বিক্রিয়ায় উৎপন্ন পানির পরিমাণ ১ মোল হলে প্রমাণ অবস্থায় প্রশমন তাপের মান কত?",
+    "options": [
+      "-৫৭.৩৪ kJ",
+      "+৫৭.৩৪ kJ",
+      "-৫৭.৩৪ J",
+      "০ kJ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q04",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "ড্যানিয়েল কোষে ঋণাত্মক ইলেকট্রোড বা অ্যানোড হিসেবে কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "দস্তার পাত (Zn)",
+      "তামার পাত (Cu)",
+      "লোহার পাত (Fe)",
+      "প্লাটিনাম পাত (Pt)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q05",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "শুষ্ক কোষে (Dry Cell) অ্যামোনিয়াম ক্লোরাইডের (NH₄Cl) ভূমিকা কী?",
+    "options": [
+      "তড়িৎ বিশ্লেষ্য (Electrolyte)",
+      "অ্যানোড দণ্ড",
+      "ক্যাথোড দণ্ড",
+      "ডি-পোলারাইজার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q06",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "তড়িৎ প্রলেপন (Electroplating) প্রক্রিয়ায় যে ধাতুর প্রলেপ দিতে হবে তাকে কোন ইলেকট্রোড হিসেবে ব্যবহার করা হয়?",
+    "options": [
+      "অ্যানোড",
+      "ক্যাথোড",
+      "লবণ সেতু",
+      "তড়িৎ বিশ্লেষ্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q07",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "পানির তড়িৎ বিশ্লেষণে ক্যাথোডে কোন গ্যাস বুদবুদ আকারে নির্গত হয়?",
+    "options": [
+      "হাইড্রোজেন গ্যাস (H₂)",
+      "অক্সিজেন গ্যাস (O₂)",
+      "ক্লোরিন গ্যাস (Cl₂)",
+      "নাইট্রোজেন গ্যাস (N₂)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q08",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "CH₄ + 2O₂ → CO₂ + 2H₂O বিক্রিয়াটিতে ডেল্টা এইচ (ΔH) এর মান ঋণাত্মক হওয়ার কারণ কী?",
+    "options": [
+      "বিক্রিয়াটি তাপোৎপাদী",
+      "বিক্রিয়াটি তাপহারী",
+      "বিক্রিয়াটিতে কোনো তাপের পরিবর্তন হয় না",
+      "বিক্রিয়াটি অতি ধীরগতির"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q09",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "লবণ সেতুতে (Salt Bridge) সাধারণত কোন ধরনের লবণ ব্যবহৃত হয়?",
+    "options": [
+      "পটাশিয়াম ক্লোরাইড (KCl)",
+      "সোডিয়াম হাইড্রোক্সাইড (NaOH)",
+      "ক্যালসিয়াম কার্বনেট (CaCO₃)",
+      "সিলভার ক্লোরাইড (AgCl)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q10",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "গ্যালভানিক কোষে অ্যানোডে কোন রাসায়নিক প্রক্রিয়াটি ঘটে?",
+    "options": [
+      "জারণ প্রক্রিয়া",
+      "বিজারণ প্রক্রিয়া",
+      "প্রশমন প্রক্রিয়া",
+      "কোনোটিই নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q11",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "নিচের কোনটি ড্যানিয়েল কোষের সঠিক কোষ বিক্রিয়া?",
+    "options": [
+      "Zn + Cu²⁺ → Zn²⁺ + Cu",
+      "Cu + Zn²⁺ → Cu²⁺ + Zn",
+      "Zn²⁺ + Cu → Zn + Cu²⁺",
+      "Zn + Cu → Zn²⁺ + Cu²⁺"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q12",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "১ মোল মিথেন (CH₄) গ্যাসের সম্পূর্ণ দহনে নির্গত তাপের পরিমাণ কত?",
+    "options": [
+      "-৮৯০ kJ",
+      "+৮৯০ kJ",
+      "-৩৯৩.৫ kJ",
+      "-৫৭.৩৪ kJ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q13",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "বিশুদ্ধ পানির তড়িৎ বিশ্লেষণের সময় পানিতে সামান্য এসিড যোগ করা হয় কেন?",
+    "options": [
+      "পানির পরিবাহিতা বৃদ্ধি করার জন্য",
+      "পানির গলনাঙ্ক কমানোর জন্য",
+      "পানিকে বিশুদ্ধ করার জন্য",
+      "অক্সিজেন গ্যাসের উৎপাদন দ্বিগুণ করার জন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q14",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "রাসায়নিক বন্ধন ভাঙার জন্য প্রয়োজনীয় শক্তিকে কী বলা হয়?",
+    "options": [
+      "বন্ধন শক্তি (Bond Energy)",
+      "ল্যাটিস শক্তি",
+      "হাইড্রেশন শক্তি",
+      "সক্রিয়ণ শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "সালফিউরিক এসিড (H₂SO₄) ও সোডিয়াম হাইড্রোক্সাইডের (NaOH) প্রশমন বিক্রিয়ায় উৎপন্ন তাপের মান কত?",
+    "options": [
+      "প্রায় -৫৭.৩৪ kJ",
+      "প্রায় -১১৪.৬৮ kJ",
+      "প্রায় -২৮.৬৭ kJ",
+      "প্রায় -৩৯৩.৫ kJ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "শুষ্ক কোষে উৎপন্ন হাইড্রোজেন গ্যাসকে জারিত করে পানিতে পরিণত করার জন্য কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "ম্যাঙ্গানিজ ডাই অক্সাইড (MnO₂)",
+      "অ্যামোনিয়াম ক্লোরাইড",
+      "জিঙ্ক ক্লোরাইড",
+      "স্টার্চ পেস্ট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q17",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "গলিত সোডিয়াম ক্লোরাইডের (NaCl) তড়িৎ বিশ্লেষণে অ্যানোডে কোনটি উৎপন্ন হয়?",
+    "options": [
+      "ক্লোরিন গ্যাস (Cl₂)",
+      "সোডিয়াম ধাতু (Na)",
+      "অক্সিজেন গ্যাস (O₂)",
+      "হাইড্রোজেন গ্যাস (H₂)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q18",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "তড়িৎ রাসায়নিক কোষে লবণ সেতুর প্রধান কাজ কী?",
+    "options": [
+      "উভয় অর্ধকোষের বৈদ্যুতিক নিরপেক্ষতা রক্ষা করা",
+      "কোষের বিভব বহুগুণ বৃদ্ধি করা",
+      "জিঙ্ক ও কপার আয়ন সরাসরি মিশ্রিত করা",
+      "কোষের ভেতরের রোধ অসীম করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q19",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "কোনো একটি রাসায়নিক বন্ধন ভাঙতে যে পরিমাণ শক্তি প্রয়োজন হয়, বন্ধনটি গঠিত হতে কী ঘটে?",
+    "options": [
+      "সমপরিমাণ শক্তি নির্গত হয়",
+      "দ্বিগুণ শক্তি শোষিত হয়",
+      "কোনো শক্তির পরিবর্তন হয় না",
+      "অর্ধেক শক্তি শোষিত হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q20",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "গ্যালভানিক কোষে রাসায়নিক শক্তি সরাসরি কোন শক্তিতে রূপান্তরিত হয়?",
+    "options": [
+      "তড়িৎ শক্তি",
+      "আলোক শক্তি",
+      "শব্দ শক্তি",
+      "যান্ত্রিক শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q21",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "তীব্র অম্ল ও তীব্র ক্ষারের প্রশমন তাপ কেন ধ্রুবক থাকে?",
+    "options": [
+      "উভয় ক্ষেত্রেই মূল বিক্রিয়াটি H⁺ + OH⁻ → H₂O",
+      "সব এসিডেরই একই শক্তি থাকে",
+      "ক্ষারগুলো পানিতে দ্রবীভূত হয় না",
+      "লবণ সরাসরি বাষ্পীভূত হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q22",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "গ্যালভানিক কোষে ক্যাথোড ধাতুর পাতটি কোন চার্জযুক্ত থাকে?",
+    "options": [
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "নিরপেক্ষ",
+      "পরিবর্তনশীল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q23",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "জ্বালানি কোষে (Fuel Cell) জ্বালানি হিসেবে সাধারণত কী ব্যবহৃত হয়?",
+    "options": [
+      "হাইড্রোজেন গ্যাস (H₂)",
+      "মিথেন গ্যাস (CH₄)",
+      "কয়লা",
+      "কেরোসিন তেল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q24",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "ল্যাটিস শক্তি (Lattice Energy) এবং হাইড্রেশন শক্তির মধ্যে কোনটি বেশি হলে লবণ পানিতে সহজে দ্রবীভূত হয়?",
+    "options": [
+      "হাইড্রেশন শক্তি বেশি হলে",
+      "ল্যাটিস শক্তি বেশি হলে",
+      "উভয় শক্তি সমান হলে",
+      "উভয় শক্তি শূন্য হলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-02-q25",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-02",
+    "text": "ধাতুর সক্রিয়তা সিরিজে নিচের কোন ধাতুটির সক্রিয়তা সবচেয়ে বেশি?",
+    "options": [
+      "পটাশিয়াম (K)",
+      "সোডিয়াম (Na)",
+      "ক্যালসিয়াম (Ca)",
+      "জিঙ্ক (Zn)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

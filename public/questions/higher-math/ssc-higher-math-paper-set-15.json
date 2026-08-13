@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-paper-set-15-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "যদি $A=\\{x:x\\in N,\\ x^2<30\\}$ হয়, তবে $A$ সেটের উপাদান কয়টি?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "যদি $f(x)=2x-1$ এবং ডোমেন $\\{1,2,3,4\\}$ হয়, তবে রেঞ্জ কোনটি?",
+    "options": [
+      "$\\{1,3,5,7\\}$",
+      "$\\{2,4,6,8\\}$",
+      "$\\{0,1,2,3\\}$",
+      "$\\{3,5,7,9\\}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$x^2-5x+6$ রাশিটির উৎপাদক কোনটি?",
+    "options": [
+      "$(x-2)(x-3)$",
+      "$(x+2)(x+3)$",
+      "$(x-1)(x-6)$",
+      "$(x+1)(x-6)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$x^2-7x+12=0$ সমীকরণের বৃহত্তর মূল কত?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$2x^2-9x+4=0$ সমীকরণের মূলদ্বয়ের গুণফল কত?",
+    "options": [
+      "$\\frac{1}{2}$",
+      "2",
+      "$\\frac{9}{2}$",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$3x-5<10$ অসমতার সমাধান কোনটি?",
+    "options": [
+      "$x<5$",
+      "$x>5$",
+      "$x<\\frac{5}{3}$",
+      "$x>\\frac{5}{3}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$-2\\leq 3x+1<10$ হলে $x$ এর মানের পরিসর কোনটি?",
+    "options": [
+      "$-1\\leq x<3$",
+      "$-3\\leq x<1$",
+      "$1\\leq x<3$",
+      "$-1<x\\leq3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "একটি সমান্তর ধারার ৪র্থ পদ 14 এবং ৯ম পদ 34 হলে সাধারণ অন্তর কত?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "সমান্তর ধারার প্রথম পদ 7 এবং সাধারণ অন্তর 3 হলে ১২তম পদ কত?",
+    "options": [
+      "37",
+      "40",
+      "43",
+      "46"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$5+\\frac{5}{2}+\\frac{5}{4}+\\frac{5}{8}+\\cdots$ অসীম ধারাটির সমষ্টি কত?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$150^\\circ$ কোণের বৃত্তীয় মান কত?",
+    "options": [
+      "$\\frac{5\\pi}{6}$",
+      "$\\frac{2\\pi}{3}$",
+      "$\\frac{3\\pi}{4}$",
+      "$\\frac{7\\pi}{6}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta+\\tan^2\\theta$ এর মান কোনটির সমান?",
+    "options": [
+      "$\\sec^2\\theta$",
+      "$1+\\sec^2\\theta$",
+      "$\\tan^2\\theta$",
+      "$1+\\tan^2\\theta$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$\\tan A=\\frac{8}{15}$ এবং $A$ সূক্ষ্মকোণ হলে $\\sin A$ কত?",
+    "options": [
+      "$\\frac{8}{17}$",
+      "$\\frac{15}{17}$",
+      "$\\frac{17}{8}$",
+      "$\\frac{17}{15}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$2^{x+1}=32$ হলে $x$ এর মান কত?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$\\log_2 x=5$ হলে $x$ এর মান কত?",
+    "options": [
+      "10",
+      "16",
+      "25",
+      "32"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$\\log_3 81+\\log_2 8$ এর মান কত?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$(x+2)^5$ বিস্তৃতিতে $x^4$ পদের সহগ কত?",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "32"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$(2x-1)^4$ বিস্তৃতিতে $x^3$ পদের সহগ কত?",
+    "options": [
+      "$-32$",
+      "$-16$",
+      "16",
+      "32"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$(2,3)$ এবং $(8,11)$ বিন্দুদ্বয়ের মধ্যবর্তী দূরত্ব কত?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$(1,2)$ ও $(5,10)$ বিন্দু দিয়ে অতিক্রান্ত সরলরেখার ঢাল কত?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "ঢাল $-2$ এবং বিন্দু $(3,4)$ দিয়ে অতিক্রান্ত সরলরেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y-4=-2(x-3)$",
+      "$y+4=-2(x+3)$",
+      "$y-3=-2(x-4)$",
+      "$x-4=-2(y-3)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$\\vec a=3\\hat i+4\\hat j$ এবং $\\vec b=2\\hat i-\\hat j$ হলে $\\vec a+\\vec b$ কোনটি?",
+    "options": [
+      "$5\\hat i+3\\hat j$",
+      "$\\hat i+5\\hat j$",
+      "$5\\hat i-5\\hat j$",
+      "$6\\hat i+4\\hat j$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "$\\vec p=6\\hat i+8\\hat j$ হলে $|\\vec p|$ কত?",
+    "options": [
+      "7",
+      "8",
+      "10",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "ব্যাসার্ধ 7 cm এবং উচ্চতা 10 cm বিশিষ্ট সিলিন্ডারের আয়তন কত? $\\pi=\\frac{22}{7}$",
+    "options": [
+      "154 cm³",
+      "220 cm³",
+      "770 cm³",
+      "1540 cm³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-paper-set-15-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-15",
+    "text": "একটি বাক্সে 5টি লাল ও 3টি নীল বল আছে। দৈবভাবে একটি বল তুললে লাল বল পাওয়ার সম্ভাবনা কত?",
+    "options": [
+      "$\\frac{3}{8}$",
+      "$\\frac{5}{8}$",
+      "$\\frac{5}{3}$",
+      "$\\frac{1}{5}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q01",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(|2x-5| < 7\\) হলে \\(x\\)-এর মান—",
+    "options": [
+      "\\(-1 < x < 6\\)",
+      "\\(-6 < x < 1\\)",
+      "\\(1 < x < 6\\)",
+      "\\(-1 < x < 7\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q02",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(x>0\\) হলে \\(x+\\frac{4}{x}\\)-এর সর্বনিম্ন মান—",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q03",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(x+y \\le 8\\), \\(x+2y \\le 10\\), \\(x, y \\ge 0\\), \\(Z=4x+3y\\) হলে \\(Z\\)-এর সর্বোচ্চ মান—",
+    "options": [
+      "15",
+      "30",
+      "32",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q04",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(x+y=7\\) এবং \\(2x+y=10\\) রেখাদ্বয়ের ছেদবিন্দু—",
+    "options": [
+      "(3,4)",
+      "(4,3)",
+      "(2,5)",
+      "(5,2)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q05",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(i^{2027}\\)-এর মান—",
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q06",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(z=\\sqrt{3}+i\\) হলে \\(z^6 = \\)",
+    "options": [
+      "64",
+      "-64",
+      "64i",
+      "-64i"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q07",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "বাস্তব সহগবিশিষ্ট \\(x^2+px+q=0\\)-এর একটি মূল \\(2+i\\) হলে—",
+    "options": [
+      "p = -4, q = 5",
+      "p = 4, q = 5",
+      "p = -2, q = 5",
+      "p = -4, q = -5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q08",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(3x^2-5x+2=0\\)-এর মূল \\(\\alpha,\\beta\\) হলে \\(\\frac{1}{\\alpha}+\\frac{1}{\\beta} = \\)",
+    "options": [
+      "\\(\\frac{5}{2}\\)",
+      "\\(\\frac{2}{5}\\)",
+      "\\(-\\frac{2}{5}\\)",
+      "\\(\\frac{5}{3}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q09",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(2x^3-kx^2+3x-5\\) বহুপদীটি \\(x-1\\) দ্বারা বিভাজ্য হলে \\(k = \\)",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q10",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\((x^2+\\frac{1}{x})^6\\) বিস্তৃতিতে ধ্রুব পদের সহগ—",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q11",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\((1-2x)^5\\) বিস্তৃতিতে \\(x^3\\)-এর সহগ—",
+    "options": [
+      "80",
+      "-80",
+      "40",
+      "-40"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q12",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(y^2=12x\\) পরাবৃত্তের উপকেন্দ্র—",
+    "options": [
+      "(2,0)",
+      "(3,0)",
+      "(4,0)",
+      "(0,3)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q13",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(\\frac{x^2}{16}+\\frac{y^2}{9}=1\\) উপবৃত্তের উৎকেন্দ্রিকতা—",
+    "options": [
+      "\\(\\frac{\\sqrt{7}}{4}\\)",
+      "\\(\\frac{4}{3}\\)",
+      "\\(\\frac{7}{4}\\)",
+      "\\(\\frac{\\sqrt{7}}{2}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q14",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(\\frac{x^2}{9}-\\frac{y^2}{16}=1\\) অধিবৃত্তের অসীমতট—",
+    "options": [
+      "y = \\pm\\frac{3}{4}x",
+      "y = \\pm\\frac{4}{3}x",
+      "y = \\pm\\frac{4}{9}x",
+      "y = \\pm\\frac{9}{4}x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q15",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(y^2=-8x\\) পরাবৃত্তের নিয়ামক রেখা—",
+    "options": [
+      "x = -2",
+      "x = 2",
+      "y = -2",
+      "y = 2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q16",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(\\sin^{-1}(\\sin\\frac{2\\pi}{3}) = \\)",
+    "options": [
+      "\\(\\frac{2\\pi}{3}\\)",
+      "\\(\\frac{\\pi}{3}\\)",
+      "\\(-\\frac{\\pi}{3}\\)",
+      "\\(\\frac{\\pi}{6}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q17",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(\\tan^{-1}\\sqrt{3}+\\tan^{-1}1 = \\)",
+    "options": [
+      "\\(\\frac{\\pi}{12}\\)",
+      "\\(\\frac{\\pi}{2}\\)",
+      "\\(\\frac{7\\pi}{12}\\)",
+      "\\(\\frac{5\\pi}{12}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q18",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(0 \\le \\theta < 2\\pi\\) হলে \\(sin\\theta = \\frac{1}{2}\\) সমীকরণের সমাধান সংখ্যা—",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q19",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "5 N ও 12 N দুইটি লম্ব বলের লব্ধি—",
+    "options": [
+      "7 N",
+      "13 N",
+      "17 N",
+      "60 N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "10 N ও 10 N বলের অন্তর্ভুক্ত কোণ \\(60^\\circ\\) হলে লব্ধি—",
+    "options": [
+      "10 N",
+      "\\(10\\sqrt{2}\\text{ N}\\)",
+      "\\(10\\sqrt{3}\\text{ N}\\)",
+      "20 N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(u=30\\text{ m/s}\\), \\(\\theta=45^\\circ\\), \\(g=10\\text{ m/s}^2\\) হলে পাল্লা—",
+    "options": [
+      "45 m",
+      "60 m",
+      "90 m",
+      "120 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(u=20\\text{ m/s}\\), \\(\\theta=30^\\circ\\), \\(g=10\\text{ m/s}^2\\) হলে উড্ডয়নকাল—",
+    "options": [
+      "1 s",
+      "2 s",
+      "3 s",
+      "4 s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "দুইটি পাশা নিক্ষেপে একই সংখ্যা আসার সম্ভাবনা—",
+    "options": [
+      "\\(\\frac{1}{6}\\)",
+      "\\(\\frac{1}{3}\\)",
+      "\\(\\frac{1}{9}\\)",
+      "\\(\\frac{1}{12}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "৩টি মুদ্রা নিক্ষেপে ঠিক ১টি Head আসার সম্ভাবনা—",
+    "options": [
+      "\\(\\frac{1}{8}\\)",
+      "\\(\\frac{3}{8}\\)",
+      "\\(\\frac{1}{2}\\)",
+      "\\(\\frac{5}{8}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-14-q25",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-14",
+    "text": "\\(P(A)=0.6\\), \\(P(B)=0.5\\), \\(P(A \\cup B)=0.8\\) হলে \\(P(A \\cap B) = \\)",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.3",
+      "0.4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

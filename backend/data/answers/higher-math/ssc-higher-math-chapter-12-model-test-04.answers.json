@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-12-model-test-04-q01": {
+    "correctOption": "5",
+    "explanation": "লব্ধি ভেক্টর 3i+4j। মান = √(3²+4²)=5।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q02": {
+    "correctOption": "13",
+    "explanation": "লব্ধি ভেক্টর 5i+12j। মান = √(25+144)=13।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q03": {
+    "correctOption": "-3i+4j",
+    "explanation": "পশ্চিম দিক ঋণাত্মক x-দিক এবং উত্তর দিক ধনাত্মক y-দিক। তাই ভেক্টর -3i+4j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q04": {
+    "correctOption": "8i-6j",
+    "explanation": "পূর্ব ধনাত্মক x-দিক এবং দক্ষিণ ঋণাত্মক y-দিক। তাই ভেক্টর 8i-6j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q05": {
+    "correctOption": "6i+8j",
+    "explanation": "সরণ ভেক্টর OP=(6-0)i+(8-0)j=6i+8j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q06": {
+    "correctOption": "6i+8j",
+    "explanation": "AB=(8-2)i+(11-3)j=6i+8j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q07": {
+    "correctOption": "10",
+    "explanation": "সরণ ভেক্টর 6i+8j। মান = √(36+64)=10।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q08": {
+    "correctOption": "13",
+    "explanation": "AB=(5i+12j)। মান = √(25+144)=13।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q09": {
+    "correctOption": "শূন্য ভেক্টর",
+    "explanation": "b=-a। তাই a+b=0i+0j, অর্থাৎ শূন্য ভেক্টর।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q10": {
+    "correctOption": "0i+0j",
+    "explanation": "a+b=5i+5j। তাই a+b+c=(5i+5j)+(-5i-5j)=0i+0j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q11": {
+    "correctOption": "a+b",
+    "explanation": "দুইটি ভেক্টরের লব্ধি তাদের ভেক্টর যোগফল a+b।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q12": {
+    "correctOption": "5",
+    "explanation": "a+b=4i+3j। মান = √(4²+3²)=5।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q13": {
+    "correctOption": "13",
+    "explanation": "a+b=12i+5j। মান = √(144+25)=13।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q14": {
+    "correctOption": "25",
+    "explanation": "a+b=7i-24j। মান = √(49+576)=25।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q15": {
+    "correctOption": "√2",
+    "explanation": "a+b=i+j। মান = √(1²+1²)=√2।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q16": {
+    "correctOption": "√2",
+    "explanation": "a+b=i-j। মান = √(1²+(-1)²)=√2।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q17": {
+    "correctOption": "(-3/5)i-(4/5)j",
+    "explanation": "a-এর বিপরীত ভেক্টর -a=-3i-4j। এর একক ভেক্টর (-3/5)i-(4/5)j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q18": {
+    "correctOption": "(-5/13)i+(12/13)j",
+    "explanation": "-a=-5i+12j এবং |-a|=13। তাই একক ভেক্টর (-5/13)i+(12/13)j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q19": {
+    "correctOption": "একই দিক",
+    "explanation": "ধনাত্মক স্কেলার দ্বারা গুণ করলে ভেক্টরের দিক অপরিবর্তিত থাকে। তাই 5a-এর দিক a-এর মতোই।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q20": {
+    "correctOption": "বিপরীত দিক",
+    "explanation": "ঋণাত্মক স্কেলার দ্বারা গুণ করলে ভেক্টরের দিক বিপরীত হয়। তাই -5a বিপরীত দিকে।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q21": {
+    "correctOption": "2i+3j",
+    "explanation": "(1/2)a=(1/2)(4i+6j)=2i+3j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q22": {
+    "correctOption": "2i-3j",
+    "explanation": "(1/3)a=(1/3)(6i-9j)=2i-3j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q23": {
+    "correctOption": "2i",
+    "explanation": "a+b=(i+j)+(i-j)=2i।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q24": {
+    "correctOption": "2j",
+    "explanation": "a-b=(i+j)-(i-j)=2j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-04-q25": {
+    "correctOption": "0i+0j",
+    "explanation": "একই ভেক্টর নিজের থেকে বিয়োগ করলে শূন্য ভেক্টর পাওয়া যায়।"
+  }
+}

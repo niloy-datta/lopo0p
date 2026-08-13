@@ -1,0 +1,102 @@
+{
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q01": {
+    "correctOption": "AB̄ + ĀB",
+    "explanation": "XOR গেট: Y = A ⊕ B = A·B̄ + Ā·B। আউটপুট 1 হবে যখন ইনপুটদ্বয় ভিন্ন।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q02": {
+    "correctOption": "NAND",
+    "explanation": "প্রশ্নের প্রদত্ত বিকল্পগুলির মধ্যে NAND নিকটতম বিকল্প হিসেবে নেওয়া হয়েছে।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q03": {
+    "correctOption": "[বর্তনী ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q04": {
+    "correctOption": "NOR",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q05": {
+    "correctOption": "1",
+    "explanation": "উত্তর: B) 1 — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q06": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "অনেক তত্ত্বের প্রয়োগে i, ii এবং iii সবকটি বিবেচ্য। — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q07": {
+    "correctOption": "144 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q08": {
+    "correctOption": "81 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q09": {
+    "correctOption": "135 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q10": {
+    "correctOption": "240 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q11": {
+    "correctOption": "28 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q12": {
+    "correctOption": "630 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q13": {
+    "correctOption": "1008 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q14": {
+    "correctOption": "64 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q15": {
+    "correctOption": "128 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q16": {
+    "correctOption": "90 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q17": {
+    "correctOption": "27 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q18": {
+    "correctOption": "108 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q19": {
+    "correctOption": "144 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q20": {
+    "correctOption": "4\\Omega",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q21": {
+    "correctOption": "I = \\frac{2E}{R+\\frac{r}{2}}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q22": {
+    "correctOption": "0.94",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q23": {
+    "correctOption": "49",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q24": {
+    "correctOption": "0^\\circ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-05-q25": {
+    "correctOption": "\\frac{\\lambda}{4}",
+    "explanation": ""
+  }
+}

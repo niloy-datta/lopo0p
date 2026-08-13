@@ -1,0 +1,377 @@
+[
+  {
+    "id": "model-test-17-final-assessment-q01",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "আয়তন অনুযায়ী বায়ুর প্রধান উপাদান কোন গ্যাস?",
+    "options": [
+      "O2",
+      "CO2",
+      "N2",
+      "Ar"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q02",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "STP-তে ২২.৪ L আদর্শ গ্যাস কত mol-এর সমান?",
+    "options": [
+      "0.5",
+      "1",
+      "2",
+      "22.4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q03",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "কোন বন্ধন সবচেয়ে ধ্রুব?",
+    "options": [
+      "C-H",
+      "C-F",
+      "C-C",
+      "C-Si"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q04",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "২৫°C-তে নিরপেক্ষ বিশুদ্ধ পানির pH কত?",
+    "options": [
+      "০",
+      "7",
+      "14",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q05",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "অসন্তৃপ্ততা (অ্যালকিন) পরীক্ষায় কোন বিকারক?",
+    "options": [
+      "KMnO4 (dilute)",
+      "NaCl",
+      "KCl",
+      "Na2CO3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q06",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "কোনটি প্রাথমিক অ্যালকোহল?",
+    "options": [
+      "Isopropanol",
+      "Ethanol",
+      "Tertiary-butanol",
+      "Benzyl alcohol (primary by structure)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q07",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "কোন অক্সাইড উভধর্মী?",
+    "options": [
+      "Na2O",
+      "ZnO",
+      "CO2",
+      "SO2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q08",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "এগুলোর মধ্যে সবচেয়ে শক্তিশালী অ্যাসিড কোনটি?",
+    "options": [
+      "HCl",
+      "CH3COOH",
+      "H2CO3",
+      "NH4+"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q09",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "বৃহৎ পরিসরে শিল্পক্ষেত্রে H₂ উৎপাদনে কোন প্রক্রিয়া?",
+    "options": [
+      "Electrolysis of water",
+      "Steam reforming of methane",
+      "Combustion of hydrogen",
+      "Photosynthesis"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q10",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "কোন মৌল সাধারণত পরিবর্তনশীল জারণ মান দেখায়?",
+    "options": [
+      "Na",
+      "Mg",
+      "Fe",
+      "Ne"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q11",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "মরিচা ধরার প্রধান কারণ কী?",
+    "options": [
+      "Reaction with CO2",
+      "Reaction with O2 & water",
+      "Reaction with N2",
+      "Reaction with H2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q12",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "কোনটি দুর্বল তড়িৎবিদ্যুৎ বিভাজ্য?",
+    "options": [
+      "HCl",
+      "NaOH",
+      "CH3COOH",
+      "KCl"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q13",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "শুষ্ককারী (ডেসিক্যান্ট) হিসেবে কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "NaCl",
+      "CaCl2",
+      "KCl",
+      "Na2CO3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q14",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "বেনেডিক্ট পরীক্ষা (বিজারক চিনি)য়ে কোন বিকারক ব্যবহৃত হয়?",
+    "options": [
+      "Benedict reagent",
+      "Tollens",
+      "Br2 water",
+      "KMnO4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q15",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "কক্ষ তাপমাত্রায় তরল হ্যালোজেন কোনটি?",
+    "options": [
+      "F2",
+      "Cl2",
+      "Br2",
+      "I2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q16",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "কোনটি ক্ষারীয় অক্সাইড?",
+    "options": [
+      "CO2",
+      "Na2O",
+      "SO3",
+      "P2O5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q17",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "প্রধানত কোন গ্যাস অ্যাসিড বৃষ্টি ঘটায়?",
+    "options": [
+      "CO2",
+      "SO2",
+      "N2",
+      "O2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q18",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "৪০% C, ৬.৭% H, ৫৩.৩% O যৌগের অনুভূত সংকেত কী?",
+    "options": [
+      "CH2O",
+      "C2H4O2",
+      "CHO",
+      "C3H6O3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q19",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "কোনটি উভধর্মী ধাতু?",
+    "options": [
+      "Na",
+      "Ca",
+      "Zn",
+      "K"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q20",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "হাইড্রোকার্বনের সম্পূর্ণ দহনে কী পাওয়া যায়?",
+    "options": [
+      "CO & H2O",
+      "CO2 & H2O",
+      "C & H2O",
+      "CO2 only"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q21",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "কোন যৌগ আয়নিক?",
+    "options": [
+      "CH4",
+      "NaCl",
+      "CCl4",
+      "H2O"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q22",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "H₂O-এর মোলার ভর কত?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "34"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q23",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "অ্যাসিড + কার্বনেট প্রতিক্রিয়ায় কী উৎপন্ন হয়?",
+    "options": [
+      "H2",
+      "O2",
+      "CO2",
+      "N2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q24",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "অম্লে কোন সূচক লাল হয়?",
+    "options": [
+      "Phenolphthalein",
+      "Litmus (blue)",
+      "Methyl orange (red in acid)",
+      "কোনোটিই নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-17-final-assessment-q25",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-17-final-assessment",
+    "text": "বক্সাইট থেকে অ্যালুমিনিয়াম নিষ্কাশনে কোন প্রক্রিয়া ব্যবহৃত হয়?",
+    "options": [
+      "Electrolysis (Hall)",
+      "Blast furnace",
+      "Hydrometallurgy",
+      "গলন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

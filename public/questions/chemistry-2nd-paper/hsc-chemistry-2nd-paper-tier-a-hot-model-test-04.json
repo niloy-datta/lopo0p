@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q01",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "গ্যাস ধ্রুবক R এর মান লিটার-বায়ুমণ্ডল এককে নিচের কোনটি সঠিক?",
+    "options": [
+      "8.314 J K⁻¹ mol⁻¹",
+      "0.0821 L atm K⁻¹ mol⁻¹",
+      "1.987 cal K⁻¹ mol⁻¹",
+      "83.14 L atm K⁻¹ mol⁻¹"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q02",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "নাইট্রোজেন গ্যাসের ক্ষেত্রে ক্রান্তিক তাপমাত্রা বা সংকট তাপমাত্রা কত?",
+    "options": [
+      "−147°C",
+      "31.1°C",
+      "100°C",
+      "0°C"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q03",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "অনুবন্ধী অম্ল-ক্ষারক তত্ত্বানুযায়ী, NH₄⁺ আয়নের অনুবন্ধী ক্ষারক কোনটি?",
+    "options": [
+      "NH₃",
+      "NH₂⁻",
+      "NH₄OH",
+      "H₃O⁺"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q04",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "বিশ্ব স্বাস্থ্য সংস্থা (WHO) অনুমোদিত পানের যোগ্য পানিতে As (আর্সেনিক) এর সর্বোচ্চ গ্রহণযোগ্য মাত্রা কত?",
+    "options": [
+      "0.01 ppm",
+      "0.05 ppm",
+      "0.5 ppm",
+      "1.0 ppm"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q05",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "আলোক সক্রিয় সমাবয়বতার শর্ত কোনটি?",
+    "options": [
+      "যৌগে কার্বন-কার্বন দ্বিবন্ধন থাকতে হবে",
+      "অনুটিতে প্রতিসাম্য তল থাকতে হবে",
+      "অনুটিতে অন্তত একটি কাইরাল কেন্দ্র বা অসম কার্বন থাকতে হবে",
+      "জ্যামিতিক কাঠামো রৈখিক হতে হবে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q06",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "বেনজিনের নাইট্রেশন বিক্রিয়ায় উৎপাদিত সক্রিয় ইলেকট্রোফাইল কোনটি?",
+    "options": [
+      "NO₂⁻",
+      "NO₃⁻",
+      "NO₂⁺",
+      "NO⁺"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q07",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "নিচের কোন যৌগটি হফম্যান ক্ষুদ্রাংশকরণ (Degradation) বিক্রিয়া প্রদর্শন করে?",
+    "options": [
+      "CH₃CONH₂",
+      "CH₃NH₂",
+      "CH₃CH₂Cl",
+      "CH₃COOH"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q08",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "ল্যাবরেটরিতে ১° এবং ২° অ্যালকোহলের মধ্যে পার্থক্য করার জন্য নিচের কোনটি সবচেয়ে উপযুক্ত?",
+    "options": [
+      "লুকাস বিকারক",
+      "টলেন বিকারক",
+      "ডায়াজোনিয়াম লবণ পরীক্ষা",
+      "ক্ষারীয় পটাশিয়াম পারম্যাঙ্গানেট"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q09",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "মিথাইল ক্লোরাইডকে সোডিয়াম ধাতুসহ শুষ্ক ইথারে বিক্রিয়া করালে কোন হাইড্রোকার্বন পাওয়া যায়?",
+    "options": [
+      "মিথেন",
+      "ইথেন",
+      "প্রোপেন",
+      "ইথিন"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q10",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "কার্বিল অ্যামিন বিক্রিয়ায় তীব্র দুর্গন্ধযুক্ত কোন বিষাক্ত যৌগটি উৎপন্ন হয়?",
+    "options": [
+      "ফেনাইল আইসোসায়ানাইড",
+      "নাইট্রোবেনজিন",
+      "ক্লোরোপিক্রিন",
+      "মিথাইল সায়ানাইড"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q11",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "0.005 M Ba(OH)₂ দ্রবণের pOH কত?",
+    "options": [
+      "2.0",
+      "1.0",
+      "12.0",
+      "13.0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q12",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "250 mL 0.2 M NaOH দ্রবণ প্রস্তুত করতে কত গ্রাম ওজনের দ্রাব লাগবে?",
+    "options": [
+      "2.0 গ্রাম",
+      "4.0 গ্রাম",
+      "8.0 গ্রাম",
+      "1.0 গ্রাম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q13",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "H₂SO₅ (ক্যারোস এসিড) যৌগে সালফারের প্রকৃত জারণ সংখ্যা কত?",
+    "options": [
+      "+8",
+      "+6",
+      "+4",
+      "+2"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q14",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "আয়োডিমিটি (Iodimetry) টাইট্রেশনের মূল ভিত্তি কী?",
+    "options": [
+      "প্রমাণ আয়োডিন দ্রবণ দ্বারা বিজারক পদার্থের পরিমাপ",
+      "অজ্ঞাত আয়োডিন উৎপন্ন করে থায়োসালফেটের পরিমাপ",
+      "এসিড-ক্ষারকের প্রশমন বিক্রিয়া",
+      "নির্দেশক ছাড়া জটিল যৌগ তৈরি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q15",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "সিলভারের তড়িৎ রাসায়নিক তুল্যাঙ্ক (Z) এর একক কোনটি?",
+    "options": [
+      "g C⁻¹",
+      "C g⁻¹",
+      "mol C⁻¹",
+      "Amp sec"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q16",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "লেড স্টোরেজ ব্যাটারি যখন বিদ্যুৎ সরবরাহ করে (Discharging), তখন ক্যাথোডে কী ঘটে?",
+    "options": [
+      "Pb জারিত হয়ে PbSO₄ তৈরি করে",
+      "PbO₂ বিজারিত হয়ে PbSO₄ তৈরি করে",
+      "পানি তড়িৎ বিশ্লেষিত হয়",
+      "সালফিউরিক এসিডের ঘনত্ব বৃদ্ধি পায়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q17",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "লোহার পাইপকে মরিচা থেকে বাঁচাতে দস্তার প্রলেপ দেওয়াকে কী বলা হয়?",
+    "options": [
+      "অ্যানোডাইজিং",
+      "গ্যালভানাইজিং",
+      "ভলকানাইজিং",
+      "ইলেকট্রোপ্লেটিং"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q18",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "হাইড্রোজেন-অক্সিজেন ফুয়েল সেলের কোষ বিক্রিয়ায় উপজাত (Byproduct) হিসেবে কী উৎপন্ন হয়?",
+    "options": [
+      "কার্বন ডাইঅক্সাইড",
+      "পানি",
+      "সালফার ডাইঅক্সাইড",
+      "হাইড্রোজেন পারঅক্সাইড"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q19",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "পোর্টল্যান্ড সিমেন্ট ক্লিংকার তৈরির ঘূর্ণায়মান চুল্লির সর্বোচ্চ তাপমাত্রা কত থাকে?",
+    "options": [
+      "500°C–600°C",
+      "1400°C–1600°C",
+      "2000°C",
+      "100°C"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q20",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "ইউরিয়া সার উৎপাদনে কার্বন ডাইঅক্সাইডের সাথে কোন গ্যাসটি উচ্চ চাপে ও তাপমাত্রায় বিক্রিয়া করানো হয়?",
+    "options": [
+      "প্রাকৃতিক গ্যাস",
+      "তরল অ্যামোনিয়া",
+      "নাইট্রোজেন ডাইঅক্সাইড",
+      "হাইড্রোজেন গ্যাস"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q21",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "[উদ্দীপক ১]\nউদ্দীপক: একটি অপ্রতিসম অ্যালকিন: CH₃–CH=CH₂ + HBr → প্রধান উৎপাদ [X]\n\nউদ্দীপকের বিক্রিয়াটি কোন নীতি মেনে চলে এবং এর প্রধান উৎপাদ [X] কোনটি?",
+    "options": [
+      "খারাশ নীতি; ১-ব্রোমোপ্রোপেন",
+      "মারকনিকভ নীতি; ২-ব্রোমোপ্রোপেন",
+      "সায়জেফ নীতি; ২-ব্রোমোপ্রোপেন",
+      "বায়ার নীতি; ১,২-ডাইব্রোমোপ্রোপেন"
+    ],
+    "image": "/images/quiz/premium/hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q21.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q22",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "[উদ্দীপক ১] উদ্দীপকের বিক্রিয়াটিতে যদি জৈব পারঅক্সাইড (R₂O₂) উপস্থিত থাকত, তবে প্রধান উৎপাদ কী হতো?",
+    "options": [
+      "২-ব্রোমোপ্রোপেন",
+      "১-ব্রোমোপ্রোপেন",
+      "প্রোপানল",
+      "কোনো বিক্রিয়া হতো না"
+    ],
+    "image": "/images/quiz/premium/hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q22.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q23",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "কোনো গ্যাসের অণুর বেগ শূন্য হয় কোন তাপমাত্রায়?",
+    "options": [
+      "0°C",
+      "0 K",
+      "273 K",
+      "100°C"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q24",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "শিল্প কারখানার রাসায়নিক ধোঁয়া থেকে পরিবেশ রক্ষায় চিমনিতে কোন যন্ত্র ব্যবহার করা হয়?",
+    "options": [
+      "ইটিপি ট্যাংকার",
+      "ইলেক্ট্রোস্ট্যাটিক প্রিসিপিটেটর",
+      "সেন্ট্রিফিউজ মেশিন",
+      "ক্রোমাটোগ্রাফিক কলাম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q25",
+    "subject": "chemistry-2nd-paper",
+    "chapter": "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04",
+    "text": "নাইলন-৬:৬ তৈরিতে হেক্সামিথিলিন ডাইঅ্যামিনের সাথে কোন এসিডের ঘনীভবন পলিমারকরণ করা হয়?",
+    "options": [
+      "অক্সালিক এসিড",
+      "এডিপিক এসিড",
+      "থ্যালিক এসিড",
+      "স্যালিসিলিক এসিড"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

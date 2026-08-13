@@ -1,0 +1,2306 @@
+{
+  "level": "hsc",
+  "subject": "biology-1st-paper",
+  "modelTests": {
+    "hsc-biology-1st-paper-chapter-01-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-01-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-01-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-01-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-01-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০২"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৩"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৪"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৫"
+    },
+    "hsc-biology-1st-paper-chapter-01-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০১"
+    },
+    "hsc-biology-1st-paper-chapter-01-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-01-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-01-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-01-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "কোষ ও এর গঠন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · কোষ ও এর গঠন · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-02-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · কোষ বিভাজন · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-03-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · কোষ রসায়ন · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-04-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · অণুজীব · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অণুজীব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · অণুজীব · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-05-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "শৈবাল ও ছত্রাক"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · শৈবাল ও ছত্রাক · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-06-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "ব্রায়োফাইটা ও টেরিডোফাইটা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · ব্রায়োফাইটা ও টেরিডোফাইটা · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-07-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "নগ্নবীজী ও আবৃতবীজী উদ্ভিদ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · নগ্নবীজী ও আবৃতবীজী উদ্ভিদ · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-08-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "টিস্যু ও টিস্যুতন্ত্র"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · টিস্যু ও টিস্যুতন্ত্র · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-09-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "উদ্ভিদ শারীরতত্ত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · উদ্ভিদ শারীরতত্ত্ব · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-10-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "উদ্ভিদ প্রজনন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · উদ্ভিদ প্রজনন · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-11-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · জীবপ্রযুক্তি · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৬"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৭"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৮"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ০৯"
+    },
+    "hsc-biology-1st-paper-chapter-12-set-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীববৈচিত্র্য ও সংরক্ষণ"
+        }
+      ],
+      "name": "অধ্যায় ১২ · জীববৈচিত্র্য ও সংরক্ষণ · টেস্ট ১০"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 01"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-02": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 02"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-03": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 03"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-04": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 04"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-05": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 05"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-06": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 06"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-07": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 07"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-08": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 08"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-09": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 09"
+    },
+    "hsc-biology-1st-paper-board-analyzed-premium-set-10": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 10"
+    }
+  }
+}

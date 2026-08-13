@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(1, 2) ও B(9, 8)-এর মধ্যবিন্দু কোনটি?",
+    "options": [
+      "(5, 5)",
+      "(4, 6)",
+      "(10, 10)",
+      "(8, 6)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(-6, 4) ও B(2, -2)-এর মধ্যবিন্দু কোনটি?",
+    "options": [
+      "(-2, 1)",
+      "(-4, 2)",
+      "(2, -1)",
+      "(-2, 3)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(3, -5) ও B(7, 3)-এর মধ্যবিন্দু কোনটি?",
+    "options": [
+      "(5, -1)",
+      "(4, -2)",
+      "(10, -2)",
+      "(2, 4)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(-1, -4) ও B(5, 8)-এর মধ্যবিন্দু কোনটি?",
+    "options": [
+      "(2, 2)",
+      "(3, 4)",
+      "(2, 4)",
+      "(4, 2)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(2, 4) ও B(8, 10)-কে 1:2 অনুপাতে অভ্যন্তরীণভাবে বিভাজনকারী বিন্দু কোনটি?",
+    "options": [
+      "(4, 6)",
+      "(6, 8)",
+      "(5, 7)",
+      "(3, 5)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(1, 3) ও B(7, 9)-কে 2:1 অনুপাতে অভ্যন্তরীণভাবে বিভাজনকারী বিন্দু কোনটি?",
+    "options": [
+      "(5, 7)",
+      "(3, 5)",
+      "(4, 6)",
+      "(6, 8)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(-2, 1) ও B(4, 7)-কে 1:2 অনুপাতে অভ্যন্তরীণভাবে বিভাজনকারী বিন্দু কোনটি?",
+    "options": [
+      "(0, 3)",
+      "(2, 5)",
+      "(1, 4)",
+      "(-1, 2)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(0, 0) ও B(6, 9)-কে 1:2 অনুপাতে অভ্যন্তরীণভাবে বিভাজনকারী বিন্দু কোনটি?",
+    "options": [
+      "(2, 3)",
+      "(4, 6)",
+      "(3, 4.5)",
+      "(1, 2)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(0, 0) ও B(6, 9)-কে 2:1 অনুপাতে অভ্যন্তরীণভাবে বিভাজনকারী বিন্দু কোনটি?",
+    "options": [
+      "(4, 6)",
+      "(2, 3)",
+      "(3, 4.5)",
+      "(6, 9)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(2, 1) ও B(8, 7)-কে 1:1 অনুপাতে বিভাজনকারী বিন্দু কোনটি?",
+    "options": [
+      "(5, 4)",
+      "(4, 5)",
+      "(6, 4)",
+      "(3, 3)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(1, 2) ও B(5, 10)-এর ঢাল কত?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(-3, 4) ও B(1, 0)-এর ঢাল কত?",
+    "options": [
+      "-1",
+      "1",
+      "-2",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(2, -1) ও B(6, 1)-এর ঢাল কত?",
+    "options": [
+      "1/2",
+      "2",
+      "-1/2",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(-2, -3) ও B(4, 0)-এর ঢাল কত?",
+    "options": [
+      "1/2",
+      "2",
+      "-1/2",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(1, 5) ও B(4, 5) বিন্দু দুটির সংযোগরেখার ঢাল কত?",
+    "options": [
+      "0",
+      "1",
+      "অসংজ্ঞায়িত",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "A(3, 1) ও B(3, 8) বিন্দু দুটির সংযোগরেখার ঢাল কেমন?",
+    "options": [
+      "অসংজ্ঞায়িত",
+      "0",
+      "1",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "ঢাল 2 এবং y-অক্ষ ছেদক 3 হলে সরলরেখার সমীকরণ কোনটি?",
+    "options": [
+      "y=2x+3",
+      "y=3x+2",
+      "y=2x-3",
+      "x=2y+3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "ঢাল -3 এবং y-অক্ষ ছেদক 5 হলে সরলরেখার সমীকরণ কোনটি?",
+    "options": [
+      "y=-3x+5",
+      "y=3x+5",
+      "y=-5x+3",
+      "y=5x-3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "y=4x-7 সরলরেখার y-অক্ষ ছেদক কত?",
+    "options": [
+      "-7",
+      "4",
+      "7",
+      "-4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "y=-5x+2 সরলরেখার y-অক্ষ ছেদক কত?",
+    "options": [
+      "2",
+      "-5",
+      "5",
+      "-2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "x=4 রেখাটি কোন ধরনের?",
+    "options": [
+      "উল্লম্ব রেখা",
+      "অনুভূমিক রেখা",
+      "ঢাল 4-এর রেখা",
+      "মূলবিন্দুগামী রেখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "y=-3 রেখাটি কোন ধরনের?",
+    "options": [
+      "অনুভূমিক রেখা",
+      "উল্লম্ব রেখা",
+      "ঢাল -3-এর রেখা",
+      "মূলবিন্দুগামী রেখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "x-অক্ষের সমীকরণ কোনটি?",
+    "options": [
+      "y=0",
+      "x=0",
+      "y=x",
+      "x=1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "y-অক্ষের সমীকরণ কোনটি?",
+    "options": [
+      "x=0",
+      "y=0",
+      "y=x",
+      "y=1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "মূলবিন্দু দিয়ে যায় এবং ঢাল 3—এমন সরলরেখার সমীকরণ কোনটি?",
+    "options": [
+      "y=3x",
+      "y=x+3",
+      "y=3x+1",
+      "x=3y"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

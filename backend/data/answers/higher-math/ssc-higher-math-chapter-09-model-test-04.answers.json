@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-09-model-test-04-q01": {
+    "correctOption": "a > 0, a ≠ 1",
+    "explanation": "সূচকীয় ও লগারিদমীয় ফাংশনে ভিত্তি ধনাত্মক এবং 1 নয় হতে হয়। তাই a > 0, a ≠ 1।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q02": {
+    "correctOption": "x > 0",
+    "explanation": "লগারিদমে argument অবশ্যই ধনাত্মক হতে হয়। তাই x > 0।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q03": {
+    "correctOption": "ধনাত্মক",
+    "explanation": "2^x যেকোনো বাস্তব x-এর জন্য ধনাত্মক। তাই y = 2^x সর্বদা ধনাত্মক।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q04": {
+    "correctOption": "x > 0",
+    "explanation": "log₂x সংজ্ঞায়িত হওয়ার জন্য x > 0 হতে হবে। তাই domain হলো x > 0।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q05": {
+    "correctOption": "1",
+    "explanation": "3^0 = 1। তাই y = 1।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q06": {
+    "correctOption": "0",
+    "explanation": "log₃1 = 0, কারণ 3^0 = 1।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q07": {
+    "correctOption": "1",
+    "explanation": "log₄4 = 1, কারণ 4^1 = 4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q08": {
+    "correctOption": "-3",
+    "explanation": "1/8 = 2^(-3)। তাই x = -3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q09": {
+    "correctOption": "-4",
+    "explanation": "1/81 = 3^(-4)। তাই x = -4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q10": {
+    "correctOption": "-2",
+    "explanation": "0.01 = 1/100 = 10^(-2)। তাই x = -2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q11": {
+    "correctOption": "32",
+    "explanation": "log₂x = 5 ⇒ x = 2^5 = 32।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q12": {
+    "correctOption": "81",
+    "explanation": "log₃x = 4 ⇒ x = 3^4 = 81।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q13": {
+    "correctOption": "125",
+    "explanation": "log₅x = 3 ⇒ x = 5^3 = 125।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q14": {
+    "correctOption": "8",
+    "explanation": "log₂4 = 2। তাই log₂x + 2 = 5 ⇒ log₂x = 3 ⇒ x = 8।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q15": {
+    "correctOption": "27",
+    "explanation": "log₃3 = 1। তাই log₃x - 1 = 2 ⇒ log₃x = 3 ⇒ x = 27।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q16": {
+    "correctOption": "8",
+    "explanation": "একই ভিত্তির লগারিদম সমান হলে argument সমান। তাই x = 8।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q17": {
+    "correctOption": "9",
+    "explanation": "x+1 = 10 ⇒ x = 9।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q18": {
+    "correctOption": "10",
+    "explanation": "2x = 20 ⇒ x = 10।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q19": {
+    "correctOption": "5",
+    "explanation": "log₂8=3, log₂16=4, log₂4=2। তাই মান 3+4-2 = 5।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q20": {
+    "correctOption": "3",
+    "explanation": "log₃81=4, log₃9=2, log₃27=3। তাই মান 4+2-3 = 3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q21": {
+    "correctOption": "7",
+    "explanation": "log_a(a^n) = n। তাই log₂(2^7) = 7।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q22": {
+    "correctOption": "6",
+    "explanation": "log₄(4^6) = 6।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q23": {
+    "correctOption": "9",
+    "explanation": "a^(log_a x) = x। তাই 2^(log₂9) = 9।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q24": {
+    "correctOption": "12",
+    "explanation": "a^(log_a x) = x। তাই 5^(log₅12) = 12।"
+  },
+  "ssc-higher-math-chapter-09-model-test-04-q25": {
+    "correctOption": "1/4",
+    "explanation": "log₂x = -2 ⇒ x = 2^(-2) = 1/4।"
+  }
+}

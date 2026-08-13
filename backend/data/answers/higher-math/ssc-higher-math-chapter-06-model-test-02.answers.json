@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-06-model-test-02-q01": {
+    "correctOption": "$x<11$",
+    "explanation": "$x-8<3 \\Rightarrow x<11$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q02": {
+    "correctOption": "$x\\ge4$",
+    "explanation": "$4x+1\\ge17 \\Rightarrow 4x\\ge16 \\Rightarrow x\\ge4$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q03": {
+    "correctOption": "$x<-5$",
+    "explanation": "$-4$ দিয়ে ভাগ করলে অসমতার চিহ্ন উল্টে যায়। তাই $x<-5$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q04": {
+    "correctOption": "$x>2$",
+    "explanation": "$7-3x<1 \\Rightarrow -3x<-6$। $-3$ দিয়ে ভাগ করলে চিহ্ন উল্টে যায়, তাই $x>2$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q05": {
+    "correctOption": "$x\\ge17$",
+    "explanation": "$\frac{x-2}{5}\\ge3 \\Rightarrow x-2\\ge15 \\Rightarrow x\\ge17$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q06": {
+    "correctOption": "$x>6$",
+    "explanation": "$5x-2>3x+10 \\Rightarrow 2x>12 \\Rightarrow x>6$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q07": {
+    "correctOption": "$x\\le4$",
+    "explanation": "$6x+5\\le2x+21 \\Rightarrow 4x\\le16 \\Rightarrow x\\le4$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q08": {
+    "correctOption": "$x\\le-2$",
+    "explanation": "$-2x+6\\ge10 \\Rightarrow -2x\\ge4$। $-2$ দিয়ে ভাগ করলে $x\\le-2$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q09": {
+    "correctOption": "ফাঁকা বৃত্ত",
+    "explanation": "$x<9$ হলে 9 অন্তর্ভুক্ত নয়, তাই ফাঁকা বৃত্ত।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q10": {
+    "correctOption": "ভরাট বৃত্ত",
+    "explanation": "$x\\ge5$ হলে 5 অন্তর্ভুক্ত, তাই ভরাট বৃত্ত।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q11": {
+    "correctOption": "1, 2, 3, 4, 5",
+    "explanation": "1 অন্তর্ভুক্ত, 6 অন্তর্ভুক্ত নয়। তাই 1,2,3,4,5।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q12": {
+    "correctOption": "6",
+    "explanation": "পূর্ণসংখ্যা: $-4,-3,-2,-1,0,1$। মোট 6টি।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q13": {
+    "correctOption": "$5x<30$",
+    "explanation": "সংখ্যা $x$ হলে 5 গুণ $5x$। 30-এর কম মানে $5x<30$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q14": {
+    "correctOption": "$x+7\\le20$",
+    "explanation": "20-এর বেশি নয় মানে $\\le20$। তাই $x+7\\le20$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q15": {
+    "correctOption": "$x\\le50$",
+    "explanation": "সর্বাধিক 50 মানে 50 বা তার কম। তাই $x\\le50$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q16": {
+    "correctOption": "1, 2, 3, 4, 5",
+    "explanation": "$2x<12 \\Rightarrow x<6$। স্বাভাবিক সংখ্যা হলে $x=1,2,3,4,5$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q17": {
+    "correctOption": "-2, -1, 0, 1, 2, 3",
+    "explanation": "$-2$ অন্তর্ভুক্ত, 4 অন্তর্ভুক্ত নয়। তাই -2 থেকে 3 পর্যন্ত।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q18": {
+    "correctOption": "হ্যাঁ",
+    "explanation": "$(5,5)$ বসালে $5+5=10>9$। তাই সমাধান।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q19": {
+    "correctOption": "না",
+    "explanation": "$(3,4)$ বসালে $3\times3+4=13$, যা 12-এর বেশি। তাই সমাধান নয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q20": {
+    "correctOption": "$2x-y=6$",
+    "explanation": "সীমারেখা পেতে অসমতার চিহ্নের জায়গায় সমতা চিহ্ন বসানো হয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q21": {
+    "correctOption": "অবিচ্ছিন্ন রেখা",
+    "explanation": "$\\le$ থাকলে সীমারেখা সমাধানের অংশ, তাই solid line।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q22": {
+    "correctOption": "ছিন্ন রেখা",
+    "explanation": "$>$ থাকলে সীমারেখা অন্তর্ভুক্ত নয়, তাই dashed line।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q23": {
+    "correctOption": "দ্বিতীয় চতুর্ভাগ",
+    "explanation": "দ্বিতীয় চতুর্ভাগে $x$ ঋণাত্মক এবং $y$ ধনাত্মক।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q24": {
+    "correctOption": "তৃতীয় চতুর্ভাগ",
+    "explanation": "তৃতীয় চতুর্ভাগে $x$ ও $y$ উভয়ই ঋণাত্মক।"
+  },
+  "ssc-higher-math-chapter-06-model-test-02-q25": {
+    "correctOption": "না",
+    "explanation": "$(0,0)$ বসালে $0\\ge3$ মিথ্যা। তাই উৎসবিন্দু সমাধান অঞ্চলে নেই।"
+  }
+}

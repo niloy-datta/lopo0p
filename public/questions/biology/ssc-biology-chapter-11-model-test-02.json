@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "প্রজনন অঙ্গ কী?",
+    "options": [
+      "লিভার",
+      "অস্থি",
+      "ফুসফুস",
+      "গোনাড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "প্রজননের উদ্দেশ্য কী?",
+    "options": [
+      "রেচন",
+      "পরিপাক",
+      "শ্বাস",
+      "বংশ বজায় রাখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "লিঙ্গ নির্ধারণ মানবে কী?",
+    "options": [
+      "মাইটোকন্ড্রিয়া",
+      "শুধু X",
+      "X ও Y ক্রোমোজোম",
+      "শুধু Y"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "মিয়োসিস কোথায়?",
+    "options": [
+      "ত্বকে",
+      "গোনাডে",
+      "ফুসফুসে",
+      "পাকস্থলীতে"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "বীজের অংশ কী?",
+    "options": [
+      "পরাগ",
+      "ভ্রূণ ও বীজপত্র",
+      "গর্ভমুণ্ড",
+      "পরাগধানী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "মানব পুরুষে শুক্রাণু কোথায় তৈরি হয়?",
+    "options": [
+      "যকৃতে",
+      "অণ্ডকে",
+      "ডিম্বাশয়ে",
+      "অগ্ন্যাশয়ে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "স্ব-পরাগায়নের অসুবিধা কী?",
+    "options": [
+      "পরিবেশ অভিযোজন",
+      "দ্রুত বংশবৃদ্ধি",
+      "নতুন বৈশিষ্ট্য",
+      "বৈচিত্র্য কম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "গর্ভনিরোধ পদ্ধতি কী?",
+    "options": [
+      "ভিটামিন",
+      "কন্ডম",
+      "ইনসুলিন",
+      "অ্যান্টিবায়োটিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "সেক্সুয়াল প্রজননের সুবিধা কী?",
+    "options": [
+      "একরূপতা",
+      "বৈচিত্র্য",
+      "ক্লোন",
+      "দ্রুত বৃদ্ধি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "জাইগোটে ক্রোমোজোম কী?",
+    "options": [
+      "0",
+      "4n",
+      "n",
+      "২n"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "কোন উদ্ভিদটি আবৃতবীজী (Angiosperm) কিন্তু এর জাইলেমে প্রকৃত ভেসেল কোষ থাকে না?",
+    "options": [
+      "পাইনাস",
+      "স্পাইরোগাইরা",
+      "ধান",
+      "উইন্টারসি (Winteraceae) গোত্রের উদ্ভিদ"
+    ],
+    "image": "/images/quiz/bio-xylem-phloem.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "পরাগায়ন কী?",
+    "options": [
+      "পরাগ স্থানান্তর",
+      "বীজ",
+      "নিষেক",
+      "মূল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "স্ত্রীফুলের অংশ কী?",
+    "options": [
+      "গর্ভপত্র",
+      "পরাগধানী",
+      "বীজ",
+      "পরাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "পর-পরাগায়ন সুবিধা কী?",
+    "options": [
+      "বৈচিত্র্য",
+      "একরূপ",
+      "দ্রুত",
+      "ক্লোন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "নিষেকের ফল কী?",
+    "options": [
+      "জাইগোট",
+      "বীজ",
+      "মূল",
+      "স্পোর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "প্রজনন স্বাস্থ্য কী?",
+    "options": [
+      "শুধু ব্যায়াম",
+      "শুধু খাদ্য",
+      "পরিবার পরিকল্পনা",
+      "শুধু ঘুম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "উদ্ভিদে অ্যাসেক্সুয়াল কী?",
+    "options": [
+      "নিষেক",
+      "কলম",
+      "জাইগোট",
+      "মিয়োসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "নিচের কোনটি একটি প্রাণীপরাগী (Zoophilous) ফুল?",
+    "options": [
+      "ধান",
+      "সরিষা",
+      "কদম",
+      "পাতাঝাঁঝি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "মানবে স্ত্রী গ্যামেট কী?",
+    "options": [
+      "স্পোর",
+      "শুক্রাণু",
+      "বীজ",
+      "ডিম্বাণু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "নিচের কোনটি নগ্নবীজী (Gymnosperm) উদ্ভিদের বৈশিষ্ট্য নয়?",
+    "options": [
+      "ফল উৎপন্ন হয় না",
+      "বীজ নগ্ন অবস্থায় থাকে",
+      "দ্বিনিষেক ঘটে",
+      "গর্ভাশয় অনুপস্থিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "গ্যামেটে ক্রোমোজোম কী?",
+    "options": [
+      "n",
+      "4n",
+      "46",
+      "2n"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "মানবে গর্ভাবস্থা কী?",
+    "options": [
+      "৫২ সপ্তাহ",
+      "৩৮-৪০ সপ্তাহ",
+      "২০ সপ্তাহ",
+      "১০ সপ্তাহ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "মাইটোসিসে বৃদ্ধি কী?",
+    "options": [
+      "সোমাটিক কোষ",
+      "জাইগোট",
+      "গ্যামেট",
+      "স্পোর"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "উদ্ভিদে বীজ গঠন কী?",
+    "options": [
+      "শ্বসনে",
+      "নিষেকের পর",
+      "মাইটোসিসে",
+      "রেচনে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-11-model-test-02-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-11-model-test-02",
+    "text": "ফুলের কোন অংশটি নিষেক প্রক্রিয়ার পর ফলে (Fruit) পরিণত হয়?",
+    "options": [
+      "গর্ভমুণ্ড",
+      "পরাগধানী",
+      "গর্ভাশয়",
+      "ডিম্বক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

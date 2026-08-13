@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "পেশি প্রোটিন কী?",
+    "options": [
+      "হিমোগ্লোবিন",
+      "ইনসুলিন",
+      "কোলেস্টেরল",
+      "অ্যাক্টিন ও মায়োসিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "পেশি ক্লান্ত হয় কী?",
+    "options": [
+      "ল্যাকটিক এসিড জমায়",
+      "DNA বাড়ায়",
+      "O₂ বাড়ায়",
+      "গ্লুকোজ বাড়ায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থির কাজ কী?",
+    "options": [
+      "রেচন",
+      "পরিপাক",
+      "গ্যাস বিনিময়",
+      "দেহকাঠামো ও সুরক্ষা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থি ভিতরে কী?",
+    "options": [
+      "লিভার",
+      "কিডনি",
+      "ফুসফুস",
+      "অস্থি মজ্জা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থিসন্ধির কাজ কী?",
+    "options": [
+      "গ্যাস বিনিময়",
+      "পরিপাক",
+      "রক্ত তৈরি",
+      "চলন সহজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "টেন্ডন কোন দুটি গঠন যুক্ত করে?",
+    "options": [
+      "অস্থি ও অস্থি",
+      "পেশি ও অস্থি",
+      "ত্বক ও পেশি",
+      "স্নায়ু ও পেশি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "পেশির সংকোচন কী?",
+    "options": [
+      "O₂ প্রয়োজন নেই",
+      "RNA প্রয়োজন",
+      "ATP প্রয়োজন",
+      "DNA প্রয়োজন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "পেশি সংকোচনের জন্য প্রধানত কোন দুটি প্রোটিন দায়ী?",
+    "options": [
+      "অ্যাক্টিন ও মায়োসিন",
+      "হিমোগ্লোবিন ও অ্যালবুমিন",
+      "কোলাজেন ও কেরাটিন",
+      "ইনসুলিন ও গ্লুকাগন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থি মজ্জা প্রধানত কী উৎপাদন করে?",
+    "options": [
+      "রক্ত কণিকা",
+      "মূত্র",
+      "লালা",
+      "ঘাম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থি সংরক্ষণ করে কী?",
+    "options": [
+      "ক্যালসিয়াম",
+      "আয়রন",
+      "সোডিয়াম",
+      "আয়োডিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "লম্বা অস্থির উদাহরণ কোনটি?",
+    "options": [
+      "ভার্টিব্রা",
+      "ক্র্যানিয়াম",
+      "রিব",
+      "ফিমার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "রিকেটসে ক্ষতি কী?",
+    "options": [
+      "চোখ",
+      "ত্বক",
+      "অস্থি",
+      "চুল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থি ও পেশির মধ্যে সংযোগ স্থাপন করে কোনটি?",
+    "options": [
+      "পেরিকার্ডিয়াম",
+      "তরুণাস্থি",
+      "লিগামেন্ট",
+      "টেনডন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থি ও পেশির সমন্বয় কী?",
+    "options": [
+      "রেচন",
+      "চলন",
+      "শ্বাস",
+      "পরিপাক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "জয়েন্ট মানে কী?",
+    "options": [
+      "ত্বক",
+      "পেশি",
+      "অস্থিসন্ধি",
+      "স্নায়ু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থি রক্ষায় প্রয়োজন কী?",
+    "options": [
+      "ভিটামিন D ও ক্যালসিয়াম",
+      "আয়রন",
+      "আয়োডিন",
+      "ভিটামিন C"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থি মজ্জা তৈরি করে কী?",
+    "options": [
+      "মূত্র",
+      "রক্ত কণিকা",
+      "ঘাম",
+      "লালা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "পেশি ক্লান্তিতে ল্যাকটিক এসিড জমার কারণ কী?",
+    "options": [
+      "সালোকসংশ্লেষণ",
+      "রেচন",
+      "অ্যানারোবিক শ্বসন",
+      "মিয়োসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থি পেশি ছাড়া কী?",
+    "options": [
+      "শ্বাস নেয়",
+      "চলতে পারে না",
+      "পরিপাক করে",
+      "সবসময় চলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "পেশির প্রকার কী?",
+    "options": [
+      "অনৈচ্ছিক ও ইচ্ছাকৃত",
+      "শুধু হৃৎপেশি",
+      "শুধু ইচ্ছাকৃত",
+      "শুধু অনৈচ্ছিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "মানব কঙ্কালের অস্থি সংখ্যা কী?",
+    "options": [
+      "৩০৬",
+      "১০৬",
+      "২০৬",
+      "৪৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "উদ্দীপক: রফিক ফুটবল খেলার সময় হাঁটু মুচড়ে যায়। ডাক্তার বললেন, হাড় নয় বরং হাড়ের মাঝে যে নমনীয় সংযোগস্থল আছে সেটি আহত হয়েছে। আহত অংশটি কী?",
+    "options": [
+      "টেনডন",
+      "পেশি",
+      "লিগামেন্ট",
+      "তরুণাস্থি"
+    ],
+    "image": "/images/quiz/bio-neuron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "হৃৎপেশি কী?",
+    "options": [
+      "অনৈচ্ছিক",
+      "স্নায়ু",
+      "ইচ্ছাকৃত",
+      "অস্থি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "অস্থি চূর্ণ হলে কী?",
+    "options": [
+      "স্কার্ভি",
+      "অ্যানিমিয়া",
+      "ফ্র্যাকচার",
+      "রিকেটস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-09-model-test-05-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-09-model-test-05",
+    "text": "মানবদেহে ২০৬টি অস্থি আছে। এর মধ্যে দীর্ঘতম অস্থি কোনটি?",
+    "options": [
+      "ফিমুর",
+      "টিবিয়া",
+      "রেডিয়াস",
+      "হিউমেরাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "উপর থেকে একটি পাথর নিচে ফেলা হলে ভূ-পৃষ্ঠে— i. স্থিতিশক্তি শূন্য হয় ii. গতিশক্তি শব্দ শক্তিতে রূপান্তরিত হয় iii. গতিশক্তি বিভব শক্তিতে রূপান্তরিত হয়",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "একটি 25 μF ক্যাপাসিটরে যদি $3.5 \\times 10^{-4}\\text{C}$ চার্জ দেওয়া হয়, তবে— i. সেখানে ইলেকট্রিক ফিল্ড তৈরি হবে ii. এর বিভব হবে 14V iii. সেখানে 2.45 mJ শক্তি সঞ্চিত হবে",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "P বস্তুটির- i. অর্ধেক উচ্চতায় গতিশক্তি মোট শক্তির অর্ধেক ii. গতিশক্তি বিভব শক্তিতে রূপান্তর হয়েছে iii. S বিন্দুতে গতিশক্তি বিভব শক্তির 5 গুণ নিচের কোনটি সঠিক?",
+    "options": [
+      "i",
+      "ii",
+      "i ও iii",
+      "ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "আমরা যে শক্তি ব্যয় করি তার কতভাগ নবায়নযোগ্য শক্তি?",
+    "options": [
+      "1/4",
+      "1/5",
+      "1/6",
+      "1/8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "প্যাসকেলের সূত্রের ক্ষেত্রে নিচের কোনটি সঠিক?",
+    "options": [
+      "বল হ্রাস পায়",
+      "আয়তন বৃদ্ধি পায়",
+      "শক্তি বৃদ্ধি পায়",
+      "কাজ একই থাকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "বর্তনীটির বৈদ্যুতিক ক্ষমতা কত? [E = 10V, I₁ = 3A]",
+    "options": [
+      "30W",
+      "13W",
+      "3.33W",
+      "0.3W"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "R বিন্দুতে বিভব শক্তি কত? [P বিন্দু থেকে 10 kg ভরের একটি বস্তু মুক্তভাবে নিচের দিকে পড়ছে। P=40m, S=60m, R=10m]",
+    "options": [
+      "1960J",
+      "3920J",
+      "4230J",
+      "5880J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "গাড়ির সর্বোচ্চ গতিশক্তি কত?",
+    "options": [
+      "2 × 10⁴ J",
+      "4 × 10⁴ J",
+      "8 × 10⁵ J",
+      "16 × 10⁷ J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "F=50 N, s=4 m হলে কৃতকাজ W=?",
+    "options": [
+      "200 J",
+      "54 J",
+      "12.5 J",
+      "46 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "m=2 kg, v=10 m/s হলে গতিশক্তি কত?",
+    "options": [
+      "100 J",
+      "20 J",
+      "200 J",
+      "50 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "নিচের কোনটি অনবায়নযোগ্য শক্তি?",
+    "options": [
+      "বায়ু",
+      "কয়লা",
+      "পেট্রোল",
+      "প্রাকৃতিক গ্যাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "m=1 kg, g=9.8 m/s², h=10 m হলে স্থিতিশক্তি কত?",
+    "options": [
+      "98 J",
+      "9.8 J",
+      "10 J",
+      "980 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "P=500 W, t=2 min হলে শক্তি (জুলে) কত?",
+    "options": [
+      "60000 J",
+      "1000 J",
+      "250 J",
+      "5000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "500 N ওজনের বস্তুকে 2 m উঁচুতে তুলতে কৃতকাজ কত?",
+    "options": [
+      "1000 J",
+      "502 J",
+      "498 J",
+      "250 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "গতিশক্তির মাত্রা কোনটি?",
+    "options": [
+      "$\\text{ML}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$",
+      "$\\text{LT}^{-1}$",
+      "$\\text{MLT}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "ক্ষমতার একক কোনটি?",
+    "options": [
+      "ওয়াট",
+      "জুল",
+      "নিউটন",
+      "প্যাসকেল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "সংকুচিত স্প্রিংয়ের ভেতর কোন শক্তি লুকিয়ে থাকে?",
+    "options": [
+      "স্থিতিশক্তি",
+      "গতিশক্তি",
+      "তাপ শক্তি",
+      "রাসায়নিক শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "স্প্রিং এ কোন ধরনের শক্তি সঞ্চিত থাকে?",
+    "options": [
+      "বিভব শক্তি",
+      "গতি শক্তি",
+      "শব্দ শক্তি",
+      "তাপ শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "'হাতে হাতে ঘষলে তাপ উৎপন্ন হয়'। এটি শক্তির কী ধরনের রূপান্তর?",
+    "options": [
+      "রাসায়নিক শক্তি থেকে তাপ শক্তি",
+      "তড়িৎ শক্তি থেকে তাপ শক্তি",
+      "তাপ শক্তি থেকে যান্ত্রিক শক্তি",
+      "যান্ত্রিক শক্তি থেকে তাপ শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "তড়িৎবাহী তারের প্রভাবকে কাজে লাগিয়ে নিচের কোন যন্ত্রটি তৈরি?",
+    "options": [
+      "তড়িৎ মোটর",
+      "ট্রান্সফরমার",
+      "ডায়োড",
+      "ট্রানজিস্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "প্রথম কে দেখান যে, তাপ এক ধরনের শক্তি এবং যান্ত্রিক শক্তিকে তাপ শক্তিতে রূপান্তর করা যায়?",
+    "options": [
+      "লর্ড কেলভিন",
+      "কাউন্ট রামফোর্ড",
+      "লিবনিজ",
+      "কোপার্নিকাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "কোনো বস্তুর অবস্থা বা অবস্থানের জন্য তৈরি হয় কোন শক্তি?",
+    "options": [
+      "বিভব শক্তি",
+      "গতি শক্তি",
+      "সৌর শক্তি",
+      "ভূ-তাপীয় শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "কোন ক্ষেত্রে রাসায়নিক শক্তি বিদ্যুৎ শক্তিতে রূপান্তরিত হয়?",
+    "options": [
+      "সৌর প্যানেল",
+      "ব্যাটারি",
+      "উইন্ড মিল",
+      "ফটোগ্রাফিক ফিল্ম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "কোনটি অনবায়নযোগ্য শক্তি?",
+    "options": [
+      "সৌরশক্তি",
+      "বায়ুশক্তি",
+      "নিউক্লিয়ার শক্তি",
+      "ভূতাপীয় শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-01-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-01",
+    "text": "কোন যন্ত্র নিউক্লিয় চৌম্বক অনুনাদ এর ভৌত ও রাসায়নিক নীতির উপর ভিত্তি করে কাজ করে?",
+    "options": [
+      "সিটি স্ক্যান",
+      "B.সি.জি",
+      "এন্ডোসকপি",
+      "এম.আর.আই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-09-model-test-05-q01": {
+    "correctOption": "7776",
+    "explanation": "6^2 × 6^3 = 6^5 = 7776।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q02": {
+    "correctOption": "10000",
+    "explanation": "10^6 ÷ 10^2 = 10^4 = 10000।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q03": {
+    "correctOption": "4096",
+    "explanation": "(4^2)^3 = 4^6 = 4096।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q04": {
+    "correctOption": "10",
+    "explanation": "100^(1/2) = √100 = 10।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q05": {
+    "correctOption": "10",
+    "explanation": "1000^(1/3) = ∛1000 = 10।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q06": {
+    "correctOption": "11",
+    "explanation": "121^(1/2) = √121 = 11।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q07": {
+    "correctOption": "7",
+    "explanation": "343^(1/3) = ∛343 = 7।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q08": {
+    "correctOption": "25",
+    "explanation": "125^(2/3) = (∛125)^2 = 5^2 = 25।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q09": {
+    "correctOption": "1/9",
+    "explanation": "27^(-2/3) = 1/(27^(2/3)) = 1/(3^2) = 1/9।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q10": {
+    "correctOption": "3",
+    "explanation": "729 = 9^3। তাই x = 3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q11": {
+    "correctOption": "5",
+    "explanation": "125 = 5^3। তাই x-2 = 3 ⇒ x = 5।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q12": {
+    "correctOption": "2",
+    "explanation": "64 = 2^6। তাই 3x = 6 ⇒ x = 2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q13": {
+    "correctOption": "7",
+    "explanation": "128 = 2^7। তাই log₂128 = 7।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q14": {
+    "correctOption": "2",
+    "explanation": "6^2 = 36। তাই log₆36 = 2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q15": {
+    "correctOption": "2",
+    "explanation": "11^2 = 121। তাই log₁₁121 = 2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q16": {
+    "correctOption": "-3",
+    "explanation": "1/64 = 4^(-3)। তাই log₄(1/64) = -3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q17": {
+    "correctOption": "-3",
+    "explanation": "1/125 = 5^(-3)। তাই log₅(1/125) = -3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q18": {
+    "correctOption": "-4",
+    "explanation": "0.0001 = 10^(-4)। তাই log₁₀0.0001 = -4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q19": {
+    "correctOption": "8",
+    "explanation": "log₂8 = 3 এবং log₂32 = 5। তাই যোগফল 8।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q20": {
+    "correctOption": "3",
+    "explanation": "log₃243 = 5 এবং log₃9 = 2। তাই মান 3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q21": {
+    "correctOption": "5",
+    "explanation": "25×125 = 5^2 × 5^3 = 5^5। তাই মান 5।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q22": {
+    "correctOption": "5",
+    "explanation": "128/4 = 32 = 2^5। তাই মান 5।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q23": {
+    "correctOption": "4",
+    "explanation": "16^2 = (4^2)^2 = 4^4। তাই log₄(16^2) = 4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q24": {
+    "correctOption": "7",
+    "explanation": "log₂(xy)=log₂x+log₂y=3+4=7।"
+  },
+  "ssc-higher-math-chapter-09-model-test-05-q25": {
+    "correctOption": "3",
+    "explanation": "log₃(x/y)=log₃x-log₃y=5-2=3।"
+  }
+}

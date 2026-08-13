@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "DNA-এর ডাবল হেলিক্স (Double helix) মডেল আবিষ্কারের জন্য কারা নোবেল পুরস্কার পান?",
+    "options": [
+      "রবার্ট হুক ও লিনিয়াস",
+      "মেন্ডেল ও মরগান",
+      "লুই পাস্তুর ও কখ",
+      "ওয়াটসন ও ক্রিক"
+    ],
+    "image": "/images/quiz/bio-dna-helix.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "জীবের জিনগত বৈচিত্র্য বা ভ্যারিয়েশন (Variation) সৃষ্টিতে নিচের কোনটির ভূমিকা সবচেয়ে বেশি?",
+    "options": [
+      "অ্যামাইটোসিস",
+      "সাইটোকাইনেসিস",
+      "ক্রসিং ওভার",
+      "মাইটোসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "মেন্ডেলের বংশধর কী?",
+    "options": [
+      "সবুজ",
+      "হলুদ",
+      "গোল",
+      "ডাল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "টার্নার সিন্ড্রোম (Turner Syndrome) আক্রান্ত নারীর ক্রোমোজোম বিন্যাস কেমন হয়?",
+    "options": [
+      "47, XXY",
+      "47, XYY",
+      "45, XO",
+      "45, YO"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "বংশগতির রাসায়নিক ভিত্তি (Chemical Basis) বলা হয় কোনটিকে?",
+    "options": [
+      "ক্রোমোজোম",
+      "DNA",
+      "প্রোটিন",
+      "সেন্ট্রোমিয়ার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "বিবর্তনের প্রমাণ কী?",
+    "options": [
+      "জীবাশ্ম",
+      "শুধু গণিত",
+      "শুধু কল্পনা",
+      "শুধু পদার্থ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "বংশগতি ও পরিবেশ কী?",
+    "options": [
+      "শুধু খাদ্য",
+      "শুধু জিন",
+      "শুধু ব্যায়াম",
+      "উভয়ই গুরুত্বপূর্ণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "RNA-এর কাজ কী?",
+    "options": [
+      "শক্তি উৎপাদন",
+      "রক্ত জমাট",
+      "পানি শোষণ",
+      "প্রোটিন সংশ্লেষণে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "হোমোজাইগাস কী?",
+    "options": [
+      "শূন্য",
+      "দুই ভিন্ন",
+      "একই অ্যালিল",
+      "তিন ভিন্ন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "ট্রান্সক্রিপশনে তৈরি কী?",
+    "options": [
+      "mRNA",
+      "DNA",
+      "লিপিড",
+      "প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "ডোমিনেন্ট অ্যালিল কী?",
+    "options": [
+      "নষ্ট হয়",
+      "অদৃশ্য",
+      "প্রকাশ পায়",
+      "লুকায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "মিউটেশন কী?",
+    "options": [
+      "প্রোটিন পরিবর্তন",
+      "RNA পরিবর্তন",
+      "পানি পরিবর্তন",
+      "DNA পরিবর্তন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "বংশগতিবিদ্যার জনক (Father of Genetics) বলা হয় কাকে?",
+    "options": [
+      "টমাস হান্ট মরগান",
+      "ক্যারোলাস লিনিয়াস",
+      "গ্রেগর জোহান মেন্ডেল",
+      "চার্লস ডারউইন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "ক্রোমোজোমে থাকে কী?",
+    "options": [
+      "শুধু শর্করা",
+      "শুধু RNA",
+      "শুধু লিপিড",
+      "DNA ও প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "উদ্দীপক: বিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান করেন। তার পরীক্ষার প্রধান উপাদান ছিল ক্রোমোজোমে অবস্থিত একটি বিশেষ অণু, যা দ্বিসূত্রক প্যাঁচানো সিঁড়ির মতো। উদ্দীপকে উল্লেখিত বিশেষ অণুটির নাম কী?",
+    "options": [
+      "এনজাইম",
+      "DNA",
+      "প্রোটিন",
+      "RNA"
+    ],
+    "image": "/images/quiz/premium/ssc-biology-chapter-12-model-test-05-q15.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "কোষ বিভাজনের কোন ধাপে ক্রোমোজোমগুলো সবচেয়ে বেশি খাটো ও মোটা দেখায়?",
+    "options": [
+      "অ্যানাফেজ",
+      "প্রোফেজ",
+      "মেটাফেজ",
+      "টেলোফেজ"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "মানবে ক্রোমোজোম জোড়া কী?",
+    "options": [
+      "২৩ জোড়া",
+      "৪৬ জোড়া",
+      "১২ জোড়া",
+      "২৩টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "ডারউইনের তত্ত্ব কী?",
+    "options": [
+      "মেন্ডেল",
+      "প্রাকৃতিক নির্বাচন",
+      "নিউটন",
+      "পাস্তুর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "মেন্ডেলের আইন কী?",
+    "options": [
+      "শ্বাস",
+      "রেচন",
+      "পরিপাক",
+      "বিচ্ছেদ ও স্বতন্ত্র বিন্যাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "ক্রোমোজোম অস্বাভাবিক কী?",
+    "options": [
+      "গলগণ্ড",
+      "রিকেটস",
+      "ডাউন সিন্ড্রোম",
+      "স্কার্ভি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "বংশগত রোগ উদাহরণ কোনটি?",
+    "options": [
+      "স্কার্ভি",
+      "রিকেটস",
+      "হিমোফিলিয়া",
+      "বেরিবেরি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "বংশগতি বাহক কী?",
+    "options": [
+      "অক্সিজেন",
+      "জিন",
+      "রক্ত",
+      "পানি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "লিঙ্গ নির্ধারণে পুরুষ কী?",
+    "options": [
+      "YY",
+      "XO",
+      "XY",
+      "XX"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "অ্যালিল কী?",
+    "options": [
+      "জিনের বিকল্প রূপ",
+      "ক্রোমোজোম",
+      "RNA",
+      "প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-05-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-05",
+    "text": "লিঙ্গ নির্ধারণে স্ত্রী কী?",
+    "options": [
+      "XX",
+      "XO",
+      "XY",
+      "YY"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

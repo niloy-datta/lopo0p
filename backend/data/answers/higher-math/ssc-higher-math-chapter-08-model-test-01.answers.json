@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-08-model-test-01-q01": {
+    "correctOption": "$\\pi$",
+    "explanation": "$180^\\circ=\\pi$ radian।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q02": {
+    "correctOption": "$\\frac{\\pi}{2}$",
+    "explanation": "$90^\\circ=\\frac{90}{180}\\pi=\\frac{\\pi}{2}$ radian।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q03": {
+    "correctOption": "$30^\\circ$",
+    "explanation": "$\\pi$ radian = $180^\\circ$। তাই $\\frac{\\pi}{6}=30^\\circ$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q04": {
+    "correctOption": "$s=r\\theta$",
+    "explanation": "কোণ $\\theta$ রেডিয়ানে হলে চাপের দৈর্ঘ্য $s=r\\theta$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q05": {
+    "correctOption": "14 cm",
+    "explanation": "$s=r\\theta=7\\times2=14$ cm।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q06": {
+    "correctOption": "$4\\pi$ cm",
+    "explanation": "$60^\\circ=\\frac{\\pi}{3}$। তাই $s=r\\theta=12\\times\\frac{\\pi}{3}=4\\pi$ cm।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q07": {
+    "correctOption": "লম্ব/অতিভুজ",
+    "explanation": "সমকোণী ত্রিভুজে $\\sin\\theta=\\frac{লম্ব}{অতিভুজ}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q08": {
+    "correctOption": "লম্ব/ভূমি",
+    "explanation": "$\\tan\\theta=\\frac{লম্ব}{ভূমি}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q09": {
+    "correctOption": "$\\cos\\theta$",
+    "explanation": "$\\sec\\theta=\\frac{1}{\\cos\\theta}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q10": {
+    "correctOption": "$\\sin^2\\theta+\\cos^2\\theta=1$",
+    "explanation": "মৌলিক ত্রিকোণমিতিক অভেদ হলো $\\sin^2\\theta+\\cos^2\\theta=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q11": {
+    "correctOption": "$\\sec^2\\theta$",
+    "explanation": "মৌলিক অভেদ অনুযায়ী $1+\\tan^2\\theta=\\sec^2\\theta$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q12": {
+    "correctOption": "$\\csc^2\\theta$",
+    "explanation": "মৌলিক অভেদ অনুযায়ী $1+\\cot^2\\theta=\\csc^2\\theta$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q13": {
+    "correctOption": "$\\frac12$",
+    "explanation": "Standard value অনুযায়ী $\\sin30^\\circ=\\frac12$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q14": {
+    "correctOption": "$\\frac12$",
+    "explanation": "$\\cos60^\\circ=\\frac12$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q15": {
+    "correctOption": "1",
+    "explanation": "$\\tan45^\\circ=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q16": {
+    "correctOption": "1",
+    "explanation": "$\\sin^2\\theta+\\cos^2\\theta=1$। তাই মান 1।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q17": {
+    "correctOption": "$\\frac{1}{\\sqrt3}$",
+    "explanation": "$\\tan30^\\circ=\\frac{1}{\\sqrt3}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q18": {
+    "correctOption": "$\\sqrt3$",
+    "explanation": "$\\tan60^\\circ=\\sqrt3$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q19": {
+    "correctOption": "2",
+    "explanation": "$\\sec60^\\circ=\\frac{1}{\\cos60^\\circ}=\\frac{1}{1/2}=2$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q20": {
+    "correctOption": "2",
+    "explanation": "$\\csc30^\\circ=\\frac{1}{\\sin30^\\circ}=2$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q21": {
+    "correctOption": "$\\frac45$",
+    "explanation": "$\\sin\\theta=\\frac35$ হলে লম্ব=3, অতিভুজ=5। তাই ভূমি=4 এবং $\\cos\\theta=\\frac45$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q22": {
+    "correctOption": "$\\frac35$",
+    "explanation": "$\\tan\\theta=\\frac{লম্ব}{ভূমি}=\\frac34$ হলে অতিভুজ=5। তাই $\\sin\\theta=\\frac35$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q23": {
+    "correctOption": "20 m",
+    "explanation": "$\\tan45^\\circ=\\frac{উচ্চতা}{দূরত্ব}=1$। তাই উচ্চতা = 20 m।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q24": {
+    "correctOption": "30 m",
+    "explanation": "$\\tan30^\\circ=\\frac{1}{\\sqrt3}=\\frac{উচ্চতা}{30\\sqrt3}$। তাই উচ্চতা = 30 m।"
+  },
+  "ssc-higher-math-chapter-08-model-test-01-q25": {
+    "correctOption": "$\\tan\\theta$",
+    "explanation": "$\\tan\\theta=\\frac{\\sin\\theta}{\\cos\\theta}$।"
+  }
+}

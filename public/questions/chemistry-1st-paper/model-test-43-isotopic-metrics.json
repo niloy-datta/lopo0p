@@ -1,0 +1,302 @@
+[
+  {
+    "id": "model-test-43-isotopic-metrics-q01",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "Isotone বলতে বোঝায়—",
+    "options": [
+      "Same protons different neutrons",
+      "Same neutrons different mass",
+      "Same mass",
+      "Atomic layer same"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q02",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "৫.৬ g CO-এর STP-তে আয়তন কত?",
+    "options": [
+      "2.24 L",
+      "1.12 L",
+      "4.48 L",
+      "2.25 L"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q03",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "ধ্রুব সমযোজী বন্ধনে তড়িৎ ঋণাত্মকতার পার্থক্য আনুমানিক কত?",
+    "options": [
+      "০",
+      "Negligible",
+      "~0.5-1.9",
+      ">5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q04",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "n=২-এর উপস্তর কয়টি?",
+    "options": [
+      "only 1s",
+      "2s,2p,3d",
+      "2s,2p",
+      "all"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q05",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "CuSO4·5H2O water of crystallization কত mole?",
+    "options": [
+      "3",
+      "2",
+      "10",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q06",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "অ্যাসিটিক অ্যাসিডের IUPAC নাম কী?",
+    "options": [
+      "Propanoic acid",
+      "Formic acid",
+      "ইথানয়িক অ্যাসিড",
+      "Malic acid"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q07",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "বেনজেনে মোট বন্ধন/অনুরণন সংখ্যা কত?",
+    "options": [
+      "9",
+      "12/15",
+      "6",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q08",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "ডেসিমোলার H₂SO₄ দ্রবণের প্রতি লিটার ভর কত?",
+    "options": [
+      "৪.৯ গ্রাম",
+      "৯.৮ গ্রাম",
+      "৪৮ গ্রাম",
+      "০.৯৮ গ্রাম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q09",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "ইথানলের স্ফুটনাঙ্ক পানির তুলনায় কেমন?",
+    "options": [
+      "Lower (~78°C)",
+      "Higher",
+      "~100°C",
+      "Much higher"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q10",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "১ g O₂-এর মোল সংখ্যা কত?",
+    "options": [
+      "1/16",
+      "1/32",
+      "16",
+      "32"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q11",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "টাইট্রেশনের সমাপ্তি বিন্দু কী দিয়ে শনাক্ত করা হয়?",
+    "options": [
+      "Conductivity",
+      "Indicator color change",
+      "Mass only",
+      "Galvanometer"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q12",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "লবণ সেতু কী বজায় রাখে?",
+    "options": [
+      "অম্লতা",
+      "Charge balance/electrical neutrality",
+      "Hold electrons",
+      "Short circuit"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q13",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "Zn → Zn²⁺-এ জারণ মান কত?",
+    "options": [
+      "−১",
+      "+3",
+      "+২",
+      "০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q14",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "অ্যালকাইনের প্রধান প্রতিক্রিয়া কী?",
+    "options": [
+      "Decarboxylation",
+      "Addition",
+      "Substitution",
+      "Removal"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q15",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "২য় পর্যায় গ্রুপ ১-এর মৌল কোনটি?",
+    "options": [
+      "Li",
+      "He",
+      "H",
+      "Br"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q16",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "হ্যাবার প্রক্রিয়া কী উৎপাদনে ব্যবহৃত হয়?",
+    "options": [
+      "Acid",
+      "Synthesize ammonia (NH3)",
+      "নাইট্রিক অ্যাসিড",
+      "Cement"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q17",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "CFC-এর ফলে কোন ওজোন স্তর ক্ষতিগ্রস্ত হয়?",
+    "options": [
+      "Ionosphere",
+      "Troposphere",
+      "Stratosphere ozone layer",
+      "Surface"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q18",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "সমস্থানিক নির্বিশেষে কার্বন পরমাণুর ইলেকট্রন সংখ্যা কত?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q19",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "৪র্থ পর্যায়ের ১০ম গ্রুপের মৌল সাধারণত কোনটি?",
+    "options": [
+      "গ্যাস",
+      "Non-metal",
+      "অবস্থানান্তর ধাতু",
+      "অধাতু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-43-isotopic-metrics-q20",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-43-isotopic-metrics",
+    "text": "কঠিন অবস্থায় গন্ধকের সাধারণ সমাণুবিজ কোনটি?",
+    "options": [
+      "S2",
+      "S6",
+      "S8",
+      "S24"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

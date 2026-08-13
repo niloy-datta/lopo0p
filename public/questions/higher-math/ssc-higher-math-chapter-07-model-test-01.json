@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 3, 7, 11, 15, ... এর সাধারণ অন্তর কত?",
+    "options": [
+      "4",
+      "3",
+      "7",
+      "11"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 5, 9, 13, 17, ... এর 10ম পদ কত?",
+    "options": [
+      "41",
+      "37",
+      "45",
+      "49"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 2, 5, 8, 11, ... এর nতম পদ কোনটি?",
+    "options": [
+      "3n−1",
+      "2n+1",
+      "3n+1",
+      "n+3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 4, 8, 12, 16, ... এর প্রথম 8টি পদের সমষ্টি কত?",
+    "options": [
+      "144",
+      "128",
+      "160",
+      "120"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "গাণিতিক ধারার প্রথম পদ 6 এবং সাধারণ অন্তর 5 হলে 7ম পদ কত?",
+    "options": [
+      "36",
+      "31",
+      "41",
+      "35"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 3, 6, 12, 24, ... এর সাধারণ অনুপাত কত?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "গুণোত্তর ধারার প্রথম পদ 2 এবং সাধারণ অনুপাত 3 হলে 5ম পদ কত?",
+    "options": [
+      "162",
+      "81",
+      "54",
+      "243"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 5, 10, 20, 40, ... এর 6ষ্ঠ পদ কত?",
+    "options": [
+      "160",
+      "200",
+      "320",
+      "80"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 1, 3, 9, 27, ... এর প্রথম 5টি পদের সমষ্টি কত?",
+    "options": [
+      "121",
+      "81",
+      "120",
+      "243"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "অসীম গুণোত্তর ধারার সমষ্টি থাকার শর্ত কোনটি?",
+    "options": [
+      "|r|<1",
+      "|r|>1",
+      "r=1",
+      "r=0 নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "অসীম গুণোত্তর ধারা 1 + 1/2 + 1/4 + 1/8 + ... এর সমষ্টি কত?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "অসীম গুণোত্তর ধারা 3 + 1 + 1/3 + 1/9 + ... এর সমষ্টি কত?",
+    "options": [
+      "9/2",
+      "3",
+      "6",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 8, 4, 2, 1, ... এর অসীমতক সমষ্টি কত?",
+    "options": [
+      "16",
+      "12",
+      "8",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 10, 5, 5/2, 5/4, ... এর সাধারণ অনুপাত কত?",
+    "options": [
+      "1/2",
+      "2",
+      "5",
+      "1/5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "0.\\overline{3} এর ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "1/3",
+      "3/10",
+      "3/9",
+      "1/9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "0.\\overline{6} এর ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "2/3",
+      "1/6",
+      "3/5",
+      "6/10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "0.\\overline{27} এর ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "3/11",
+      "27/100",
+      "9/27",
+      "2/7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "অনুক্রম 1/n এর প্রান্তীয় মান n অসীমের দিকে গেলে কত?",
+    "options": [
+      "0",
+      "1",
+      "n",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "অনুক্রম 2n+1 এর প্রথম তিনটি পদ কোনটি?",
+    "options": [
+      "3, 5, 7",
+      "1, 3, 5",
+      "2, 3, 4",
+      "4, 6, 8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "অনুক্রম n² এর প্রথম চারটি পদ কোনটি?",
+    "options": [
+      "1, 4, 9, 16",
+      "1, 2, 3, 4",
+      "2, 4, 6, 8",
+      "1, 3, 5, 7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "গাণিতিক ধারায় a=4, d=3 হলে 12তম পদ কত?",
+    "options": [
+      "37",
+      "34",
+      "40",
+      "43"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "গুণোত্তর ধারায় a=3, r=2 হলে 4র্থ পদ কত?",
+    "options": [
+      "24",
+      "12",
+      "16",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 2, 4, 6, 8, ... কোন ধরনের ধারা?",
+    "options": [
+      "গাণিতিক ধারা",
+      "গুণোত্তর ধারা",
+      "অসীম গুণোত্তর ধারা",
+      "পৌনঃপুনিক দশমিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 2, 6, 18, 54, ... কোন ধরনের ধারা?",
+    "options": [
+      "গুণোত্তর ধারা",
+      "গাণিতিক ধারা",
+      "ধ্রুব ধারা",
+      "সসীম ধারা নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-01-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-01",
+    "text": "ধারা 1, 1/2, 1/4, 1/8, ... এর 5ম পদ কত?",
+    "options": [
+      "1/16",
+      "1/8",
+      "1/32",
+      "1/4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  }
+]

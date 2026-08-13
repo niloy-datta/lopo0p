@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q01",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Na → Na⁺ + e⁻ — Na?",
+    "options": [
+      "অম্ল",
+      "জারণ",
+      "নিরপেক্ষ",
+      "বিজারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q02",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "তামার পাতা সবুজ হওয়া?",
+    "options": [
+      "অম্ল-ক্ষার",
+      "ব্যাপন",
+      "জারণ-বিজারণ",
+      "প্রশম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q03",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "দৈনন্দিন জীবনে রেডক্স উদাহরণ?",
+    "options": [
+      "বরফ গলা",
+      "লবণ দ্রবীভূত",
+      "বাষ্পীভবন",
+      "মরিচা পড়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q04",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "ক্যাথোডে কী ঘটে?",
+    "options": [
+      "জারণ",
+      "নিরপেক্ষ",
+      "বিজারণ",
+      "ক্ষার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q05",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "2Mg + O₂ → 2MgO — Mg?",
+    "options": [
+      "জারণ",
+      "নিরপেক্ষ",
+      "বিজারণ",
+      "বাষ্পীভবন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q06",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "জারক কী করে?",
+    "options": [
+      "তাপ শোষণ",
+      "ইলেকট্রন গ্রহণ",
+      "ইলেকট্রন ত্যাগ",
+      "প্রোটন ত্যাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q07",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Fe²⁺ → Fe³⁺ + 3e⁻ — Fe-এর কী?",
+    "options": [
+      "অম্ল",
+      "জারণ",
+      "বিজারণ",
+      "নিরপেক্ষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q08",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Fe³⁺ কে Fe²⁺-এ রূপান্তর করলে?",
+    "options": [
+      "বিজারণ",
+      "নিরপেক্ষ",
+      "অম্ল",
+      "জারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q09",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Cl₂ + 2e⁻ → 2Cl⁻ — Cl₂?",
+    "options": [
+      "জারণ",
+      "ক্ষার",
+      "নিরপেক্ষ",
+      "বিজারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q10",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "জারণ সংখ্যা বৃদ্ধি মানে?",
+    "options": [
+      "অম্ল",
+      "বিজারণ",
+      "নিরপেক্ষ",
+      "জারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q11",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Fe + 2HCl → FeCl₂ + H₂ — HCl?",
+    "options": [
+      "জারক",
+      "বিজারক",
+      "নিরপেক্ষ",
+      "ক্ষার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q12",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "H₂S-এ S-এর জারণ অবস্থা?",
+    "options": [
+      "+2",
+      "+4",
+      "-2",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q13",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "রেডক্স বিক্রিয়ায় ইলেকট্রন?",
+    "options": [
+      "পরিবর্তন হয় না",
+      "শুধু ত্যাগ",
+      "এক পদার্থ ত্যাগ করে অন্য গ্রহণ করে",
+      "শুধু গ্রহণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q14",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "বিজারক কী করে?",
+    "options": [
+      "তাপ নির্গত",
+      "প্রোটন গ্রহণ",
+      "ইলেকট্রন ত্যাগ",
+      "ইলেকট্রন গ্রহণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Zn + CuSO₄ → ZnSO₄ + Cu — Zn?",
+    "options": [
+      "জারক",
+      "উৎপ্রেরক",
+      "অম্ল",
+      "বিজারক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "জারণে কী ঘটে?",
+    "options": [
+      "নিউট্রন গ্রহণ",
+      "প্রোটন ত্যাগ",
+      "ইলেকট্রন গ্রহণ",
+      "ইলেকট্রন ত্যাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q17",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "রেডক্স বিক্রিয়ার ভারসাম্যে?",
+    "options": [
+      "শুধু বিজারণ",
+      "ইলেকট্রন ত্যাগ = গ্রহণ",
+      "শুধু জারণ",
+      "প্রোটন সমান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q18",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "জারণ সংখ্যা হ্রাস মানে?",
+    "options": [
+      "বিজারণ",
+      "নিরপেক্ষ",
+      "জারণ",
+      "ক্ষার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q19",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "ব্যাটারিতে রূপান্তর?",
+    "options": [
+      "রাসায়নিক → বিদ্যুৎ",
+      "বিদ্যুৎ → রাসায়নিক",
+      "আলো → তাপ",
+      "তাপ → আলো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q20",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "KMnO₄ সাধারণত?",
+    "options": [
+      "অম্ল",
+      "জারক",
+      "উৎপ্রেরক",
+      "বিজারক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q21",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "অ্যানোডে কী ঘটে?",
+    "options": [
+      "জারণ",
+      "অম্ল",
+      "নিরপেক্ষ",
+      "বিজারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q22",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Cu²⁺ + 2e⁻ → Cu — Cu²⁺?",
+    "options": [
+      "জারণ",
+      "অম্ল",
+      "নিরপেক্ষ",
+      "বিজারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q23",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "লোহায় মরিচা পড়া কোন বিক্রিয়া?",
+    "options": [
+      "প্রশম",
+      "অম্ল-ক্ষার",
+      "জারণ-বিজারণ",
+      "ব্যাপন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q24",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "বিজারণে কী ঘটে?",
+    "options": [
+      "প্রোটন গ্রহণ",
+      "ইলেকট্রন ত্যাগ",
+      "ইলেকট্রন গ্রহণ",
+      "তাপ ত্যাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q25",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "দহন বিক্রিয়া সাধারণত?",
+    "options": [
+      "প্রশম",
+      "ব্যাপন",
+      "জারণ-বিজারণ",
+      "অম্ল-ক্ষার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q01": {
+    "correctOption": "HCl",
+    "explanation": "Na₂CO₃ প্রাইমারি/সেকেন্ডারি স্ট্যান্ডার্ড; বুরেটে HCl নিয়ে টাইট্রেট করা সুবিধাজনক।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q02": {
+    "correctOption": "n=2, l=2, m=0, s=−½",
+    "explanation": "n=2-এ l সর্বোচ্চ ১; l=2 অসম্ভব।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q03": {
+    "correctOption": "ν = c/λ",
+    "explanation": "c = νλ ⇒ ν = c/λ।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q04": {
+    "correctOption": "হাইড্রোজেন (¹H)",
+    "explanation": "MRI মূলত প্রোটন (¹H) নিউক্লিয়ার ম্যাগনেটিক রেজোন্যান্স।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q05": {
+    "correctOption": "০.২ g",
+    "explanation": "n(HCl)=0.1×0.05=0.005 mol; m(NaOH)=0.005×40=0.2 g।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q06": {
+    "correctOption": "১",
+    "explanation": "Rf = 0 থেকে 1; সর্বোচ্চ ১।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q07": {
+    "correctOption": "Mg",
+    "explanation": "Mg→Mg⁺: 3s² থেকে 3s¹ সহজ; Mg⁺→Mg²⁺: পূর্ণ 3s ভাঙতে বেশি শক্তি।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q08": {
+    "correctOption": "১৫",
+    "explanation": "ল্যান্থানাইড ১৫টি (৫৭La–৭১Lu)।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q09": {
+    "correctOption": "sp³",
+    "explanation": "CH₄-এ C এর sp³ সংকরায়ণ; বন্ধন কোণ 109.5°।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q10": {
+    "correctOption": "H₂O",
+    "explanation": "H₂O-তে শক্তিশালী আন্তঃআণবিক H-বন্ধন → স্ফুটনাঙ্ক সর্বোচ্চ।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q11": {
+    "correctOption": "450°C–500°C",
+    "explanation": "হেবার প্রক্রিয়ায় ভারসাম্য ও হারের জন্য ~450–500°C।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q12": {
+    "correctOption": "Fe চূর্ণ ও Mo",
+    "explanation": "হেবারে Fe প্রভাবক; Mo প্রমোটার।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q13": {
+    "correctOption": "কমে",
+    "explanation": "তাপমাত্রা বাড়লে Kw বাড়ে; [H⁺] বাড়ে → pH কমে (তবু নিরপেক্ষ)।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q14": {
+    "correctOption": "pKa",
+    "explanation": "অম্লীয় বাফার pH ≈ pKa ± 1।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q15": {
+    "correctOption": "লিকুইড অ্যামোনিয়া (NH₄OH)",
+    "explanation": "গ্লাস ক্লিনারে অ্যামোনিয়া দ্রবণ প্রধান উপাদান।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q16": {
+    "correctOption": "টারটারিক এসিড",
+    "explanation": "NaHCO₃ + টারটারিক এসিড → CO₂; খামির উত্থাপন।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q17": {
+    "correctOption": "ইলেকট্রন",
+    "explanation": "ক্যাথোড রশ্মি = ইলেকট্রন।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q18": {
+    "correctOption": "d-অরবিটালের অর্ধপূর্ণ (d⁵) অবস্থার অতিরিক্ত স্থায়িত্ব",
+    "explanation": "Cr: 3d⁵ 4s¹—অর্ধপূর্ণ d-এর অতিরিক্ত বিনিময় স্থায়িত্ব।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q19": {
+    "correctOption": "প্রায় শূন্য বা ধনাত্মক",
+    "explanation": "নিষ্ক্রিয় গ্যাসে পূর্ণ উপশক্তিস্তর; EA প্রায় শূন্য বা ধনাত্মক।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q20": {
+    "correctOption": "কৌণিক",
+    "explanation": "ইথারে C–O–C কৌণিক; O-তে দুটি lone pair।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q21": {
+    "correctOption": "Mn²⁺ আয়ন",
+    "explanation": "KMnO₄/অক্সালিক এসিড বিক্রিয়ায় উৎপন্ন Mn²⁺ স্বতঃপ্রভাবক।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q22": {
+    "correctOption": "mol L⁻¹ s⁻¹",
+    "explanation": "হার = ঘনমাত্রার পরিবর্তন/সময় → mol L⁻¹ s⁻¹।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q23": {
+    "correctOption": "NH₃",
+    "explanation": "NH₃ ইলেকট্রন যুগল দান করে → লুইস ক্ষারক।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q24": {
+    "correctOption": "ক্ষারীয় অক্সাইড",
+    "explanation": "SiO₂ অম্লীয় অক্সাইড; কাঁচের মূল উপাদান।"
+  },
+  "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q25": {
+    "correctOption": "n=1, l=0, m=0, s=+½",
+    "explanation": "গ্রাউন্ড স্টেট H: 1s¹ → n=1, l=0, m=0, s=+½।"
+  }
+}

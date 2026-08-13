@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-10-model-test-01-q01": {
+    "correctOption": "n+1",
+    "explanation": "দ্বিপদী বিস্তৃতিতে ঘাত n হলে মোট পদসংখ্যা হয় n+1।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q02": {
+    "correctOption": "1, 4, 6, 4, 1",
+    "explanation": "Pascal triangle অনুযায়ী (a+b)^4 এর সহগগুলো 1,4,6,4,1।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q03": {
+    "correctOption": "1, 5, 10, 10, 5, 1",
+    "explanation": "(a+b)^5 বিস্তৃতির সহগগুলো Pascal triangle-এর ৫ম ঘাতের সারি: 1,5,10,10,5,1।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q04": {
+    "correctOption": "10",
+    "explanation": "⁵C₂ = 5!/(2!3!) = 10।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q05": {
+    "correctOption": "20",
+    "explanation": "⁶C₃ = 6!/(3!3!) = 20।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q06": {
+    "correctOption": "21",
+    "explanation": "⁷C₂ = 7×6/2 = 21।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q07": {
+    "correctOption": "70",
+    "explanation": "⁸C₄ = 8!/(4!4!) = 70।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q08": {
+    "correctOption": "T_(r+1)=ⁿCᵣ a^(n-r)b^r",
+    "explanation": "(a+b)^n বিস্তৃতির সাধারণ পদ হলো T_(r+1)=ⁿCᵣ a^(n-r)b^r।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q09": {
+    "correctOption": "6",
+    "explanation": "(x+1)^4 = x^4+4x^3+6x^2+4x+1। তাই x²-এর সহগ 6।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q10": {
+    "correctOption": "10",
+    "explanation": "(1+x)^5-এ x³-এর সহগ ⁵C₃ = 10।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q11": {
+    "correctOption": "15",
+    "explanation": "(1+x)^6-এ x²-এর সহগ ⁶C₂ = 15।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q12": {
+    "correctOption": "16",
+    "explanation": "ধ্রুবক পদ পেতে x-এর ঘাত 0 হবে। (x+2)^4-এ ধ্রুবক পদ 2^4 = 16।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q13": {
+    "correctOption": "32",
+    "explanation": "x-এর সহগ = ⁴C₁ × 2³ = 4×8 = 32।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q14": {
+    "correctOption": "24",
+    "explanation": "x²-এর সহগ = ⁴C₂ × 2² = 6×4 = 24।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q15": {
+    "correctOption": "-4",
+    "explanation": "(1-x)^4 = 1-4x+6x²-4x³+x⁴। তাই x³-এর সহগ -4।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q16": {
+    "correctOption": "10",
+    "explanation": "(1-x)^5-এ x² পদের সহগ ⁵C₂ = 10; কারণ x² পদের চিহ্ন ধনাত্মক।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q17": {
+    "correctOption": "7",
+    "explanation": "ঘাত 6 হলে পদসংখ্যা 6+1 = 7।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q18": {
+    "correctOption": "5ম পদ",
+    "explanation": "n জোড় হলে মধ্যপদ হয় (n/2+1)তম পদ। n=8 হলে মধ্যপদ 5ম পদ।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q19": {
+    "correctOption": "2টি",
+    "explanation": "n বিজোড় হলে মধ্যপদ দুইটি হয়। n=7 হলে 4র্থ ও 5ম পদ মধ্যপদ।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q20": {
+    "correctOption": "x³+3x²+3x+1",
+    "explanation": "(x+1)^3 = x³+3x²+3x+1।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q21": {
+    "correctOption": "x³-3x²+3x-1",
+    "explanation": "(x-1)^3 = x³-3x²+3x-1।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q22": {
+    "correctOption": "12",
+    "explanation": "(2x+1)^3-এ x² পদের সহগ = ³C₁(2x)²(1) = 3×4 = 12।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q23": {
+    "correctOption": "27",
+    "explanation": "x³ পদের সহগ আসে (3x)^3 থেকে। তাই সহগ 27।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q24": {
+    "correctOption": "9",
+    "explanation": "x-এর সহগ = ³C₁ × 3 = 9।"
+  },
+  "ssc-higher-math-chapter-10-model-test-01-q25": {
+    "correctOption": "1",
+    "explanation": "x⁰ বা ধ্রুবক পদের সহগ ¹⁰C₀ = 1।"
+  }
+}

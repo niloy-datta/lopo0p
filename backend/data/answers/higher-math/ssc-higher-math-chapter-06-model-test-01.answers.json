@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-06-model-test-01-q01": {
+    "correctOption": "$x>7$",
+    "explanation": "$x+5>12 \\Rightarrow x>12-5 \\Rightarrow x>7$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q02": {
+    "correctOption": "$x\\le6$",
+    "explanation": "$2x-3\\le9 \\Rightarrow 2x\\le12 \\Rightarrow x\\le6$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q03": {
+    "correctOption": "$x>-4$",
+    "explanation": "ঋণাত্মক সংখ্যা $-3$ দিয়ে ভাগ করলে অসমতার চিহ্ন উল্টে যায়। তাই $x>-4$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q04": {
+    "correctOption": "$x\\le-4$",
+    "explanation": "$5-2x\\ge13 \\Rightarrow -2x\\ge8$। $-2$ দিয়ে ভাগ করলে চিহ্ন উল্টে যায়, তাই $x\\le-4$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q05": {
+    "correctOption": "$x<12$",
+    "explanation": "$\frac{x}{3}+2<6 \\Rightarrow \frac{x}{3}<4 \\Rightarrow x<12$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q06": {
+    "correctOption": "$x>5$",
+    "explanation": "$3x+4>2x+9 \\Rightarrow x>5$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q07": {
+    "correctOption": "$x\\le5$",
+    "explanation": "$4x-7\\le x+8 \\Rightarrow 3x\\le15 \\Rightarrow x\\le5$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q08": {
+    "correctOption": "$x\\ge3$",
+    "explanation": "$-5x+2\\le-13 \\Rightarrow -5x\\le-15$। $-5$ দিয়ে ভাগ করলে চিহ্ন উল্টে যায়, তাই $x\\ge3$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q09": {
+    "correctOption": "4-এ ফাঁকা বৃত্ত, ডান দিকে রেখা",
+    "explanation": "$x>4$ হলে 4 অন্তর্ভুক্ত নয়, তাই ফাঁকা বৃত্ত; 4-এর বড় মানগুলো ডান দিকে।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q10": {
+    "correctOption": "-2-এ ভরাট বৃত্ত, বাম দিকে রেখা",
+    "explanation": "$x\\le-2$ হলে $-2$ অন্তর্ভুক্ত, তাই ভরাট বৃত্ত; ছোট মানগুলো বাম দিকে।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q11": {
+    "correctOption": "3, 4, 5, 6, 7",
+    "explanation": "$x$ 2-এর বড় এবং 7-এর সমান বা ছোট। তাই পূর্ণসংখ্যা 3,4,5,6,7।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q12": {
+    "correctOption": "5",
+    "explanation": "পূর্ণসংখ্যা সমাধান: $-1,0,1,2,3$। মোট 5টি।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q13": {
+    "correctOption": "$2x>14$",
+    "explanation": "সংখ্যাটি $x$ হলে দ্বিগুণ $2x$। 14-এর বেশি মানে $2x>14$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q14": {
+    "correctOption": "$3x\\le21$",
+    "explanation": "অনধিক মানে বেশি নয়, অর্থাৎ less than or equal। তাই $3x\\le21$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q15": {
+    "correctOption": "$x\\ge18$",
+    "explanation": "কমপক্ষে 18 মানে 18 বা তার বেশি, তাই $x\\ge18$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q16": {
+    "correctOption": "1, 2, 3, 4, 5",
+    "explanation": "স্বাভাবিক সংখ্যা 1 থেকে শুরু। $x<6$ হলে মান 1,2,3,4,5।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q17": {
+    "correctOption": "-2, -1, 0, 1, 2",
+    "explanation": "$-3$ ও $3$ অন্তর্ভুক্ত নয়। তাই পূর্ণসংখ্যা: -2,-1,0,1,2।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q18": {
+    "correctOption": "হ্যাঁ",
+    "explanation": "$(3,4)$ বসালে $3+4=7<8$। তাই বিন্দুটি সমাধান।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q19": {
+    "correctOption": "না",
+    "explanation": "$(4,1)$ বসালে $2\times4+1=9$, যা 10-এর কম। তাই সমাধান নয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q20": {
+    "correctOption": "$x+y=5$",
+    "explanation": "দুই চলকবিশিষ্ট অসমতার সীমারেখা পেতে অসমতার চিহ্নের জায়গায় সমতা চিহ্ন বসানো হয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q21": {
+    "correctOption": "ছিন্ন/ড্যাশড রেখা",
+    "explanation": "$<$ বা $>$ হলে সীমারেখা সমাধানের অংশ নয়, তাই dashed line ব্যবহার করা হয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q22": {
+    "correctOption": "অবিচ্ছিন্ন রেখা",
+    "explanation": "$\\ge$ বা $\\le$ হলে সীমারেখা সমাধানের অংশ, তাই solid line বা অবিচ্ছিন্ন রেখা।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q23": {
+    "correctOption": "প্রথম চতুর্ভাগ",
+    "explanation": "প্রথম চতুর্ভাগে $x$ ও $y$ উভয়ই ধনাত্মক।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q24": {
+    "correctOption": "প্রথম চতুর্ভাগ ও অক্ষদ্বয়ের ধনাত্মক অংশ",
+    "explanation": "$x\\ge0, y\\ge0$ হলে প্রথম চতুর্ভাগসহ ধনাত্মক অক্ষদ্বয় অন্তর্ভুক্ত হয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-01-q25": {
+    "correctOption": "সমাধান অঞ্চলে",
+    "explanation": "$(0,0)$ বসালে $0+0\\le4$ সত্য। তাই উৎসবিন্দু সমাধান অঞ্চলে থাকবে।"
+  }
+}

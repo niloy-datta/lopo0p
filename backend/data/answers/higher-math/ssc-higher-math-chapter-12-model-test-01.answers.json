@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-12-model-test-01-q01": {
+    "correctOption": "ভেক্টর রাশি",
+    "explanation": "ভেক্টর রাশির মান ও দিক দুটোই থাকে। যেমন: সরণ, বেগ, বল।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q02": {
+    "correctOption": "স্কেলার রাশি",
+    "explanation": "স্কেলার রাশির শুধু মান থাকে, দিক থাকে না। যেমন: ভর, সময়, তাপমাত্রা।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q03": {
+    "correctOption": "বেগ",
+    "explanation": "বেগের মান ও দিক দুটোই থাকে, তাই এটি ভেক্টর রাশি।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q04": {
+    "correctOption": "ভর",
+    "explanation": "ভরের শুধু মান আছে, দিক নেই। তাই ভর স্কেলার রাশি।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q05": {
+    "correctOption": "0",
+    "explanation": "শূন্য ভেক্টরের মান 0 এবং এর নির্দিষ্ট দিক থাকে না।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q06": {
+    "correctOption": "একক ভেক্টর",
+    "explanation": "যে ভেক্টরের মান 1, তাকে একক ভেক্টর বলা হয়।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q07": {
+    "correctOption": "মান ও দিক উভয়ই সমান",
+    "explanation": "দুইটি ভেক্টর সমান হবে যখন তাদের মান ও দিক উভয়ই সমান হবে।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q08": {
+    "correctOption": "মান সমান কিন্তু দিক বিপরীত",
+    "explanation": "বিপরীত ভেক্টরের মান সমান থাকে, কিন্তু দিক পরস্পর বিপরীত হয়।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q09": {
+    "correctOption": "2i+3j",
+    "explanation": "A(x,y) বিন্দুর অবস্থান ভেক্টর xi+yj। তাই A(2,3)-এর অবস্থান ভেক্টর 2i+3j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q10": {
+    "correctOption": "-4i+5j",
+    "explanation": "B(-4,5)-এর অবস্থান ভেক্টর -4i+5j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q11": {
+    "correctOption": "5",
+    "explanation": "|a|=√(3²+4²)=√25=5।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q12": {
+    "correctOption": "13",
+    "explanation": "|a|=√(5²+12²)=√169=13।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q13": {
+    "correctOption": "5",
+    "explanation": "|a|=√((-3)²+4²)=√25=5।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q14": {
+    "correctOption": "10",
+    "explanation": "|a|=√(8²+(-6)²)=√100=10।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q15": {
+    "correctOption": "ধনাত্মক x-অক্ষ",
+    "explanation": "i হলো ধনাত্মক x-অক্ষ বরাবর একক ভেক্টর।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q16": {
+    "correctOption": "ধনাত্মক y-অক্ষ",
+    "explanation": "j হলো ধনাত্মক y-অক্ষ বরাবর একক ভেক্টর।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q17": {
+    "correctOption": "6i+8j",
+    "explanation": "a+b=(2+4)i+(3+5)j=6i+8j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q18": {
+    "correctOption": "3i+4j",
+    "explanation": "a-b=(5-2)i+(7-3)j=3i+4j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q19": {
+    "correctOption": "6i-4j",
+    "explanation": "2a=2(3i-2j)=6i-4j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q20": {
+    "correctOption": "-4i-6j",
+    "explanation": "ভেক্টর a-এর বিপরীত ভেক্টর -a। তাই -a=-4i-6j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q21": {
+    "correctOption": "a-এর বিপরীত ভেক্টর",
+    "explanation": "b=-a, তাই b হলো a-এর বিপরীত ভেক্টর।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q22": {
+    "correctOption": "2a",
+    "explanation": "2a=2(3i+4j)=6i+8j=b।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q23": {
+    "correctOption": "(3/5)i+(4/5)j",
+    "explanation": "একই দিকে একক ভেক্টর = a/|a|। এখানে |a|=5, তাই একক ভেক্টর (3/5)i+(4/5)j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q24": {
+    "correctOption": "(5/13)i+(12/13)j",
+    "explanation": "|a|=13। তাই একক ভেক্টর a/|a|=(5/13)i+(12/13)j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-01-q25": {
+    "correctOption": "শূন্য ভেক্টর",
+    "explanation": "0i+0j ভেক্টরের মান 0, তাই এটি শূন্য ভেক্টর।"
+  }
+}

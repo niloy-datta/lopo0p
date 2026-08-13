@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "উচ্চ রক্তচাপের কারণ কী?",
+    "options": [
+      "ভিটামিন",
+      "কম পানি",
+      "অতিরিক্ত O₂",
+      "ধমনি সংকুচিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "কোন রক্তের গ্রুপে 'A' এবং 'B' উভয় ধরনের অ্যান্টিজেন উপস্থিত থাকে?",
+    "options": [
+      "A",
+      "B",
+      "O",
+      "AB"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "AB বর্ণের রক্তগ্রহীতা Universal কী?",
+    "options": [
+      "B গ্রহীতা",
+      "AB গ্রহীতা",
+      "O গ্রহীতা",
+      "A গ্রহীতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "অনুচক্রিকার কাজ কী?",
+    "options": [
+      "O₂ বহন",
+      "রক্ত জমাট",
+      "পানি পরিবহন",
+      "রোগ প্রতিরোধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "নিচের কোন গ্রন্থির রস সরাসরি রক্তে মিশে শরীরের বৃদ্ধি নিয়ন্ত্রণ করে?",
+    "options": [
+      "পিটুইটারি গ্রন্থি",
+      "যকৃৎ",
+      "অগ্ন্যাশয়",
+      "লালাগ্রন্থি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "শ্বেত কণিকার কাজ কী?",
+    "options": [
+      "জমাট",
+      "রোগ প্রতিরোধ",
+      "O₂ বহন",
+      "পানি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "উদ্ভিদে ট্রান্সপিরেশন কী?",
+    "options": [
+      "বীজ",
+      "খাদ্য তৈরি",
+      "পানি বাষ্পীভবন",
+      "কোষ বিভাজন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "হৃৎপিণ্ডের স্বয়ংক্রিয়তা কী?",
+    "options": [
+      "ভালভ",
+      "ধমনি",
+      "পেসমেকার",
+      "শিরা"
+    ],
+    "image": "/images/quiz/bio-heart.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "রক্তাল্পতা (Anemia) প্রতিরোধে কোন খনিজ উপাদানটি সবচেয়ে বেশি প্রয়োজন?",
+    "options": [
+      "আয়রন (লোহা)",
+      "পটাশিয়াম",
+      "ক্যালসিয়াম",
+      "সোডিয়াম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "রক্ত সংক্রমণ প্রতিরোধে কী?",
+    "options": [
+      "প্লেটলেট",
+      "শ্বেত কণিকা",
+      "প্লাজমা",
+      "লোহিত কণিকা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "মানবদেহের রক্তের স্বাভাবিক pH মান কত?",
+    "options": [
+      "৮.৪",
+      "৭.০",
+      "৭.৪",
+      "৬.৮"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "নিচের কোন অঙ্গে লোহিত রক্তকণিকা ধ্বংস হয়?",
+    "options": [
+      "ফুসফুস",
+      "বৃক্ক",
+      "প্লীহা",
+      "যকৃৎ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "ফ্লোয়েম পরিবহন করে কী?",
+    "options": [
+      "তৈরি খাদ্য",
+      "অক্সিজেন",
+      "পানি",
+      "মাটি"
+    ],
+    "image": "/images/quiz/bio-xylem-phloem.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "রক্ত জমাট বাঁধার পর যে হালকা হলুদ রঙের তরল অংশ নিঃসৃত হয় তাকে কী বলে?",
+    "options": [
+      "সিরাম",
+      "হিমোগ্লোবিন",
+      "প্লাজমা",
+      "লিম্ফ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "উদ্ভিদে কাণ্ডে পরিবহন কী?",
+    "options": [
+      "শুধু স্নায়ু",
+      "শুধু রক্ত",
+      "শুধু লসিকা",
+      "জাইলেম ও ফ্লোয়েম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "রক্তে অণুচক্রিকার (Platelets) প্রধান কাজ কোনটি?",
+    "options": [
+      "অক্সিজেন পরিবহন করা",
+      "হরমোন পরিবহন করা",
+      "রক্ত জমাট বাঁধতে সাহায্য করা",
+      "রোগ প্রতিরোধ করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "মানুষের রক্তের তরল অংশ বা রক্তরসের (Plasma) শতকরা কত ভাগ পানি?",
+    "options": [
+      "৯০-৯২%",
+      "৭০-৭৫%",
+      "৬০-৬৫%",
+      "৫০-৫৫%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "রক্তচাপ মাপা হয় কোন যন্ত্রে?",
+    "options": [
+      "স্টেথোস্কোপে",
+      "ব্যারোমিটারে",
+      "স্পিগমোম্যানোমিটারে",
+      "থার্মোমিটারে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "শিরায় ভালভের কাজ কী?",
+    "options": [
+      "পানি শোষণ",
+      "রক্ত চাপ",
+      "O₂ বহন",
+      "উল্টো প্রবাহ রোধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "শ্বেত রক্তকণিকার (WBC) গড় আয়ু কত দিন?",
+    "options": [
+      "২০ দিন",
+      "১২০ দিন",
+      "১-১৫ দিন",
+      "৪৫ দিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "মানবদেহে রক্ত সঞ্চালনের সঠিক গতিপথ কোনটি?",
+    "options": [
+      "হৃৎপিণ্ড → শিরা → কৈশিকনালি → ধমনি → হৃৎপিণ্ড",
+      "হৃৎপিণ্ড → ধমনি → কৈশিকনালি → শিরা → হৃৎপিণ্ড",
+      "ধমনি → শিরা → হৃৎপিণ্ড → কৈশিকনালি → ধমনি",
+      "শিরা → হৃৎপিণ্ড → ধমনি → কৈশিকনালি → শিরা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "মানুষের লোহিত রক্তকণিকার গড় আয়ু কত দিন?",
+    "options": [
+      "২০ দিন",
+      "১২০ দিন",
+      "১৮০ দিন",
+      "৪৫ দিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "হৃদপিণ্ডের করোনারি ধমনী চর্বি জমে সংকুচিত হলে বুকে যে তীব্র ব্যথা হয় তাকে কী বলে?",
+    "options": [
+      "স্ট্রোক",
+      "হার্ট ফেইলিউর",
+      "অ্যানজিনা (Angina Pectoris)",
+      "হার্ট অ্যাটাক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "সিলিকনের জন্য যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধান কত?",
+    "options": [
+      "0.7 eV",
+      "1.1 eV",
+      "6 eV",
+      "0.3 eV"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-05-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-05",
+    "text": "হৃদপিণ্ডকে আবৃতকারী দ্বীস্তরী পর্দার নাম কী?",
+    "options": [
+      "পেরিটোনিয়াম",
+      "পেরিকার্ডিয়াম",
+      "প্লুরা",
+      "মেনিনজেস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

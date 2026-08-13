@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "সূচকীয় ফাংশন y = a^x এর জন্য ভিত্তি a-এর শর্ত কোনটি?",
+    "options": [
+      "a > 0, a ≠ 1",
+      "a = 0",
+      "a < 0",
+      "a = 1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log_a x সংজ্ঞায়িত হওয়ার জন্য x-এর শর্ত কোনটি?",
+    "options": [
+      "x > 0",
+      "x < 0",
+      "x = 0",
+      "x ≤ 0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "y = 2^x ফাংশনের মান সর্বদা কেমন?",
+    "options": [
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "শূন্য",
+      "শুধু পূর্ণসংখ্যা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "y = log₂x ফাংশনের domain কোনটি?",
+    "options": [
+      "x > 0",
+      "x ≥ 0",
+      "সকল বাস্তব সংখ্যা",
+      "x < 0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "y = 3^x ফাংশনে x = 0 হলে y কত?",
+    "options": [
+      "1",
+      "0",
+      "3",
+      "-1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "y = log₃x ফাংশনে x = 1 হলে y কত?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "-1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "y = log₄x ফাংশনে x = 4 হলে y কত?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "2^x = 1/8 হলে x কত?",
+    "options": [
+      "-3",
+      "3",
+      "-2",
+      "1/3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "3^x = 1/81 হলে x কত?",
+    "options": [
+      "-4",
+      "4",
+      "-3",
+      "1/4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "10^x = 0.01 হলে x কত?",
+    "options": [
+      "-2",
+      "2",
+      "-1",
+      "1/2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₂x = 5 হলে x কত?",
+    "options": [
+      "32",
+      "16",
+      "25",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₃x = 4 হলে x কত?",
+    "options": [
+      "81",
+      "27",
+      "64",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₅x = 3 হলে x কত?",
+    "options": [
+      "125",
+      "25",
+      "15",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₂x + log₂4 = 5 হলে x কত?",
+    "options": [
+      "8",
+      "4",
+      "16",
+      "32"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₃x - log₃3 = 2 হলে x কত?",
+    "options": [
+      "27",
+      "9",
+      "6",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₂(x) = log₂8 হলে x কত?",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₃(x+1) = log₃10 হলে x কত?",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "11"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₅(2x) = log₅20 হলে x কত?",
+    "options": [
+      "10",
+      "20",
+      "5",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₂8 + log₂16 - log₂4 এর মান কত?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₃81 + log₃9 - log₃27 এর মান কত?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₂(2^7) এর মান কত?",
+    "options": [
+      "7",
+      "2",
+      "14",
+      "49"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₄(4^6) এর মান কত?",
+    "options": [
+      "6",
+      "4",
+      "24",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "2^(log₂9) এর মান কত?",
+    "options": [
+      "9",
+      "2",
+      "log₂9",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "5^(log₅12) এর মান কত?",
+    "options": [
+      "12",
+      "5",
+      "log₅12",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-04-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-04",
+    "text": "log₂x = -2 হলে x কত?",
+    "options": [
+      "1/4",
+      "4",
+      "-4",
+      "1/2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  }
+]

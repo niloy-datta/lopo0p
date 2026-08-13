@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ কিমি = ? মিটার",
+    "options": [
+      "১০০",
+      "১০০০",
+      "১০",
+      "১০০০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ মিটার = ? সেন্টিমিটার",
+    "options": [
+      "১০",
+      "১০০",
+      "১০০০",
+      "৫০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ কেজি = ? গ্রাম",
+    "options": [
+      "১০",
+      "১০০",
+      "১০০০",
+      "৫০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ ঘণ্টা = ? মিনিট",
+    "options": [
+      "৩০",
+      "৪৫",
+      "৬০",
+      "৯০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ মিনিট = ? সেকেন্ড",
+    "options": [
+      "৩০",
+      "৬০",
+      "১০০",
+      "৯০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৫ কিমি = ? মিটার",
+    "options": [
+      "৫০০",
+      "৫০০০",
+      "৫০",
+      "৫০০০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "২.৫ মিটার = ? সেন্টিমিটার",
+    "options": [
+      "২৫",
+      "২৫০",
+      "২৫০০",
+      "২৫০০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৩ কেজি ৫০০ গ্রাম = ? গ্রাম",
+    "options": [
+      "৩৫০",
+      "৩৫০০",
+      "৩০৫০",
+      "৩৫০০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৭২ কিমি/ঘণ্টা = ? মি/মিনিট",
+    "options": [
+      "১.২",
+      "১.৫",
+      "১.৮",
+      "২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ লিটার = ? মিলিলিটার",
+    "options": [
+      "১০",
+      "১০০",
+      "১০০০",
+      "৫০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ হেক্টর = ? বর্গমিটার",
+    "options": [
+      "১০০",
+      "১০০০",
+      "১০০০০",
+      "১০০০০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৫ মি × ৪ মি = ? বর্গমিটার",
+    "options": [
+      "৯",
+      "১৮",
+      "২০",
+      "২৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "বেগ = দূরত্ব/সময়; ১২০ কিমি ২ ঘণ্টায় গেলে বেগ?",
+    "options": [
+      "৪০ কিমি/ঘণ্টা",
+      "৬০ কিমি/ঘণ্টা",
+      "৮০ কিমি/ঘণ্টা",
+      "১২০ কিমি/ঘণ্টা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ মাইল ≈ ? কিমি",
+    "options": [
+      "১.৬",
+      "২.২",
+      "৩.২",
+      "০.৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ ইঞ্চি = ? সেন্টিমিটার",
+    "options": [
+      "২.৫৪",
+      "১.৫৪",
+      "৩.১৪",
+      "১.০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ টন = ? কেজি",
+    "options": [
+      "১০০",
+      "৫০০",
+      "১০০০",
+      "১০০০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৩০ মিনিট = ? ঘণ্টা",
+    "options": [
+      "০.৩",
+      "০.৫",
+      "০.৬",
+      "১.৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৪৫ সেকেন্ড = ? মিনিট",
+    "options": [
+      "০.৫৫",
+      "০.৭৫",
+      "০.৮৫",
+      "১.২৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "২.৪ কিমি = ? মিটার",
+    "options": [
+      "২৪০",
+      "২৪০০",
+      "২৪",
+      "২৪০০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ বর্গমিটার = ? সেন্টিমিটার²",
+    "options": [
+      "১০০",
+      "১০০০",
+      "১০০০০",
+      "১০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৮০০ গ্রাম = ? কেজি",
+    "options": [
+      "০.০৮",
+      "০.৮",
+      "৮",
+      "৮০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১.২ মি = ? মিমি",
+    "options": [
+      "১.২",
+      "১২",
+      "১২০",
+      "১২০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৫ সে.মি. = ? মি",
+    "options": [
+      "০.০৫",
+      "০.৫",
+      "৫",
+      "০.০০৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৩ ঘণ্টা ২০ মিনিট = ? মিনিট",
+    "options": [
+      "১৮০",
+      "১৯০",
+      "২০০",
+      "২২০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "দূরত্ব ৯০ কিমি, বেগ ৪৫ কিমি/ঘণ্টা; সময়?",
+    "options": [
+      "১ ঘণ্টা",
+      "২ ঘণ্টা",
+      "৩ ঘণ্টা",
+      "৪ ঘণ্টা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ ডেসিমিটার = ? সেন্টিমিটার",
+    "options": [
+      "১",
+      "১০",
+      "১০০",
+      "০.১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "৬ মিটার ৫০ সে.মি. = ? সেন্টিমিটার",
+    "options": [
+      "৬৫",
+      "৬৫০",
+      "৬০৫",
+      "৬.৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "২ লিটার = ? মিলিলিটার",
+    "options": [
+      "২০",
+      "২০০",
+      "২০০০",
+      "২০০০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১.৫ কেজি = ? গ্রাম",
+    "options": [
+      "১৫",
+      "১৫০",
+      "১৫০০",
+      "১৫০০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-09-model-test-06-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-09-model-test-06",
+    "text": "১ কিলোমিটার = ? মিটার × ০.৭৫ কিমি = ?",
+    "options": [
+      "৫০০ মি",
+      "৭৫০ মি",
+      "৭৫ মি",
+      "৭৫০০ মি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

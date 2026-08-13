@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-08-model-test-02-q01": {
+    "correctOption": "$\\frac{\\pi}{4}$",
+    "explanation": "$45^\\circ=\\frac{45}{180}\\pi=\\frac{\\pi}{4}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q02": {
+    "correctOption": "$\\frac{\\pi}{3}$",
+    "explanation": "$60^\\circ=\\frac{60}{180}\\pi=\\frac{\\pi}{3}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q03": {
+    "correctOption": "$120^\\circ$",
+    "explanation": "$\\frac{2\\pi}{3}\\times\\frac{180^\\circ}{\\pi}=120^\\circ$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q04": {
+    "correctOption": "$2\\pi$ cm",
+    "explanation": "$s=r\\theta=10\\times\\frac{\\pi}{5}=2\\pi$ cm।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q05": {
+    "correctOption": "3",
+    "explanation": "$s=r\\theta$। তাই $18=6\\theta$, $\\theta=3$ radian।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q06": {
+    "correctOption": "ভূমি/অতিভুজ",
+    "explanation": "$\\cos\\theta=\\frac{ভূমি}{অতিভুজ}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q07": {
+    "correctOption": "ভূমি/লম্ব",
+    "explanation": "$\\cot\\theta=\\frac{ভূমি}{লম্ব}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q08": {
+    "correctOption": "$\\sin\\theta$",
+    "explanation": "$\\csc\\theta=\\frac{1}{\\sin\\theta}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q09": {
+    "correctOption": "$\\frac{\\sqrt3}{2}$",
+    "explanation": "$\\sin60^\\circ=\\frac{\\sqrt3}{2}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q10": {
+    "correctOption": "$\\frac{\\sqrt3}{2}$",
+    "explanation": "$\\cos30^\\circ=\\frac{\\sqrt3}{2}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q11": {
+    "correctOption": "$\\frac{1}{\\sqrt2}$",
+    "explanation": "$\\sin45^\\circ=\\frac{1}{\\sqrt2}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q12": {
+    "correctOption": "$\\frac{1}{\\sqrt2}$",
+    "explanation": "$\\cos45^\\circ=\\frac{1}{\\sqrt2}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q13": {
+    "correctOption": "0",
+    "explanation": "$\\sin0^\\circ=0$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q14": {
+    "correctOption": "1",
+    "explanation": "$\\cos0^\\circ=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q15": {
+    "correctOption": "1",
+    "explanation": "$\\sin90^\\circ=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q16": {
+    "correctOption": "0",
+    "explanation": "$\\cos90^\\circ=0$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q17": {
+    "correctOption": "$\\cot\\theta$",
+    "explanation": "$\\cot\\theta=\\frac{\\cos\\theta}{\\sin\\theta}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q18": {
+    "correctOption": "1",
+    "explanation": "$1+\\tan^2\\theta=\\sec^2\\theta$। তাই $\\sec^2\\theta-\\tan^2\\theta=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q19": {
+    "correctOption": "1",
+    "explanation": "$1+\\cot^2\\theta=\\csc^2\\theta$। তাই $\\csc^2\\theta-\\cot^2\\theta=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q20": {
+    "correctOption": "$\\frac5{13}$",
+    "explanation": "ভূমি=12, অতিভুজ=13 হলে লম্ব=5। তাই $\\sin\\theta=\\frac5{13}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q21": {
+    "correctOption": "$\\frac{15}{17}$",
+    "explanation": "লম্ব=8, অতিভুজ=17 হলে ভূমি=15। তাই $\\cos\\theta=\\frac{15}{17}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q22": {
+    "correctOption": "$\\frac{12}{13}$",
+    "explanation": "$\\tan\\theta=\\frac{লম্ব}{ভূমি}=\\frac5{12}$ হলে অতিভুজ=13। তাই $\\cos\\theta=\\frac{12}{13}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q23": {
+    "correctOption": "$10\\sqrt3$ m",
+    "explanation": "$\\tan60^\\circ=\\frac{উচ্চতা}{10}=\\sqrt3$। তাই উচ্চতা $=10\\sqrt3$ m।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q24": {
+    "correctOption": "$45^\\circ$",
+    "explanation": "$\\tan\\theta=\\frac{30}{30}=1$। তাই $\\theta=45^\\circ$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-02-q25": {
+    "correctOption": "1",
+    "explanation": "যেকোনো $\\theta$-এর জন্য $\\sin^2\\theta+\\cos^2\\theta=1$।"
+  }
+}

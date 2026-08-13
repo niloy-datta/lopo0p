@@ -1,0 +1,367 @@
+[
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "IC (Integrated Circuit) তৈরিতে ব্যবহৃত উপাদান—",
+    "options": [
+      "Silicon",
+      "Iron",
+      "Copper wire only",
+      "Glass"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "AM বেতার ব্যান্ড 409 kHz কোন পরিসরে পড়ে?",
+    "options": [
+      "40.9 kHz",
+      "409 MHz",
+      "409 kHz",
+      "409 Hz"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "অ্যাম্প্লিফায়ারে সিগন্যাল—",
+    "options": [
+      "বৃদ্ধি পায়",
+      "হ্রাস পায়",
+      "স্থির থাকে",
+      "বিপরীত হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "X-ray তৈরিতে ব্যবহৃত হয়—",
+    "options": [
+      "coolidge tube",
+      "Geiger counter",
+      "cyclotron",
+      "cloud chamber"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "সেমিকন্ডাক্টর ডোপিংয়ে n-type তৈরিতে যোগ হয়—",
+    "options": [
+      "Pentavalent",
+      "Trivalent",
+      "Monovalent",
+      "Noble gas"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "ক্যাথোড রে থিউবে ক্যাথোড রশ্মি—",
+    "options": [
+      "electron",
+      "proton",
+      "neutron",
+      "alpha"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "e/m অনুপাত আবিষ্কার করেন—",
+    "options": [
+      "থমসন",
+      "রাদারফোর্ড",
+      "বোর",
+      "চাদউইক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "p-n junction diode-এর কাজ—",
+    "options": [
+      "rectification",
+      "amplification",
+      "oscillation",
+      "modulation"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "ট্রানজিস্টর কোন ধরনের যন্ত্র?",
+    "options": [
+      "সেমিকন্ডাক্টর",
+      "ভ্যাকিউম টিউব",
+      "গ্যাস টিউব",
+      "ধাতব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "ফটোইলেকট্রিক ক্রিয়ায় কোন কণা নির্গত হয়?",
+    "options": [
+      "ইলেকট্রন",
+      "প্রোটন",
+      "নিউট্রন",
+      "ফোটন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "Zener diode breakdown voltage 10 V হলে স্থিতিশীল বিভব—",
+    "options": [
+      "9",
+      "12",
+      "10",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "রেডিও সক্রিয় যন্ত্রে তরঙ্গ নির্বাচন করে—",
+    "options": [
+      "tuning circuit",
+      "rectifier",
+      "transformer",
+      "fuse"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "LED-এ আলো উৎপাদনের মূল কারণ—",
+    "options": [
+      "recombination",
+      "reflection",
+      "refraction",
+      "polarization"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "নিউক্লিয়াসে প্রোটনের সংখ্যাকে বলে—",
+    "options": [
+      "atomic number",
+      "mass number",
+      "quantum number",
+      "Avogadro number"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "লজিক গেট AND-এর সত্য তালিকায় (1,1) হলে আউটপুট—",
+    "options": [
+      "1",
+      "0",
+      "undefined",
+      "high-Z"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "নিচের কোন প্রতীকটি n-p-n ট্রানজিস্টরকে নির্দেশ করে?",
+    "options": [
+      "চিত্র ক",
+      "চিত্র খ",
+      "চিত্র গ",
+      "চিত্র ঘ"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-13-model-test-03-q17.svg",
+    "optionImages": [
+      "/images/quiz/premium/ssc-physics-chapter-13-model-test-03-q17-option-1.svg",
+      "/images/quiz/premium/ssc-physics-chapter-13-model-test-03-q17-option-2.svg",
+      "/images/quiz/premium/ssc-physics-chapter-13-model-test-03-q17-option-3.svg",
+      "/images/quiz/premium/ssc-physics-chapter-13-model-test-03-q17-option-4.svg"
+    ],
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "কোন বলের কারণে তেজস্ক্রিয় নিউক্লিয়াস থেকে বিটা (β) রশ্মি বের হয়?",
+    "options": [
+      "তড়িৎ বল",
+      "তড়িৎ চৌম্বক বল",
+      "দুর্বল নিউক্লিয় বল",
+      "সবল নিউক্লিয় বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "কাগজ ভেদ করতে পারে— i. আলফা রশ্মি ii. বিটা রশ্মি iii. গামা রশ্মি নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "তেজস্ক্রিয় নিউক্লিয়াস থেকে যে বিটা (β) রশ্মি বের হয় সেটার কারণ-",
+    "options": [
+      "মহাকর্ষ বল",
+      "তড়িৎ চৌম্বক বল",
+      "সবল নিউক্লিয় বল",
+      "দুর্বল নিউক্লিয় বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "কোন আইসোটোপ ব্যবহার করে ক্যান্সার আক্রান্ত কোষকে গামা-রে দিয়ে ধ্বংস করা হয়?",
+    "options": [
+      "¹⁴C",
+      "³²P",
+      "⁶⁰Co",
+      "¹³¹I"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "কোন যন্ত্রে X-ray ব্যবহার করা হয়?",
+    "options": [
+      "আলট্রাসনোগ্রাফি",
+      "সিটি স্ক্যান",
+      "এমআরআই",
+      "এন্ডোস্কোপি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "রেডিওঅ্যাক্টিভ বিকিরণে আলফা রশ্মি কী?",
+    "options": [
+      "হিলিয়াম নিউক্লিয়াস",
+      "ইলেকট্রন",
+      "ফোটন",
+      "প্রোটন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "p-n junction diode-এর প্রধান কাজ—",
+    "options": [
+      "rectification",
+      "amplification",
+      "oscillation",
+      "storage"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-13-model-test-03-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-13-model-test-03",
+    "text": "ফটোইলেকট্রিক ক্রিয়ায় নির্গত হয়—",
+    "options": [
+      "ইলেকট্রন",
+      "প্রোটন",
+      "নিউট্রন",
+      "আলফা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

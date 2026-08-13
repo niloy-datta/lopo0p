@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q01",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "NaOH কে প্রাইমারি স্ট্যান্ডার্ড হিসেবে ব্যবহার করা যায় না কেন?",
+    "options": [
+      "এটি বাতাস থেকে জলীয় বাষ্প ও CO₂ শোষণ করে",
+      "এটি সম্পূর্ণ অদ্রবণীয়",
+      "এটি আলোতে বিস্ফোরিত হয়",
+      "এটি পানির সাথে বিক্রিয়া করে অক্সিজেন দেয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q02",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "চৌম্বক ক্ষেত্র প্রয়োগ করলে বর্ণালীর রেখা বিভক্ত হওয়ার ঘটনাকে কী বলা হয়?",
+    "options": [
+      "স্টার্ক প্রভাব",
+      "জিম্যান প্রভাব",
+      "কম্পটন প্রভাব",
+      "ফটোইলেকট্রিক প্রভাব"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q03",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "NH₄⁺ আয়ন শনাক্তকরণের জন্য কোন বিকারক ব্যবহৃত হয়?",
+    "options": [
+      "নেসলার বিকারক",
+      "সিলভার নাইট্রেট",
+      "বেরিয়াম ক্লোরাইড",
+      "অ্যামোনিয়াম অক্সালেট"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q04",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "২য় পর্যায়ের মৌলগুলোর আয়নীকরণ শক্তির ব্যতিক্রম বিবেচনায় সঠিক ক্রম কোনটি?",
+    "options": [
+      "Li < B < Be < C < O < N < F",
+      "Li < Be < B < C < N < O < F",
+      "F < O < N < C < Be < B < Li",
+      "Li < C < B < Be < O < N < F"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q05",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "PCl₅ অণুতে ফসফরাসের সংকরায়ণ কী?",
+    "options": [
+      "sp²",
+      "sp³",
+      "sp³d",
+      "sp³d²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q06",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "Henderson equation অনুযায়ী কখন অম্লীয় বাফারের pH = pKa হবে?",
+    "options": [
+      "[লবণ] = [অম্ল]",
+      "[লবণ] > [অম্ল]",
+      "[অম্ল] = 0",
+      "[লবণ] < [অম্ল]"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q07",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "CuSO₄·5H₂O স্ফটিকে কোন কোন ধরনের বন্ধন পাওয়া যায়?",
+    "options": [
+      "শুধু আয়নিক",
+      "আয়নিক ও সমযোজী",
+      "আয়নিক, সমযোজী, সন্নিবেশ ও হাইড্রোজেন বন্ধন",
+      "শুধু হাইড্রোজেন বন্ধন"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q08",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "ভিনেগারের অম্লীয় পরিবেশ ব্যাকটেরিয়ার কোন অংশের কার্যকারিতা নষ্ট করতে সাহায্য করে?",
+    "options": [
+      "কোষপ্রাচীর ও প্রোটিন",
+      "নিউক্লিয়ার ঝিল্লি",
+      "সেলুলোজ স্তর",
+      "ক্লোরোপ্লাস্ট"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q09",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "হাইড্রোজেনের বামার সিরিজের প্রথম রেখা কোন transition-এর জন্য সৃষ্টি হয়?",
+    "options": [
+      "n=2 → n=1",
+      "n=3 → n=2",
+      "n=4 → n=3",
+      "n=∞ → n=1"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q10",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "ইথানল ও ডাইমিথাইল ইথারের স্ফুটনাঙ্কে পার্থক্য হওয়ার মূল কারণ কী?",
+    "options": [
+      "ইথানলে আন্তঃআণবিক হাইড্রোজেন বন্ধন থাকে",
+      "ডাইমিথাইল ইথারের ভর বেশি",
+      "ইথানল আয়নিক যৌগ",
+      "উভয়ের গঠন একই"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q11",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "নিচের কোন অক্সাইডটি অম্ল ও ক্ষার—উভয়ের সাথে বিক্রিয়া করতে পারে?",
+    "options": [
+      "CO₂",
+      "Al₂O₃",
+      "SO₂",
+      "Na₂O"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q12",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "Fe²⁺ আয়নে কতটি অযুগ্ম ইলেকট্রন থাকে?",
+    "options": [
+      "২টি",
+      "৩টি",
+      "৪টি",
+      "৫টি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q13",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "CaF₂-এর মোলার দ্রাব্যতা S হলে Ksp-এর মান কোনটি?",
+    "options": [
+      "S²",
+      "2S²",
+      "4S³",
+      "27S⁴"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q14",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "NO₃⁻ আয়নে নাইট্রোজেনের চারপাশের জ্যামিতিক বিন্যাস কী?",
+    "options": [
+      "রৈখিক",
+      "পিরামিডীয়",
+      "সমতলীয় ত্রিকোণাকার",
+      "চতুস্তলকীয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q15",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "যে প্রভাবক বিক্রিয়ার গতি কমিয়ে দেয় তাকে কী বলা হয়?",
+    "options": [
+      "ধনাত্মক প্রভাবক",
+      "ঋণাত্মক প্রভাবক",
+      "স্বপ্রভাবক",
+      "এনজাইম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q16",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "কোল্ড ক্রিমে ব্যবহৃত তেলজাতীয় উপাদানের মধ্যে কোনটি গুরুত্বপূর্ণ?",
+    "options": [
+      "তরল প্যারাফিন",
+      "ভিনেগার",
+      "NaCl",
+      "মিথানল"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q17",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "রক্তে H⁺ আয়ন বেড়ে গেলে কোন আয়ন তা গ্রহণ করে বাফার হিসেবে কাজ করে?",
+    "options": [
+      "HCO₃⁻",
+      "H₂CO₃",
+      "Na⁺",
+      "Cl⁻"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q18",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "পেপার ক্রোমাটোগ্রাফিতে stationary phase হিসেবে কোনটি কাজ করে?",
+    "options": [
+      "কাগজের সেলুলোজে থাকা পানি",
+      "চলমান দ্রাবক",
+      "বাতাস",
+      "কাঁচের পাত"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q19",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "কোনো বিক্রিয়া স্বতঃস্ফূর্ত হবে যদি—",
+    "options": [
+      "ΔG < 0",
+      "ΔG > 0",
+      "ΔH = 0",
+      "ΔS = 0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q20",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "F অপেক্ষা Cl-এর electron affinity বেশি হওয়ার প্রধান কারণ কী?",
+    "options": [
+      "Cl-এর আকার তুলনামূলক বড় হওয়ায় ইলেকট্রন বিকর্ষণ কম",
+      "F-এর তড়িৎ ঋণাত্মকতা নেই",
+      "Cl ধাতব মৌল",
+      "F-এর ভর বেশি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q21",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "[উদ্দীপক ১]\nউদ্দীপক: 0.1 M CH₃COOH দ্রবণের বিয়োজন মাত্রা 1.34%।\n\nএই এসিডের Ka-এর মান কতের কাছাকাছি?",
+    "options": [
+      "1.8 × 10⁻⁵",
+      "1.34 × 10⁻²",
+      "1.8 × 10⁻³",
+      "1.0 × 10⁻⁷"
+    ],
+    "image": "/images/quiz/premium/hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q21.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q22",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "[উদ্দীপক ১] দ্রবণটির pH প্রায় কত?",
+    "options": [
+      "1.00",
+      "2.87",
+      "4.74",
+      "7.00"
+    ],
+    "image": "/images/quiz/premium/hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q22.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q23",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "হুন্ডের নীতির বিরোধী ইলেকট্রন বিন্যাস কোনটি?",
+    "options": [
+      "pₓ¹pᵧ¹p_z¹",
+      "pₓ²pᵧ¹p_z¹",
+      "pₓ¹pᵧ¹p_z⁰",
+      "pₓ²pᵧ⁰p_z⁰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q24",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "খাদ্য সংরক্ষণে সোডিয়াম বেনজোয়েট সাধারণত সর্বোচ্চ কত শতাংশ পর্যন্ত অনুমোদিত?",
+    "options": [
+      "0.1%",
+      "1.5%",
+      "5%",
+      "10%"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06-q25",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-06",
+    "text": "অরবিটালের ত্রিমাত্রিক দিকবিন্যাস কোন কোয়ান্টাম সংখ্যা দ্বারা বোঝা যায়?",
+    "options": [
+      "প্রধান কোয়ান্টাম সংখ্যা",
+      "সহকারী কোয়ান্টাম সংখ্যা",
+      "চৌম্বক কোয়ান্টাম সংখ্যা",
+      "স্পিন কোয়ান্টাম সংখ্যা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

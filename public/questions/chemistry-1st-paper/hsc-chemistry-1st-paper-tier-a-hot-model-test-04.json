@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q01",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "সেকেন্ডারি স্ট্যান্ডার্ড গ্যাস বা এসিড-ক্ষার প্রশমন টাইট্রেশনে বুরেটে কোন দ্রবণটি নেওয়া সুবিধাজনক?",
+    "options": [
+      "NaOH",
+      "Na₂CO₃",
+      "HCl",
+      "KMnO₄"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q02",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "নিচের কোন কোয়ান্টাম সংখ্যার সেটটি একটি ইলেকট্রনের জন্য অসম্ভব?",
+    "options": [
+      "n=3, l=0, m=0, s=+½",
+      "n=2, l=2, m=0, s=−½",
+      "n=4, l=1, m=−1, s=+½",
+      "n=1, l=0, m=0, s=−½"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q03",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "তড়িৎ চৌম্বকীয় বিকিরণের কম্পাঙ্ক (ν) এবং তরঙ্গদৈর্ঘ্যের (λ) সম্পর্ক কোনটি?",
+    "options": [
+      "ν = cλ",
+      "ν = c/λ",
+      "ν = λ/c",
+      "E = hλ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q04",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "এমআরআই (MRI) যন্ত্রে মানবদেহের কোন পরমাণুর নিউক্লিয়াসের স্পিনকে কাজে লাগানো হয়?",
+    "options": [
+      "কার্বন",
+      "হাইড্রোজেন (¹H)",
+      "অক্সিজেন",
+      "নাইট্রোজেন"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q05",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "0.1 M HCl দ্রবণের 50 mL কে প্রশমিত করতে কত গ্রাম NaOH লাগবে?",
+    "options": [
+      "০.২ g",
+      "২.০ g",
+      "০.০২ g",
+      "০.৪ g"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q06",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "ক্রোমাটোগ্রাফিতে Rf (Retardation Factor) এর সর্বোচ্চ মান কত হতে পারে?",
+    "options": [
+      "০",
+      "০.৫",
+      "১",
+      "অসীম"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q07",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "কোন মৌলটির ২য় আয়নীকরণ শক্তি (Second Ionization Energy) অস্বাভাবিকভাবে বেশি?",
+    "options": [
+      "Na",
+      "Mg",
+      "Al",
+      "Si"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q08",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "ল্যান্থানাইড সিরিজের মৌল সংখ্যা কয়টি?",
+    "options": [
+      "১৪",
+      "১৫",
+      "৪",
+      "২৮"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q09",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "মিথেন (CH₄) অণুর আকৃতি চতুস্তলকীয় হওয়ার কারণ কার্বনের কোন সংকরায়ণ?",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "sp³d"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q10",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "নিচের কোনটির স্ফুটনাঙ্ক (Boiling Point) সবচেয়ে বেশি?",
+    "options": [
+      "H₂O",
+      "HF",
+      "NH₃",
+      "H₂S"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q11",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "[উদ্দীপক ১]\nউদ্দীপক: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92 kJ\n\nউদ্দীপকের বিক্রিয়াটির জন্য সাম্যাবস্থায় সর্বোত্তম তাপমাত্রা কত (হেবার পদ্ধতি)?",
+    "options": [
+      "200°C",
+      "450°C–500°C",
+      "1000°C",
+      "0°C"
+    ],
+    "image": "/images/quiz/premium/hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q11.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q12",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "এই বিক্রিয়াটিতে কোন প্রভাবক এবং প্রভাবক সহায়তাকারী (Promoter) ব্যবহৃত হয়?",
+    "options": [
+      "Fe চূর্ণ ও Mo",
+      "Pt ও Ni",
+      "V₂O₅",
+      "Al₂O₃"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q13",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "বিশুদ্ধ পানির pH এর মান তাপমাত্রা বৃদ্ধির সাথে কী পরিবর্তন হয়?",
+    "options": [
+      "বাড়ে",
+      "কমে",
+      "একই থাকে",
+      "৭-এর উপরে যায়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q14",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "অম্লীয় বাফারের pH এর সীমা নিচের কোনটির ওপর নির্ভর করে?",
+    "options": [
+      "pKa",
+      "pKb",
+      "Kw",
+      "পাত্রের আকার"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q15",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "গ্লাস ক্লিনারের প্রধান উপাদান কোনটি?",
+    "options": [
+      "লিকুইড অ্যামোনিয়া (NH₄OH)",
+      "NaOH",
+      "Na₂CO₃",
+      "সাবান পানি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q16",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "বেকিং পাউডারের মূল উপাদান সোডিয়াম বাইকার্বনেটের সাথে কোন অম্লটি মিশ্রিত থাকে?",
+    "options": [
+      "সাইট্রিক এসিড",
+      "টারটারিক এসিড",
+      "অ্যাসিটিক এসিড",
+      "অক্সালিক এসিড"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q17",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "কোন কণার প্রবাহকে ক্যাথোড রশ্মি বলা হয়?",
+    "options": [
+      "প্রোটন",
+      "নিউট্রন",
+      "ইলেকট্রন",
+      "পজিট্রন"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q18",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "ক্রমিয়ামের ইলেকট্রন বিন্যাসের ব্যতিক্রমের কারণ কী?",
+    "options": [
+      "আউফবাউ নীতি অমান্য করা",
+      "d-অরবিটালের অর্ধপূর্ণ (d⁵) অবস্থার অতিরিক্ত স্থায়িত্ব",
+      "পরমাণুর আকার ছোট হওয়া",
+      "উচ্চ তড়িৎ ঋণাত্মকতা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q19",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "নিষ্ক্রিয় গ্যাসগুলোর ইলেকট্রন আসক্তির মান কেমন হয়?",
+    "options": [
+      "অত্যন্ত উচ্চ",
+      "প্রায় শূন্য বা ধনাত্মক",
+      "ঋণাত্মক",
+      "পর্যায় সারণীতে সর্বোচ্চ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q20",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "ডাইমিথাইল ইথার (CH₃–O–CH₃) অণুর আকৃতি কেমন?",
+    "options": [
+      "রৈখিক",
+      "কৌণিক",
+      "চতুস্তলকীয়",
+      "পিরামিডীয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q21",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "নিচের কোনটি স্বতঃপ্রভাবক (Auto-catalyst) হিসেবে কাজ করে?",
+    "options": [
+      "Mn²⁺ আয়ন",
+      "MnO₂",
+      "As₂O₃",
+      "Fe"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q22",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "বিক্রিয়ার হারের একক কোনটি?",
+    "options": [
+      "mol L⁻¹ s⁻¹",
+      "mol L s",
+      "L mol⁻¹",
+      "s⁻¹"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q23",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "নিচের কোনটি লুইস ক্ষারক?",
+    "options": [
+      "AlCl₃",
+      "BF₃",
+      "NH₃",
+      "H⁺"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q24",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "সিলিকন ডাইঅক্সাইড (SiO₂) কাঁচ শিল্পে কোন ধরনের অক্সাইড হিসেবে কাজ করে?",
+    "options": [
+      "ক্ষারীয় অক্সাইড",
+      "অম্লীয় অক্সাইড",
+      "উভধর্মী অক্সাইড",
+      "নিরপেক্ষ অক্সাইড"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04-q25",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-04",
+    "text": "হাইড্রোজেন পরমাণুর গ্রাউন্ড স্টেটে ইলেকট্রনের কোয়ান্টাম সংখ্যা সেট কোনটি?",
+    "options": [
+      "n=1, l=0, m=0, s=+½",
+      "n=1, l=1, m=0, s=−½",
+      "n=2, l=0, m=0, s=+½",
+      "n=1, l=0, m=1, s=+½"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

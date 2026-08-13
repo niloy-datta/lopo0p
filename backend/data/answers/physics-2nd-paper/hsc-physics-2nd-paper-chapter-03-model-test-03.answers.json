@@ -1,0 +1,102 @@
+{
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q01": {
+    "correctOption": "128 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q02": {
+    "correctOption": "90 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q03": {
+    "correctOption": "27 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q04": {
+    "correctOption": "108 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q05": {
+    "correctOption": "144 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q06": {
+    "correctOption": "4\\Omega",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q07": {
+    "correctOption": "I = \\frac{2E}{R+\\frac{r}{2}}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q08": {
+    "correctOption": "0.94",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q09": {
+    "correctOption": "আপেক্ষিক রোধ একই থাকে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q10": {
+    "correctOption": "3:1",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q11": {
+    "correctOption": "হ্রাস পায়",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q12": {
+    "correctOption": "22.50 \\Omega",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q13": {
+    "correctOption": "[H-R লেখচিত্র ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q14": {
+    "correctOption": "0.4A",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q15": {
+    "correctOption": "রোধ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q16": {
+    "correctOption": "a^c",
+    "explanation": "প্রবাহগত সংজ্ঞা অনুযায়ী b = a^c."
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q17": {
+    "correctOption": "1.67Ω",
+    "explanation": "সমান্তরালে Rp = R/n = 5/3 ≈ 1.67 Ω"
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q18": {
+    "correctOption": "অভ্যন্তরীণ থাকবে",
+    "explanation": "কেন্দ্রীয় সংযোগ দেওয়ার ফলে অনুকূল ধারণা অনুযায়ী অভ্যন্তরীণ অংশ প্রধান থাকে।"
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q19": {
+    "correctOption": "0",
+    "explanation": "দুটি সমান ইএমএফ বিপরীত দিকের হলে মোট প্রবাহ শূন্য হতে পারে।"
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q20": {
+    "correctOption": "J = σE",
+    "explanation": "ওহমের সূত্রের অণুবীক্ষণিক রূপ: J = σE, যেখানে σ পরিবাহিতা এবং ρ = 1/σ রোধাঙ্ক।"
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q21": {
+    "correctOption": "I₀/√2",
+    "explanation": "I_rms = I₀/√2 ≈ 0.707 I₀"
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q22": {
+    "correctOption": "যে ধাতুর ওপর আলো পড়ে তার",
+    "explanation": "সূচন কম্পাঙ্ক ধাতুর নিজস্ব বৈশিষ্ট্য — এটি ধাতুর কার্যাপেক্ষকের ওপর নির্ভর করে, আপতিত আলোর ওপর নয়।"
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q23": {
+    "correctOption": "6 \\times 10^4 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q24": {
+    "correctOption": "10⁻⁴ Ωm",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-03-model-test-03-q25": {
+    "correctOption": "তাপমাত্রার পার্থক্যের উপর",
+    "explanation": ""
+  }
+}

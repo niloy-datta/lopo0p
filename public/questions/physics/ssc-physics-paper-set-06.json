@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-paper-set-06-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "বাল্বটিকে দৈনিক 6 ঘন্টা ব্যবহার করলে এপ্রিল মাসে কত ইউনিট বিদ্যুৎ খরচ হবে? [60W বাল্ব, এপ্রিল = 30 দিন]",
+    "options": [
+      "1.116",
+      "1.8",
+      "10.8",
+      "11.16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "একটি গাড়ির বেগ 2 মিনিটে স্থির অবস্থা থেকে বেড়ে 90 km/hour হয়েছে, গাড়িটির ত্বরণ কত ms⁻²?",
+    "options": [
+      "0.108",
+      "0.128",
+      "0.208",
+      "0.228"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "কে তড়িৎ বলরেখার ধারণা প্রদান করেন?",
+    "options": [
+      "মাইকেল ফ্যারাড",
+      "ডাবলু B ওয়েবার",
+      "আলেসান্দে্রা ভোল্টা",
+      "এ ডি কুলম্ব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "নিচের কোনটি অনবায়নযোগ্য শক্তি?",
+    "options": [
+      "নিউক্লিয়ার",
+      "বায়োমাস",
+      "বায়ু শক্তি",
+      "জিওথার্মাল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "নিরাপদ পানির ঘনত্ব 1000 kg m⁻³ এবং তোমার দেহের ঘনত্ব 985 kg m⁻³ হলে ঐ পানিতে সাঁতার কাটার সময় তোমার শরীরের কত শতাংশ ভাসবে?",
+    "options": [
+      "0.985%",
+      "1.5%",
+      "98.5%",
+      "99.02%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "তাপমাত্রিক পদার্থ নয় কোনটি?",
+    "options": [
+      "অ্যালকোহল",
+      "পানি",
+      "গ্যাস",
+      "পারদ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "নিচের কোনটি অনুদৈর্ঘ্য তরঙ্গ নির্দেশ করে?",
+    "options": [
+      "আলোক তরঙ্গ",
+      "বেতার তরঙ্গ",
+      "শব্দ তরঙ্গ",
+      "পানির তরঙ্গ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "উত্তল দর্পণের প্রতিবিম্বের ক্ষেত্রে কোনটি সঠিক?",
+    "options": [
+      "অবা¯@ব ও উল্টা",
+      "বা¯@ব ও সোজা",
+      "বা¯@ব ও উল্টা",
+      "অবা¯@ব ও সোজা"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-06-q08.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 29 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "174 A",
+      "0.21 A",
+      "{(v+r)} A",
+      "4.8 A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "একটি বাল্বের গায়ে 23W – 220V লেখা আছে। বাল্বটির রোধ কত?",
+    "options": [
+      "2.10 × 10³ Ω",
+      "5.06 × 10³ Ω",
+      "4.15 × 10⁻¹ Ω",
+      "4.75 × 10⁻⁴ Ω"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "কোন বলের কারণে তেজস্ক্রিয় নিউক্লিয়াস থেকে বিটা (β) রশ্মি বের হয়?",
+    "options": [
+      "তড়িৎ বল",
+      "তড়িৎ চৌম্বক বল",
+      "দুর্বল নিউক্লিয় বল",
+      "সবল নিউক্লিয় বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "পিত্তথলির ভেতরের 'পলিপ' শনাক্তকরণে কোনটি ব্যবহার করা হয়?",
+    "options": [
+      "এনজিওগ্রাফি",
+      "আলট্রাসনোগ্রাফি",
+      "এন্ডোস্কোপি",
+      "ইসিজি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "বাতাসে শব্দের বেগ 340ms⁻¹। উৎস এবং প্রতিফলকের মাঝে সর্বনিম্ন কত দূরত্বে প্রতিধ্বনি শোনা যাবে?",
+    "options": [
+      "1.7m",
+      "17m",
+      "34m",
+      "170m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "একটি ঢালু তলের উপর দিয়ে একটি ক্রিকেট বল গড়িয়ে পড়লে কোন ধরনের ঘর্ষণ সৃষ্টি হয়?",
+    "options": [
+      "স্থিতি ঘর্ষণ",
+      "গতি ঘর্ষণ",
+      "আবর্ত ঘর্ষণ",
+      "প্রবাহী ঘর্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "আমরা যে শক্তি ব্যয় করি তার কতভাগ নবায়নযোগ্য শক্তি?",
+    "options": [
+      "1/4",
+      "1/5",
+      "1/6",
+      "1/8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "তরলে নিমজ্জিত বস্তু ওজন হারায় নিচের কোনটির জন্য?",
+    "options": [
+      "ঊর্ধ্বমুখী বল",
+      "নিম্নমুখী বল",
+      "তরলের পার্শ্বচাপ",
+      "তরলের উপরস্থ বায়ুচাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "নিচের কোনটির তরঙ্গদৈর্ঘ্য দৃশ্যমান আলোর সবচেয়ে বড় তরঙ্গদৈর্ঘ্য থেকেও বড়?",
+    "options": [
+      "আলট্রা ভায়োলেট",
+      "এক্স-রে",
+      "গামা-রে",
+      "মাইক্রোওয়েভ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "আপতন কোণ ও সংকট কোণের মান সমান হলে প্রতিসৃত রশ্মি ও বিভেদ তলের মধ্যবর্তী কোণ কত?",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "0°"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "R বিন্দুতে বিভব শক্তি কত? [P বিন্দু থেকে 10 kg ভরের একটি বস্তু মুক্তভাবে নিচের দিকে পড়ছে। P=40m, S=60m, R=10m]",
+    "options": [
+      "1960J",
+      "3920J",
+      "4230J",
+      "5880J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "বর্তনীর তুল্যরোধ কত? [20V উৎস, 6Ω ও 12Ω সমান্তরাল, তারপর 6Ω শ্রেণিতে]",
+    "options": [
+      "10 Ω",
+      "12 Ω",
+      "24 Ω",
+      "30 Ω"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "ক্ষুদ্র অর্ধ-পরিবাহক চিপে বিলিয়ন ট্রানজিস্টর ঢোকানোর প্রক্রিয়াকে কী বলে?",
+    "options": [
+      "CCউ",
+      "BTঝ",
+      "ঠখঝও",
+      "খঅঘ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "কোন যন্ত্রের সাহায্যে A.C কে উ.C করা যায়?",
+    "options": [
+      "ট্রানজিস্টর",
+      "অর্ধপরিবাহী",
+      "ট্রান্সফর্মার",
+      "ডায়োড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 10 cm। মেরু হতে বক্রতার কেন্দ্রের দিকে প্রধান অক্ষের উপর 20 cm দূরত্বে একটি লক্ষ্যবস্তু রাখা হলে তার বিবর্ধন কত হবে?",
+    "options": [
+      "2",
+      "1.5",
+      "1",
+      "0.5"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-06-q23.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "একটি গাড়ির আদিবেগ 9 m/s এবং ত্বরণ 3 m/s²। 8 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "72 m/s",
+      "{u + 2*a*t} m/s",
+      "{u - a*t} m/s",
+      "{u + a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-06-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-06",
+    "text": "নিচের কোনটি স্কেলার রাশি?",
+    "options": [
+      "বল",
+      "প্লবতা",
+      "চাপ",
+      "ওজন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

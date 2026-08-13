@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-paper-set-05-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "একটি ট্রান্সফর্মারের তথ্য নæির–প : মুখ্য কুণ্ডলীর প্যাঁচ msখ্যা গৌণ কুণ্ডলীর প্যাঁচ msখ্যা মুখ্য কুণ্ডলীতে প্রযুক্ত ভোল্ট গৌণ কুণ্ডলীতে প্রযুক্ত ভোল্ট ৫০ ৫০০ ৬ঠ ছ ছ এর মান কত?",
+    "options": [
+      "৫০ঠ",
+      "৬০ঠ",
+      "10^{০}V",
+      "১২০ঠ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "একটি গাড়ির আদিবেগ 9 m/s এবং ত্বরণ 2 m/s²। 3 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "{u - a*t} m/s",
+      "27 m/s",
+      "{u + a*t} m/s",
+      "{u + 2*a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "ক্যাবল টিভি কোনটির সাহায্যে msকেত পাঠায়?",
+    "options": [
+      "অ্যান্টেনা",
+      "রিসিভার",
+      "টাওয়ার",
+      "কো এক্সিয়াল ক্যাবল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "স্প্রিং এ কোন ধরনের শক্তি সঞ্চিত থাকে?",
+    "options": [
+      "বিভব শক্তি",
+      "গতি শক্তি",
+      "শব্দ শক্তি",
+      "তাপ শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "1 cc কেরোসিনের ভর 0.8g। কেরোসিনের 50 cm গভীরে চাপ কত?",
+    "options": [
+      "392000 Nm⁻²",
+      "3920 Nm⁻²",
+      "392 Nm⁻²",
+      "3.92 Nm⁻²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "সুপ্ততাপ পদার্থের কোনটির পরিবর্তন ঘটায়?",
+    "options": [
+      "চাপের",
+      "তাপের",
+      "তাপমাত্রার",
+      "অবস্থার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "দৃশ্যমান আলোর সবচেয়ে কম তরঙ্গদৈর্ঘ্য কোনটির?",
+    "options": [
+      "বেগুনি",
+      "লাল",
+      "হলুদ",
+      "নীল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "অবতল দর্পণে রৈখিক বিবর্ধন 1 পেতে হলে বস্তুকে কোথায় স্থাপন করতে হবে?",
+    "options": [
+      "অসীমে",
+      "অসীম ও বক্রতার কেন্দ্রের মধ্যে",
+      "বক্রতার কেন্দ্রে",
+      "প্রধান ফোকাসে"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-05-q08.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "কোনো বস্তুতে চার্জের উপস্থিতি নির্ণয়ের জন্য নিচের কোন যন্ত্রটি ব্যবহৃত হয়?",
+    "options": [
+      "ইলেকট্রোস্কোপ",
+      "ভ্যান ডি গ্রাফ মেশিন",
+      "ক্যাপাসিটর",
+      "জেনারেটর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "কোনটি রূপার আপেক্ষিক রোধ?",
+    "options": [
+      "1.59 × 10⁻⁸ Ωm",
+      "1.68 × 10⁻⁸ Ωm",
+      "2.44 × 10⁻⁸ Ωm",
+      "2.50 × 10⁻⁶ Ωm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "তাড়িতচৌম্বক আবেশের উপর ভিত্তি করে কোনটি তৈরি করা হয়?",
+    "options": [
+      "তড়িৎ মোটর",
+      "ট্রানজিস্টর",
+      "ট্রান্সফরমার",
+      "অ্যামপ্লিফায়ার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "কোন আইসোটোপ ব্যবহার করে ক্যান্সার আক্রান্ত কোষকে গামা-রে দিয়ে ধ্বংস করা হয়?",
+    "options": [
+      "¹⁴C",
+      "³²P",
+      "⁶⁰Co",
+      "¹³¹I"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "তাপমাত্রার পরিবর্তন না করে পদার্থের অবস্থা পরিবর্তনকারী তাপকে কী বলে?",
+    "options": [
+      "গলন",
+      "বাষ্পীভবন",
+      "সুপ্ততাপ",
+      "ঘনীভবন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "কোথায় শব্দের বেগ সবচেয়ে বেশি?",
+    "options": [
+      "বায়ু",
+      "পারদ",
+      "লোহা",
+      "হীরা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "অপটিক্যাল ফাইবারের ভিতরের অংশকে কী বলে?",
+    "options": [
+      "ক্ল্যাড",
+      "সরু কাচ তন্তু",
+      "কোর",
+      "আলোক নল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "তড়িৎবাহী তারের প্রভাবকে কাজে লাগিয়ে নিচের কোন যন্ত্রটি তৈরি?",
+    "options": [
+      "তড়িৎ মোটর",
+      "ট্রান্সফরমার",
+      "ডায়োড",
+      "ট্রানজিস্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "P বস্তুটিকে পানির 0.5m গভীরে নেওয়া হলে কত চাপ অনুভব করবে? (উদ্দীপকভিত্তিক)",
+    "options": [
+      "$3.6 \\times 10^{-4}$ Pa",
+      "$3.675 \\times 10^{-2}$ Pa",
+      "0.3675 Pa",
+      "4900 Pa"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-05-q17.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "সুপ্ততাপ কীসের পরিবর্তন ঘটায়?",
+    "options": [
+      "তাপমাত্রার",
+      "অবস্থার",
+      "গলনাঙ্কের",
+      "স্ফুটনাঙ্কের"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "শব্দ তরঙ্গের প্রকৃতি কীরূপ?",
+    "options": [
+      "অনুদৈর্ঘ্য",
+      "অনুপ্ৰস্থ",
+      "বেতার",
+      "তড়িৎচৌম্বক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "অবতল দর্পণে অবাস্তব প্রতিবিম্ব পেতে হলে লক্ষ্যবস্তুকে কোথায় রাখতে হবে?",
+    "options": [
+      "3F ও ∞ এর মাঝে",
+      "F ও 2F এর মাঝে",
+      "P ও F এর মাঝে",
+      "2F ও ∞ এর মাঝে"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-05-q20.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 30 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "60 A",
+      "0.07 A",
+      "{(v+r)} A",
+      "15.0 A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "লেন্সের ক্ষমতার একক কোনটি?",
+    "options": [
+      "জুল",
+      "মিটার",
+      "ডায়োপ্টার",
+      "ওয়াট"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-05-q22.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "স্পিকারে কোন ধরনের চুম্বক ব্যবহার করা হয়?",
+    "options": [
+      "তাড়িত চুম্বক",
+      "দণ্ড চুম্বক",
+      "স্থায়ী চুম্বক",
+      "আবেশি চুম্বক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "npn ট্রানজিস্টরের যে অংশে কারেন্ট প্রবেশ করে তার নাম কী?",
+    "options": [
+      "বেস",
+      "ইনপুট",
+      "এমিটার",
+      "কালেক্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
+    "options": [
+      "আল মাসুদি",
+      "ইবনে আল হাইয়াম",
+      "ওমর খৈয়াম",
+      "আল খোয়ারিজমি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

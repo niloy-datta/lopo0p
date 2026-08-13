@@ -1,0 +1,1533 @@
+{
+  "subject": "general-math",
+  "chapterSlug": "ssc-general-math-chapter-04",
+  "chapterName": "সূচক ও লগারিদম",
+  "scope": "সূচকের নিয়ম, শূন্য/ঋণাত্মক/ভগ্নাংশ সূচক, n-তম মূল, বৈজ্ঞানিক রূপ, লগারিদমের সংজ্ঞা-সূত্র এবং সাধারণ লগারিদমের পূর্ণক ও অংশক",
+  "sets": [
+    {
+      "setName": "Model Test-01",
+      "questions": [
+        {
+          "text": "aᵐ × aⁿ = ?",
+          "options": [
+            "aᵐ⁺ⁿ",
+            "aᵐ⁻ⁿ",
+            "aᵐⁿ",
+            "aⁿ/ᵐ"
+          ],
+          "answer": "aᵐ⁺ⁿ",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-01-q01"
+        },
+        {
+          "text": "a⁰ (a≠0) = ?",
+          "options": [
+            "0",
+            "1",
+            "a",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q02"
+        },
+        {
+          "text": "2³ × 2² = ?",
+          "options": [
+            "2⁵",
+            "2⁶",
+            "2⁴",
+            "2³"
+          ],
+          "answer": "2⁵",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-01-q03"
+        },
+        {
+          "text": "10⁻² = ?",
+          "options": [
+            "100",
+            "1/10",
+            "1/100",
+            "-100"
+          ],
+          "answer": "1/100",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-01-q04"
+        },
+        {
+          "text": "√a = ?",
+          "options": [
+            "a²",
+            "a¹/²",
+            "a⁻¹",
+            "a"
+          ],
+          "answer": "a¹/²",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q05"
+        },
+        {
+          "text": "8¹/³ = ?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "8"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-01-q06"
+        },
+        {
+          "text": "log₂8 = ?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "8"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q07"
+        },
+        {
+          "text": "log₃27 = ?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q08"
+        },
+        {
+          "text": "logₐ1 = ?",
+          "options": [
+            "1",
+            "0",
+            "a",
+            "-1"
+          ],
+          "answer": "0",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q09"
+        },
+        {
+          "text": "logₐa = ?",
+          "options": [
+            "1",
+            "0",
+            "a",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-01-q10"
+        },
+        {
+          "text": "5⁻² = ?",
+          "options": [
+            "25",
+            "1/25",
+            "-25",
+            "1/5"
+          ],
+          "answer": "1/25",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q11"
+        },
+        {
+          "text": "(3²)³ = ?",
+          "options": [
+            "3⁵",
+            "3⁶",
+            "3⁷",
+            "3⁸"
+          ],
+          "answer": "3⁶",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q12"
+        },
+        {
+          "text": "0.0045 = ?",
+          "options": [
+            "4.5×10⁻³",
+            "45×10⁻³",
+            "4.5×10³",
+            "0.45×10⁻²"
+          ],
+          "answer": "4.5×10⁻³",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-01-q13"
+        },
+        {
+          "text": "logₐ(MN)=?",
+          "options": [
+            "logM-logN",
+            "logM+logN",
+            "logM×logN",
+            "logM/logN"
+          ],
+          "answer": "logM+logN",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q14"
+        },
+        {
+          "text": "logₐ(M/N)=?",
+          "options": [
+            "logM-logN",
+            "logM+logN",
+            "logN-logM",
+            "MN"
+          ],
+          "answer": "logM-logN",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-01-q15"
+        },
+        {
+          "text": "4¹/² = ?",
+          "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-01-q16"
+        },
+        {
+          "text": "27²/³ = ?",
+          "options": [
+            "3",
+            "6",
+            "9",
+            "18"
+          ],
+          "answer": "9",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-01-q17"
+        },
+        {
+          "text": "16³/⁴ = ?",
+          "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+          ],
+          "answer": "8",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-01-q18"
+        },
+        {
+          "text": "a⁻ⁿ = ?",
+          "options": [
+            "aⁿ",
+            "1/aⁿ",
+            "-aⁿ",
+            "n/a"
+          ],
+          "answer": "1/aⁿ",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q19"
+        },
+        {
+          "text": "2⁵ ÷ 2² = ?",
+          "options": [
+            "2³",
+            "2⁷",
+            "2⁶",
+            "2⁴"
+          ],
+          "answer": "2³",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-01-q20"
+        },
+        {
+          "text": "3⁴ ÷ 3² = ?",
+          "options": [
+            "3²",
+            "3⁶",
+            "3⁸",
+            "3¹"
+          ],
+          "answer": "3²",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-01-q21"
+        },
+        {
+          "text": "log₁₀100 = ?",
+          "options": [
+            "1",
+            "2",
+            "10",
+            "100"
+          ],
+          "answer": "2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q22"
+        },
+        {
+          "text": "log₂32 = ?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-01-q23"
+        },
+        {
+          "text": "10³ = ?",
+          "options": [
+            "100",
+            "1000",
+            "10000",
+            "10"
+          ],
+          "answer": "1000",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q24"
+        },
+        {
+          "text": "10⁰ = ?",
+          "options": [
+            "0",
+            "1",
+            "10",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-01-q25"
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-02",
+      "questions": [
+        {
+          "text": "2⁵ × 2⁻² = ?",
+          "options": [
+            "2³",
+            "2⁷",
+            "2⁻³",
+            "2⁶"
+          ],
+          "answer": "2³",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q01"
+        },
+        {
+          "text": "(5⁻²)⁻³ = ?",
+          "options": [
+            "5⁶",
+            "5⁻⁶",
+            "5⁵",
+            "5⁴"
+          ],
+          "answer": "5⁶",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q02"
+        },
+        {
+          "text": "32²/⁵ = ?",
+          "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+          ],
+          "answer": "4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q03"
+        },
+        {
+          "text": "81³/⁴ = ?",
+          "options": [
+            "9",
+            "18",
+            "27",
+            "81"
+          ],
+          "answer": "9",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q04"
+        },
+        {
+          "text": "125⁻¹/³ = ?",
+          "options": [
+            "5",
+            "1/5",
+            "25",
+            "1/25"
+          ],
+          "answer": "1/5",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q05"
+        },
+        {
+          "text": "(a²b³)² = ?",
+          "options": [
+            "a⁴b⁶",
+            "a⁴b⁵",
+            "a²b⁶",
+            "a⁶b⁴"
+          ],
+          "answer": "a⁴b⁶",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q06"
+        },
+        {
+          "text": "10⁻³ = ?",
+          "options": [
+            "0.001",
+            "0.01",
+            "0.1",
+            "10"
+          ],
+          "answer": "0.001",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q07"
+        },
+        {
+          "text": "log₂16 = ?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q08"
+        },
+        {
+          "text": "log₅125 = ?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q09"
+        },
+        {
+          "text": "log₉3 = ?",
+          "options": [
+            "1/2",
+            "2",
+            "3",
+            "1/3"
+          ],
+          "answer": "1/2",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q10"
+        },
+        {
+          "text": "0.00072 = ?",
+          "options": [
+            "7.2×10⁻⁴",
+            "72×10⁻⁵",
+            "0.72×10⁻³",
+            "7.2×10⁻³"
+          ],
+          "answer": "7.2×10⁻⁴",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q11"
+        },
+        {
+          "text": "6.5×10⁻³ = ?",
+          "options": [
+            "0.0065",
+            "0.065",
+            "0.65",
+            "6.5"
+          ],
+          "answer": "0.0065",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q12"
+        },
+        {
+          "text": "log₂(4×8)=?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "5",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q13"
+        },
+        {
+          "text": "log₃(81/9)=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q14"
+        },
+        {
+          "text": "log₅25 + log₅5 = ?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q15"
+        },
+        {
+          "text": "log₂64 = ?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "6",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-02-q16"
+        },
+        {
+          "text": "log₁₀0.01 = ?",
+          "options": [
+            "-1",
+            "-2",
+            "-3",
+            "2"
+          ],
+          "answer": "-2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q17"
+        },
+        {
+          "text": "log₁₀0.001 = ?",
+          "options": [
+            "-1",
+            "-2",
+            "-3",
+            "3"
+          ],
+          "answer": "-3",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-02-q18"
+        },
+        {
+          "text": "logₐ1 = ?",
+          "options": [
+            "0",
+            "1",
+            "a",
+            "-1"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q19"
+        },
+        {
+          "text": "logₐa = ?",
+          "options": [
+            "0",
+            "1",
+            "a",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q20"
+        },
+        {
+          "text": "log₂(16/4)=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q21"
+        },
+        {
+          "text": "log₃27 = ?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-02-q22"
+        },
+        {
+          "text": "(2×10³)(3×10²)=?",
+          "options": [
+            "6×10⁵",
+            "6×10⁶",
+            "5×10⁵",
+            "6×10⁴"
+          ],
+          "answer": "6×10⁵",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q23"
+        },
+        {
+          "text": "(6×10⁵)/(3×10²)=?",
+          "options": [
+            "2×10³",
+            "2×10²",
+            "3×10³",
+            "6×10³"
+          ],
+          "answer": "2×10³",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q24"
+        },
+        {
+          "text": "10² × 10³ = ?",
+          "options": [
+            "10⁵",
+            "10⁶",
+            "10⁴",
+            "10³"
+          ],
+          "answer": "10⁵",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-02-q25"
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-03",
+      "questions": [
+        {
+          "text": "2ˣ=64 হলে x=?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "6",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-03-q01"
+        },
+        {
+          "text": "3ˣ=81 হলে x=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "4",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-03-q02"
+        },
+        {
+          "text": "5ˣ=1/125 হলে x=?",
+          "options": [
+            "-2",
+            "-3",
+            "3",
+            "2"
+          ],
+          "answer": "-3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q03"
+        },
+        {
+          "text": "4ˣ=1/64 হলে x=?",
+          "options": [
+            "-2",
+            "-3",
+            "-4",
+            "3"
+          ],
+          "answer": "-3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q04"
+        },
+        {
+          "text": "2ˣ×2³=2⁷ হলে x=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "4",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-03-q05"
+        },
+        {
+          "text": "9ˣ=3⁶ হলে x=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q06"
+        },
+        {
+          "text": "8ˣ=2⁹ হলে x=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q07"
+        },
+        {
+          "text": "a²=5 হলে a⁴=?",
+          "options": [
+            "5",
+            "10",
+            "25",
+            "20"
+          ],
+          "answer": "25",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-03-q08"
+        },
+        {
+          "text": "x³=2 হলে x⁶=?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q09"
+        },
+        {
+          "text": "log₂x=5 হলে x=?",
+          "options": [
+            "16",
+            "32",
+            "64",
+            "25"
+          ],
+          "answer": "32",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q10"
+        },
+        {
+          "text": "log₅x=0 হলে x=?",
+          "options": [
+            "0",
+            "1",
+            "5",
+            "10"
+          ],
+          "answer": "1",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q11"
+        },
+        {
+          "text": "logₓ16=4 হলে x=?",
+          "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-03-q12"
+        },
+        {
+          "text": "log₃x=−2 হলে x=?",
+          "options": [
+            "1/9",
+            "9",
+            "-9",
+            "1/3"
+          ],
+          "answer": "1/9",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-03-q13"
+        },
+        {
+          "text": "log₂x + log₂4=log₂32 হলে x=?",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "16"
+          ],
+          "answer": "8",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-03-q14"
+        },
+        {
+          "text": "log₃x−log₃2=log₃9 হলে x=?",
+          "options": [
+            "12",
+            "18",
+            "9",
+            "6"
+          ],
+          "answer": "18",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q15"
+        },
+        {
+          "text": "x¹/²=5 হলে x=?",
+          "options": [
+            "10",
+            "25",
+            "5",
+            "125"
+          ],
+          "answer": "25",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q16"
+        },
+        {
+          "text": "x¹/³=4 হলে x=?",
+          "options": [
+            "16",
+            "32",
+            "64",
+            "48"
+          ],
+          "answer": "64",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-03-q17"
+        },
+        {
+          "text": "log₅x=3 হলে x=?",
+          "options": [
+            "125",
+            "25",
+            "75",
+            "100"
+          ],
+          "answer": "125",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-03-q18"
+        },
+        {
+          "text": "2⁻³=?",
+          "options": [
+            "1/8",
+            "8",
+            "1/4",
+            "4"
+          ],
+          "answer": "1/8",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-03-q19"
+        },
+        {
+          "text": "10⁻¹=?",
+          "options": [
+            "1/10",
+            "10",
+            "1/100",
+            "0"
+          ],
+          "answer": "1/10",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-03-q20"
+        },
+        {
+          "text": "3⁰=?",
+          "options": [
+            "0",
+            "1",
+            "3",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q21"
+        },
+        {
+          "text": "(2³)²=?",
+          "options": [
+            "2⁵",
+            "2⁶",
+            "2⁷",
+            "2⁸"
+          ],
+          "answer": "2⁶",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-03-q22"
+        },
+        {
+          "text": "5²×5³=?",
+          "options": [
+            "5⁵",
+            "5⁶",
+            "5⁴",
+            "5⁷"
+          ],
+          "answer": "5⁵",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-03-q23"
+        },
+        {
+          "text": "log₁₀1000=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "3",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-03-q24"
+        },
+        {
+          "text": "log₂1=?",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "-1"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-03-q25"
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-04",
+      "questions": [
+        {
+          "text": "2³×4²=?",
+          "options": [
+            "2⁵",
+            "2⁷",
+            "2⁶",
+            "2⁸"
+          ],
+          "answer": "2⁷",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q01"
+        },
+        {
+          "text": "16×2⁻³=?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+          ],
+          "answer": "2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q02"
+        },
+        {
+          "text": "27×3⁻³=?",
+          "options": [
+            "1",
+            "3",
+            "9",
+            "27"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-04-q03"
+        },
+        {
+          "text": "(a⁻²)⁻²=?",
+          "options": [
+            "a⁴",
+            "a⁻⁴",
+            "a²",
+            "a⁻²"
+          ],
+          "answer": "a⁴",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-04-q04"
+        },
+        {
+          "text": "(x²y⁻¹)³=?",
+          "options": [
+            "x⁶/y³",
+            "x⁵/y³",
+            "x⁶y³",
+            "x³/y²"
+          ],
+          "answer": "x⁶/y³",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-04-q05"
+        },
+        {
+          "text": "8¹/²=?",
+          "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-04-q06"
+        },
+        {
+          "text": "256¹/⁴=?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q07"
+        },
+        {
+          "text": "log₂3+log₂8=?",
+          "options": [
+            "log₂11",
+            "log₂24",
+            "log₂5",
+            "log₂8"
+          ],
+          "answer": "log₂24",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q08"
+        },
+        {
+          "text": "log₅75−log₅3=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q09"
+        },
+        {
+          "text": "log₂48−log₂3=?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q10"
+        },
+        {
+          "text": "log₁₀0.1=?",
+          "options": [
+            "-1",
+            "1",
+            "0",
+            "2"
+          ],
+          "answer": "-1",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-04-q11"
+        },
+        {
+          "text": "log₁₀1=?",
+          "options": [
+            "0",
+            "1",
+            "-1",
+            "2"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-04-q12"
+        },
+        {
+          "text": "10⁵=?",
+          "options": [
+            "10000",
+            "100000",
+            "1000000",
+            "1000"
+          ],
+          "answer": "100000",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q13"
+        },
+        {
+          "text": "10⁻⁴=?",
+          "options": [
+            "0.0001",
+            "0.001",
+            "0.01",
+            "0.1"
+          ],
+          "answer": "0.0001",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-04-q14"
+        },
+        {
+          "text": "2ˣ=8 হলে x=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q15"
+        },
+        {
+          "text": "3ˣ=27 হলে x=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q16"
+        },
+        {
+          "text": "4ˣ=64 হলে x=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q17"
+        },
+        {
+          "text": "5ˣ=125 হলে x=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q18"
+        },
+        {
+          "text": "logₓ64=3 হলে x=?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q19"
+        },
+        {
+          "text": "logₓ81=4 হলে x=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q20"
+        },
+        {
+          "text": "x+1/x=3 হলে x²+1/x²=?",
+          "options": [
+            "5",
+            "7",
+            "9",
+            "11"
+          ],
+          "answer": "7",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q21"
+        },
+        {
+          "text": "x−1/x=2 হলে x²+1/x²=?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "6",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-04-q22"
+        },
+        {
+          "text": "log₂x+log₂(x−2)=3 হলে x=?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-04-q23"
+        },
+        {
+          "text": "log₃x+log₃(x+2)=1 হলে x=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-04-q24"
+        },
+        {
+          "text": "log₅(x+1)−log₅x=log₅2 হলে x=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-04-q25"
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-05",
+      "questions": [
+        {
+          "text": "2ˣ=8ʸ ও 3ʸ=27ˣ হলে x:y=?",
+          "options": [
+            "1:1",
+            "1:2",
+            "1:3",
+            "3:1"
+          ],
+          "answer": "3:1",
+          "answerIndex": 3,
+          "id": "ssc-general-math-chapter-04-model-test-05-q01"
+        },
+        {
+          "text": "4ˣ=8 হলে x=?",
+          "options": [
+            "1/2",
+            "3/2",
+            "2",
+            "1"
+          ],
+          "answer": "3/2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q02"
+        },
+        {
+          "text": "8ˣ=16 হলে x=?",
+          "options": [
+            "2/3",
+            "3/4",
+            "4/3",
+            "5/3"
+          ],
+          "answer": "4/3",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-05-q03"
+        },
+        {
+          "text": "9ˣ=27 হলে x=?",
+          "options": [
+            "1/2",
+            "2/3",
+            "3/2",
+            "3"
+          ],
+          "answer": "3/2",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-04-model-test-05-q04"
+        },
+        {
+          "text": "16ˣ=32 হলে x=?",
+          "options": [
+            "4/5",
+            "5/4",
+            "3/4",
+            "2/3"
+          ],
+          "answer": "5/4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q05"
+        },
+        {
+          "text": "2ˣ⁺¹=32 হলে x=?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q06"
+        },
+        {
+          "text": "3²ˣ⁻¹=81 হলে x=?",
+          "options": [
+            "2",
+            "5/2",
+            "3",
+            "7/2"
+          ],
+          "answer": "5/2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q07"
+        },
+        {
+          "text": "(2ˣ)(4ˣ)=64 হলে x=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q08"
+        },
+        {
+          "text": "log₅x=0 হলে x=?",
+          "options": [
+            "0",
+            "1",
+            "5",
+            "10"
+          ],
+          "answer": "1",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q09"
+        },
+        {
+          "text": "logₓx=?",
+          "options": [
+            "0",
+            "1",
+            "x",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q10"
+        },
+        {
+          "text": "log₄x=3/2 হলে x=?",
+          "options": [
+            "8",
+            "16",
+            "4",
+            "2"
+          ],
+          "answer": "8",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-05-q11"
+        },
+        {
+          "text": "log₂(log₃81)=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q12"
+        },
+        {
+          "text": "log₃(log₂64)=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q13"
+        },
+        {
+          "text": "10⁻²=?",
+          "options": [
+            "0.01",
+            "0.1",
+            "1",
+            "10"
+          ],
+          "answer": "0.01",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-05-q14"
+        },
+        {
+          "text": "10³=?",
+          "options": [
+            "100",
+            "1000",
+            "10000",
+            "10"
+          ],
+          "answer": "1000",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q15"
+        },
+        {
+          "text": "2⁻¹=?",
+          "options": [
+            "1/2",
+            "2",
+            "1/4",
+            "4"
+          ],
+          "answer": "1/2",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-05-q16"
+        },
+        {
+          "text": "3⁰=?",
+          "options": [
+            "0",
+            "1",
+            "3",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q17"
+        },
+        {
+          "text": "(5²)(5³)=?",
+          "options": [
+            "5⁵",
+            "5⁶",
+            "5⁴",
+            "5⁷"
+          ],
+          "answer": "5⁵",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-04-model-test-05-q18"
+        },
+        {
+          "text": "(2³)²=?",
+          "options": [
+            "2⁵",
+            "2⁶",
+            "2⁷",
+            "2⁸"
+          ],
+          "answer": "2⁶",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q19"
+        },
+        {
+          "text": "log₁₀100=?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q20"
+        },
+        {
+          "text": "log₂16=?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "4",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q21"
+        },
+        {
+          "text": "log₃27=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q22"
+        },
+        {
+          "text": "log₅125=?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q23"
+        },
+        {
+          "text": "x⁰=?",
+          "options": [
+            "0",
+            "1",
+            "x",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q24"
+        },
+        {
+          "text": "a⁻²=?",
+          "options": [
+            "a²",
+            "1/a²",
+            "-a²",
+            "2/a"
+          ],
+          "answer": "1/a²",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-04-model-test-05-q25"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "super-model-set-21-q01": {
+    "correctOption": "0",
+    "explanation": "দুটি সমান্তরাল ভেক্টরের মধ্যবর্তী কোণ θ = 0°। ক্রস গুণফলের মান |A⃗×B⃗| = AB sin(0°) = 0।"
+  },
+  "super-model-set-21-q02": {
+    "correctOption": "v₀² sin² θ / 2g",
+    "explanation": "প্রক্ষেপকের সর্বাধিক উচ্চতায় শেষ উলম্ব বেগ শূন্য হয়। গতির সমীকরণ vy² = v₀y² − 2gh ব্যবহার করে পাই, hmax = (v₀ sinθ)²/2g।"
+  },
+  "super-model-set-21-q03": {
+    "correctOption": "কৌণিক ভরবেগ সংরক্ষিত থাকে",
+    "explanation": "বাইরে থেকে কোনো টর্ক (Torque) প্রযুক্ত না হলে কৌণিক ভরবেগ (L = Iω) সংরক্ষিত থাকে। হাত গোটালে জড়তার ভ্রামক (I) কমে যায়, ফলে কৌণিক বেগ (ω) বেড়ে যায়, কিন্তু মোট কৌণিক ভরবেগ একই থাকে।"
+  },
+  "super-model-set-21-q04": {
+    "correctOption": "5 J",
+    "explanation": "কৃতকাজ W = F⃗·r⃗ = (2)(4) + (3)(−1) = 8 − 3 = 5 J।"
+  },
+  "super-model-set-21-q05": {
+    "correctOption": "g′ ∝ r",
+    "explanation": "পৃথিবীর অভ্যন্তরে অভিকর্ষজ ত্বরণ g′ = (4/3)πGρr। সুতরাং, g′ দূরত্বের সমানুপাতিক (g′ ∝ r)। বাইরে g′ ∝ 1/r²।"
+  },
+  "super-model-set-21-q06": {
+    "correctOption": "−1 ≤ σ ≤ 0.5",
+    "explanation": "গাণিতিক তাত্ত্বিক হিসাব অনুযায়ী পয়সনের অনুপাতের মান −1 থেকে 0.5 এর মধ্যে থাকে। (যদিও বাস্তবে এটি 0 থেকে 0.5 এর মধ্যে হয়)।"
+  },
+  "super-model-set-21-q07": {
+    "correctOption": "পৃথিবীর দৈর্ঘ্যের 1/6 ভাগ করতে হবে",
+    "explanation": "দোলনকাল T = 2π√(L/g)। T ধ্রুবক রাখতে হলে L ∝ g হতে হবে। যেহেতু চাঁদে g এর মান পৃথিবীর 1/6 ভাগ, তাই L ও 1/6 ভাগ করতে হবে।"
+  },
+  "super-model-set-21-q08": {
+    "correctOption": "সমপরাবৃত্ত (Rectangular hyperbola)",
+    "explanation": "বয়েলের সূত্র অনুযায়ী P ∝ 1/V বা PV = Constant। এটি একটি সমপরাবৃত্তের সমীকরণ।"
+  },
+  "super-model-set-21-q09": {
+    "correctOption": "−4/3",
+    "explanation": "B⃗ এর উপর A⃗ এর লম্ব অভিক্ষেপ = A cosθ = (A⃗·B⃗)/|B⃗|। A⃗·B⃗ = 2−2−4 = −4। |B⃗| = √(1+4+4) = 3। অভিক্ষেপ = −4/3।"
+  },
+  "super-model-set-21-q10": {
+    "correctOption": "৪ গুণ",
+    "explanation": "কাজ-শক্তি উপপাদ্য অনুযায়ী, ½mv² = F·s। যেহেতু F ধ্রুবক, তাই s ∝ v²। বেগ দ্বিগুণ হলে সরণ 2² = 4 গুণ হবে।"
+  },
+  "super-model-set-21-q11": {
+    "correctOption": "22.2°",
+    "explanation": "tanθ = v²/(rg) = 20²/(100×9.8) = 400/980 ≈ 0.408। θ = tan⁻¹(0.408) ≈ 22.2°।"
+  },
+  "super-model-set-21-q12": {
+    "correctOption": "ঘর্ষণ বল",
+    "explanation": "যে বল দ্বারা কৃতকাজ পথের উপর নির্ভর করে এবং পূর্ণচক্রে মোট কাজ শূন্য হয় না, তাকে অসংরক্ষণশীল বল বলে। ঘর্ষণ বল এর একটি প্রকৃষ্ট উদাহরণ।"
+  },
+  "super-model-set-21-q13": {
+    "correctOption": "√(2gR)",
+    "explanation": "মুক্তিবেগ ve = √(2GM/R)। যেহেতু g = GM/R², তাই GM = gR²। মান বসালে ve = √(2gR) পাওয়া যায়।"
+  },
+  "super-model-set-21-q14": {
+    "correctOption": "2×10¹⁰ N",
+    "explanation": "Y = FL/(AΔL) ⇒ F = YA(ΔL/L) = (2×10¹¹) × 1 × 0.1 = 2×10¹⁰ N।"
+  },
+  "super-model-set-21-q15": {
+    "correctOption": "90° (π/2 rad)",
+    "explanation": "সরণ x = A sin(ωt) হলে, বেগ v = Aω cos(ωt) = Aω sin(ωt + π/2)। তাই দশা পার্থক্য π/2 বা 90°। সরণ ও ত্বরণের দশা পার্থক্য 180°।"
+  },
+  "super-model-set-21-q16": {
+    "correctOption": "1366 ms⁻¹",
+    "explanation": "He এর M = 4 g/mol = 0.004 kg/mol। T = 300 K। Crms = √(3RT/M) = √(3×8.314×300/0.004) ≈ 1367 ms⁻¹।"
+  },
+  "super-model-set-21-q17": {
+    "correctOption": "সলিনয়ডাল (Solenoidal)",
+    "explanation": "ডাইভারজেন্স শূন্য (∇·V⃗ = 0) হলে ভেক্টর ক্ষেত্রটিকে সলিনয়ডাল বলা হয়। কার্ল শূন্য হলে তা অঘূর্ণনশীল।"
+  },
+  "super-model-set-21-q18": {
+    "correctOption": "ত্বরণ",
+    "explanation": "বেগ-সময় লেখচিত্রের ঢাল হলো বেগের পরিবর্তনের হার (dv/dt), যা ত্বরণ নির্দেশ করে। (লেখচিত্রের ক্ষেত্রফল সরণ নির্দেশ করে)।"
+  },
+  "super-model-set-21-q19": {
+    "correctOption": "2.5 Nm",
+    "explanation": "নিরেট চাকতির জড়তার ভ্রামক I = ½mr² = ½×2×(0.5)² = 0.25 kg m²। টর্ক τ = Iα = 0.25×10 = 2.5 Nm।"
+  },
+  "super-model-set-21-q20": {
+    "correctOption": "3061 L",
+    "explanation": "P = mgh/t ⇒ m = Pt/(gh) = (5000×60)/(9.8×10) = 300000/98 ≈ 3061 kg। পানির ক্ষেত্রে 1 kg ≈ 1 L, তাই 3061 L।"
+  },
+  "super-model-set-21-q21": {
+    "correctOption": "129 দিন",
+    "explanation": "কেপলারের ৩য় সূত্র: T² ∝ R³ ⇒ T₂/T₁ = (R₂/R₁)^(3/2)। T₂ = 365×(1/2)^(1.5) ≈ 365×0.3535 ≈ 129 দিন।"
+  },
+  "super-model-set-21-q22": {
+    "correctOption": "সংনম্যতা (Compressibility)",
+    "explanation": "আয়তন গুণাঙ্কের (K) বিপরীত রাশিকে সংনম্যতা (C = 1/K) বলা হয়, যা নির্দেশ করে পদার্থকে কতটা সহজে সংকুচিত করা যায়।"
+  },
+  "super-model-set-21-q23": {
+    "correctOption": "2π/3 s",
+    "explanation": "৫ দিয়ে ভাগ করলে: d²x/dt² + 9x = 0। ω² = 9 ⇒ ω = 3। T = 2π/ω = 2π/3 s।"
+  },
+  "super-model-set-21-q24": {
+    "correctOption": "2.84×10⁴ J",
+    "explanation": "দ্বি-পারমাণবিক গ্যাসের f = 5। E = (f/2)nRT = (5/2)×5×8.314×273 ≈ 28371 J = 2.84×10⁴ J।"
+  }
+}

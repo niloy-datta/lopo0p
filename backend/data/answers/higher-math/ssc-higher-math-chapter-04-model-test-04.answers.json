@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-04-model-test-04-q01": {
+    "correctOption": "দৈর্ঘ্য মাপা ও সরলরেখা আঁকা",
+    "explanation": "স্কেল দিয়ে নির্দিষ্ট দৈর্ঘ্য মাপা এবং সরলরেখা আঁকা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q02": {
+    "correctOption": "চাপ বা বৃত্ত আঁকা",
+    "explanation": "কম্পাস দিয়ে নির্দিষ্ট ব্যাসার্ধে চাপ বা বৃত্ত আঁকা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q03": {
+    "correctOption": "কোণ মাপতে",
+    "explanation": "প্রোট্রাক্টর দিয়ে কোণের পরিমাপ নেওয়া বা কোণ আঁকা যায়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q04": {
+    "correctOption": "5টি",
+    "explanation": "রেখাংশকে n সমান ভাগে ভাগ করতে সহায়ক রশ্মিতে nটি সমান অংশ নেওয়া হয়। তাই এখানে 5টি।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q05": {
+    "correctOption": "অপর প্রান্তের সঙ্গে",
+    "explanation": "সহায়ক রশ্মির শেষ চিহ্নিত বিন্দুকে প্রদত্ত রেখাংশের অপর প্রান্তের সঙ্গে যুক্ত করে সমান্তরাল রেখা টানা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q06": {
+    "correctOption": "জ্যার দৈর্ঘ্য ঠিকভাবে স্থানান্তর করার জন্য",
+    "explanation": "একই ব্যাসার্ধে চাপ কাটলে জ্যার দূরত্ব স্থানান্তর করে সমান কোণ তৈরি করা যায়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q07": {
+    "correctOption": "$98^\\circ$",
+    "explanation": "সম্পূরক কোণদ্বয়ের সমষ্টি 180°। তাই অন্য কোণ = 180°−82° = 98°।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q08": {
+    "correctOption": "$80^\\circ$",
+    "explanation": "মোট অনুপাত 9। এক ভাগ = 180°/9 = 20°। ছোট কোণ = 4×20° = 80°।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q09": {
+    "correctOption": "6 cm",
+    "explanation": "সমবাহু ত্রিভুজে তিন বাহু সমান। তাই প্রতিটি বাহু = 18/3 = 6 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q10": {
+    "correctOption": "6 cm",
+    "explanation": "ভূমি = 20−7−7 = 6 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q11": {
+    "correctOption": "9 cm",
+    "explanation": "তৃতীয় বাহু = 24−7−8 = 9 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q12": {
+    "correctOption": "অজানা বাহুর দৈর্ঘ্য",
+    "explanation": "পরিসীমা ও কিছু বাহু দেওয়া থাকলে অজানা বাহু নির্ণয় করে ত্রিভুজ অঙ্কন করা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q13": {
+    "correctOption": "না",
+    "explanation": "9+10=19, যা 21-এর চেয়ে ছোট। তাই ত্রিভুজ আঁকা সম্ভব নয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q14": {
+    "correctOption": "হ্যাঁ",
+    "explanation": "9+10>18, 9+18>10 এবং 10+18>9। তাই ত্রিভুজ সম্ভব।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q15": {
+    "correctOption": "11 cm",
+    "explanation": "তৃতীয় বাহু = 30−8−11 = 11 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q16": {
+    "correctOption": "10 cm",
+    "explanation": "মোট অনুপাত = 12। এক ভাগ = 24/12 = 2 cm। বৃহত্তম বাহু = 5×2 = 10 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q17": {
+    "correctOption": "8 cm",
+    "explanation": "মোট অনুপাত = 9। এক ভাগ = 36/9 = 4 cm। ক্ষুদ্রতম বাহু = 2×4 = 8 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q18": {
+    "correctOption": "কেন্দ্র ও ব্যাসার্ধ",
+    "explanation": "একটি বৃত্ত সম্পূর্ণভাবে নির্ধারিত হয় তার কেন্দ্র ও ব্যাসার্ধ দ্বারা।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q19": {
+    "correctOption": "ব্যাসার্ধদ্বয়ের যোগফল",
+    "explanation": "বহিঃস্পর্শী বৃত্তে কেন্দ্রদূরত্ব = r₁+r₂।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q20": {
+    "correctOption": "ব্যাসার্ধদ্বয়ের পার্থক্য",
+    "explanation": "অন্তঃস্পর্শী বৃত্তে কেন্দ্রদূরত্ব = বড় ব্যাসার্ধ − ছোট ব্যাসার্ধ।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q21": {
+    "correctOption": "3 cm",
+    "explanation": "অন্তঃস্পর্শে কেন্দ্রদূরত্ব = 8−5 = 3 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q22": {
+    "correctOption": "13 cm",
+    "explanation": "বহিঃস্পর্শে কেন্দ্রদূরত্ব = 8+5 = 13 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q23": {
+    "correctOption": "সংশ্লিষ্ট কোণ",
+    "explanation": "সমান্তরাল রেখা অঙ্কনে সংশ্লিষ্ট/অনুরূপ কোণ সমান রাখা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q24": {
+    "correctOption": "$90^\\circ$",
+    "explanation": "লম্ব রেখা প্রদত্ত রেখার সঙ্গে $90^\\circ$ কোণ উৎপন্ন করে।"
+  },
+  "ssc-higher-math-chapter-04-model-test-04-q25": {
+    "correctOption": "সঠিক ধাপ, পরিষ্কার চিত্র ও যুক্তি",
+    "explanation": "জ্যামিতিক অঙ্কনে সঠিক ধাপ, পরিষ্কার চিত্র এবং প্রমাণ/যুক্তি—সবকিছু গুরুত্বপূর্ণ।"
+  }
+}

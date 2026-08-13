@@ -1,0 +1,513 @@
+[
+  {
+    "paper": "SSC physics / ssc-physics-chapter-02-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: দুইটি বস্তু A ও B পৃথিবীপৃষ্ঠে 3m ব্যবধানে রাখা আছে। এদের ভর যথাক্রমে 1...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-03-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"নিচের তথ্যের আলোকে ৫ ও ৬ নং প্রশ্নের উত্তর দাও : $5\\text{ kg}$ ভরের একটি স্থির ব...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-03-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"নিচের উদ্দীপকের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও : [চিত্র: $100\\text{ cm}$ দূ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-05-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: একটি পাত্রে তরল রয়েছে যার উচ্চতা \\(2\\text{ cm}\\)। পাত্রের তলদেশে চাপের ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-05-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকটি পড়ে ২৩ ও ২৪নং প্রশ্নের উত্তর দাও : পানিতে অদ্রবণীয় দুটি কঠিন প...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-06-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নগুলোর উত্তর দাও :  A B C ঝ ছ = ২০C (ব...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-06-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" উদ্দীপকটি লক্ষ কর এবং ৯ ও ১০ নম্বর প্রশ্নের উত্তর দাও : 10^{০}C ৫০C ০C -5C...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-07-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"নিচের চিত্রের আলোকে ১৪ ও ১৫ নং প্রশ্নের উত্তর দাও : [চিত্র: একটি তরঙ্গের পরপর ৩ট...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-07-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকটি লক্ষ কর এবং ৬ ও ৭ নং প্রশ্নের উত্তর দাও : একটি সুর শলাকার K¤ক্...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-11-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: চিত্রে প্রদর্শিত বর্তনীতে $R_1 = 4\\ \\Omega$, $R_2 = 2\\ \\Omega$, $R_3 = ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-02-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১০ ও ১১ নং প্রশ্নগুলোর উত্তর দাও : ২০০ ১৫০ 10^{০} ৫০ ১০ ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-02-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১১ ও ১২ নং প্রশ্নের উত্তর দাও : একটি গাছকে লক্ষ্য করে দু...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-02-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নগুলোর উত্তর দাও : চ = ৬ ext{ ext{kg}} ও...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-02-model-test-03",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১১ ও ১২ নং প্রশ্নের উত্তর দাও : একটি গাছকে লক্ষ্য করে দু...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-02-model-test-03",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নগুলোর উত্তর দাও : চ = ৬ ext{ ext{kg}} ও...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-02-model-test-03",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকটি লক্ষ কর এবং ২৪ ও ২৫ নং প্রশ্নের উত্তর দাও : ৫০ g ভরের একটি বস্...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-03-model-test-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"নিচের তথ্যের আলোকে ৫ ও ৬ নং প্রশ্নের উত্তর দাও : $5\\text{ kg}$ ভরের একটি স্থির ব...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-03-model-test-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"নিচের উদ্দীপকের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও : [চিত্র: $100\\text{ cm}$ দূ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-05-model-test-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: একটি পাত্রে তরল রয়েছে যার উচ্চতা \\(2\\text{ cm}\\)। পাত্রের তলদেশে চাপের ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-06-model-test-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নগুলোর উত্তর দাও :  A B C ঝ ছ = ২০C (ব...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-06-model-test-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" উদ্দীপকটি লক্ষ কর এবং ৯ ও ১০ নম্বর প্রশ্নের উত্তর দাও : 10^{০}C ৫০C ০C -5C...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-07-model-test-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"নিচের চিত্রের আলোকে ১৪ ও ১৫ নং প্রশ্নের উত্তর দাও : [চিত্র: একটি তরঙ্গের পরপর ৩ট...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-07-model-test-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকটি লক্ষ কর এবং ৬ ও ৭ নং প্রশ্নের উত্তর দাও : একটি সুর শলাকার K¤ক্...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-09-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১০ ও ১১ নং প্রশ্নগুলোর উত্তর দাও : একটি ট্রান্সফর্মারে প...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-09-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১০ ও ১১ নং প্রশ্নগুলোর উত্তর দাও : একটি ট্রান্সফর্মারে প...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-09-model-test-03",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১০ ও ১১ নং প্রশ্নগুলোর উত্তর দাও : একটি ট্রান্সফর্মারে প...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-09-model-test-04",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১০ ও ১১ নং প্রশ্নগুলোর উত্তর দাও : একটি ট্রান্সফর্মারে প...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-09-model-test-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকের আলোকে ১০ ও ১১ নং প্রশ্নগুলোর উত্তর দাও : একটি ট্রান্সফর্মারে প...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-11-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" উদ্দীপকটি লক্ষ কর এবং ২ ও ৩নং প্রশ্নের উত্তর দাও : R_1 = ২ Omega R_2 = ৩ Omega...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-11-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকটি লক্ষ কর এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও : A R_1 B R_2 C R_3 ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-11-model-test-03",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" উদ্দীপকটি লক্ষ কর এবং ২ ও ৩নং প্রশ্নের উত্তর দাও : R_1 = ২ Omega R_2 = ৩ Omega...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC physics / ssc-physics-chapter-11-model-test-03",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \" নিচের উদ্দীপকটি লক্ষ কর এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও : A R_1 B R_2 C R_3 ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC chemistry / ssc-chemistry-high-priority-set-04",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"▪ নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও: একটি পাত্রে 10g ম্যাগনেসি...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC chemistry / ssc-chemistry-high-priority-set-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"▪ নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও: ল্যাবরেটরিতে 10g চুনাপাথর...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC chemistry / chapter-05",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 200 (typical: 25)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "SSC chemistry / chapter-06",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 132 (typical: 25)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "SSC chemistry Chapter 10",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-10 sets: missing 1, 2, 3, 4, 5 (have: 6)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "SSC biology / ssc-biology-board-standard-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: শিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্ত...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC biology / ssc-biology-board-standard-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: শফিক সাহেব হঠাৎ একদিন বুকে প্রচণ্ড ব্যথা অনুভব করলেন। ডাক্তার তাকে পরীক...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC biology / ssc-biology-board-standard-model-test-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: বিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC biology / ssc-biology-board-standard-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: শিক্ষক বললেন, আমাদের দেহে দুই ধরনের কোষ বিভাজন ঘটে। 'P' বিভাজনের মাধ্যম...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC biology / ssc-biology-board-standard-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: গ্রীষ্মের দুপুরে একটি বিশাল বটগাছের নিচে দাঁড়ালে বেশ শীতল অনুভব হয়। শিক...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC biology / ssc-biology-board-standard-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: রহিম সাহেবের বয়স ৫০ বছর। ইদানীং তিনি খুব দুর্বল বোধ করছেন, ঘন ঘন প্রস্র...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "SSC higher-math Chapter 04",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-04 sets: missing 3 (have: 1, 2, 4, 5)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "SSC general-math / chapter-01",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 76 (typical: 30)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "SSC general-math / chapter-13",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 1 (typical: 30)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "SSC general-math Chapter 11",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-11 sets: missing 1, 2, 3, 4, 5 (have: 6)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "SSC general-math Chapter 12",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-12 sets: missing 1, 2, 3, 4, 5 (have: 6)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "SSC general-math Chapter 16",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-16 sets: missing 1, 2, 3, 4, 5 (have: 6)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "SSC general-math Chapter 17",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-17 sets: missing 1, 2, 3, 4, 5 (have: 6)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "SSC general-math Chapter 01",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-01 sets: missing 1, 2, 3, 4, 5 (have: 6)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "SSC general-math Chapter 02",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-02 sets: missing 1, 2, 3, 4, 5 (have: 6)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "SSC general-math Chapter 09",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-09 sets: missing 1, 2, 3, 4, 5 (have: 6)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "HSC Physics 1st Paper / chapter-04",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 126 (typical: 25)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "HSC Physics 1st Paper / chapter-05",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 74 (typical: 25)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "HSC Physics 1st Paper / chapter-06",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 65 (typical: 25)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "HSC Physics 1st Paper / chapter-08",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 100 (typical: 25)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "HSC Physics 1st Paper / chapter-10",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 99 (typical: 25)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "HSC Physics 1st Paper Chapter 01",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-01 sets: missing 4, 5 (have: 1, 2, 3, 6, 7, 8, 9, 10)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "HSC Physics 2nd Paper Chapter 01",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Serial gaps in chapter-01 sets: missing 2 (have: 1, 3, 4, 5, 6, 7, 8, 9)",
+    "fix": "Import missing sets or renumber"
+  },
+  {
+    "paper": "HSC Chemistry 1st Paper / hsc-chemistry-1st-paper-chapter-03-high-priority-set-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: একটি হাইড্রোজেন পরমাণুর ইলেকট্রনটি উত্তেজিত হয়ে ৪র্থ শক্তিস্তরে (n=4) অ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC Chemistry 1st Paper / hsc-chemistry-1st-paper-chapter-04-high-priority-set-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"Group-2 (মৃৎক্ষার ধাতু) এর তিনটি কার্বনেট লবণ বিবেচনা করা হলো- MgCO3, CaCO3 এবং ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC Chemistry 1st Paper / hsc-chemistry-1st-paper-chapter-04-high-priority-set-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপক: পাত্র A-তে 50 mL 0.1 M HCl দ্রবণ আছে এবং পাত্র B-তে 50 mL 0.1 M Ca(OH)2...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC Chemistry 1st Paper / hsc-chemistry-1st-paper-chapter-04-high-priority-set-01",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও: 25°C তাপমাত্রায় একটি পাত্রে 250 m...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC Chemistry 1st Paper / hsc-chemistry-1st-paper-chapter-04-high-priority-set-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"উদ্দীপকটি লক্ষ্য করো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও: পাত্র X-এ 100 mL 0.1 M CH3...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC Chemistry 2nd Paper / chapter-05",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 100 (typical: 25)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "HSC Biology 2nd Paper / chapter-02",
+    "status": "Problem Found",
+    "type": "Other",
+    "details": "Unusual question count: 3 (typical: 25)",
+    "fix": "Verify set completeness"
+  },
+  {
+    "paper": "HSC Higher Math 1st Paper / hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"[উদ্দীপক ২] উদ্দীপক: $\\vec{A} = 2\\hat{i} + 3\\hat{j} - \\hat{k}$ এবং $\\vec{B} = m\\...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC Higher Math 1st Paper / hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"[উদ্দীপক ২] উদ্দীপক: একটি সমান্তর ধারার নির্ণায়ক $D = \\begin{vmatrix} x & y & z ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC Higher Math 2nd Paper / hsc-higher-math-2nd-paper-tier-a-hot-model-test-02",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"[উদ্দীপক ২] উদ্দীপক: একটি প্রাস \\(u=40\\text{ m/s}\\) বেগে \\(45^\\circ\\) কোণে নিক্ষ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC Higher Math 2nd Paper / hsc-higher-math-2nd-paper-tier-a-hot-model-test-04",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"[উদ্দীপক ১] উদ্দীপক: 6 N ও 8 N মানের দুইটি বল পরস্পরের সাথে \\(90^\\circ\\) কোণে ক্...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC Higher Math 2nd Paper / hsc-higher-math-2nd-paper-tier-a-hot-model-test-05",
+    "status": "Problem Found",
+    "type": "Duplicate",
+    "details": "Same question text appears 2 times in one set: \"[উদ্দীপক ১] উদ্দীপক: একটি প্রাস \\(u=50\\text{ m/s}\\) বেগে \\(30^\\circ\\) কোণে নিক্ষ...\"",
+    "fix": "Remove duplicate questions"
+  },
+  {
+    "paper": "HSC ICT",
+    "status": "Problem Found",
+    "type": "Missing",
+    "details": "Main JSON file not found: E:\\C-UserData\\Documents\\dev-quiz-dashboard\\public\\quiz-data\\hsc\\ict.json",
+    "fix": "Restore subject JSON"
+  }
+]

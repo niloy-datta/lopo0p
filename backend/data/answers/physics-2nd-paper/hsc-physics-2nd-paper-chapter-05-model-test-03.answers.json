@@ -1,0 +1,86 @@
+{
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q01": {
+    "correctOption": "১ অপেক্ষা বড় বা ১ এর সমান হয়",
+    "explanation": "পরম প্রতিসরাঙ্ক μ = c/v, যেহেতু v ≤ c, তাই μ ≥ 1।"
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q02": {
+    "correctOption": "২টি",
+    "explanation": "সেন্টার ট্যাপড ফুল-ওয়েভ রেকটিফায়ারে ২টি ডায়োড প্রয়োজন। ব্রিজ রেকটিফায়ারে ৪টি ডায়োড লাগে।"
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q03": {
+    "correctOption": "\\frac{14}{3} m^3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q04": {
+    "correctOption": "\\frac{\\lambda}{4}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q05": {
+    "correctOption": "\\frac{1}{8}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q06": {
+    "correctOption": "[লেখচিত্র ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q07": {
+    "correctOption": "\\sqrt{3}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q08": {
+    "correctOption": "5",
+    "explanation": "উত্তর: B) 5"
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q09": {
+    "correctOption": "আইনস্টাইন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q10": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q11": {
+    "correctOption": "ক্যালসাইট",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q12": {
+    "correctOption": "মাইকেলসন-মর্লি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q13": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q14": {
+    "correctOption": "-১.৬ × ১০⁻¹৯ C",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q15": {
+    "correctOption": "ব্যতিচার",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q16": {
+    "correctOption": "চারগুণ হবে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q17": {
+    "correctOption": "চারগুণ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q18": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q19": {
+    "correctOption": "ইলেকট্রন নির্গত হবে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q20": {
+    "correctOption": "5 \\times 10^{14} Hz",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-03-q21": {
+    "correctOption": "1 \\mu F",
+    "explanation": ""
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "ssc-general-math-chapter-12-model-test-03-q01": {
+    "answer": "25",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 25 + n(B) − 10 = 75।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q02": {
+    "answer": "75",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 55 + n(B) − 20 = 135।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q03": {
+    "answer": "55",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 40 + n(B) − 15 = 105।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q04": {
+    "answer": "22",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 22 + n(B) − 8 = 64।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q05": {
+    "answer": "47",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 35 + n(B) − 12 = 93।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q06": {
+    "answer": "68",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 50 + n(B) − 18 = 122।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q07": {
+    "answer": "120",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 70 + n(B) − 25 = 165।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q08": {
+    "answer": "{0,1}",
+    "answerIndex": 0,
+    "explanation": "সেট = {1,2,3,4}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q09": {
+    "answer": "{1,2,3}",
+    "answerIndex": 0,
+    "explanation": "সেট = {2,3,4,5}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q10": {
+    "answer": "{1,2,3}",
+    "answerIndex": 0,
+    "explanation": "সেট = {9,10,11}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q11": {
+    "answer": "{1,2,3}",
+    "answerIndex": 0,
+    "explanation": "সেট = {2,4,6,8}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q12": {
+    "answer": "{0,1}",
+    "answerIndex": 0,
+    "explanation": "সেট = {1,3,5}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q13": {
+    "answer": "{1,2,3}",
+    "answerIndex": 0,
+    "explanation": "সেট = {−1,0,1,2}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q14": {
+    "answer": "{1,2,3}",
+    "answerIndex": 0,
+    "explanation": "সেট = {5,10,15,20,25}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q15": {
+    "answer": "{0,1}",
+    "answerIndex": 0,
+    "explanation": "সেট = {4,8,12,16}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q16": {
+    "answer": "φ",
+    "answerIndex": 0,
+    "explanation": "সেট = {4,5,6,7}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q17": {
+    "answer": "{1,2,3}",
+    "answerIndex": 0,
+    "explanation": "সেট = {1,2,3}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q18": {
+    "answer": "{1,2,3}",
+    "answerIndex": 0,
+    "explanation": "সেট = {1,2,3}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q19": {
+    "answer": "{0,1}",
+    "answerIndex": 0,
+    "explanation": "সেট = {10,11,12}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q20": {
+    "answer": "5",
+    "answerIndex": 0,
+    "explanation": "2টি পদ → 2^n = 4।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q21": {
+    "answer": "0",
+    "answerIndex": 0,
+    "explanation": "প্রকৃত উপসেট = 4 − 1 = 3।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q22": {
+    "answer": "7",
+    "answerIndex": 0,
+    "explanation": "3টি পদ → 2^n = 8।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q23": {
+    "answer": "0",
+    "answerIndex": 0,
+    "explanation": "প্রকৃত উপসেট = 8 − 1 = 7।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q24": {
+    "answer": "9",
+    "answerIndex": 0,
+    "explanation": "3টি পদ → 2^n = 8।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q25": {
+    "answer": "8",
+    "answerIndex": 0,
+    "explanation": "প্রকৃত উপসেট = 8 − 1 = 7।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q26": {
+    "answer": "15",
+    "answerIndex": 0,
+    "explanation": "4টি পদ → 2^n = 16।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q27": {
+    "answer": "16",
+    "answerIndex": 0,
+    "explanation": "প্রকৃত উপসেট = 16 − 1 = 15।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q28": {
+    "answer": "15",
+    "answerIndex": 0,
+    "explanation": "4টি পদ → 2^n = 16।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q29": {
+    "answer": "17",
+    "answerIndex": 0,
+    "explanation": "প্রকৃত উপসেট = 16 − 1 = 15।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-03-q30": {
+    "answer": "3",
+    "answerIndex": 0,
+    "explanation": "2টি পদ → 2^n = 4।",
+    "topic": "সেট",
+    "difficulty": 1200
+  }
+}

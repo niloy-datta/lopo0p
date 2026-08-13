@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "উদ্দীপক: শিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্তি উৎপাদন করে এবং অপরটি (B) উদ্ভিদ কোষে খাদ্য তৈরিতে সাহায্য করে। জীবজগতে 'B' অঙ্গাণুটির (ক্লোরোপ্লাস্ট) ভূমিকা বিশ্লেষণ করলে দেখা যায়— i. এটি সৌরশক্তিকে রাসায়নিক শক্তিতে রূপান্তর করে ii. এটি প্রাণী কোষে শর্করা জাতীয় খাদ্য সঞ্চয় করে iii. এটি পরিবেশের O2 ও CO2 এর ভারসাম্য রক্ষায় সাহায্য করে নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও iii",
+      "i ও ii",
+      "i, ii ও iii",
+      "ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-biology-chapter-13-model-test-05-q01.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "নবায়নযোগ্য সম্পদ কী?",
+    "options": [
+      "ডিজেল",
+      "পেট্রোল",
+      "কয়লা",
+      "সৌর শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "জীববৈচিত্র্য রক্ষায় কী?",
+    "options": [
+      "বন উজাড়",
+      "দূষণ",
+      "বন সংরক্ষণ",
+      "প্লাস্টিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "পারিস্থিতিক ভারসাম্য কী?",
+    "options": [
+      "শুধু জীব",
+      "জীব-অজীব সমতা",
+      "শুধু অজীব",
+      "শুধু মানুষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "গ্রিনহাউস গ্যাস কী?",
+    "options": [
+      "N₂",
+      "O₂",
+      "CO₂",
+      "He"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "খাদ্য শৃঙ্খলে শক্তি কী?",
+    "options": [
+      "এক দিকে প্রবাহ",
+      "বিপরীত",
+      "চক্রাকারে",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "বিলুপ্ত প্রজাতি কী?",
+    "options": [
+      "মানুষ",
+      "ছাগল",
+      "ডোডো",
+      "গরু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "খাদ্য শৃঙ্খলে প্রথম স্তরে কোন জীব থাকে?",
+    "options": [
+      "উৎপাদক (স্বয়ংখাদী)",
+      "প্রাথমিক ভোক্তা",
+      "পরভোক্তা",
+      "অপব্যাখ্যাকারী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "বাস্তুতন্ত্রে কী?",
+    "options": [
+      "শুধু মানুষ",
+      "শুধু জীব",
+      "জীব ও অজীব",
+      "শুধু অজীব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "জলবায়ু পরিবর্তন কী?",
+    "options": [
+      "N₂ শূন্য",
+      "O₂ শূন্য",
+      "শীত বাড়ে",
+      "গ্লোবাল ওয়ার্মিং"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "বন উজাড়ের ফল কী?",
+    "options": [
+      "বৃদ্ধি",
+      "বাস্তুতন্ত্র ধ্বংস",
+      "O₂ বাড়ে",
+      "বৃষ্টি বাড়ে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "বায়ু দূষণের কারণ কী?",
+    "options": [
+      "অক্সিজেন",
+      "সূর্যালোক",
+      "বৃষ্টি",
+      "যানবাহন ধোঁয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "মানব কার্যকলাপে কী?",
+    "options": [
+      "বৃষ্টি বাড়ে",
+      "বন বাড়ে",
+      "O₂ বাড়ে",
+      "পরিবেশ দূষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "পারিস্থিতিক তন্ত্রে উৎপাদক কী?",
+    "options": [
+      "উদ্ভিদ",
+      "ছত্রাক",
+      "মানুষ",
+      "প্রাণী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "প্লাস্টিক দূষণ কোথায় বিশেষভাবে ক্ষতিকর?",
+    "options": [
+      "সমুদ্র ও মাটি",
+      "শুধু মেঘ",
+      "শুধু বাতাস",
+      "শুধু মহাকাশ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "জীবের আবাসস্থল কী?",
+    "options": [
+      "ক্রোমোজোম",
+      "হ্যাবিট্যাট",
+      "জিন",
+      "ট্যাক্সন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "একটি পুকুরের বাস্তুতন্ত্রে ব্যাঙ সাধারণত কোন স্তরের খাদক?",
+    "options": [
+      "উৎপাদক",
+      "প্রথম স্তরের খাদক",
+      "দ্বিতীয় স্তরের খাদক",
+      "সর্বোচ্চ স্তরের খাদক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "জীববৈচিত্র্য কী?",
+    "options": [
+      "জীবের বৈচিত্র্য",
+      "শুধু উদ্ভিদ",
+      "শুধু প্রাণী",
+      "শুধু মানুষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "অম্লবৃষ্টির কারণ কী?",
+    "options": [
+      "SO₂ ও NOₓ",
+      "O₂",
+      "H₂",
+      "He"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "জল দূষণের কারণ কী?",
+    "options": [
+      "শিল্প বর্জ্য",
+      "বাতাস",
+      "সূর্য",
+      "বৃষ্টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "পরভোক্তা কী?",
+    "options": [
+      "শুধু উৎপাদক",
+      "শুধু মৃত",
+      "শুধু পানি",
+      "উভয় উৎপাদক ও ভোক্তা খায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "খাদ্য শৃঙ্খল শুরু কোথায়?",
+    "options": [
+      "ভোক্তা",
+      "অপব্যাখ্যাকারী",
+      "পরভোক্তা",
+      "উৎপাদক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "ডিকম্পোজারের কাজ কী?",
+    "options": [
+      "মৃত জৈব পদার্থ পচানো",
+      "শ্বাস",
+      "রেচন",
+      "সালোকসংশ্লেষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "বায়ুমণ্ডলে সবচেয়ে বেশি কী?",
+    "options": [
+      "O₂",
+      "CO₂",
+      "Ar",
+      "N₂"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-13-model-test-05-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-13-model-test-05",
+    "text": "৩R নীতি কী?",
+    "options": [
+      "Rain River Rock",
+      "Reduce Reuse Recycle",
+      "Run Rest Read",
+      "Red Rice Rose"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

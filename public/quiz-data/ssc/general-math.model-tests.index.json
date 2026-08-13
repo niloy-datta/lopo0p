@@ -1,0 +1,1003 @@
+{
+  "level": "ssc",
+  "subject": "general-math",
+  "modelTests": {
+    "ssc-general-math-board-standard-model-test-06": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    "ssc-general-math-board-standard-model-test-07": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    "ssc-general-math-board-standard-model-test-08": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    "ssc-general-math-board-standard-model-test-09": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    "ssc-general-math-board-standard-model-test-10": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    "ssc-general-math-model-test-11": {
+      "questionCount": 22,
+      "scope": "paper",
+      "displayTitle": "Model Test 11",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    "ssc-general-math-model-test-12": {
+      "questionCount": 24,
+      "scope": "paper",
+      "displayTitle": "Model Test 12",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    "ssc-general-math-model-test-14": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 14",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    "ssc-general-math-model-test-15": {
+      "questionCount": 22,
+      "scope": "paper",
+      "displayTitle": "Model Test 15",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    "ssc-general-math-model-test-16": {
+      "questionCount": 23,
+      "scope": "paper",
+      "displayTitle": "Model Test 16",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    "ssc-general-math-model-test-17": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 17",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    "ssc-general-math-model-test-18": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 18",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    "ssc-general-math-model-test-19": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 19",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    "ssc-general-math-model-test-20": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 20",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    "ssc-general-math-chapter-01-model-test-06": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০৬",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০৬"
+    },
+    "ssc-general-math-chapter-02-model-test-06": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০৬",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "বীজগণিত"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০৬"
+    },
+    "ssc-general-math-chapter-09-model-test-06": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরিমাপ · টেস্ট ০৬",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরিমাপ"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ০৯ · পরিমাপ · টেস্ট ০৬"
+    },
+    "ssc-general-math-chapter-11-model-test-06": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · অনুপাত ও সমানুপাত · টেস্ট ০৬",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "অনুপাত ও সমানুপাত"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১১ · অনুপাত ও সমানুপাত · টেস্ট ০৬"
+    },
+    "ssc-general-math-chapter-12-model-test-06": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · সেট · টেস্ট ০৬",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "সেট"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১২ · সেট · টেস্ট ০৬"
+    },
+    "ssc-general-math-paper-set-15": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC General Math Paper-wise Model Test Set 15",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-general-math-chapter-16-model-test-06": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১৬ · বীজগাণিতিক অভিব্যক্তি · টেস্ট ০৬",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "16",
+          "chapterName": "বীজগাণিতিক অভিব্যক্তি"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১৬ · বীজগাণিতিক অভিব্যক্তি · টেস্ট ০৬"
+    },
+    "chapter-01-split-01": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা · ভাগ ০১",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা · ভাগ ০১"
+    },
+    "chapter-01-split-02": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা · ভাগ ০২",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা · ভাগ ০২"
+    },
+    "ssc-general-math-chapter-01-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০১"
+    },
+    "ssc-general-math-chapter-01-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০২"
+    },
+    "ssc-general-math-chapter-01-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০৩"
+    },
+    "ssc-general-math-chapter-01-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০৪"
+    },
+    "ssc-general-math-chapter-01-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা · টেস্ট ০৫"
+    },
+    "ssc-general-math-chapter-12-model-test-01": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · সেট · টেস্ট ০১",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "সেট"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১২ · সেট · টেস্ট ০১"
+    },
+    "ssc-general-math-chapter-12-model-test-02": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · সেট · টেস্ট ০২",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "সেট"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১২ · সেট · টেস্ট ০২"
+    },
+    "ssc-general-math-chapter-12-model-test-03": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · সেট · টেস্ট ০৩",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "সেট"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১২ · সেট · টেস্ট ০৩"
+    },
+    "ssc-general-math-chapter-12-model-test-04": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · সেট · টেস্ট ০৪",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "সেট"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১২ · সেট · টেস্ট ০৪"
+    },
+    "ssc-general-math-chapter-12-model-test-05": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · সেট · টেস্ট ০৫",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "সেট"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১২ · সেট · টেস্ট ০৫"
+    },
+    "ssc-general-math-chapter-12-model-test-07": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · সেট · টেস্ট ০৭",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "সেট"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১২ · সেট · টেস্ট ০৭"
+    },
+    "ssc-general-math-chapter-12-model-test-08": {
+      "questionCount": 30,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · সেট · টেস্ট ০৮",
+      "durationMinutes": 30,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "সেট"
+        }
+      ],
+      "needsRegeneration": false,
+      "name": "অধ্যায় ১২ · সেট · টেস্ট ০৮"
+    },
+    "ssc-general-math-chapter-02-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০১"
+    },
+    "ssc-general-math-chapter-02-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০২"
+    },
+    "ssc-general-math-chapter-02-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০৩"
+    },
+    "ssc-general-math-chapter-02-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০৪"
+    },
+    "ssc-general-math-chapter-02-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০২ · সেট ও ফাংশন · টেস্ট ০৫"
+    },
+    "ssc-general-math-chapter-03-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বীজগাণিতিক রাশি"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০১"
+    },
+    "ssc-general-math-chapter-03-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বীজগাণিতিক রাশি"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০২"
+    },
+    "ssc-general-math-chapter-03-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বীজগাণিতিক রাশি"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০৩"
+    },
+    "ssc-general-math-chapter-03-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বীজগাণিতিক রাশি"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০৪"
+    },
+    "ssc-general-math-chapter-03-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বীজগাণিতিক রাশি"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · বীজগাণিতিক রাশি · টেস্ট ০৫"
+    },
+    "ssc-general-math-chapter-04-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০১"
+    },
+    "ssc-general-math-chapter-04-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০২"
+    },
+    "ssc-general-math-chapter-04-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০৩"
+    },
+    "ssc-general-math-chapter-04-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০৪"
+    },
+    "ssc-general-math-chapter-04-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · সূচক ও লগারিদম · টেস্ট ০৫"
+    }
+  }
+}

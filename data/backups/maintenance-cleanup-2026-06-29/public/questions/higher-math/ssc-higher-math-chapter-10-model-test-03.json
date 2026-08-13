@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(x+2)^6 বিস্তৃতিতে x⁴-এর সহগ কত?",
+    "options": [
+      "60",
+      "120",
+      "30",
+      "80"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(2x+1)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+    "options": [
+      "80",
+      "40",
+      "160",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(3x-2)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+    "options": [
+      "216",
+      "-216",
+      "108",
+      "54"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(1-2x)^5 বিস্তৃতিতে x²-এর সহগ কত?",
+    "options": [
+      "40",
+      "-40",
+      "20",
+      "-80"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(1-2x)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+    "options": [
+      "-80",
+      "80",
+      "-40",
+      "40"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(2x+3)^4 বিস্তৃতিতে x-এর সহগ কত?",
+    "options": [
+      "216",
+      "108",
+      "432",
+      "72"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(2x+3)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+    "options": [
+      "216",
+      "144",
+      "432",
+      "324"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(3x+1)^5 বিস্তৃতিতে x⁵-এর সহগ কত?",
+    "options": [
+      "243",
+      "81",
+      "729",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(3x+1)^5 বিস্তৃতিতে x⁴-এর সহগ কত?",
+    "options": [
+      "405",
+      "243",
+      "135",
+      "81"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(x-3)^4 বিস্তৃতিতে x³-এর সহগ কত?",
+    "options": [
+      "-12",
+      "12",
+      "-27",
+      "81"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(x-3)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+    "options": [
+      "54",
+      "-54",
+      "36",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(x-3)^4 বিস্তৃতিতে ধ্রুবক পদ কত?",
+    "options": [
+      "81",
+      "-81",
+      "27",
+      "-27"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(1+x)^10 বিস্তৃতিতে x⁵-এর সহগ কত?",
+    "options": [
+      "252",
+      "210",
+      "120",
+      "45"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(1+x)^10 বিস্তৃতিতে x³-এর সহগ কত?",
+    "options": [
+      "120",
+      "210",
+      "45",
+      "252"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(1+x)^10 বিস্তৃতিতে x⁷-এর সহগ কত?",
+    "options": [
+      "120",
+      "210",
+      "45",
+      "252"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(1+x)^10 বিস্তৃতিতে x⁸-এর সহগ কত?",
+    "options": [
+      "45",
+      "120",
+      "10",
+      "210"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "দ্বিপদী বিস্তৃতিতে ⁿCᵣ = ⁿC_(n-r) — এই সম্পর্কটি কী বোঝায়?",
+    "options": [
+      "সমমিত সহগ",
+      "ঘাত হ্রাস",
+      "ধ্রুবক পদ",
+      "মধ্যপদ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(a+b)^6 বিস্তৃতির ৪র্থ পদ কোনটি?",
+    "options": [
+      "20a³b³",
+      "15a⁴b²",
+      "6a⁵b",
+      "15a²b⁴"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(a+b)^5 বিস্তৃতির ৩য় পদ কোনটি?",
+    "options": [
+      "10a³b²",
+      "5a⁴b",
+      "10a²b³",
+      "a⁵"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(a-b)^5 বিস্তৃতির ২য় পদ কোনটি?",
+    "options": [
+      "-5a⁴b",
+      "5a⁴b",
+      "-10a³b²",
+      "10a³b²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(a-b)^4 বিস্তৃতির ৩য় পদ কোনটি?",
+    "options": [
+      "6a²b²",
+      "-6a²b²",
+      "4a³b",
+      "-4ab³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(a+b)^7 বিস্তৃতির ৪র্থ পদের সহগ কত?",
+    "options": [
+      "35",
+      "21",
+      "7",
+      "70"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(a+b)^8 বিস্তৃতির মধ্যপদের সহগ কত?",
+    "options": [
+      "70",
+      "56",
+      "28",
+      "35"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(a+b)^7 বিস্তৃতির দুই মধ্যপদের সহগ কত?",
+    "options": [
+      "35 ও 35",
+      "21 ও 35",
+      "7 ও 21",
+      "35 ও 21"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-03-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-03",
+    "text": "(x+1)^6 বিস্তৃতিতে x³ পদের সহগ কত?",
+    "options": [
+      "20",
+      "15",
+      "6",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  }
+]

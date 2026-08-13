@@ -1,0 +1,2279 @@
+{
+  "sets": [
+    {
+      "setName": "অধ্যায় 10 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 01",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(a+b)^n বিস্তৃতিতে মোট পদসংখ্যা কত?",
+          "options": [
+            "n+1",
+            "n",
+            "n-1",
+            "2n"
+          ],
+          "answer": "n+1",
+          "answerIndex": 0,
+          "explanation": "দ্বিপদী বিস্তৃতিতে ঘাত n হলে মোট পদসংখ্যা হয় n+1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(a+b)^4 বিস্তৃতিতে সহগগুলোর ধারা কোনটি?",
+          "options": [
+            "1, 4, 6, 4, 1",
+            "1, 3, 3, 1",
+            "1, 5, 10, 10, 5, 1",
+            "1, 2, 1"
+          ],
+          "answer": "1, 4, 6, 4, 1",
+          "answerIndex": 0,
+          "explanation": "Pascal triangle অনুযায়ী (a+b)^4 এর সহগগুলো 1,4,6,4,1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(a+b)^5 বিস্তৃতিতে সহগগুলোর ধারা কোনটি?",
+          "options": [
+            "1, 5, 10, 10, 5, 1",
+            "1, 4, 6, 4, 1",
+            "1, 6, 15, 20, 15, 6, 1",
+            "1, 3, 3, 1"
+          ],
+          "answer": "1, 5, 10, 10, 5, 1",
+          "answerIndex": 0,
+          "explanation": "(a+b)^5 বিস্তৃতির সহগগুলো Pascal triangle-এর ৫ম ঘাতের সারি: 1,5,10,10,5,1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "⁵C₂ এর মান কত?",
+          "options": [
+            "10",
+            "5",
+            "20",
+            "15"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "⁵C₂ = 5!/(2!3!) = 10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "⁶C₃ এর মান কত?",
+          "options": [
+            "20",
+            "15",
+            "10",
+            "30"
+          ],
+          "answer": "20",
+          "answerIndex": 0,
+          "explanation": "⁶C₃ = 6!/(3!3!) = 20।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "⁷C₂ এর মান কত?",
+          "options": [
+            "21",
+            "35",
+            "14",
+            "28"
+          ],
+          "answer": "21",
+          "answerIndex": 0,
+          "explanation": "⁷C₂ = 7×6/2 = 21।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "⁸C₄ এর মান কত?",
+          "options": [
+            "70",
+            "56",
+            "28",
+            "35"
+          ],
+          "answer": "70",
+          "answerIndex": 0,
+          "explanation": "⁸C₄ = 8!/(4!4!) = 70।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "দ্বিপদী উপপাদ্যে (a+b)^n এর সাধারণ পদ কোনটি?",
+          "options": [
+            "T_(r+1)=ⁿCᵣ a^(n-r)b^r",
+            "T_r=ⁿCᵣ a^r b^r",
+            "T_(r+1)=ⁿCᵣ a^r b^(n-r)",
+            "T_r=ⁿCᵣ a^(n+r)b^r"
+          ],
+          "answer": "T_(r+1)=ⁿCᵣ a^(n-r)b^r",
+          "answerIndex": 0,
+          "explanation": "(a+b)^n বিস্তৃতির সাধারণ পদ হলো T_(r+1)=ⁿCᵣ a^(n-r)b^r।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(x+1)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "6",
+            "4",
+            "1",
+            "12"
+          ],
+          "answer": "6",
+          "answerIndex": 0,
+          "explanation": "(x+1)^4 = x^4+4x^3+6x^2+4x+1। তাই x²-এর সহগ 6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(1+x)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "10",
+            "5",
+            "20",
+            "15"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "(1+x)^5-এ x³-এর সহগ ⁵C₃ = 10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(1+x)^6 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "15",
+            "6",
+            "20",
+            "30"
+          ],
+          "answer": "15",
+          "answerIndex": 0,
+          "explanation": "(1+x)^6-এ x²-এর সহগ ⁶C₂ = 15।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(x+2)^4 বিস্তৃতিতে ধ্রুবক পদ কত?",
+          "options": [
+            "16",
+            "8",
+            "4",
+            "32"
+          ],
+          "answer": "16",
+          "answerIndex": 0,
+          "explanation": "ধ্রুবক পদ পেতে x-এর ঘাত 0 হবে। (x+2)^4-এ ধ্রুবক পদ 2^4 = 16।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(2+x)^4 বিস্তৃতিতে x-এর সহগ কত?",
+          "options": [
+            "32",
+            "16",
+            "8",
+            "24"
+          ],
+          "answer": "32",
+          "answerIndex": 0,
+          "explanation": "x-এর সহগ = ⁴C₁ × 2³ = 4×8 = 32।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(1+2x)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "24",
+            "12",
+            "16",
+            "32"
+          ],
+          "answer": "24",
+          "answerIndex": 0,
+          "explanation": "x²-এর সহগ = ⁴C₂ × 2² = 6×4 = 24।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(1-x)^4 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "-4",
+            "4",
+            "-6",
+            "6"
+          ],
+          "answer": "-4",
+          "answerIndex": 0,
+          "explanation": "(1-x)^4 = 1-4x+6x²-4x³+x⁴। তাই x³-এর সহগ -4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(1-x)^5 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "10",
+            "-10",
+            "5",
+            "-5"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "(1-x)^5-এ x² পদের সহগ ⁵C₂ = 10; কারণ x² পদের চিহ্ন ধনাত্মক।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(a+b)^6 বিস্তৃতিতে পদসংখ্যা কত?",
+          "options": [
+            "7",
+            "6",
+            "5",
+            "8"
+          ],
+          "answer": "7",
+          "answerIndex": 0,
+          "explanation": "ঘাত 6 হলে পদসংখ্যা 6+1 = 7।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(a+b)^8 বিস্তৃতির মধ্যপদ কোনটি?",
+          "options": [
+            "5ম পদ",
+            "4র্থ পদ",
+            "6ষ্ঠ পদ",
+            "4র্থ ও 5ম পদ"
+          ],
+          "answer": "5ম পদ",
+          "answerIndex": 0,
+          "explanation": "n জোড় হলে মধ্যপদ হয় (n/2+1)তম পদ। n=8 হলে মধ্যপদ 5ম পদ।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(a+b)^7 বিস্তৃতির মধ্যপদ কয়টি?",
+          "options": [
+            "2টি",
+            "1টি",
+            "3টি",
+            "7টি"
+          ],
+          "answer": "2টি",
+          "answerIndex": 0,
+          "explanation": "n বিজোড় হলে মধ্যপদ দুইটি হয়। n=7 হলে 4র্থ ও 5ম পদ মধ্যপদ।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(x+1)^3 বিস্তৃতি কোনটি?",
+          "options": [
+            "x³+3x²+3x+1",
+            "x³+x²+x+1",
+            "x³+2x²+2x+1",
+            "x³+3x+1"
+          ],
+          "answer": "x³+3x²+3x+1",
+          "answerIndex": 0,
+          "explanation": "(x+1)^3 = x³+3x²+3x+1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(x-1)^3 বিস্তৃতি কোনটি?",
+          "options": [
+            "x³-3x²+3x-1",
+            "x³+3x²+3x+1",
+            "x³-3x²-3x-1",
+            "x³+x²-x-1"
+          ],
+          "answer": "x³-3x²+3x-1",
+          "answerIndex": 0,
+          "explanation": "(x-1)^3 = x³-3x²+3x-1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(2x+1)^3 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "12",
+            "6",
+            "8",
+            "24"
+          ],
+          "answer": "12",
+          "answerIndex": 0,
+          "explanation": "(2x+1)^3-এ x² পদের সহগ = ³C₁(2x)²(1) = 3×4 = 12।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(3x+1)^3 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "27",
+            "9",
+            "3",
+            "81"
+          ],
+          "answer": "27",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ আসে (3x)^3 থেকে। তাই সহগ 27।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(1+3x)^3 বিস্তৃতিতে x-এর সহগ কত?",
+          "options": [
+            "9",
+            "3",
+            "27",
+            "6"
+          ],
+          "answer": "9",
+          "answerIndex": 0,
+          "explanation": "x-এর সহগ = ³C₁ × 3 = 9।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-01-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-01",
+          "text": "(1+x)^10 বিস্তৃতিতে x⁰ পদের সহগ কত?",
+          "options": [
+            "1",
+            "10",
+            "45",
+            "0"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "x⁰ বা ধ্রুবক পদের সহগ ¹⁰C₀ = 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 10 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 02",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "¹⁰C₀ এর মান কত?",
+          "options": [
+            "1",
+            "10",
+            "0",
+            "100"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "যেকোনো n-এর জন্য ⁿC₀ = 1। তাই ¹⁰C₀ = 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "¹⁰C₁ এর মান কত?",
+          "options": [
+            "10",
+            "1",
+            "45",
+            "100"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "যেকোনো n-এর জন্য ⁿC₁ = n। তাই ¹⁰C₁ = 10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "¹⁰C₂ এর মান কত?",
+          "options": [
+            "45",
+            "90",
+            "10",
+            "120"
+          ],
+          "answer": "45",
+          "answerIndex": 0,
+          "explanation": "¹⁰C₂ = 10×9/2 = 45।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "¹⁰C₃ এর মান কত?",
+          "options": [
+            "120",
+            "45",
+            "210",
+            "720"
+          ],
+          "answer": "120",
+          "answerIndex": 0,
+          "explanation": "¹⁰C₃ = 10×9×8/(3×2×1) = 120।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "¹⁰C₅ এর মান কত?",
+          "options": [
+            "252",
+            "210",
+            "120",
+            "45"
+          ],
+          "answer": "252",
+          "answerIndex": 0,
+          "explanation": "¹⁰C₅ = 252।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "⁹C₂ এর মান কত?",
+          "options": [
+            "36",
+            "72",
+            "18",
+            "45"
+          ],
+          "answer": "36",
+          "answerIndex": 0,
+          "explanation": "⁹C₂ = 9×8/2 = 36।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "⁹C₄ এর মান কত?",
+          "options": [
+            "126",
+            "84",
+            "36",
+            "252"
+          ],
+          "answer": "126",
+          "answerIndex": 0,
+          "explanation": "⁹C₄ = 126।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(1+x)^8 বিস্তৃতিতে মোট পদসংখ্যা কত?",
+          "options": [
+            "9",
+            "8",
+            "7",
+            "10"
+          ],
+          "answer": "9",
+          "answerIndex": 0,
+          "explanation": "ঘাত 8 হলে পদসংখ্যা 8+1=9।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(1+x)^9 বিস্তৃতিতে মোট পদসংখ্যা কত?",
+          "options": [
+            "10",
+            "9",
+            "8",
+            "11"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "ঘাত 9 হলে পদসংখ্যা 9+1=10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(a+b)^10 বিস্তৃতির মধ্যপদ কোনটি?",
+          "options": [
+            "6ষ্ঠ পদ",
+            "5ম পদ",
+            "5ম ও 6ষ্ঠ পদ",
+            "7ম পদ"
+          ],
+          "answer": "6ষ্ঠ পদ",
+          "answerIndex": 0,
+          "explanation": "n=10 জোড়, তাই মধ্যপদ = n/2+1 = 6ষ্ঠ পদ।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(a+b)^9 বিস্তৃতির মধ্যপদ কোন দুটি?",
+          "options": [
+            "5ম ও 6ষ্ঠ পদ",
+            "4র্থ ও 5ম পদ",
+            "6ষ্ঠ ও 7ম পদ",
+            "9ম ও 10ম পদ"
+          ],
+          "answer": "5ম ও 6ষ্ঠ পদ",
+          "answerIndex": 0,
+          "explanation": "n=9 বিজোড় হলে মধ্যপদ দুটি হয় (n+1)/2 তম ও (n+3)/2 তম, অর্থাৎ 5ম ও 6ষ্ঠ পদ।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(1+x)^7 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "35",
+            "21",
+            "70",
+            "7"
+          ],
+          "answer": "35",
+          "answerIndex": 0,
+          "explanation": "(1+x)^7-এ x⁴-এর সহগ ⁷C₄ = 35।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(1+x)^8 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "56",
+            "28",
+            "70",
+            "35"
+          ],
+          "answer": "56",
+          "answerIndex": 0,
+          "explanation": "(1+x)^8-এ x³-এর সহগ ⁸C₃ = 56।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(1+x)^8 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "70",
+            "56",
+            "28",
+            "35"
+          ],
+          "answer": "70",
+          "answerIndex": 0,
+          "explanation": "(1+x)^8-এ x⁴-এর সহগ ⁸C₄ = 70।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(1+x)^9 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "36",
+            "45",
+            "72",
+            "9"
+          ],
+          "answer": "36",
+          "answerIndex": 0,
+          "explanation": "(1+x)^9-এ x²-এর সহগ ⁹C₂ = 36।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(2+x)^5 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "80",
+            "40",
+            "20",
+            "160"
+          ],
+          "answer": "80",
+          "answerIndex": 0,
+          "explanation": "x²-এর সহগ = ⁵C₂ × 2³ = 10×8 = 80।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(3+x)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "54",
+            "36",
+            "27",
+            "18"
+          ],
+          "answer": "54",
+          "answerIndex": 0,
+          "explanation": "x²-এর সহগ = ⁴C₂ × 3² = 6×9 = 54।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(1+2x)^5 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "40",
+            "20",
+            "80",
+            "10"
+          ],
+          "answer": "40",
+          "answerIndex": 0,
+          "explanation": "x²-এর সহগ = ⁵C₂ × 2² = 10×4 = 40।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(1+2x)^4 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "32",
+            "16",
+            "24",
+            "8"
+          ],
+          "answer": "32",
+          "answerIndex": 0,
+          "explanation": "x³-এর সহগ = ⁴C₃ × 2³ = 4×8 = 32।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(2-3x)^3 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "54",
+            "-54",
+            "27",
+            "-27"
+          ],
+          "answer": "54",
+          "answerIndex": 0,
+          "explanation": "x²-এর সহগ = ³C₂ × 2 × (3²) = 3×2×9 = 54; x² পদের চিহ্ন ধনাত্মক।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(2-3x)^3 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "-27",
+            "27",
+            "-54",
+            "54"
+          ],
+          "answer": "-27",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ আসে (-3x)^3 থেকে। তাই সহগ -27।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(x+3)^4 বিস্তৃতিতে ধ্রুবক পদ কত?",
+          "options": [
+            "81",
+            "27",
+            "9",
+            "3"
+          ],
+          "answer": "81",
+          "answerIndex": 0,
+          "explanation": "ধ্রুবক পদ = 3^4 = 81।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(2x+3)^4 বিস্তৃতিতে ধ্রুবক পদ কত?",
+          "options": [
+            "81",
+            "16",
+            "24",
+            "108"
+          ],
+          "answer": "81",
+          "answerIndex": 0,
+          "explanation": "ধ্রুবক পদ পেতে x-এর ঘাত 0। তাই ধ্রুবক পদ = 3^4 = 81।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(3x+2)^3 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "27",
+            "18",
+            "9",
+            "54"
+          ],
+          "answer": "27",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ আসে (3x)^3 থেকে। তাই সহগ 27।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-02-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-02",
+          "text": "(2x-1)^4 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "16",
+            "-16",
+            "8",
+            "4"
+          ],
+          "answer": "16",
+          "answerIndex": 0,
+          "explanation": "x⁴ পদের সহগ আসে (2x)^4 থেকে। তাই সহগ 16।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 10 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 03",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(x+2)^6 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "60",
+            "120",
+            "30",
+            "80"
+          ],
+          "answer": "60",
+          "answerIndex": 0,
+          "explanation": "x⁴ পেতে r=2। সহগ = ⁶C₂ × 2² = 15×4 = 60।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(2x+1)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "80",
+            "40",
+            "160",
+            "20"
+          ],
+          "answer": "80",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ = ⁵C₃ × 2³ = 10×8 = 80।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(3x-2)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "216",
+            "-216",
+            "108",
+            "54"
+          ],
+          "answer": "216",
+          "answerIndex": 0,
+          "explanation": "x² পেতে r=2। সহগ = ⁴C₂ × 3² × (-2)² = 6×9×4 = 216।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(1-2x)^5 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "40",
+            "-40",
+            "20",
+            "-80"
+          ],
+          "answer": "40",
+          "answerIndex": 0,
+          "explanation": "x²-এর সহগ = ⁵C₂ × (-2)² = 10×4 = 40।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(1-2x)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "-80",
+            "80",
+            "-40",
+            "40"
+          ],
+          "answer": "-80",
+          "answerIndex": 0,
+          "explanation": "x³-এর সহগ = ⁵C₃ × (-2)³ = 10×(-8) = -80।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(2x+3)^4 বিস্তৃতিতে x-এর সহগ কত?",
+          "options": [
+            "216",
+            "108",
+            "432",
+            "72"
+          ],
+          "answer": "216",
+          "answerIndex": 0,
+          "explanation": "x পদের সহগ = ⁴C₁ × (2x) × 3³ = 4×2×27 = 216।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(2x+3)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "216",
+            "144",
+            "432",
+            "324"
+          ],
+          "answer": "216",
+          "answerIndex": 0,
+          "explanation": "x² পদের সহগ = ⁴C₂ × (2²) × 3² = 6×4×9 = 216।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(3x+1)^5 বিস্তৃতিতে x⁵-এর সহগ কত?",
+          "options": [
+            "243",
+            "81",
+            "729",
+            "15"
+          ],
+          "answer": "243",
+          "answerIndex": 0,
+          "explanation": "x⁵ পদের সহগ আসে (3x)^5 থেকে। তাই সহগ 3^5 = 243।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(3x+1)^5 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "405",
+            "243",
+            "135",
+            "81"
+          ],
+          "answer": "405",
+          "answerIndex": 0,
+          "explanation": "x⁴ পদের সহগ = ⁵C₁ × 3⁴ = 5×81 = 405।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(x-3)^4 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "-12",
+            "12",
+            "-27",
+            "81"
+          ],
+          "answer": "-12",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ = ⁴C₁ × (-3) = -12।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(x-3)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "54",
+            "-54",
+            "36",
+            "18"
+          ],
+          "answer": "54",
+          "answerIndex": 0,
+          "explanation": "x² পদের সহগ = ⁴C₂ × (-3)² = 6×9 = 54।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(x-3)^4 বিস্তৃতিতে ধ্রুবক পদ কত?",
+          "options": [
+            "81",
+            "-81",
+            "27",
+            "-27"
+          ],
+          "answer": "81",
+          "answerIndex": 0,
+          "explanation": "ধ্রুবক পদ = (-3)^4 = 81।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(1+x)^10 বিস্তৃতিতে x⁵-এর সহগ কত?",
+          "options": [
+            "252",
+            "210",
+            "120",
+            "45"
+          ],
+          "answer": "252",
+          "answerIndex": 0,
+          "explanation": "x⁵-এর সহগ = ¹⁰C₅ = 252।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(1+x)^10 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "120",
+            "210",
+            "45",
+            "252"
+          ],
+          "answer": "120",
+          "answerIndex": 0,
+          "explanation": "x³-এর সহগ = ¹⁰C₃ = 120।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(1+x)^10 বিস্তৃতিতে x⁷-এর সহগ কত?",
+          "options": [
+            "120",
+            "210",
+            "45",
+            "252"
+          ],
+          "answer": "120",
+          "answerIndex": 0,
+          "explanation": "x⁷-এর সহগ = ¹⁰C₇ = ¹⁰C₃ = 120।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(1+x)^10 বিস্তৃতিতে x⁸-এর সহগ কত?",
+          "options": [
+            "45",
+            "120",
+            "10",
+            "210"
+          ],
+          "answer": "45",
+          "answerIndex": 0,
+          "explanation": "x⁸-এর সহগ = ¹⁰C₈ = ¹⁰C₂ = 45।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "দ্বিপদী বিস্তৃতিতে ⁿCᵣ = ⁿC_(n-r) — এই সম্পর্কটি কী বোঝায়?",
+          "options": [
+            "সমমিত সহগ",
+            "ঘাত হ্রাস",
+            "ধ্রুবক পদ",
+            "মধ্যপদ"
+          ],
+          "answer": "সমমিত সহগ",
+          "answerIndex": 0,
+          "explanation": "Pascal triangle-এ দুই পাশের সমদূরবর্তী সহগ সমান। তাই ⁿCᵣ = ⁿC_(n-r)।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(a+b)^6 বিস্তৃতির ৪র্থ পদ কোনটি?",
+          "options": [
+            "20a³b³",
+            "15a⁴b²",
+            "6a⁵b",
+            "15a²b⁴"
+          ],
+          "answer": "20a³b³",
+          "answerIndex": 0,
+          "explanation": "৪র্থ পদে r=3। তাই T₄ = ⁶C₃ a³b³ = 20a³b³।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(a+b)^5 বিস্তৃতির ৩য় পদ কোনটি?",
+          "options": [
+            "10a³b²",
+            "5a⁴b",
+            "10a²b³",
+            "a⁵"
+          ],
+          "answer": "10a³b²",
+          "answerIndex": 0,
+          "explanation": "৩য় পদে r=2। T₃ = ⁵C₂ a³b² = 10a³b²।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(a-b)^5 বিস্তৃতির ২য় পদ কোনটি?",
+          "options": [
+            "-5a⁴b",
+            "5a⁴b",
+            "-10a³b²",
+            "10a³b²"
+          ],
+          "answer": "-5a⁴b",
+          "answerIndex": 0,
+          "explanation": "২য় পদে r=1। T₂ = ⁵C₁a⁴(-b) = -5a⁴b।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(a-b)^4 বিস্তৃতির ৩য় পদ কোনটি?",
+          "options": [
+            "6a²b²",
+            "-6a²b²",
+            "4a³b",
+            "-4ab³"
+          ],
+          "answer": "6a²b²",
+          "answerIndex": 0,
+          "explanation": "৩য় পদে r=2। T₃ = ⁴C₂a²(-b)² = 6a²b²।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(a+b)^7 বিস্তৃতির ৪র্থ পদের সহগ কত?",
+          "options": [
+            "35",
+            "21",
+            "7",
+            "70"
+          ],
+          "answer": "35",
+          "answerIndex": 0,
+          "explanation": "৪র্থ পদে r=3। সহগ = ⁷C₃ = 35।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(a+b)^8 বিস্তৃতির মধ্যপদের সহগ কত?",
+          "options": [
+            "70",
+            "56",
+            "28",
+            "35"
+          ],
+          "answer": "70",
+          "answerIndex": 0,
+          "explanation": "n=8 হলে মধ্যপদ 5ম পদ, r=4। সহগ = ⁸C₄ = 70।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(a+b)^7 বিস্তৃতির দুই মধ্যপদের সহগ কত?",
+          "options": [
+            "35 ও 35",
+            "21 ও 35",
+            "7 ও 21",
+            "35 ও 21"
+          ],
+          "answer": "35 ও 35",
+          "answerIndex": 0,
+          "explanation": "n=7 হলে মধ্যপদ ৪র্থ ও ৫ম। সহগ ⁷C₃ = 35 এবং ⁷C₄ = 35।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-03-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-03",
+          "text": "(x+1)^6 বিস্তৃতিতে x³ পদের সহগ কত?",
+          "options": [
+            "20",
+            "15",
+            "6",
+            "30"
+          ],
+          "answer": "20",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ = ⁶C₃ = 20।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 10 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 04",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(2+x)^6 বিস্তৃতির মধ্যপদ কোনটি?",
+          "options": [
+            "4র্থ পদ",
+            "3য় পদ",
+            "5ম পদ",
+            "3য় ও 4র্থ পদ"
+          ],
+          "answer": "4র্থ পদ",
+          "answerIndex": 0,
+          "explanation": "n=6 জোড় হলে মধ্যপদ = n/2+1 = 4র্থ পদ।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(2+x)^6 বিস্তৃতির মধ্যপদ কত?",
+          "options": [
+            "160x³",
+            "80x³",
+            "240x²",
+            "120x⁴"
+          ],
+          "answer": "160x³",
+          "answerIndex": 0,
+          "explanation": "৪র্থ পদে r=3। T₄ = ⁶C₃×2³×x³ = 20×8x³ = 160x³।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(1+x)^7 বিস্তৃতির দুই মধ্যপদ কোন দুটি?",
+          "options": [
+            "35x³ ও 35x⁴",
+            "21x² ও 35x³",
+            "35x⁴ ও 21x⁵",
+            "7x ও 21x²"
+          ],
+          "answer": "35x³ ও 35x⁴",
+          "answerIndex": 0,
+          "explanation": "n=7 হলে মধ্যপদ ৪র্থ ও ৫ম। পদ দুটি ⁷C₃x³=35x³ এবং ⁷C₄x⁴=35x⁴।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(1-2x)^6 বিস্তৃতির মধ্যপদ কত?",
+          "options": [
+            "-160x³",
+            "160x³",
+            "-80x³",
+            "240x²"
+          ],
+          "answer": "-160x³",
+          "answerIndex": 0,
+          "explanation": "n=6 হলে মধ্যপদ ৪র্থ পদ। T₄ = ⁶C₃(1)^3(-2x)^3 = 20×(-8x³) = -160x³।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(x+2)^5 বিস্তৃতির ৩য় পদ কোনটি?",
+          "options": [
+            "40x³",
+            "80x²",
+            "20x⁴",
+            "10x³"
+          ],
+          "answer": "40x³",
+          "answerIndex": 0,
+          "explanation": "৩য় পদে r=2। T₃=⁵C₂x³2²=10×4x³=40x³।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(x+3)^5 বিস্তৃতির ২য় পদ কোনটি?",
+          "options": [
+            "15x⁴",
+            "5x⁴",
+            "30x³",
+            "45x²"
+          ],
+          "answer": "15x⁴",
+          "answerIndex": 0,
+          "explanation": "২য় পদে r=1। T₂=⁵C₁x⁴×3=5×3x⁴=15x⁴।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(2x+1)^6 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "240",
+            "120",
+            "60",
+            "480"
+          ],
+          "answer": "60",
+          "answerIndex": 2,
+          "explanation": "x² পদের সহগ = ⁶C₂ × (2x)² = 15×4 = 60।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(2x+1)^6 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "240",
+            "120",
+            "60",
+            "480"
+          ],
+          "answer": "240",
+          "answerIndex": 0,
+          "explanation": "x⁴ পদের সহগ = ⁶C₂ × 2⁴ = 15×16 = 240।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(3x+2)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "1080",
+            "540",
+            "810",
+            "270"
+          ],
+          "answer": "1080",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ = ⁵C₂ × 3³ × 2² = 10×27×4 = 1080।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(3x-2)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "1080",
+            "-1080",
+            "540",
+            "-540"
+          ],
+          "answer": "1080",
+          "answerIndex": 0,
+          "explanation": "x³ পেতে (3x)^3 এবং (-2)^2 লাগে। সহগ = ⁵C₂×3³×(-2)² = 10×27×4 = 1080।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(x-2)^6 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "60",
+            "-60",
+            "120",
+            "-120"
+          ],
+          "answer": "60",
+          "answerIndex": 0,
+          "explanation": "x⁴ পেতে r=2। সহগ = ⁶C₂×(-2)² = 15×4 = 60।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(x-2)^6 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "-160",
+            "160",
+            "-120",
+            "120"
+          ],
+          "answer": "-160",
+          "answerIndex": 0,
+          "explanation": "x³ পেতে r=3। সহগ = ⁶C₃×(-2)³ = 20×(-8) = -160।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(2+x)^7 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "280",
+            "560",
+            "140",
+            "70"
+          ],
+          "answer": "560",
+          "answerIndex": 1,
+          "explanation": "x³-এর সহগ = ⁷C₃×2⁴ = 35×16 = 560।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(2+x)^7 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "280",
+            "560",
+            "140",
+            "70"
+          ],
+          "answer": "280",
+          "answerIndex": 0,
+          "explanation": "x⁴-এর সহগ = ⁷C₄×2³ = 35×8 = 280।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(1+3x)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "270",
+            "90",
+            "243",
+            "810"
+          ],
+          "answer": "270",
+          "answerIndex": 0,
+          "explanation": "x³-এর সহগ = ⁵C₃×3³ = 10×27 = 270।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(1-3x)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "-270",
+            "270",
+            "-90",
+            "90"
+          ],
+          "answer": "-270",
+          "answerIndex": 0,
+          "explanation": "x³-এর সহগ = ⁵C₃×(-3)³ = 10×(-27) = -270।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(a+b)^12 বিস্তৃতিতে পদসংখ্যা কত?",
+          "options": [
+            "13",
+            "12",
+            "11",
+            "14"
+          ],
+          "answer": "13",
+          "answerIndex": 0,
+          "explanation": "ঘাত 12 হলে পদসংখ্যা 12+1=13।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(a+b)^11 বিস্তৃতিতে পদসংখ্যা কত?",
+          "options": [
+            "12",
+            "11",
+            "10",
+            "13"
+          ],
+          "answer": "12",
+          "answerIndex": 0,
+          "explanation": "ঘাত 11 হলে পদসংখ্যা 11+1=12।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(a+b)^12 বিস্তৃতির মধ্যপদ কোনটি?",
+          "options": [
+            "7ম পদ",
+            "6ষ্ঠ পদ",
+            "6ষ্ঠ ও 7ম পদ",
+            "8ম পদ"
+          ],
+          "answer": "7ম পদ",
+          "answerIndex": 0,
+          "explanation": "n=12 জোড় হলে মধ্যপদ = n/2+1 = 7ম পদ।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(a+b)^11 বিস্তৃতির মধ্যপদ কোন দুটি?",
+          "options": [
+            "6ষ্ঠ ও 7ম পদ",
+            "5ম ও 6ষ্ঠ পদ",
+            "7ম ও 8ম পদ",
+            "11তম ও 12তম পদ"
+          ],
+          "answer": "6ষ্ঠ ও 7ম পদ",
+          "answerIndex": 0,
+          "explanation": "n=11 বিজোড় হলে মধ্যপদ দুটি: 6ষ্ঠ ও 7ম পদ।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(1+x)^12 বিস্তৃতিতে x⁶-এর সহগ কত?",
+          "options": [
+            "924",
+            "792",
+            "495",
+            "220"
+          ],
+          "answer": "924",
+          "answerIndex": 0,
+          "explanation": "x⁶-এর সহগ = ¹²C₆ = 924।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(1+x)^11 বিস্তৃতিতে x⁵-এর সহগ কত?",
+          "options": [
+            "462",
+            "330",
+            "792",
+            "165"
+          ],
+          "answer": "462",
+          "answerIndex": 0,
+          "explanation": "x⁵-এর সহগ = ¹¹C₅ = 462।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(1+x)^11 বিস্তৃতিতে x⁶-এর সহগ কত?",
+          "options": [
+            "462",
+            "330",
+            "792",
+            "165"
+          ],
+          "answer": "462",
+          "answerIndex": 0,
+          "explanation": "x⁶-এর সহগ = ¹¹C₆ = ¹¹C₅ = 462।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(x+1)^8 বিস্তৃতির ৫ম পদ কোনটি?",
+          "options": [
+            "70x⁴",
+            "56x⁵",
+            "28x⁶",
+            "56x³"
+          ],
+          "answer": "70x⁴",
+          "answerIndex": 0,
+          "explanation": "৫ম পদে r=4। T₅ = ⁸C₄x⁴ = 70x⁴।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-04-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-04",
+          "text": "(x-1)^8 বিস্তৃতির ৫ম পদ কোনটি?",
+          "options": [
+            "70x⁴",
+            "-70x⁴",
+            "56x³",
+            "-56x⁵"
+          ],
+          "answer": "70x⁴",
+          "answerIndex": 0,
+          "explanation": "৫ম পদে r=4। T₅ = ⁸C₄x⁴(-1)^4 = 70x⁴।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 10 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 05",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "Pascal triangle-এ (a+b)^3 এর সহগগুলো কোনটি?",
+          "options": [
+            "1, 3, 3, 1",
+            "1, 4, 6, 4, 1",
+            "1, 2, 1",
+            "1, 5, 10, 10, 5, 1"
+          ],
+          "answer": "1, 3, 3, 1",
+          "answerIndex": 0,
+          "explanation": "(a+b)^3 বিস্তৃতির সহগগুলো 1,3,3,1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "Pascal triangle-এ (a+b)^6 এর সহগগুলো কোনটি?",
+          "options": [
+            "1, 6, 15, 20, 15, 6, 1",
+            "1, 5, 10, 10, 5, 1",
+            "1, 4, 6, 4, 1",
+            "1, 7, 21, 35, 35, 21, 7, 1"
+          ],
+          "answer": "1, 6, 15, 20, 15, 6, 1",
+          "answerIndex": 0,
+          "explanation": "(a+b)^6 বিস্তৃতির সহগগুলো 1,6,15,20,15,6,1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "Pascal triangle-এ (a+b)^7 এর সহগগুলোর মধ্যে মধ্যের দুই সহগ কোনটি?",
+          "options": [
+            "35 ও 35",
+            "21 ও 35",
+            "7 ও 21",
+            "35 ও 21"
+          ],
+          "answer": "35 ও 35",
+          "answerIndex": 0,
+          "explanation": "(a+b)^7 এর সহগ: 1,7,21,35,35,21,7,1। মধ্যের দুই সহগ 35 ও 35।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "যদি (1+x)^n বিস্তৃতিতে পদসংখ্যা 9 হয়, তবে n কত?",
+          "options": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "answer": "8",
+          "answerIndex": 0,
+          "explanation": "পদসংখ্যা = n+1। তাই n+1=9 ⇒ n=8।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "যদি (1+x)^n বিস্তৃতিতে পদসংখ্যা 12 হয়, তবে n কত?",
+          "options": [
+            "11",
+            "12",
+            "10",
+            "13"
+          ],
+          "answer": "11",
+          "answerIndex": 0,
+          "explanation": "পদসংখ্যা = n+1। তাই n+1=12 ⇒ n=11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "যদি (1+x)^n বিস্তৃতির একমাত্র মধ্যপদ 6ষ্ঠ পদ হয়, তবে n কত?",
+          "options": [
+            "10",
+            "11",
+            "9",
+            "12"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "জোড় n হলে মধ্যপদ = n/2+1। তাই n/2+1=6 ⇒ n=10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "যদি (1+x)^n বিস্তৃতির দুই মধ্যপদ 5ম ও 6ষ্ঠ হয়, তবে n কত?",
+          "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+          ],
+          "answer": "9",
+          "answerIndex": 0,
+          "explanation": "বিজোড় n হলে মধ্যপদ দুটি (n+1)/2 ও (n+3)/2। 5ম ও 6ষ্ঠ হলে n=9।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(x+1)^9 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "126",
+            "84",
+            "36",
+            "252"
+          ],
+          "answer": "126",
+          "answerIndex": 0,
+          "explanation": "x⁴-এর সহগ = ⁹C₄ = 126।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(x+1)^9 বিস্তৃতিতে x⁵-এর সহগ কত?",
+          "options": [
+            "126",
+            "84",
+            "36",
+            "252"
+          ],
+          "answer": "126",
+          "answerIndex": 0,
+          "explanation": "x⁵-এর সহগ = ⁹C₅ = ⁹C₄ = 126।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(2x+1)^7 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "84",
+            "168",
+            "42",
+            "336"
+          ],
+          "answer": "84",
+          "answerIndex": 0,
+          "explanation": "x² পদের সহগ = ⁷C₂ × 2² = 21×4 = 84।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(2x+1)^7 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "280",
+            "168",
+            "560",
+            "84"
+          ],
+          "answer": "280",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ = ⁷C₃ × 2³ = 35×8 = 280।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(1+4x)^4 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "96",
+            "64",
+            "48",
+            "128"
+          ],
+          "answer": "96",
+          "answerIndex": 0,
+          "explanation": "x² পদের সহগ = ⁴C₂ × 4² = 6×16 = 96।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(1-4x)^4 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "-256",
+            "256",
+            "-64",
+            "96"
+          ],
+          "answer": "-256",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ = ⁴C₃ × (-4)³ = 4×(-64) = -256।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(3+2x)^5 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "1080",
+            "720",
+            "540",
+            "360"
+          ],
+          "answer": "1080",
+          "answerIndex": 0,
+          "explanation": "x² পদের সহগ = ⁵C₂ × 3³ × 2² = 10×27×4 = 1080।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(3-2x)^5 বিস্তৃতিতে x²-এর সহগ কত?",
+          "options": [
+            "1080",
+            "-1080",
+            "720",
+            "-720"
+          ],
+          "answer": "1080",
+          "answerIndex": 0,
+          "explanation": "x² পদের সহগ = ⁵C₂ × 3³ × (-2)² = 1080। x² পদের চিহ্ন ধনাত্মক।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(3-2x)^5 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "-720",
+            "720",
+            "-1080",
+            "1080"
+          ],
+          "answer": "-720",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ = ⁵C₃ × 3² × (-2)³ = 10×9×(-8) = -720।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(x+2)^8 বিস্তৃতিতে x⁶-এর সহগ কত?",
+          "options": [
+            "112",
+            "224",
+            "56",
+            "448"
+          ],
+          "answer": "112",
+          "answerIndex": 0,
+          "explanation": "x⁶ পেতে r=2। সহগ = ⁸C₂ × 2² = 28×4 = 112।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(x-2)^8 বিস্তৃতিতে x⁵-এর সহগ কত?",
+          "options": [
+            "-448",
+            "448",
+            "-224",
+            "224"
+          ],
+          "answer": "-448",
+          "answerIndex": 0,
+          "explanation": "x⁵ পেতে r=3। সহগ = ⁸C₃ × (-2)³ = 56×(-8) = -448।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(2x+3)^5 বিস্তৃতিতে ধ্রুবক পদ কত?",
+          "options": [
+            "243",
+            "32",
+            "81",
+            "125"
+          ],
+          "answer": "243",
+          "answerIndex": 0,
+          "explanation": "ধ্রুবক পদ = 3^5 = 243।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(2x-3)^5 বিস্তৃতিতে ধ্রুবক পদ কত?",
+          "options": [
+            "-243",
+            "243",
+            "-81",
+            "81"
+          ],
+          "answer": "-243",
+          "answerIndex": 0,
+          "explanation": "ধ্রুবক পদ = (-3)^5 = -243।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(4x+1)^4 বিস্তৃতিতে x⁴-এর সহগ কত?",
+          "options": [
+            "256",
+            "64",
+            "128",
+            "16"
+          ],
+          "answer": "256",
+          "answerIndex": 0,
+          "explanation": "x⁴ পদের সহগ = 4⁴ = 256।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(4x-1)^4 বিস্তৃতিতে x³-এর সহগ কত?",
+          "options": [
+            "-256",
+            "256",
+            "-64",
+            "64"
+          ],
+          "answer": "-256",
+          "answerIndex": 0,
+          "explanation": "x³ পদের সহগ = ⁴C₁ × (4x)^3 × (-1) = 4×64×(-1) = -256।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(1+x)^12 বিস্তৃতিতে x³ ও x⁹ পদের সহগের সম্পর্ক কী?",
+          "options": [
+            "সমান",
+            "x³-এর সহগ বড়",
+            "x⁹-এর সহগ বড়",
+            "সম্পর্ক নেই"
+          ],
+          "answer": "সমান",
+          "answerIndex": 0,
+          "explanation": "¹²C₃ = ¹²C₉, কারণ ⁿCᵣ = ⁿC_(n-r)। তাই সহগ সমান।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "(1+x)^11 বিস্তৃতিতে x⁴ ও x⁷ পদের সহগের সম্পর্ক কী?",
+          "options": [
+            "সমান",
+            "x⁴-এর সহগ বড়",
+            "x⁷-এর সহগ বড়",
+            "সহগ শূন্য"
+          ],
+          "answer": "সমান",
+          "answerIndex": 0,
+          "explanation": "¹¹C₄ = ¹¹C₇, কারণ 4+7=11। তাই সহগ সমান।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-10-model-test-05-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-10-model-test-05",
+          "text": "দ্বিপদী বিস্তৃতিতে ঘাত n বাড়লে পদসংখ্যা কীভাবে পরিবর্তিত হয়?",
+          "options": [
+            "n+1 হয়",
+            "n-1 হয়",
+            "2n হয়",
+            "সবসময় 5 হয়"
+          ],
+          "answer": "n+1 হয়",
+          "answerIndex": 0,
+          "explanation": "দ্বিপদী বিস্তৃতিতে ঘাত n হলে পদসংখ্যা n+1 হয়।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        }
+      ]
+    }
+  ]
+}

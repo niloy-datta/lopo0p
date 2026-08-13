@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۰.۳۷۵ এর ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "۳/۸",
+      "۵/۸",
+      "۷/۸",
+      "۱۵/۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۰.۸۸۸... এর ভগ্নাংশ রূপ কত?",
+    "options": [
+      "۸/۱۰",
+      "۴/۵",
+      "۸/۹",
+      "۹/۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۰.۲۷۲۷۲۷... এর ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "۳/۱۱",
+      "۲۷/۱۰۰",
+      "۲۷/۹۹",
+      "۹/۲۷"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۱.۲۲۲... এর ভগ্নাংশ রূপ কত?",
+    "options": [
+      "۱۱/۹",
+      "۱۲/۹",
+      "۱۳/۹",
+      "۱۰/۹"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۰.۱۶۱۶۱۶... এর ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "۱۶/۱۰۰",
+      "۸/۵۰",
+      "۱۶/۹۹",
+      "۴/۲۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "√۰.۰۰۰۹ এর মান কত?",
+    "options": [
+      "۰.۰۰۳",
+      "۰.۰۳",
+      "۰.۳",
+      "۳"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "√۱.۴۴ এর মান কত?",
+    "options": [
+      "۱.۲",
+      "۱۲",
+      "۰.۱۲",
+      "۱.۴"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۲/۵ + ۳/۱۰ এর মান কত?",
+    "options": [
+      "۱/۲",
+      "۷/۱۰",
+      "۵/۱۵",
+      "۳/۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۷/۸ − ۱/۴ এর মান কত?",
+    "options": [
+      "۵/۸",
+      "۶/۸",
+      "۳/۴",
+      "۱/۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۴/۹ × ۳/۸ এর মান কত?",
+    "options": [
+      "۱/۶",
+      "۱/۳",
+      "۷/۱۷",
+      "۱۲/۷۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۵/۶ ÷ ۱۰/۹ এর মান কত?",
+    "options": [
+      "۳/۴",
+      "۴/۳",
+      "۵۰/۵۴",
+      "۱۵/۲۰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۰.۱۲۵ + ۰.۳۷۵ এর মান কত?",
+    "options": [
+      "۰.۴",
+      "۰.۵",
+      "۰.۶",
+      "۰.۲۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۲.۷۵ − ۱.۸ এর মান কত?",
+    "options": [
+      "۰.۸۵",
+      "۰.۹۵",
+      "۱.۰۵",
+      "۱.۱۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۰.۰۶ × ۰.۵ এর মান কত?",
+    "options": [
+      "۰.۰۰۳",
+      "۰.۰۳",
+      "۰.۳",
+      "۳"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۱.۲ ÷ ۰.۳ এর মান کت?",
+    "options": [
+      "۰.۴",
+      "۴",
+      "۳.۶",
+      "۳"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۳/۴ সংখ্যাটিকে শতাংশে প্রকাশ করলে কত হয়?",
+    "options": [
+      "۲۵%",
+      "۵۰%",
+      "۷۵%",
+      "۸۰%"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۱۲.۵% এর ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "۱/۴",
+      "۱/۸",
+      "۱/۱۲",
+      "۱/۱۶"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۰.۰۰۲۵ এর শতাংশ রূপ কত?",
+    "options": [
+      "۰.۲۵%",
+      "۲.۵%",
+      "۲۵%",
+      "۰.۰۲۵%"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۱/۱۶ এর দশমিক রূপ কত?",
+    "options": [
+      "۰.۰۶۲۵",
+      "۰.۶۲۵",
+      "۰.۱۶",
+      "۰.۱۲۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۵/۱۲ + ۱/۶ এর মান কত?",
+    "options": [
+      "۱/۲",
+      "۷/۱۲",
+      "۶/۱۸",
+      "۵/۱۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۲.۵ × ۰.۴ এর মান کت?",
+    "options": [
+      "۰.۱",
+      "۱",
+      "۱۰",
+      "۰.۰۱"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۳.۶ ÷ ۰.۱۲ এর মান কত?",
+    "options": [
+      "۳",
+      "۳۰",
+      "۳۰۰",
+      "۰.۳"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۰.۷۵ ÷ ۳ এর মান কত?",
+    "options": [
+      "۰.۲۵",
+      "۲.۲۵",
+      "۰.۰۲۵",
+      "۲۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "√۶۴/√۱۶ এর মান কত?",
+    "options": [
+      "۲",
+      "۴",
+      "۸",
+      "۱۶"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-02-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-02",
+    "text": "۲√۹ + √۱۶ এর মান কত?",
+    "options": [
+      "۱۰",
+      "۸",
+      "۱۲",
+      "۱۴"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

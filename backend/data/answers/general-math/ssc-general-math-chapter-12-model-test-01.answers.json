@@ -1,0 +1,212 @@
+{
+  "ssc-general-math-chapter-12-model-test-01-q01": {
+    "answer": "15",
+    "answerIndex": 1,
+    "explanation": "৪টি উপাদানের প্রকৃত উপসেট = 2⁴ − 1 = 15।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q02": {
+    "answer": "{3, 4}",
+    "answerIndex": 1,
+    "explanation": "A ∩ B = {3, 4}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q03": {
+    "answer": "{1, 3, 5}",
+    "answerIndex": 1,
+    "explanation": "A − B = {1, 3, 5}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q04": {
+    "answer": "17",
+    "answerIndex": 1,
+    "explanation": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B) = 12 + 8 − 3 = 17।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q05": {
+    "answer": "3",
+    "answerIndex": 1,
+    "explanation": "সেট = {7, 8, 9}, পদসংখ্যা 3।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q06": {
+    "answer": "1",
+    "answerIndex": 1,
+    "explanation": "শূন্য সেটের একমাত্র উপসেট φ।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q07": {
+    "answer": "4",
+    "answerIndex": 2,
+    "explanation": "২টি উপাদানের উপসেট = 2² = 4।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q08": {
+    "answer": "{1, 2, 4, 5}",
+    "answerIndex": 0,
+    "explanation": "A = {1,2,3,4,5,6}, B = {3,6}, A−B = {1,2,4,5}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q09": {
+    "answer": "6",
+    "answerIndex": 1,
+    "explanation": "n(Q × R) = 3 × 2 = 6।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q10": {
+    "answer": "{1, 3, 5}",
+    "answerIndex": 0,
+    "explanation": "A′ = U − A = {1, 3, 5}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q11": {
+    "answer": "{0, 9}",
+    "answerIndex": 1,
+    "explanation": "x(x − 9) = 0, x = 0 বা 9।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q12": {
+    "answer": "{−2, 3}",
+    "answerIndex": 1,
+    "explanation": "x² − x − 6 = 0, (x − 3)(x + 2) = 0, x = 3, −2।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q13": {
+    "answer": "{5, 6, 7, 8, 9, 10}",
+    "answerIndex": 0,
+    "explanation": "স্বাভাবিক সংখ্যায় 5 থেকে 10 পর্যন্ত সব পদ।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q14": {
+    "answer": "A ∪ B = B",
+    "answerIndex": 1,
+    "explanation": "A ⊆ B হলে A ∪ B = B।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q15": {
+    "answer": "4",
+    "answerIndex": 2,
+    "explanation": "P({1,2}) = {φ, {1}, {2}, {1,2}}, মোট 4টি।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q16": {
+    "answer": "4",
+    "answerIndex": 2,
+    "explanation": "2^n = 16, n = 4।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q17": {
+    "answer": "কমিউটেটিভ",
+    "answerIndex": 1,
+    "explanation": "যোগ ও ছেদ উভয়ের ক্ষেত্রে কমিউটেটিভ বৈশিষ্ট্য থাকে।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q18": {
+    "answer": "ডিসট্রিবিউটিভ",
+    "answerIndex": 1,
+    "explanation": "ছেদের উপর যোগের ডিসট্রিবিউটিভ সূত্র।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q19": {
+    "answer": "{1, 2, 3, 4, 5}",
+    "answerIndex": 1,
+    "explanation": "সাধারণ সব পদ একত্র = {1,2,3,4,5}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q20": {
+    "answer": "{3, 4}",
+    "answerIndex": 1,
+    "explanation": "উভয় সেটের সাধারণ পদ {3, 4}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q21": {
+    "answer": "অসদৃশ (disjoint)",
+    "answerIndex": 1,
+    "explanation": "কোনো সাধারণ পদ না থাকলে সেটদ্বয় অসদৃশ।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q22": {
+    "answer": "45",
+    "answerIndex": 1,
+    "explanation": "n(A ∪ B) = 30 + 25 − 10 = 45।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q23": {
+    "answer": "{3}",
+    "answerIndex": 1,
+    "explanation": "2x = 6, x = 3।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q24": {
+    "answer": "5",
+    "answerIndex": 1,
+    "explanation": "সেট = {−2, −1, 0, 1, 2}, মোট 5টি।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q25": {
+    "answer": "φ",
+    "answerIndex": 1,
+    "explanation": "সার্বজনীন সেটের পূরক শূন্য সেট।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q26": {
+    "answer": "{1, 2, 4, 5}",
+    "answerIndex": 1,
+    "explanation": "A−B = {1,5}, B−A = {2,4}, যোগফল = {1,2,4,5}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q27": {
+    "answer": "4",
+    "answerIndex": 2,
+    "explanation": "(1,a), (1,b), (2,a), (2,b) — মোট 4টি।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q28": {
+    "answer": "7",
+    "answerIndex": 1,
+    "explanation": "Q \\ R = Q = {x,y,z}, প্রকৃত উপসেট = 2³ − 1 = 7।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q29": {
+    "answer": "{x : x মৌলিক সংখ্যা এবং x < 8}",
+    "answerIndex": 1,
+    "explanation": "২, ৩, ৫, ৭ — ৮-এর নিচের মৌলিক সংখ্যা।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-01-q30": {
+    "answer": "{x ∈ N}",
+    "answerIndex": 2,
+    "explanation": "সকল স্বাভাবিক সংখ্যার সেট অসীম।",
+    "topic": "সেট",
+    "difficulty": 1200
+  }
+}

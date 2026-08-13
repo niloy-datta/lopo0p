@@ -1,0 +1,1533 @@
+{
+  "subject": "general-math",
+  "chapterSlug": "ssc-general-math-chapter-01",
+  "chapterName": "বাস্তব সংখ্যা",
+  "scope": "স্বাভাবিক, পূর্ণ, ভগ্নাংশ, মূলদ, অমূলদ ও দশমিক সংখ্যার ধারণা, শ্রেণিবিভাগ, রূপান্তর ও প্রয়োগ।",
+  "sets": [
+    {
+      "setName": "Model Test-01",
+      "questions": [
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q01",
+          "text": "নিচের কোনটি স্বাভাবিক সংখ্যা নয়?",
+          "options": [
+            "১",
+            "৭",
+            "০",
+            "১২"
+          ],
+          "answer": "০",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q02",
+          "text": "নিচের কোন সংখ্যাটি পূর্ণসংখ্যা কিন্তু স্বাভাবিক সংখ্যা নয়?",
+          "options": [
+            "৫",
+            "−৩",
+            "১",
+            "৯"
+          ],
+          "answer": "−৩",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q03",
+          "text": "০ কোন ধরনের সংখ্যা?",
+          "options": [
+            "স্বাভাবিক সংখ্যা",
+            "ধনাত্মক পূর্ণসংখ্যা",
+            "অঋণাত্মক পূর্ণসংখ্যা",
+            "ঋণাত্মক পূর্ণসংখ্যা"
+          ],
+          "answer": "অঋণাত্মক পূর্ণসংখ্যা",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q04",
+          "text": "নিচের কোনটি মূলদ সংখ্যা?",
+          "options": [
+            "√২",
+            "√৩",
+            "৫/৭",
+            "π"
+          ],
+          "answer": "৫/৭",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q05",
+          "text": "নিচের কোনটি অমূলদ সংখ্যা?",
+          "options": [
+            "০.২৫",
+            "১.৭৫",
+            "√১৬",
+            "√৫"
+          ],
+          "answer": "√৫",
+          "answerIndex": 3
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q06",
+          "text": "০.৭৫ সংখ্যাটির ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "৩/৪",
+            "৪/৩",
+            "৭/৫",
+            "৭৫/১০"
+          ],
+          "answer": "৩/৪",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q07",
+          "text": "২.৪ সংখ্যাটির ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "১২/৫",
+            "২৪/৫",
+            "৬/৫",
+            "৫/১২"
+          ],
+          "answer": "১২/৫",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q08",
+          "text": "১/৮ এর দশমিক রূপ কোনটি?",
+          "options": [
+            "০.১২৫",
+            "০.১২",
+            "০.১৮",
+            "০.৮"
+          ],
+          "answer": "০.১২৫",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q09",
+          "text": "৩/৫ ও ২/৩ এর মধ্যে বড় কোনটি?",
+          "options": [
+            "৩/৫",
+            "২/৩",
+            "উভয় সমান",
+            "নির্ণয় করা যায় না"
+          ],
+          "answer": "২/৩",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q10",
+          "text": "√৯ এর মান কোনটি?",
+          "options": [
+            "৯",
+            "৩",
+            "৪.৫",
+            "৮১"
+          ],
+          "answer": "৩",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q11",
+          "text": "√২৫ কোন ধরনের সংখ্যা?",
+          "options": [
+            "অমূলদ সংখ্যা",
+            "মূলদ সংখ্যা",
+            "শুধুই ভগ্নাংশ",
+            "ঋণাত্মক সংখ্যা"
+          ],
+          "answer": "মূলদ সংখ্যা",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q12",
+          "text": "নিচের কোনটি সসীম দশমিক?",
+          "options": [
+            "১/৩",
+            "২/৭",
+            "৩/৮",
+            "৫/৬"
+          ],
+          "answer": "৩/৮",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q13",
+          "text": "নিচের কোনটি অসীম আবর্ত দশমিক?",
+          "options": [
+            "০.৫",
+            "০.২৫",
+            "০.১২৫",
+            "০.৩৩৩..."
+          ],
+          "answer": "০.৩৩৩...",
+          "answerIndex": 3
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q14",
+          "text": "০.৬৬৬... এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "১/৬",
+            "২/৩",
+            "৩/৫",
+            "৬/১০"
+          ],
+          "answer": "২/৩",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q15",
+          "text": "−৫ ও ২ এর মধ্যে পূর্ণসংখ্যা কয়টি?",
+          "options": [
+            "৫",
+            "৬",
+            "৭",
+            "৮"
+          ],
+          "answer": "৬",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q16",
+          "text": "০.০৪ এর বর্গমূল কোনটি?",
+          "options": [
+            "০.২",
+            "০.০২",
+            "০.৪",
+            "২"
+          ],
+          "answer": "০.২",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q17",
+          "text": "৪/৯ সংখ্যাটি কোন শ্রেণির?",
+          "options": [
+            "অমূলদ",
+            "মূলদ",
+            "শুধুই পূর্ণসংখ্যা",
+            "স্বাভাবিক সংখ্যা"
+          ],
+          "answer": "মূলদ",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q18",
+          "text": "√৪৯ − √৩৬ এর মান কত?",
+          "options": [
+            "১",
+            "৩",
+            "৭",
+            "১৩"
+          ],
+          "answer": "১",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q19",
+          "text": "০.২ ও ০.০২ এর যোগফল কত?",
+          "options": [
+            "০.০৪",
+            "০.২২",
+            "۰.۴",
+            "۲.۲"
+          ],
+          "answer": "۰.۲۲",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q20",
+          "text": "নিচের কোনটি ১ অপেক্ষা ছোট?",
+          "options": [
+            "۵/۴",
+            "۷/۶",
+            "۹/۸",
+            "۸/۹"
+          ],
+          "answer": "۸/۹",
+          "answerIndex": 3
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q21",
+          "text": "۰.۱۲۳۴۵۶... যদি কোনো নির্দিষ্ট ধারা ছাড়া চলতে থাকে, তবে এটি কী ধরনের দশমিক?",
+          "options": [
+            "সসীম দশমিক",
+            "অসীম অনাবর্ত দশমিক",
+            "অসীম আবর্ত দশমিক",
+            "পূর্ণসংখ্যা"
+          ],
+          "answer": "অসীম অনাবর্ত দশমিক",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q22",
+          "text": "নিচের কোন জোড়ার উভয় সংখ্যাই মূলদ?",
+          "options": [
+            "√۲, ۱/۲",
+            "π, ۳",
+            "۰.۵, −۷",
+            "√۳, √۵"
+          ],
+          "answer": "۰.۵, −۷",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q23",
+          "text": "۵/۱۰ এর সরল রূপ কোনটি?",
+          "options": [
+            "۱/۵",
+            "۱/۲",
+            "۲/۵",
+            "۵/۲"
+          ],
+          "answer": "۱/۲",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q24",
+          "text": "۱.۲۵ সংখ্যাটি কোন ভগ্নাংশের সমান?",
+          "options": [
+            "۵/۴",
+            "۴/۵",
+            "۲۵/۱۰",
+            "۱۲۵/۱۰"
+          ],
+          "answer": "۵/۴",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-01-q25",
+          "text": "নিচের কোনটি বাস্তব সংখ্যা নয়?",
+          "options": [
+            "−۲",
+            "۰",
+            "√۷",
+            "কোনোটি নয়"
+          ],
+          "answer": "কোনোটি নয়",
+          "answerIndex": 3
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-02",
+      "questions": [
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q01",
+          "text": "۰.۳۷۵ এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "۳/۸",
+            "۵/۸",
+            "۷/۸",
+            "۱۵/۸"
+          ],
+          "answer": "۳/۸",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q02",
+          "text": "۰.۸۸۸... এর ভগ্নাংশ রূপ কত?",
+          "options": [
+            "۸/۱۰",
+            "۴/۵",
+            "۸/۹",
+            "۹/۸"
+          ],
+          "answer": "۸/۹",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q03",
+          "text": "۰.۲۷۲۷۲۷... এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "۳/۱۱",
+            "۲۷/۱۰۰",
+            "۲۷/۹۹",
+            "۹/۲۷"
+          ],
+          "answer": "۳/۱۱",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q04",
+          "text": "۱.۲۲۲... এর ভগ্নাংশ রূপ কত?",
+          "options": [
+            "۱۱/۹",
+            "۱۲/۹",
+            "۱۳/۹",
+            "۱۰/۹"
+          ],
+          "answer": "۱۱/۹",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q05",
+          "text": "۰.۱۶۱۶۱۶... এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "۱۶/۱۰۰",
+            "۸/۵۰",
+            "۱۶/۹۹",
+            "۴/۲۵"
+          ],
+          "answer": "۱۶/۹۹",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q06",
+          "text": "√۰.۰۰۰۹ এর মান কত?",
+          "options": [
+            "۰.۰۰۳",
+            "۰.۰۳",
+            "۰.۳",
+            "۳"
+          ],
+          "answer": "۰.۰۳",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q07",
+          "text": "√۱.۴۴ এর মান কত?",
+          "options": [
+            "۱.۲",
+            "۱۲",
+            "۰.۱۲",
+            "۱.۴"
+          ],
+          "answer": "۱.۲",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q08",
+          "text": "۲/۵ + ۳/۱۰ এর মান কত?",
+          "options": [
+            "۱/۲",
+            "۷/۱۰",
+            "۵/۱۵",
+            "۳/۵"
+          ],
+          "answer": "۷/۱۰",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q09",
+          "text": "۷/۸ − ۱/۴ এর মান কত?",
+          "options": [
+            "۵/۸",
+            "۶/۸",
+            "۳/۴",
+            "۱/۸"
+          ],
+          "answer": "۵/۸",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q10",
+          "text": "۴/۹ × ۳/۸ এর মান কত?",
+          "options": [
+            "۱/۶",
+            "۱/۳",
+            "۷/۱۷",
+            "۱۲/۷۲"
+          ],
+          "answer": "۱/۶",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q11",
+          "text": "۵/۶ ÷ ۱۰/۹ এর মান কত?",
+          "options": [
+            "۳/۴",
+            "۴/۳",
+            "۵۰/۵۴",
+            "۱۵/۲۰"
+          ],
+          "answer": "۳/۴",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q12",
+          "text": "۰.۱۲۵ + ۰.۳۷۵ এর মান কত?",
+          "options": [
+            "۰.۴",
+            "۰.۵",
+            "۰.۶",
+            "۰.۲۵"
+          ],
+          "answer": "۰.۵",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q13",
+          "text": "۲.۷۵ − ۱.۸ এর মান কত?",
+          "options": [
+            "۰.۸۵",
+            "۰.۹۵",
+            "۱.۰۵",
+            "۱.۱۵"
+          ],
+          "answer": "۰.۹۵",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q14",
+          "text": "۰.۰۶ × ۰.۵ এর মান কত?",
+          "options": [
+            "۰.۰۰۳",
+            "۰.۰۳",
+            "۰.۳",
+            "۳"
+          ],
+          "answer": "۰.۰۳",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q15",
+          "text": "۱.۲ ÷ ۰.۳ এর মান کت?",
+          "options": [
+            "۰.۴",
+            "۴",
+            "۳.۶",
+            "۳"
+          ],
+          "answer": "۴",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q16",
+          "text": "۳/۴ সংখ্যাটিকে শতাংশে প্রকাশ করলে কত হয়?",
+          "options": [
+            "۲۵%",
+            "۵۰%",
+            "۷۵%",
+            "۸۰%"
+          ],
+          "answer": "۷۵%",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q17",
+          "text": "۱۲.۵% এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "۱/۴",
+            "۱/۸",
+            "۱/۱۲",
+            "۱/۱۶"
+          ],
+          "answer": "۱/۸",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q18",
+          "text": "۰.۰۰۲۵ এর শতাংশ রূপ কত?",
+          "options": [
+            "۰.۲۵%",
+            "۲.۵%",
+            "۲۵%",
+            "۰.۰۲۵%"
+          ],
+          "answer": "۰.۲۵%",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q19",
+          "text": "۱/۱۶ এর দশমিক রূপ কত?",
+          "options": [
+            "۰.۰۶۲۵",
+            "۰.۶۲۵",
+            "۰.۱۶",
+            "۰.۱۲۵"
+          ],
+          "answer": "۰.۰۶۲۵",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q20",
+          "text": "۵/۱۲ + ۱/۶ এর মান কত?",
+          "options": [
+            "۱/۲",
+            "۷/۱۲",
+            "۶/۱۸",
+            "۵/۱۸"
+          ],
+          "answer": "۷/۱۲",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q21",
+          "text": "۲.۵ × ۰.۴ এর মান کت?",
+          "options": [
+            "۰.۱",
+            "۱",
+            "۱۰",
+            "۰.۰۱"
+          ],
+          "answer": "۱",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q22",
+          "text": "۳.۶ ÷ ۰.۱۲ এর মান কত?",
+          "options": [
+            "۳",
+            "۳۰",
+            "۳۰۰",
+            "۰.۳"
+          ],
+          "answer": "۳۰",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q23",
+          "text": "۰.۷۵ ÷ ۳ এর মান কত?",
+          "options": [
+            "۰.۲۵",
+            "۲.۲۵",
+            "۰.۰۲۵",
+            "۲۵"
+          ],
+          "answer": "۰.۲۵",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q24",
+          "text": "√۶۴/√۱۶ এর মান কত?",
+          "options": [
+            "۲",
+            "۴",
+            "۸",
+            "۱۶"
+          ],
+          "answer": "۲",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-02-q25",
+          "text": "۲√۹ + √۱۶ এর মান কত?",
+          "options": [
+            "۱۰",
+            "۸",
+            "۱۲",
+            "۱۴"
+          ],
+          "answer": "۱۰",
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-03",
+      "questions": [
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q01",
+          "text": "۰.۰۹ ও ۰.۱ এর মধ্যে বড় কোনটি?",
+          "options": [
+            "۰.۰۹",
+            "۰.۱",
+            "উভয় সমান",
+            "নির্ণয় করা যায় না"
+          ],
+          "answer": "۰.۱",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q02",
+          "text": "۳/۷ ও ۴/۹ এর মধ্যে বড় কোনটি?",
+          "options": [
+            "۳/۷",
+            "۴/۹",
+            "উভয় সমান",
+            "কোনোটি নয়"
+          ],
+          "answer": "۴/۹",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q03",
+          "text": "নিচের কোন সংখ্যাটি ۰.۵ এর সমান নয়?",
+          "options": [
+            "۱/۲",
+            "۲/۴",
+            "۳/۶",
+            "۵/۱۰۰"
+          ],
+          "answer": "۵/۱۰۰",
+          "answerIndex": 3
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q04",
+          "text": "√۲ × √۸ এর মান কত?",
+          "options": [
+            "√۱۰",
+            "√۱۶",
+            "۴",
+            "۲√۲"
+          ],
+          "answer": "۴",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q05",
+          "text": "√۱۸ কে সরল করলে কোনটি হয়?",
+          "options": [
+            "۳√۲",
+            "۲√۳",
+            "۶√۲",
+            "۹√۲"
+          ],
+          "answer": "۳√۲",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q06",
+          "text": "√۵۰ − √۸ এর মান কত?",
+          "options": [
+            "√۴۲",
+            "۳√۲",
+            "۵√۲",
+            "۷√۲"
+          ],
+          "answer": "۳√۲",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q07",
+          "text": "۲/۳ সংখ্যাটি কোন দুই পূর্ণসংখ্যার মধ্যে অবস্থিত?",
+          "options": [
+            "−۱ ও ۰",
+            "۰ ও ۱",
+            "۱ ও ۲",
+            "۲ ও ۳"
+          ],
+          "answer": "۰ ও ۱",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q08",
+          "text": "−۳/۴ সংখ্যাটি কোন দুই পূর্ণসংখ্যার মধ্যে অবস্থিত?",
+          "options": [
+            "−۲ ও −۱",
+            "−۱ ও ۰",
+            "۰ ও ۱",
+            "−۳ ও −۲"
+          ],
+          "answer": "−۱ ও ۰",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q09",
+          "text": "۱.۰۵, ۱.۵, ۱.۰۰۵, ۱.۵۰۵ — সবচেয়ে ছোট কোনটি?",
+          "options": [
+            "۱.۰۵",
+            "۱.۵",
+            "۱.۰۰۵",
+            "۱.۵۰۵"
+          ],
+          "answer": "۱.۰۰۵",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q10",
+          "text": "۰.۴۴۴... ও ۴/۹ সম্পর্কে কোনটি সত্য?",
+          "options": [
+            "۰.۴۴۴... < ۴/۹",
+            "۰.۴۴۴... > ۴/۹",
+            "۰.۴۴۴... = ۴/۹",
+            "তুলনা অসম্ভব"
+          ],
+          "answer": "۰.۴۴۴... = ۴/۹",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q11",
+          "text": "۰.۱۲۱۲۱۲... ও ۴/۳۳ সম্পর্কে কোনটি সত্য?",
+          "options": [
+            "সমান",
+            "প্রথমটি বড়",
+            "দ্বিতীয়টি বড়",
+            "উভয় অমূলদ"
+          ],
+          "answer": "সমান",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q12",
+          "text": "√۳۶ + ۳² এর মান کت?",
+          "options": [
+            "۱۲",
+            "۱۵",
+            "۱۸",
+            "۲۱"
+          ],
+          "answer": "۱۵",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q13",
+          "text": "۰.۲۵² এর মান کت?",
+          "options": [
+            "۰.۰۶۲۵",
+            "۰.۶۲۵",
+            "۰.۰۲۵",
+            "۰.۱۲۵"
+          ],
+          "answer": "۰.۰۶۲۵",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q14",
+          "text": "۱/۴ ও ۱/۵ এর মধ্যে পার্থক্য কত?",
+          "options": [
+            "۱/۲۰",
+            "۱/۹",
+            "۲/۲۰",
+            "۱/۱۰"
+          ],
+          "answer": "۱/۲۰",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q15",
+          "text": "۱/۲ + ۱/۳ + ۱/۶ এর মান কত?",
+          "options": [
+            "۱",
+            "۵/۶",
+            "۲/۳",
+            "۷/۶"
+          ],
+          "answer": "۱",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q16",
+          "text": "۰.۳, ۱/۳, ۰.۳۳۳... — সঠিক সম্পর্ক কোনটি?",
+          "options": [
+            "۰.۳ = ۱/۳ = ۰.۳۳۳...",
+            "۰.۳ < ۱/۳ = ۰.۳۳۳...",
+            "۰.۳ > ۱/۳",
+            "۱/۳ < ۰.۳۳۳..."
+          ],
+          "answer": "۰.۳ < ۱/۳ = ۰.۳۳۳...",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q17",
+          "text": "নিচের কোনটি অমূলদ সংখ্যার উদাহরণ?",
+          "options": [
+            "√۴",
+            "√۹",
+            "√۱۲",
+            "√۲۵"
+          ],
+          "answer": "√۱۲",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q18",
+          "text": "√۱۲ + √۲۷ এর মান کت?",
+          "options": [
+            "۵√۳",
+            "۷√۳",
+            "√۳۹",
+            "۱۳√۳"
+          ],
+          "answer": "۵√۳",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q19",
+          "text": "۰.۰۰۴ কে ভগ্নাংশে প্রকাশ করলে সরল রূপ কোনটি?",
+          "options": [
+            "۱/۲۵۰",
+            "۴/۱۰۰",
+            "۱/۲۵",
+            "۱/۲۰۰"
+          ],
+          "answer": "۱/۲۵۰",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q20",
+          "text": "۲.۲۵ কে ভগ্নাংশে প্রকাশ করলে কোনটি হয়?",
+          "options": [
+            "۹/۴",
+            "۴/۹",
+            "۲/۲۵",
+            "۲۵/۹"
+          ],
+          "answer": "۹/۴",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q21",
+          "text": "۷/۲۰ সংখ্যাটির দশমিক রূপ کت?",
+          "options": [
+            "۰.۳۵",
+            "۰.۳۰۵",
+            "۳.۵",
+            "۰.۷۲"
+          ],
+          "answer": "۰.۳۵",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q22",
+          "text": "۰.۶۲۵ সংখ্যাটি কোন ভগ্নাংশের সমান?",
+          "options": [
+            "۳/۸",
+            "۵/۸",
+            "۷/۸",
+            "۱/۸"
+          ],
+          "answer": "۵/۸",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q23",
+          "text": "√۰.۸۱ + √۰.۰۴ এর মান কত?",
+          "options": [
+            "۰.۱۱",
+            "۱.۱",
+            "۰.۹۲",
+            "۰.۷"
+          ],
+          "answer": "۱.۱",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q24",
+          "text": "۲/۳ এর গুণাত্মক বিপরীত সংখ্যা কোনটি?",
+          "options": [
+            "−۲/۳",
+            "۳/۲",
+            "۱/۳",
+            "−۳/۲"
+          ],
+          "answer": "۳/۲",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-03-q25",
+          "text": "−۵/۸ এর যোগাত্মক বিপরীত কোনটি?",
+          "options": [
+            "۸/۵",
+            "−۸/۵",
+            "۵/۸",
+            "−۵/۸"
+          ],
+          "answer": "۵/۸",
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-04",
+      "questions": [
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q01",
+          "text": "√۲ + √۸ এর মান کت?",
+          "options": [
+            "√۱۰",
+            "۳√۲",
+            "۲√۱۰",
+            "۴√۲"
+          ],
+          "answer": "۳√۲",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q02",
+          "text": "√۵ × √۲۰ এর মান کت?",
+          "options": [
+            "۱۰",
+            "۵",
+            "۲√۵",
+            "√۱۰"
+          ],
+          "answer": "۱۰",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q03",
+          "text": "۰.۹۹۹... এর মান কোনটির সমান?",
+          "options": [
+            "۰.۹",
+            "۹/۱۰",
+            "۱",
+            "۱۰/۹"
+          ],
+          "answer": "۱",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q04",
+          "text": "۰.۰۹۰۹۰۹... এর ভগ্নাংশ রূপ কত?",
+          "options": [
+            "۱/۱۱",
+            "۹/۱۰۰",
+            "۱/۱۰",
+            "۹/۹۰"
+          ],
+          "answer": "۱/۱۱",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q05",
+          "text": "۱.۰۲۰۲۰۲... এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "۱۰۰/۹۹",
+            "۱۰۱/۹۹",
+            "۹۱/۹۰",
+            "۱۰/۹"
+          ],
+          "answer": "۱۰۱/۹۹",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q06",
+          "text": "নিচের কোনটি সঠিক?",
+          "options": [
+            "√۲ + √۳ = √۵",
+            "√۲ × √۳ = √۶",
+            "√۸ = ۴√۲",
+            "√۱۲ = ۲√۶"
+          ],
+          "answer": "√۲ × √۳ = √۶",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q07",
+          "text": "۱/۳, ۰.۳۴, ۰.۳۳۳... — ক্রমবর্ধমান বিন্যাস কোনটি?",
+          "options": [
+            "۱/۳, ۰.۳۳۳..., ۰.۳۴",
+            "۰.۳۳۳..., ۱/۳, ۰.۳۴",
+            "۱/۳, ۰.۳۴, ۰.۳۳۳...",
+            "۰.۳۴, ۱/۳, ۰.۳۳۳..."
+          ],
+          "answer": "۱/۳, ۰.۳۳۳..., ۰.۳۴",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q08",
+          "text": "−۰.۷, −۲/۳, −۰.۶۵ — সবচেয়ে ছোট কোনটি?",
+          "options": [
+            "−۰.۷",
+            "−۲/۳",
+            "−۰.۶۵",
+            "তিনটি সমান"
+          ],
+          "answer": "−۰.۷",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q09",
+          "text": "۱/۲ ÷ ۱/۴ × ۱/۸ এর মান کت?",
+          "options": [
+            "۱",
+            "۱/۴",
+            "۱/۱۶",
+            "۴"
+          ],
+          "answer": "۱/۴",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q10",
+          "text": "۰.۲ × ۰.۰۲ × ۰.۰۰۲ এর মান کت?",
+          "options": [
+            "۰.۰۰۰۸",
+            "۰.۰۰۰۰۸",
+            "۰.۰۰۰۰۰۸",
+            "۰.۰۰۸"
+          ],
+          "answer": "۰.۰۰۰۰۰۸",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q11",
+          "text": "√۷۲ কে সরল করলে কোনটি হয়?",
+          "options": [
+            "۶√۲",
+            "۱۲√۲",
+            "۸√۳",
+            "۳√۸"
+          ],
+          "answer": "۶√۲",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q12",
+          "text": "√۲۷/√۳ এর মান কত?",
+          "options": [
+            "√۹",
+            "۹",
+            "۳√۳",
+            "√۲۴"
+          ],
+          "answer": "√۹",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q13",
+          "text": "۳√۵ + ۲√۵ − √۵ এর মান কত?",
+          "options": [
+            "۴√۵",
+            "۵√۵",
+            "۶√۵",
+            "۴√۱۵"
+          ],
+          "answer": "۴√۵",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q14",
+          "text": "۰.۱۲۵ × ۸ এর মান کت?",
+          "options": [
+            "۰.۱",
+            "۱",
+            "۱۰",
+            "۰.۰۱"
+          ],
+          "answer": "۱",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q15",
+          "text": "۰.۰۴ ÷ ۰.۲ এর মান কত?",
+          "options": [
+            "۰.۲",
+            "۲",
+            "۰.۰۲",
+            "۲۰"
+          ],
+          "answer": "۰.۲",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q16",
+          "text": "۵/۶ সংখ্যার যোগাত্মক বিপরীত ও গুণাত্মক বিপরীতের যোগফল কত?",
+          "options": [
+            "۱۱/۳۰",
+            "۳/۱۰",
+            "۵/۶",
+            "−۱۱/۳۰"
+          ],
+          "answer": "۱۱/۳۰",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q17",
+          "text": "√۰.۲۵ × √۰.۳۶ এর মান কত?",
+          "options": [
+            "۰.۳",
+            "۰.۰۳",
+            "۳",
+            "۰.۶"
+          ],
+          "answer": "۰.۳",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q18",
+          "text": "۰.۱۲ + ۰.۰۰۸ + ۰.۴ এর মান کت?",
+          "options": [
+            "۰.۵۲۸",
+            "۰.۴۲۸",
+            "۰.۱۲۸",
+            "۰.۸۲۸"
+          ],
+          "answer": "۰.۵۲۸",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q19",
+          "text": "۲/۷ ও ۳/۱۱ এর মধ্যে বড় কোনটি?",
+          "options": [
+            "۲/۷",
+            "۳/۱۱",
+            "উভয় সমান",
+            "নির্ণয় করা যায় না"
+          ],
+          "answer": "۲/۷",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q20",
+          "text": "۴/۵, ۰.۷۹, ۰.۸۰۱ — সবচেয়ে বড় কোনটি?",
+          "options": [
+            "۴/۵",
+            "۰.۷۹",
+            "۰.۸۰۱",
+            "۰.۸"
+          ],
+          "answer": "۰.۸۰۱",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q21",
+          "text": "কোন সংখ্যাটি ۲ ও ۳ এর মধ্যে অবস্থিত?",
+          "options": [
+            "√۳",
+            "√۵",
+            "√۱۰",
+            "√۱۶"
+          ],
+          "answer": "√۵",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q22",
+          "text": "কোন সংখ্যাটি ۴ ও ۵ এর মধ্যে অবস্থিত?",
+          "options": [
+            "√۱۵",
+            "√۱۷",
+            "√۲۵",
+            "√۳۶"
+          ],
+          "answer": "√۱۷",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q23",
+          "text": "۱/۹ + ۰.۸۸۸... এর মান কত?",
+          "options": [
+            "۱",
+            "۸/۹",
+            "۹/۸",
+            "۰.۹"
+          ],
+          "answer": "۱",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q24",
+          "text": "۰.۴۴۴... + ۰.۵۵۵... এর মান کت?",
+          "options": [
+            "۰.۹",
+            "۱",
+            "۹/۱۰",
+            "۱۰/۹"
+          ],
+          "answer": "۱",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-04-q25",
+          "text": "۲.۰۵ − ۰.۹۹ এর মান কত?",
+          "options": [
+            "۱.۰۶",
+            "۱.۱۶",
+            "۱.۰۴",
+            "۱.۱۴"
+          ],
+          "answer": "۱.۰۶",
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-05",
+      "questions": [
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q01",
+          "text": "√۳ + √۱۲ + √۲۷ এর মান کت?",
+          "options": [
+            "۶√۳",
+            "۵√۳",
+            "۴√۳",
+            "√۴۲"
+          ],
+          "answer": "۶√۳",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q02",
+          "text": "√۵۴ − √۲۴ + √۶ এর মান কত?",
+          "options": [
+            "۲√۶",
+            "۳√۶",
+            "۴√۶",
+            "√۳۶"
+          ],
+          "answer": "۲√۶",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q03",
+          "text": "۰.۱۶۶۶... এর ভগ্নাংশ রূপ কত?",
+          "options": [
+            "۱۶/۹۹",
+            "۸/۴۵",
+            "۱/۶",
+            "۱۶/۹۰"
+          ],
+          "answer": "۱/۶",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q04",
+          "text": "۰.۰۳۶۳۶۳۶... এর ভগ্নাংশ রূপ কত?",
+          "options": [
+            "۳۶/۹۹۰",
+            "۴/۱۱۰",
+            "۲/۵۵",
+            "۳۶/۹۹"
+          ],
+          "answer": "۲/۵۵",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q05",
+          "text": "۲.۳۶۳۶۳۶... এর ভগ্নাংশ رূপ কত?",
+          "options": [
+            "۲۶/۱۱",
+            "۲۳۶/۹۹",
+            "۲۱۳/۹۰",
+            "۲۳۶/۱۰۰"
+          ],
+          "answer": "۲۶/۱۱",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q06",
+          "text": "۱.۲۳۳۳... এর ভগ্নাংশ রূপ কত?",
+          "options": [
+            "۱۲۲/۹۹",
+            "۳۷/۳۰",
+            "۱۱۱/۹۰",
+            "۱۲۳/۱۰۰"
+          ],
+          "answer": "۳۷/۳۰",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q07",
+          "text": "√۰.۰۰۱۶ + √۰.۰۰۰۹ এর মান کت?",
+          "options": [
+            "۰.۰۷",
+            "۰.۷",
+            "۰.۰۰۷",
+            "۰.۰۴۹"
+          ],
+          "answer": "۰.۰۷",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q08",
+          "text": "۰.۱۲۵ ÷ ۰.۰۲۵ এর মান কত?",
+          "options": [
+            "۰.۵",
+            "۵",
+            "۵۰",
+            "۰.۰۵"
+          ],
+          "answer": "۵",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q09",
+          "text": "۱/۲ − ۱/۳ + ۱/۶ এর মান کت?",
+          "options": [
+            "۰",
+            "۱/۳",
+            "۲/۳",
+            "۱"
+          ],
+          "answer": "۱/۳",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q10",
+          "text": "۳/۴ ÷ ۹/۱۶ × ۲/۳ এর মান কত?",
+          "options": [
+            "۸/۹",
+            "۱/۲",
+            "۴/۹",
+            "۲"
+          ],
+          "answer": "۸/۹",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q11",
+          "text": "۰.۹۹۹... − ۰.۴۴۴... এর মান کت?",
+          "options": [
+            "۵/۹",
+            "۴/۹",
+            "۱/۲",
+            "۰.۵"
+          ],
+          "answer": "۵/۹",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q12",
+          "text": "۰.۲۲۲... + ۰.۰۲۰۲۰۲... এর মান کت?",
+          "options": [
+            "۲/۹",
+            "۲۲/۹۹",
+            "۲۴/۹۹",
+            "۲/۱۱"
+          ],
+          "answer": "۲۴/۹۹",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q13",
+          "text": "√۴۸ × √۳ এর মান کت?",
+          "options": [
+            "۱۲",
+            "√۵۱",
+            "۴√۳",
+            "۱۶"
+          ],
+          "answer": "۱۲",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q14",
+          "text": "√۹۸ ÷ √۲ এর মান কত?",
+          "options": [
+            "۷",
+            "۱۴",
+            "۷√۲",
+            "√۹۶"
+          ],
+          "answer": "۷",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q15",
+          "text": "(√۵ + √۲۰)/√۵ এর মান কত?",
+          "options": [
+            "۲",
+            "۳",
+            "۵",
+            "√۲۵"
+          ],
+          "answer": "۳",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q16",
+          "text": "۰.۰۰۴ × ۲۵۰ এর মান কত?",
+          "options": [
+            "۰.۱",
+            "۱",
+            "۱۰",
+            "۰.۰۱"
+          ],
+          "answer": "۱",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q17",
+          "text": "۲.۵% এর ভগ্নাংশ রূপ কোনটি?",
+          "options": [
+            "۱/۲۵",
+            "۱/۴۰",
+            "۱/۲۰",
+            "۱/۵۰"
+          ],
+          "answer": "۱/۴۰",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q18",
+          "text": "۰.۰۰۵ কে শতাংশে প্রকাশ করলে কত হয়?",
+          "options": [
+            "۰.۵%",
+            "۵%",
+            "۰.۰۵%",
+            "۵۰%"
+          ],
+          "answer": "۰.۵%",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q19",
+          "text": "۱/۳, ۰.۳۳, ۰.۳۳۳, ۰.۳۳۳... — সবচেয়ে বড় কোনটি?",
+          "options": [
+            "۱/۳ ও ۰.۳۳۳...",
+            "۰.۳۳",
+            "۰.۳۳۳",
+            "কোনোটিই নয়"
+          ],
+          "answer": "۱/۳ ও ۰.۳۳۳...",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q20",
+          "text": "−۱/۲, −۰.۴۹, −۰.۵۱, −۰.۵ — ক্রমবর্ধমান বিন্যাসে প্রথম সংখ্যা কোনটি?",
+          "options": [
+            "−۱/۲",
+            "−۰.۴۹",
+            "−۰.۵۱",
+            "−۰.۵"
+          ],
+          "answer": "−۰.۵۱",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q21",
+          "text": "নিচের কোনটি সর্বদা মূলদ সংখ্যা?",
+          "options": [
+            "অমূলদ + অমূলদ",
+            "অমূলদ × অমূলদ",
+            "মূলদ + মূলদ",
+            "মূলদ + অমূলদ"
+          ],
+          "answer": "মূলদ + মূলদ",
+          "answerIndex": 2
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q22",
+          "text": "√۲ × √۸ × √۱۸ এর মান کت?",
+          "options": [
+            "۲۴",
+            "۱۲√۲",
+            "۱۸√۲",
+            "۶√۸"
+          ],
+          "answer": "۲۴",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q23",
+          "text": "√۱۲۵ − √۴۵ + √۲۰ এর মান কত?",
+          "options": [
+            "۴√۵",
+            "۵√۵",
+            "۶√۵",
+            "۱۰√۵"
+          ],
+          "answer": "۴√۵",
+          "answerIndex": 0
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q24",
+          "text": "۰.۷۵, ۳/۴, ۰.۷۴۹, ۰.۷۵۱ — নিচের কোনটি সঠিক?",
+          "options": [
+            "۰.۷۴۹ > ۳/۴",
+            "۰.۷۵ = ۳/۴ < ۰.۷۵۱",
+            "۳/۴ > ۰.۷۵۱",
+            "۰.۷۵ < ۰.۷۴۹"
+          ],
+          "answer": "۰.۷۵ = ۳/۴ < ۰.۷۵۱",
+          "answerIndex": 1
+        },
+        {
+          "id": "ssc-general-math-chapter-01-model-test-05-q25",
+          "text": "√۲ একটি অমূলদ সংখ্যা হলে ۳√۲ + ۵ সম্পর্কে কোনটি সত্য?",
+          "options": [
+            "মূলদ সংখ্যা",
+            "পূর্ণসংখ্যা",
+            "অমূলদ সংখ্যা",
+            "স্বাভাবিক সংখ্যা"
+          ],
+          "answer": "অমূলদ সংখ্যা",
+          "answerIndex": 2
+        }
+      ]
+    }
+  ]
+}

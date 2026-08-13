@@ -1,0 +1,102 @@
+{
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q01": {
+    "correctOption": "NH₃ এবং HCl",
+    "explanation": "NH₃ ও HCl একসাথে থাকলে বিক্রিয়া করে; আংশিক চাপ সূত্র প্রযোজ্য নয়।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q02": {
+    "correctOption": "412.3 m/s",
+    "explanation": "Crms = √(3RT/M) = √(3×8.314×300/0.044) ≈ 412.3 m/s।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q03": {
+    "correctOption": "পানিতে অনুজীব দ্বারা পচনশীল বর্জ্যের চেয়ে অপচনশীল রাসায়নিক বর্জ্য বেশি",
+    "explanation": "COD > BOD মানে অজৈব/অপচনশীল দূষণ বেশি।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q04": {
+    "correctOption": "CFC বা ক্লোরোফ্লুরোকার্বন",
+    "explanation": "CFC ফোটোলাইসিসে Cl· মুক্ত করে ওজোন ধ্বংসের চেইন শুরু করে।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q05": {
+    "correctOption": "প্রোপানোন",
+    "explanation": "প্রোপানোন কেটো-এনল টটামেরিজম দেখায়।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q06": {
+    "correctOption": "টারটারিক এসিড",
+    "explanation": "টারটারিক এসিড কাইরাল; বেকিং পাউডারে NaHCO₃ এর সাথে ব্যবহৃত।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q07": {
+    "correctOption": "–NH₂",
+    "explanation": "–NH₂ অর্থো-প্যারা নির্দেশক ও বলয় সক্রিয়কারী।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q08": {
+    "correctOption": "ফেহলিং দ্রবণ পরীক্ষা",
+    "explanation": "ফেহলিং/টলেন অ্যালডিহাইডে ধনাত্মক; সাধারণ কিটোনে নেতিবাচক।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q09": {
+    "correctOption": "যার আলফা-হাইড্রোজেন নেই",
+    "explanation": "আলফা-H নেই এমন অ্যালডিহাইড (যেমন HCHO) ক্যানিজারো দেয়।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q10": {
+    "correctOption": "মিথেন",
+    "explanation": "ডেকার্বক্সিলেশনে CH₃COONa → CH₄ (মিথেন)।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q11": {
+    "correctOption": "১ লিটার দ্রবণে ২৫০ মিলিগ্রাম দ্রাব আছে",
+    "explanation": "ppm = mg/L; 250 ppm = 250 mg প্রতি লিটার।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q12": {
+    "correctOption": "+2",
+    "explanation": "Na₂S₂O₃ এ S এর গড় জারণ সংখ্যা +2।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q13": {
+    "correctOption": "FeSO₄",
+    "explanation": "অম্লীয় KMnO₄ Fe²⁺ কে Fe³⁺ এ জারিত করে বেগুনি বর্ণ হারায়।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q14": {
+    "correctOption": "Na₂CO₃",
+    "explanation": "Na₂CO₃ প্রাইমারি স্ট্যান্ডার্ড; NaOH হাইগ্রোস্কোপিক।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q15": {
+    "correctOption": "96500 C",
+    "explanation": "১ F = 96500 C (≈ 96485 C)।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q16": {
+    "correctOption": "অক্সিজেন গ্যাস",
+    "explanation": "অম্লীয় জল বিশ্লেষণে অ্যানোডে O₂ মুক্ত হয়।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q17": {
+    "correctOption": "1 M ZnSO₄ দ্রবণ",
+    "explanation": "Zn অ্যানোড ZnSO₄ দ্রবণে; Cu ক্যাথোড CuSO₄ এ।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q18": {
+    "correctOption": "বিক্রিয়ক ও উৎপাদের ঘনমাত্রার অনুপাতের ওপর ভিত্তি করে হ্রাস বা বৃদ্ধি পেতে পারে",
+    "explanation": "Ecell নির্ভর করে ΔG° ও ঘনমাত্রার ওপর; তাপমাত্রা পরিবর্তনে E পরিবর্তন হতে পারে।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q19": {
+    "correctOption": "বেসিক ক্রোমিয়াম সালফেট",
+    "explanation": "Cr³⁺ কোলাজেনের সাথে ক্রস-লিংক করে চামড়া ট্যান হয়।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q20": {
+    "correctOption": "হেবার-বস পদ্ধতি",
+    "explanation": "N₂ + 3H₂ ⇌ 2NH₃ (হেবার-বস)।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q21": {
+    "correctOption": "ইথান্যাল এবং ইথানয়িক এসিড",
+    "explanation": "ইথানল মৃদু জারণে ইথান্যাল, তীব্র জারণে ইথানয়িক এসিড।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q22": {
+    "correctOption": "সিলভার দর্পণ পরীক্ষা (টলেন বিকারক)",
+    "explanation": "ইথান্যাল অ্যালডিহাইড; টলেন/ফেহলিং পরীক্ষায় ধনাত্মক।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q23": {
+    "correctOption": "ঋণাত্মক",
+    "explanation": "ΔG < 0 হলে বিক্রিয়া স্বতঃস্ফূর্ত।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q24": {
+    "correctOption": "ওজোন গ্যাস বা হাইড্রোজেন পারঅক্সাইড",
+    "explanation": "TCF ব্লিচিংয়ে O₃ বা H₂O₂ ব্যবহার পরিবেশবান্ধব।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-05-q25": {
+    "correctOption": "নিম্ন চাপ ও উচ্চ তাপমাত্রা",
+    "explanation": "নিম্ন চাপে আন্তঃঅণু বল কম; উচ্চ তাপমাত্রায় আকর্ষণ কমে যায়।"
+  }
+}

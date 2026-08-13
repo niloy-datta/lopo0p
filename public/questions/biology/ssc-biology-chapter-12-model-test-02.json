@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "রিসেসিভ অ্যালিল কী?",
+    "options": [
+      "সবসময় প্রকাশ",
+      "লুকিয়ে থাকে",
+      "DNA নষ্ট",
+      "RNA নষ্ট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "জীবের জিনগত বৈচিত্র্য বা ভ্যারিয়েশন (Variation) সৃষ্টিতে নিচের কোনটির ভূমিকা সবচেয়ে বেশি?",
+    "options": [
+      "মাইটোসিস",
+      "ক্রসিং ওভার",
+      "সাইটোকাইনেসিস",
+      "অ্যামাইটোসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "RNA-এর কাজ কী?",
+    "options": [
+      "শক্তি উৎপাদন",
+      "রক্ত জমাট",
+      "পানি শোষণ",
+      "প্রোটিন সংশ্লেষণে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "উদ্দীপক: বিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান করেন। তার পরীক্ষার প্রধান উপাদান ছিল ক্রোমোজোমে অবস্থিত একটি বিশেষ অণু, যা দ্বিসূত্রক প্যাঁচানো সিঁড়ির মতো। উদ্দীপকে উল্লেখিত বিশেষ অণুটির নাম কী?",
+    "options": [
+      "প্রোটিন",
+      "এনজাইম",
+      "DNA",
+      "RNA"
+    ],
+    "image": "/images/quiz/premium/ssc-biology-chapter-12-model-test-02-q04.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "প্রোটিন সংশ্লেষণ ধাপ কোনটি?",
+    "options": [
+      "ট্রান্সলেশন",
+      "রেপ্লিকেশন",
+      "রেচন",
+      "মিয়োসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "ডারউইনের তত্ত্ব কী?",
+    "options": [
+      "মেন্ডেল",
+      "প্রাকৃতিক নির্বাচন",
+      "নিউটন",
+      "পাস্তুর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "হোমোজাইগাস কী?",
+    "options": [
+      "শূন্য",
+      "দুই ভিন্ন",
+      "একই অ্যালিল",
+      "তিন ভিন্ন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "বিবর্তনের প্রমাণ কী?",
+    "options": [
+      "জীবাশ্ম",
+      "শুধু গণিত",
+      "শুধু কল্পনা",
+      "শুধু পদার্থ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "DNA-এর ডাবল হেলিক্সের একটি পূর্ণ ঘূর্ণনের দৈর্ঘ্য কত?",
+    "options": [
+      "34 Å",
+      "3.4 Å",
+      "340 Å",
+      "20 Å"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "মানুষের প্রতিটি দেহকোষে কয়টি সেক্স ক্রোমোজোম থাকে?",
+    "options": [
+      "২২টি",
+      "২টি",
+      "৪৬টি",
+      "১টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "জৈব অভিব্যক্তি মানে কী?",
+    "options": [
+      "RNA নষ্ট",
+      "জিন প্রকাশ",
+      "DNA নষ্ট",
+      "প্রোটিন নষ্ট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "কোষ বিভাজনের কোন ধাপে ক্রোমোজোমগুলো সবচেয়ে বেশি খাটো ও মোটা দেখায়?",
+    "options": [
+      "মেটাফেজ",
+      "প্রোফেজ",
+      "অ্যানাফেজ",
+      "টেলোফেজ"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "বংশগতি বাহক কী?",
+    "options": [
+      "অক্সিজেন",
+      "জিন",
+      "রক্ত",
+      "পানি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "ডোমিনেন্ট অ্যালিল কী?",
+    "options": [
+      "নষ্ট হয়",
+      "অদৃশ্য",
+      "প্রকাশ পায়",
+      "লুকায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "মেন্ডেলের আইন কী?",
+    "options": [
+      "শ্বাস",
+      "রেচন",
+      "পরিপাক",
+      "বিচ্ছেদ ও স্বতন্ত্র বিন্যাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "মিউটেশন কী?",
+    "options": [
+      "প্রোটিন পরিবর্তন",
+      "RNA পরিবর্তন",
+      "পানি পরিবর্তন",
+      "DNA পরিবর্তন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "বংশগতির রাসায়নিক ভিত্তি (Chemical Basis) বলা হয় কোনটিকে?",
+    "options": [
+      "DNA",
+      "সেন্ট্রোমিয়ার",
+      "প্রোটিন",
+      "ক্রোমোজোম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "জিন মানে কী?",
+    "options": [
+      "DNA-এর অংশ",
+      "প্রোটিন",
+      "এনজাইম",
+      "RNA"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "DNA-এর ডাবল হেলিক্স (Double helix) মডেল আবিষ্কারের জন্য কারা নোবেল পুরস্কার পান?",
+    "options": [
+      "রবার্ট হুক ও লিনিয়াস",
+      "মেন্ডেল ও মরগান",
+      "ওয়াটসন ও ক্রিক",
+      "লুই পাস্তুর ও কখ"
+    ],
+    "image": "/images/quiz/bio-dna-helix.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "ক্রোমোজোম অস্বাভাবিক কী?",
+    "options": [
+      "গলগণ্ড",
+      "রিকেটস",
+      "ডাউন সিন্ড্রোম",
+      "স্কার্ভি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "বংশগত রোগ উদাহরণ কোনটি?",
+    "options": [
+      "স্কার্ভি",
+      "রিকেটস",
+      "হিমোফিলিয়া",
+      "বেরিবেরি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "বংশগতিবিদ্যার জনক (Father of Genetics) বলা হয় কাকে?",
+    "options": [
+      "চার্লস ডারউইন",
+      "টমাস হান্ট মরগান",
+      "ক্যারোলাস লিনিয়াস",
+      "গ্রেগর জোহান মেন্ডেল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "DNA-র দ্বিপাক্ষিক সূত্রাকার কাঠামো আবিষ্কার করেন কারা?",
+    "options": [
+      "পাস্তুর",
+      "ওয়াটসন ও ক্রিক",
+      "মেন্ডেল",
+      "ডারউইন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "DNA প্রতিলিপি কী?",
+    "options": [
+      "ট্রান্সক্রিপশন",
+      "ট্রান্সলেশন",
+      "রেপ্লিকেশন",
+      "মাইটোসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-12-model-test-02-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-12-model-test-02",
+    "text": "ক্রোমোজোমে থাকে কী?",
+    "options": [
+      "শুধু শর্করা",
+      "শুধু RNA",
+      "শুধু লিপিড",
+      "DNA ও প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

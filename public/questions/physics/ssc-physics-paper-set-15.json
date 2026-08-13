@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-paper-set-15-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "নিচের কোনটিতে আল্ট্রাসনোগ্রাফি ব্যবহৃত হয়?",
+    "options": [
+      "ভ্রƒণের আকার জানতে",
+      "রেডিওথেরাপিতে চিকিৎসার জন্য",
+      "ফুসফুসের ক্যান্সার নির্ণয়",
+      "কিডনিতে পাথরের অি¯@ত্ব নির্ণয়ে"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "একটি 2 kg ভরের বস্তুর ওপর 3 m/s² ত্বরণ সৃষ্টি করতে কত বল প্রয়োগ করতে হবে?",
+    "options": [
+      "{(m+a)} N",
+      "6 N",
+      "m/a N",
+      "a/m N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "একটি ঢালু তলের উপর দিয়ে একটি ক্রিকেট বল গড়িয়ে পড়লে কোন ধরনের ঘর্ষণ সৃষ্টি হয়?",
+    "options": [
+      "স্থিতি ঘর্ষণ",
+      "গতি ঘর্ষণ",
+      "আবর্ত ঘর্ষণ",
+      "প্রবাহী ঘর্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "নিচের কোন যন্ত্রে আলোক শক্তিকে তাপ শক্তিতে রূপান্তর করা যায়?",
+    "options": [
+      "জেনারেটর",
+      "মাইক্রোওয়েভ ওভেন",
+      "ফটোগ্রাফিক ফিল্ম",
+      "থার্মোকাপল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "সমান আয়তনের কোন বস্তুর জড়তা বেশি?",
+    "options": [
+      "তামা",
+      "রূপা",
+      "সোনা",
+      "লোহা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "নিচের কোনটি গলনাঙ্ক নির্ণায়ক নয়?",
+    "options": [
+      "ঘনত্ব",
+      "ভর",
+      "তাপ",
+      "চাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "নিচের কোনটি দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের সীমা নির্দেশ করে?",
+    "options": [
+      "300 nm - 700 nm",
+      "400 nm - 700 nm",
+      "300 μm - 700 μm",
+      "400 μm - 700 μm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "উত্তল দর্পণের প্রতিবিম্বের ক্ষেত্রে কোনটি সঠিক?",
+    "options": [
+      "অবা¯@ব ও উল্টা",
+      "বা¯@ব ও সোজা",
+      "বা¯@ব ও উল্টা",
+      "অবা¯@ব ও সোজা"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-15-q08.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "নিচের কোনটিতে আলোর প্রতিসরাঙ্কের মান সবচেয়ে বেশি?",
+    "options": [
+      "শূন্য মাধ্যম",
+      "পানি",
+      "বায়ু",
+      "কাচ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "$5\\text{ C}$ চার্জের জন্য $10\\text{ m}$ দূরে ইলেকট্রিক ফিল্ড কত $\\text{NC}^{-1}$?",
+    "options": [
+      "$4.5 \\times 10^8$",
+      "$4.5 \\times 10^9$",
+      "$1.8 \\times 10^{10}$",
+      "$1.8 \\times 10^{11}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "বর্তনীর মূল তড়িৎ প্রবাহ কত? [6V উৎস, R₁ = 2Ω, R₂ = 3Ω, R₃ = 5Ω শ্রেণিবদ্ধ এবং V = 5V]",
+    "options": [
+      "12.5 A",
+      "2.5 A",
+      "2 A",
+      "0.5 A"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "তাড়িত চৌম্বক আবেশনীতির উপর ভিত্তি করে নিচের কোনটি তৈরি করা হয়?",
+    "options": [
+      "মোটর",
+      "ভোল্টমিটার",
+      "জেনারেটর",
+      "অ্যামিটার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "নিচের কোন যন্ত্রে X-ray ব্যবহৃত হয়?",
+    "options": [
+      "আলট্রাসনোগ্রাফি ও সিটি স্ক্যান",
+      "সিটি স্ক্যান ও রেডিওথেরাপি",
+      "ইসিজি ও আলট্রাসনোগ্রাফি",
+      "ইসিজি ও রেডিওথেরাপি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "থার্মোকাপল কীরূপ তাপমাত্রা পরিমাপ করতে পারে?",
+    "options": [
+      "\\(-200^{\\circ}\\text{C}\\) হতে \\(1000^{\\circ}\\text{C}\\)",
+      "\\(-200\\text{ K}\\) হতে \\(1000\\text{ K}\\)",
+      "\\(0^{\\circ}\\text{C}\\) হতে \\(1000^{\\circ}\\text{C}\\)",
+      "\\(0^{\\circ}\\text{F}\\) হতে \\(100^{\\circ}\\text{F}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "একটি গাড়ির আদিবেগ 9 m/s এবং ত্বরণ 3 m/s²। 8 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "72 m/s",
+      "{u + 2*a*t} m/s",
+      "{u - a*t} m/s",
+      "{u + a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "ক্যাবল টিভি কোনটির সাহায্যে msকেত পাঠায়?",
+    "options": [
+      "অ্যান্টেনা",
+      "রিসিভার",
+      "টাওয়ার",
+      "কো এক্সিয়াল ক্যাবল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "নিচের কোনটি অনবায়নযোগ্য শক্তি?",
+    "options": [
+      "নিউক্লিয়ার",
+      "বায়োমাস",
+      "বায়ু শক্তি",
+      "জিওথার্মাল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "নিরাপদ পানির ঘনত্ব 1000 kg m⁻³ এবং তোমার দেহের ঘনত্ব 985 kg m⁻³ হলে ঐ পানিতে সাঁতার কাটার সময় তোমার শরীরের কত শতাংশ ভাসবে?",
+    "options": [
+      "0.985%",
+      "1.5%",
+      "98.5%",
+      "99.02%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "সুপ্ততাপ কীসের পরিবর্তন ঘটায়?",
+    "options": [
+      "তাপমাত্রার",
+      "অবস্থার",
+      "গলনাঙ্কের",
+      "স্ফুটনাঙ্কের"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "পরীক্ষার মাধ্যমে আলোর তরঙ্গ ধর্মের প্রমাণ করেছিলেন কোন বিজ্ঞানী?",
+    "options": [
+      "থেলিস",
+      "ইয়ং",
+      "ম্যাক্সওয়েল",
+      "বেকেরেল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "আপতন কোণ ও সংকট কোণের মান সমান হলে প্রতিসৃত রশ্মি ও বিভেদ তলের মধ্যবর্তী কোণ কত?",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "0°"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "R বিন্দুতে বিভব শক্তি কত? [P বিন্দু থেকে 10 kg ভরের একটি বস্তু মুক্তভাবে নিচের দিকে পড়ছে। P=40m, S=60m, R=10m]",
+    "options": [
+      "1960J",
+      "3920J",
+      "4230J",
+      "5880J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "সমমানের দুটি রোধ শ্রেণী ও সমান্তরালে সংযুক্ত করলে নিচের কোন সম্পর্কটি সঠিক হবে?",
+    "options": [
+      "$R_p = 4R_s$",
+      "$R_s = 4R_p$",
+      "$R_p = R_s$",
+      "$R_s = 2R_p$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "স্পিকারে কোন ধরনের চুম্বক ব্যবহার করা হয়?",
+    "options": [
+      "তাড়িত চুম্বক",
+      "দণ্ড চুম্বক",
+      "স্থায়ী চুম্বক",
+      "আবেশি চুম্বক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-15-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-15",
+    "text": "কোন আইসোটোপ ব্যবহার করে ক্যান্সার আক্রান্ত কোষকে গামা-রে দিয়ে ধ্বংস করা হয়?",
+    "options": [
+      "¹⁴C",
+      "³²P",
+      "⁶⁰Co",
+      "¹³¹I"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

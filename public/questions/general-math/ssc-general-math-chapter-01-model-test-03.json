@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۰.۰۹ ও ۰.۱ এর মধ্যে বড় কোনটি?",
+    "options": [
+      "۰.۰۹",
+      "۰.۱",
+      "উভয় সমান",
+      "নির্ণয় করা যায় না"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۳/۷ ও ۴/۹ এর মধ্যে বড় কোনটি?",
+    "options": [
+      "۳/۷",
+      "۴/۹",
+      "উভয় সমান",
+      "কোনোটি নয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "নিচের কোন সংখ্যাটি ۰.۵ এর সমান নয়?",
+    "options": [
+      "۱/۲",
+      "۲/۴",
+      "۳/۶",
+      "۵/۱۰۰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "√۲ × √۸ এর মান কত?",
+    "options": [
+      "√۱۰",
+      "√۱۶",
+      "۴",
+      "۲√۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "√۱۸ কে সরল করলে কোনটি হয়?",
+    "options": [
+      "۳√۲",
+      "۲√۳",
+      "۶√۲",
+      "۹√۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "√۵۰ − √۸ এর মান কত?",
+    "options": [
+      "√۴۲",
+      "۳√۲",
+      "۵√۲",
+      "۷√۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۲/۳ সংখ্যাটি কোন দুই পূর্ণসংখ্যার মধ্যে অবস্থিত?",
+    "options": [
+      "−۱ ও ۰",
+      "۰ ও ۱",
+      "۱ ও ۲",
+      "۲ ও ۳"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "−۳/۴ সংখ্যাটি কোন দুই পূর্ণসংখ্যার মধ্যে অবস্থিত?",
+    "options": [
+      "−۲ ও −۱",
+      "−۱ ও ۰",
+      "۰ ও ۱",
+      "−۳ ও −۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۱.۰۵, ۱.۵, ۱.۰۰۵, ۱.۵۰۵ — সবচেয়ে ছোট কোনটি?",
+    "options": [
+      "۱.۰۵",
+      "۱.۵",
+      "۱.۰۰۵",
+      "۱.۵۰۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۰.۴۴۴... ও ۴/۹ সম্পর্কে কোনটি সত্য?",
+    "options": [
+      "۰.۴۴۴... < ۴/۹",
+      "۰.۴۴۴... > ۴/۹",
+      "۰.۴۴۴... = ۴/۹",
+      "তুলনা অসম্ভব"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۰.۱۲۱۲۱۲... ও ۴/۳۳ সম্পর্কে কোনটি সত্য?",
+    "options": [
+      "সমান",
+      "প্রথমটি বড়",
+      "দ্বিতীয়টি বড়",
+      "উভয় অমূলদ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "√۳۶ + ۳² এর মান کت?",
+    "options": [
+      "۱۲",
+      "۱۵",
+      "۱۸",
+      "۲۱"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۰.۲۵² এর মান کت?",
+    "options": [
+      "۰.۰۶۲۵",
+      "۰.۶۲۵",
+      "۰.۰۲۵",
+      "۰.۱۲۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۱/۴ ও ۱/۵ এর মধ্যে পার্থক্য কত?",
+    "options": [
+      "۱/۲۰",
+      "۱/۹",
+      "۲/۲۰",
+      "۱/۱۰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۱/۲ + ۱/۳ + ۱/۶ এর মান কত?",
+    "options": [
+      "۱",
+      "۵/۶",
+      "۲/۳",
+      "۷/۶"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۰.۳, ۱/۳, ۰.۳۳۳... — সঠিক সম্পর্ক কোনটি?",
+    "options": [
+      "۰.۳ = ۱/۳ = ۰.۳۳۳...",
+      "۰.۳ < ۱/۳ = ۰.۳۳۳...",
+      "۰.۳ > ۱/۳",
+      "۱/۳ < ۰.۳۳۳..."
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "নিচের কোনটি অমূলদ সংখ্যার উদাহরণ?",
+    "options": [
+      "√۴",
+      "√۹",
+      "√۱۲",
+      "√۲۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "√۱۲ + √۲۷ এর মান کت?",
+    "options": [
+      "۵√۳",
+      "۷√۳",
+      "√۳۹",
+      "۱۳√۳"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۰.۰۰۴ কে ভগ্নাংশে প্রকাশ করলে সরল রূপ কোনটি?",
+    "options": [
+      "۱/۲۵۰",
+      "۴/۱۰۰",
+      "۱/۲۵",
+      "۱/۲۰۰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۲.۲۵ কে ভগ্নাংশে প্রকাশ করলে কোনটি হয়?",
+    "options": [
+      "۹/۴",
+      "۴/۹",
+      "۲/۲۵",
+      "۲۵/۹"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۷/۲۰ সংখ্যাটির দশমিক রূপ کت?",
+    "options": [
+      "۰.۳۵",
+      "۰.۳۰۵",
+      "۳.۵",
+      "۰.۷۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۰.۶۲۵ সংখ্যাটি কোন ভগ্নাংশের সমান?",
+    "options": [
+      "۳/۸",
+      "۵/۸",
+      "۷/۸",
+      "۱/۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "√۰.۸۱ + √۰.۰۴ এর মান কত?",
+    "options": [
+      "۰.۱۱",
+      "۱.۱",
+      "۰.۹۲",
+      "۰.۷"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "۲/۳ এর গুণাত্মক বিপরীত সংখ্যা কোনটি?",
+    "options": [
+      "−۲/۳",
+      "۳/۲",
+      "۱/۳",
+      "−۳/۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-03-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-03",
+    "text": "−۵/۸ এর যোগাত্মক বিপরীত কোনটি?",
+    "options": [
+      "۸/۵",
+      "−۸/۵",
+      "۵/۸",
+      "−۵/۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

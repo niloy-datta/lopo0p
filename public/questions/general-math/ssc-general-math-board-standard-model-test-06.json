@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "a+b=√10 এবং a−b=√6 হলে 2ab এর মান কত?",
+    "options": [
+      "2",
+      "8",
+      "32",
+      "128"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "½(a²+b²) এর মান কত, যদি a+b=√10 এবং a−b=√6?",
+    "options": [
+      "16",
+      "8",
+      "4",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "৩^(x−2) = 2187 হলে x এর মান কত?",
+    "options": [
+      "−9",
+      "−5",
+      "5",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "x = {−1, 0, 1, 2} সেটটির প্রকৃত উপসেটের সংখ্যা কত?",
+    "options": [
+      "16",
+      "15",
+      "8",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "A = {x: x ∈ N, x ≤ 6}, B = {x: x একটি 3 এর গুণিতক এবং x ≤ 6} হলে A − B কোনটি?",
+    "options": [
+      "{1,2,4,5}",
+      "{3,6}",
+      "{1,3}",
+      "{1,2,3,6}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "f(x) = (2x+1)/(2x−1) হলে f(−½) এর মান কত?",
+    "options": [
+      "2",
+      "1",
+      "−1",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "একটি ত্রিভুজের তিনটি কোণের পরিমাণ যথাক্রমে 30°, 60° ও 90° হলে ত্রিভুজটি কোন ধরনের?",
+    "options": [
+      "স্থূলকোণী",
+      "সূক্ষ্মকোণী",
+      "সমকোণী",
+      "সমবাহু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "বৃত্তের অর্ধবৃত্তের উপচাপে অন্তর্লিখিত কোণ কোনটি?",
+    "options": [
+      "স্থূলকোণ",
+      "সূক্ষ্মকোণ",
+      "সমকোণ",
+      "প্রবৃদ্ধ কোণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "সমবাহু ত্রিভুজের বহিঃস্থ কোণের বিপরীত অন্তঃস্থ কোণদ্বয়ের সমষ্টি কত ডিগ্রি?",
+    "options": [
+      "60",
+      "90",
+      "120",
+      "180"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "চিত্রে O বৃত্তের কেন্দ্র। ∠AOB = কত?",
+    "options": [
+      "180°",
+      "145°",
+      "135°",
+      "90°"
+    ],
+    "image": "/images/quiz/geo-circle-center-o.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "বৃত্তের কেন্দ্রস্থ কোণ 144° এবং ব্যাসার্ধ 10 সে.মি. হলে বৃত্তচাপের দৈর্ঘ্য কত সে.মি.?",
+    "options": [
+      "16π",
+      "12π",
+      "8π",
+      "4π"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "sin(60° − θ) = ½ হলে tan θ এর মান কত?",
+    "options": [
+      "1/√3",
+      "1/2",
+      "√3/2",
+      "√3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "সমকোণী ত্রিভুজে ∠B-এর বিপরীত বাহু ৪ একক ও অতিভুজ ৫ একক হলে sin B = কত?",
+    "options": [
+      "3/5",
+      "4/5",
+      "5/4",
+      "5/3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "একটি ত্রিভুজের দুই বাহু 10 সে.মি. ও 12 সে.মি. এবং অন্তর্ভুক্ত কোণ 30° হলে ক্ষেত্রফল কত?",
+    "options": [
+      "30 বর্গ সে.মি.",
+      "30√3 বর্গ সে.মি.",
+      "60 বর্গ সে.মি.",
+      "60√3 বর্গ সে.মি."
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "নিচের শ্রেণীকৃত উপাত্তের প্রচুরক (mode) কত?\nশ্রেণিব্যাপ্তি: 11–20, 21–30, 31–40, 41–50\nগণসংখ্যা: 5, 12, 8, 5",
+    "options": [
+      "20",
+      "28",
+      "25.5",
+      "35.5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "একটি সমবাহু ত্রিভুজের প্রতি বাহুর দৈর্ঘ্য a হলে ক্ষেত্রফল কত?",
+    "options": [
+      "a²",
+      "(√3/4)a²",
+      "(√3/2)a²",
+      "(1/2)a²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "সামান্তরিকের ক্ষেত্রফলের সূত্র কোনটি?",
+    "options": [
+      "দৈর্ঘ্য × প্রস্থ",
+      "ভূমি × উচ্চতা",
+      "কর্ণদ্বয়ের গুণফল",
+      "½ × ভূমি × উচ্চতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "নিচের শ্রেণীকৃত উপাত্তের মধ্যমা (median) কত?\nশ্রেণিব্যাপ্তি: 31–40, 41–50, 51–60, 61–70, 71–80\nগণসংখ্যা: 4, 8, 20, 12, 6",
+    "options": [
+      "57",
+      "66",
+      "67.67",
+      "69.75"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "3 + 6 + x + 24 + …… ধারাটির x এর মান কত?",
+    "options": [
+      "9",
+      "12",
+      "15",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "0.00045 সংখ্যার সাধারণ লগারিদমের characteristic কত?",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "10 ভিত্তিক log এর ক্ষেত্রে—\ni. log 0 = 1\nii. log 1 = 0\niii. log 100 = 2\n\nনিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "(√5)^(x+3) = (√5⁴)^(2x−1) হলে x এর মান কত?",
+    "options": [
+      "1/7",
+      "1",
+      "5/3",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "একটি বর্গক্ষেত্রের পরিসীমা 36 মি. হলে একটি কর্নের দৈর্ঘ্য কত?",
+    "options": [
+      "6√2 মি.",
+      "6√3 মি.",
+      "9√2 মি.",
+      "9√3 মি."
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "একটি ঘনকের কর্নের দৈর্ঘ্য r√3, যেখানে r = 5 সে.মি. হলে মোট তলের ক্ষেত্রফল কত?",
+    "options": [
+      "20 বর্গ সে.মি.",
+      "25 বর্গ সে.মি.",
+      "125 বর্গ সে.মি.",
+      "150 বর্গ সে.মি."
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-board-standard-model-test-06-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-board-standard-model-test-06",
+    "text": "উচ্চতা 8 সে.মি. ও ব্যাসার্ধ 5 সে.মি. বিশিষ্ট বেলনের ক্ষেত্রে—\ni. বক্রতলের ক্ষেত্রফল 251.33 বর্গ সে.মি.\nii. আয়তন 628.32 ঘন সে.মি.\niii. ভূমির ক্ষেত্রফল 201.06 বর্গ সে.মি.\n\nনিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

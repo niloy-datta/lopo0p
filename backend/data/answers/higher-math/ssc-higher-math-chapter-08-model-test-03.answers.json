@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-08-model-test-03-q01": {
+    "correctOption": "$\\frac{2\\pi}{3}$",
+    "explanation": "$120^\\circ=\\frac{120}{180}\\pi=\\frac{2\\pi}{3}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q02": {
+    "correctOption": "$\\frac{5\\pi}{6}$",
+    "explanation": "$150^\\circ=\\frac{150}{180}\\pi=\\frac{5\\pi}{6}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q03": {
+    "correctOption": "$135^\\circ$",
+    "explanation": "$\\frac{3\\pi}{4}\\times\\frac{180^\\circ}{\\pi}=135^\\circ$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q04": {
+    "correctOption": "$2\\pi$ cm",
+    "explanation": "$s=r\\theta=14\\times\\frac{\\pi}{7}=2\\pi$ cm।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q05": {
+    "correctOption": "$\\frac{\\pi}{3}$",
+    "explanation": "$s=r\\theta$। তাই $6\\pi=18\\theta$, সুতরাং $\\theta=\\frac{\\pi}{3}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q06": {
+    "correctOption": "$\\frac{\\cos\\theta}{\\sin\\theta}$",
+    "explanation": "$\\cot\\theta=\\frac{1}{\\tan\\theta}=\\frac{\\cos\\theta}{\\sin\\theta}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q07": {
+    "correctOption": "1",
+    "explanation": "$\\csc\\theta=\\frac1{\\sin\\theta}$। তাই $\\sin\\theta\\cdot\\csc\\theta=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q08": {
+    "correctOption": "1",
+    "explanation": "$\\sec\\theta=\\frac1{\\cos\\theta}$। তাই $\\cos\\theta\\cdot\\sec\\theta=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q09": {
+    "correctOption": "1",
+    "explanation": "$\\tan45^\\circ=1$, তাই $\\cot45^\\circ=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q10": {
+    "correctOption": "$\\sqrt3$",
+    "explanation": "$\\tan30^\\circ=\\frac1{\\sqrt3}$, তাই $\\cot30^\\circ=\\sqrt3$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q11": {
+    "correctOption": "$\\frac1{\\sqrt3}$",
+    "explanation": "$\\tan60^\\circ=\\sqrt3$, তাই $\\cot60^\\circ=\\frac1{\\sqrt3}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q12": {
+    "correctOption": "$\\sqrt2$",
+    "explanation": "$\\sec45^\\circ=\\frac1{\\cos45^\\circ}=\\sqrt2$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q13": {
+    "correctOption": "$\\frac{2}{\\sqrt3}$",
+    "explanation": "$\\csc60^\\circ=\\frac1{\\sin60^\\circ}=\\frac{2}{\\sqrt3}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q14": {
+    "correctOption": "$\\frac{2}{\\sqrt3}$",
+    "explanation": "$\\sec30^\\circ=\\frac1{\\cos30^\\circ}=\\frac{2}{\\sqrt3}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q15": {
+    "correctOption": "1",
+    "explanation": "মান = $(\\frac{\\sqrt3}{2})(\\frac{\\sqrt3}{2})+(\\frac12)(\\frac12)=\\frac34+\\frac14=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q16": {
+    "correctOption": "1",
+    "explanation": "$\\tan60^\\circ=\\sqrt3$ এবং $\\tan30^\\circ=\\frac1{\\sqrt3}$। গুণফল 1।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q17": {
+    "correctOption": "1",
+    "explanation": "মৌলিক অভেদ অনুযায়ী $\\sin^2\\theta+\\cos^2\\theta=1$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q18": {
+    "correctOption": "$\\cos^2\\theta$",
+    "explanation": "$\\sin^2\\theta+\\cos^2\\theta=1$ থেকে $1-\\sin^2\\theta=\\cos^2\\theta$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q19": {
+    "correctOption": "$\\sin^2\\theta$",
+    "explanation": "$\\sin^2\\theta+\\cos^2\\theta=1$ থেকে $1-\\cos^2\\theta=\\sin^2\\theta$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q20": {
+    "correctOption": "$\\frac5{13}$",
+    "explanation": "$\\sec\\theta=\\frac1{\\cos\\theta}$। তাই $\\cos\\theta=\\frac5{13}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q21": {
+    "correctOption": "$\\frac8{17}$",
+    "explanation": "$\\csc\\theta=\\frac1{\\sin\\theta}$। তাই $\\sin\\theta=\\frac8{17}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q22": {
+    "correctOption": "$\\frac5{12}$",
+    "explanation": "$\\cot\\theta=\\frac1{\\tan\\theta}$। তাই $\\tan\\theta=\\frac5{12}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q23": {
+    "correctOption": "$60^\\circ$",
+    "explanation": "$\\tan\\theta=\\frac{20\\sqrt3}{20}=\\sqrt3$। তাই $\\theta=60^\\circ$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q24": {
+    "correctOption": "$30^\\circ$",
+    "explanation": "$\\tan\\theta=\\frac{10}{10\\sqrt3}=\\frac1{\\sqrt3}$। তাই $\\theta=30^\\circ$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-03-q25": {
+    "correctOption": "$45^\\circ$",
+    "explanation": "সূক্ষ্মকোণে $\\sin45^\\circ=\\cos45^\\circ=\\frac1{\\sqrt2}$।"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q01": {
+    "correctOption": "বাতাসের চাপের উপর নির্ভর করে",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q02": {
+    "correctOption": "(1/2)(YAl)/L^2",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q03": {
+    "correctOption": "(1/2)(YAl)/L^2",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q04": {
+    "correctOption": "ইয়ং এর গুণাঙ্ক",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q05": {
+    "correctOption": "দৃঢ়তার গুণাঙ্ক",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q06": {
+    "correctOption": "-1 ≤ σ ≤ 0.5",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q07": {
+    "correctOption": "কাচ",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q08": {
+    "correctOption": "0",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q09": {
+    "correctOption": "-1 to 0.5",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q10": {
+    "correctOption": "i ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q11": {
+    "correctOption": "-1.5",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q12": {
+    "correctOption": "-1 থেকে 0.5",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q13": {
+    "correctOption": "0.1",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q14": {
+    "correctOption": "ইস্পাত",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q15": {
+    "correctOption": "2.5e-5 mm",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q16": {
+    "correctOption": "-1 to 1/2",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q17": {
+    "correctOption": "steel",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q18": {
+    "correctOption": "8πr 2 T",
+    "explanation": "সাবানের বুদবুদের দুটি মুক্ত পৃষ্ঠ (ভেতরে ও বাইরে) থাকে। তাই মোট ক্ষেত্রফল A=2×4πr 2 =8πr 2 । কৃতকাজ W=A×T=8πr 2 T। (পানির ফোঁটা হলে 4πr 2 T হতো)।"
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q19": {
+    "correctOption": "সংনম্যতা",
+    "explanation": "সংনম্যতা বা Compressibility হলো আয়তন গুণাঙ্কের (K) ঠিক উল্টো (1/K)।"
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q20": {
+    "correctOption": "কঠিন",
+    "explanation": "ইয়ং-এর গুণাঙ্ক দৈর্ঘ্য বিকৃতির সাথে সম্পর্কিত, যা কেবল কঠিন পদার্থের নির্দিষ্ট দৈর্ঘ্যের কারণেই সম্ভব।"
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q21": {
+    "correctOption": "সংশক্তি বল > আসঞ্জন বল",
+    "explanation": "পারদের নিজের অণুগুলোর আকর্ষণ (সংশক্তি) বেশি হওয়ায় এটি কাঁচকে ভেজায় না এবং নিচে নেমে যায়।"
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q22": {
+    "correctOption": "0.25",
+    "explanation": "পয়সনের অনুপাত σ= দৈর্ঘ্য বিকৃতি পার্শ্ব বিকৃতি ​ = 0.2 0.05 ​ = 4 1 ​ =0.25।"
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q23": {
+    "correctOption": "−1 ≤ σ ≤ 0.5",
+    "explanation": "গাণিতিক তাত্ত্বিক হিসাব অনুযায়ী পয়সনের অনুপাতের মান −1 থেকে 0.5 এর মধ্যে থাকে। (যদিও বাস্তবে এটি 0 থেকে 0.5 এর মধ্যে হয়)।"
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q24": {
+    "correctOption": "N m −1",
+    "explanation": "স্থিতিস্থাপক গুণাঙ্কের একক চাপের এককের সমান (N/m 2 বা Pa)। N m −1 হলো স্প্রিং ধ্রুবক বা পৃষ্ঠটানের একক।"
+  },
+  "hsc-physics-1st-paper-chapter-07-model-test-07-q25": {
+    "correctOption": "ইস্পাত (Steel)",
+    "explanation": "ইস্পাতকে বিকৃত করতে সবচেয়ে বেশি বলের প্রয়োজন হয়, এর বিকৃতি প্রতিরোধ ক্ষমতা অনেক বেশি। তাই ইস্পাতের স্থিতিস্থাপকতা বা ইয়ং এর গুণাঙ্ক রাবার বা তামার চেয়ে অনেক বেশি।"
+  }
+}

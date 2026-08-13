@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "একটি ত্রিভুজের দুইটি কোণ $48^\\circ$ ও $72^\\circ$ হলে তৃতীয় কোণ কত?",
+    "options": [
+      "$50^\\circ$",
+      "$55^\\circ$",
+      "$60^\\circ$",
+      "$65^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "ত্রিভুজের একটি বহিঃকোণ $135^\\circ$ এবং তার বিপরীত অন্তঃকোণদ্বয়ের একটি $60^\\circ$ হলে অপর অন্তঃকোণ কত?",
+    "options": [
+      "$65^\\circ$",
+      "$70^\\circ$",
+      "$75^\\circ$",
+      "$80^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "একটি সমদ্বিবাহু ত্রিভুজের প্রতিটি ভূমি কোণ $65^\\circ$ হলে শীর্ষ কোণ কত?",
+    "options": [
+      "$40^\\circ$",
+      "$45^\\circ$",
+      "$50^\\circ$",
+      "$55^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "একটি সমকোণী ত্রিভুজে একটি সূক্ষ্মকোণ $35^\\circ$ হলে অপর সূক্ষ্মকোণ কত?",
+    "options": [
+      "$45^\\circ$",
+      "$50^\\circ$",
+      "$55^\\circ$",
+      "$65^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "দুইটি ত্রিভুজে দুই কোণ ও অন্তর্ভুক্ত বাহু যথাক্রমে সমান হলে কোন শর্তে ত্রিভুজদ্বয় সর্বসম হবে?",
+    "options": [
+      "SSS",
+      "SAS",
+      "ASA",
+      "RHS"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "দুইটি সমকোণী ত্রিভুজে অতিভুজ ও একটি সংশ্লিষ্ট বাহু সমান হলে কোন শর্ত প্রযোজ্য?",
+    "options": [
+      "SSS",
+      "SAS",
+      "ASA",
+      "RHS"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "দুইটি সদৃশ ত্রিভুজের অনুরূপ বাহুর অনুপাত $2:7$ হলে ক্ষেত্রফলের অনুপাত কত?",
+    "options": [
+      "$2:7$",
+      "$4:14$",
+      "$4:49$",
+      "$7:2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "দুইটি সদৃশ ত্রিভুজের ক্ষেত্রফলের অনুপাত $25:36$ হলে অনুরূপ বাহুর অনুপাত কত?",
+    "options": [
+      "$5:6$",
+      "$10:12$",
+      "$25:36$",
+      "$36:25$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "একটি সমকোণী ত্রিভুজের দুই লম্ব বাহু 9 cm ও 12 cm হলে অতিভুজ কত?",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "15 cm",
+      "16 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "একটি সমকোণী ত্রিভুজের অতিভুজ 17 cm এবং একটি বাহু 8 cm হলে অপর বাহু কত?",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "15 cm",
+      "16 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "সামান্তরিকের একটি কোণ $115^\\circ$ হলে তার সন্নিহিত কোণ কত?",
+    "options": [
+      "$55^\\circ$",
+      "$60^\\circ$",
+      "$65^\\circ$",
+      "$75^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "সামান্তরিকের বিপরীত বাহুদ্বয়ের সম্পর্ক কী?",
+    "options": [
+      "সমান ও সমান্তরাল",
+      "অসমান ও লম্ব",
+      "সমান কিন্তু লম্ব",
+      "সমান্তরাল নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "আয়তক্ষেত্রের কর্ণদ্বয়ের বৈশিষ্ট্য কোনটি?",
+    "options": [
+      "কর্ণদ্বয় সমান ও পরস্পরকে সমদ্বিখণ্ডিত করে",
+      "কর্ণদ্বয় লম্ব কিন্তু অসমান",
+      "কর্ণদ্বয় কখনো ছেদ করে না",
+      "কর্ণদ্বয় বাহুর সমান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "রম্বসের কর্ণদ্বয়ের বৈশিষ্ট্য কোনটি?",
+    "options": [
+      "কর্ণদ্বয় পরস্পরকে লম্বভাবে সমদ্বিখণ্ডিত করে",
+      "কর্ণদ্বয় কখনো ছেদ করে না",
+      "কর্ণদ্বয় সবসময় সমান",
+      "কর্ণদ্বয় বাহুর সমান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "বর্গক্ষেত্রের বাহু 6 cm হলে কর্ণ কত?",
+    "options": [
+      "$6\\sqrt2$ cm",
+      "$12$ cm",
+      "$3\\sqrt2$ cm",
+      "$36$ cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "একই সরলরেখার উপর উৎপন্ন সন্নিহিত দুই কোণের একটি $138^\\circ$ হলে অপরটি কত?",
+    "options": [
+      "$42^\\circ$",
+      "$48^\\circ$",
+      "$52^\\circ$",
+      "$58^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "দুইটি সমান্তরাল সরলরেখাকে একটি ছেদক ছেদ করলে একান্তর অন্তঃকোণদ্বয়ের সম্পর্ক কী?",
+    "options": [
+      "সমান",
+      "সম্পূরক",
+      "পরিপূরক",
+      "লম্ব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "সমান্তরাল দুই সরলরেখাকে একটি ছেদক ছেদ করলে একই পাশে অবস্থিত অন্তঃকোণদ্বয়ের একটি $68^\\circ$ হলে অপরটি কত?",
+    "options": [
+      "$102^\\circ$",
+      "$112^\\circ$",
+      "$118^\\circ$",
+      "$122^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "একই জ্যার উপর বিপরীত খণ্ডে উৎপন্ন কোণদ্বয়ের সমষ্টি কত?",
+    "options": [
+      "$90^\\circ$",
+      "$120^\\circ$",
+      "$180^\\circ$",
+      "$360^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "একই চাপের উপর পরিধিতে উৎপন্ন কোণ $38^\\circ$ হলে কেন্দ্রে উৎপন্ন কোণ কত?",
+    "options": [
+      "$38^\\circ$",
+      "$57^\\circ$",
+      "$76^\\circ$",
+      "$114^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "অর্ধবৃত্তে উৎপন্ন কোণ কী ধরনের কোণ?",
+    "options": [
+      "সূক্ষ্মকোণ",
+      "সমকোণ",
+      "স্থূলকোণ",
+      "সরলকোণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে অঙ্কিত ব্যাসার্ধের সঙ্গে কীভাবে অবস্থান করে?",
+    "options": [
+      "লম্ব",
+      "সমান্তরাল",
+      "সমান",
+      "একই সরলরেখায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "বৃত্তের বাইরে একই বিন্দু থেকে অঙ্কিত দুইটি স্পর্শকের দৈর্ঘ্য কেমন?",
+    "options": [
+      "সমান",
+      "অসমান",
+      "একটি দ্বিগুণ",
+      "একটি শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "ত্রিভুজের কোণসমদ্বিখণ্ডক সম্পর্কে কোনটি সত্য?",
+    "options": [
+      "এটি একটি কোণকে দুই সমান কোণে ভাগ করে",
+      "এটি সবসময় বিপরীত বাহুকে সমান করে",
+      "এটি সবসময় বাহুর উপর লম্ব",
+      "এটি শুধু সমবাহু ত্রিভুজে থাকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "ত্রিভুজের লম্ব সম্পর্কে কোনটি সত্য?",
+    "options": [
+      "শীর্ষবিন্দু থেকে বিপরীত বাহু বা তার বর্ধিতাংশের উপর লম্ব রেখাংশ",
+      "শীর্ষবিন্দু থেকে বিপরীত বাহুর মধ্যবিন্দুতে রেখাংশ",
+      "কোণকে দুই সমান কোণে ভাগ করে",
+      "শুধু সমকোণী ত্রিভুজে থাকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

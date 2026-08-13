@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-11-model-test-05-q01": {
+    "correctOption": "2",
+    "explanation": "ঢাল = (15-3)/(8-2)=12/6=2।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q02": {
+    "correctOption": "2",
+    "explanation": "ঢাল = (13-1)/(2+4)=12/6=2।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q03": {
+    "correctOption": "-2",
+    "explanation": "ঢাল = (-6-2)/(9-5)= -8/4 = -2।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q04": {
+    "correctOption": "1/2",
+    "explanation": "ঢাল = (1+2)/(5+1)=3/6=1/2।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q05": {
+    "correctOption": "সমরেখ",
+    "explanation": "AB-এর ঢাল = 6/3=2 এবং BC-এর ঢাল = 6/3=2। তাই বিন্দুগুলো সমরেখ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q06": {
+    "correctOption": "অসমরেখ",
+    "explanation": "AB-এর ঢাল = 3/2 এবং BC-এর ঢাল = 4/2=2। ঢাল সমান নয়, তাই অসমরেখ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q07": {
+    "correctOption": "সমরেখ",
+    "explanation": "AB-এর ঢাল = 6/3=2 এবং BC-এর ঢাল = 6/3=2। তাই তিনটি বিন্দু সমরেখ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q08": {
+    "correctOption": "y=x",
+    "explanation": "তিনটি বিন্দুর প্রতিটিতে x ও y সমান। তাই রেখা y=x।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q09": {
+    "correctOption": "y=-x",
+    "explanation": "প্রতিটি বিন্দুতে y=-x শর্ত পূরণ করে। তাই রেখাটি y=-x।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q10": {
+    "correctOption": "y=2x+1",
+    "explanation": "x=1 হলে y=3, x=3 হলে y=7, x=5 হলে y=11—সবগুলো y=2x+1 পূরণ করে।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q11": {
+    "correctOption": "y=-2x+5",
+    "explanation": "x=0,2,4 বসালে y=5,1,-3 পাওয়া যায়। তাই সমীকরণ y=-2x+5।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q12": {
+    "correctOption": "বর্গ",
+    "explanation": "চার বাহুর দৈর্ঘ্য 4 এবং কোণগুলো সমকোণ। তাই এটি বর্গ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q13": {
+    "correctOption": "আয়তক্ষেত্র",
+    "explanation": "বিপরীত বাহু সমান ও সমান্তরাল; দৈর্ঘ্য 6 ও 3। তাই এটি আয়তক্ষেত্র।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q14": {
+    "correctOption": "সামান্তরিক",
+    "explanation": "AB ও CD-এর ঢাল 1/2 এবং BC ও AD-এর ঢাল 2। বিপরীত বাহু সমান্তরাল, তাই সামান্তরিক।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q15": {
+    "correctOption": "বর্গ",
+    "explanation": "চার বাহুর দৈর্ঘ্য √8 এবং কর্ণদ্বয় AC=4, BD=4। তাই এটি বর্গ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q16": {
+    "correctOption": "সমান্তরাল ও সমান",
+    "explanation": "AB ও CD উভয়ই অনুভূমিক এবং দৈর্ঘ্য 4। তাই সমান্তরাল ও সমান।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q17": {
+    "correctOption": "সামান্তরিক",
+    "explanation": "AB ও CD সমান্তরাল ও সমান; AD ও BC-ও সমান্তরাল। তাই সামান্তরিক।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q18": {
+    "correctOption": "16 বর্গ একক",
+    "explanation": "এটি 4 একক বাহুবিশিষ্ট বর্গ। ক্ষেত্রফল = 4×4 = 16।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q19": {
+    "correctOption": "24 বর্গ একক",
+    "explanation": "দৈর্ঘ্য 6 এবং প্রস্থ 4। ক্ষেত্রফল = 6×4 = 24।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q20": {
+    "correctOption": "4√2",
+    "explanation": "কর্ণ AC = √[(4-0)^2+(4-0)^2] = √32 = 4√2।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q21": {
+    "correctOption": "5",
+    "explanation": "কর্ণ AC = √[(5-1)^2+(4-1)^2] = √(16+9)=5।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q22": {
+    "correctOption": "3",
+    "explanation": "AB x-অক্ষের উপর এবং C বিন্দুর y-স্থানাঙ্ক 3। তাই উচ্চতা 3।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q23": {
+    "correctOption": "20 বর্গ একক",
+    "explanation": "AB=8 এবং উচ্চতা=5। ক্ষেত্রফল = 1/2×8×5 = 20।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q24": {
+    "correctOption": "24 বর্গ একক",
+    "explanation": "AB=8 এবং C থেকে AB-এর উচ্চতা 6। ক্ষেত্রফল = 1/2×8×6 = 24।"
+  },
+  "ssc-higher-math-chapter-11-model-test-05-q25": {
+    "correctOption": "15 বর্গ একক",
+    "explanation": "AB=6 এবং C থেকে AB-এর লম্ব দূরত্ব = 7-2 = 5। ক্ষেত্রফল = 1/2×6×5 = 15।"
+  }
+}

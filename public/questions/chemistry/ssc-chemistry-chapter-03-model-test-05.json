@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q01",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "পর্যায় সারিতে ধাতুত্ব কোন দিকে বাড়ে?",
+    "options": [
+      "ডান থেকে বামে",
+      "বাম থেকে ডানে",
+      "উপরে",
+      "নিচে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q02",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "ক্ষার ধাতু কোন গ্রুপে?",
+    "options": [
+      "১৭",
+      "২",
+      "১",
+      "১৮"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q03",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "মৌলের পর্যায়বৃত্ত ধর্ম কী নির্ধারণ করে?",
+    "options": [
+      "রঙ",
+      "নিউট্রন সংখ্যা",
+      "ইলেকট্রন বিন্যাস",
+      "আয়তন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q04",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "9 গ্রুপের মৌলগুলো সাধারণত কী?",
+    "options": [
+      "অ্যালকাইন",
+      "নিষ্ক্রিয় গ্যাস",
+      "ক্ষার ধাতু",
+      "হ্যালোজেন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q05",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "পরমাণু সংখ্যা 11 এর মৌল কোন তথ্য দেয়?",
+    "options": [
+      "Z=11",
+      "ঘনত্ব",
+      "pH",
+      "আয়নিক ব্যাসার্ধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q06",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "সংক্রমণ ধাতুর বৈশিষ্ট্য?",
+    "options": [
+      "শুধু -1",
+      "নিষ্ক্রিয়",
+      "শুধু +1",
+      "ভেরিয়েবল ভ্যালেন্সি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q07",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "ল্যাথানাইড কোন ব্লকের?",
+    "options": [
+      "p-ব্লক",
+      "d-ব্লক",
+      "s-ব্লক",
+      "f-ব্লক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q08",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "মৌলের রাসায়নিক ধর্ম নির্ভর করে?",
+    "options": [
+      "ভ্যালেন্স ইলেকট্রনের উপর",
+      "ঘনত্বে",
+      "নিউক্লিয়াসের আয়তনে",
+      "রঙে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q09",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "সবচেয়ে তড়িৎঋণাত্মক মৌল কোন দিকে?",
+    "options": [
+      "নিচের-বাম",
+      "উপরের-ডান",
+      "গ্রুপ ১",
+      "মাঝখানে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q10",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "পর্যায় সংখ্যা কী নির্দেশ করে?",
+    "options": [
+      "শক্তিস্তর সংখ্যা",
+      "গ্রুপ সংখ্যা",
+      "আয়নিক চার্জ",
+      "ভর সংখ্যা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q11",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "নোবেল গ্যাস কোন গ্রুপে?",
+    "options": [
+      "২",
+      "১৮",
+      "১৭",
+      "১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q12",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "পর্যায় সারিতে বাম থেকে ডানে পরমাণু ব্যাসার্ধ কী হয়?",
+    "options": [
+      "বাড়ে",
+      "অপরিবর্তিত",
+      "শূন্য",
+      "কমে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q13",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "Z=11 মৌলটি পর্যায় সারণিতে কোথায়?",
+    "options": [
+      "শুধু ব্লকে",
+      "শুধু গ্রুপে",
+      "গ্যাস স্তরে",
+      "নির্দিষ্ট পর্যায় ও গ্রুপে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q14",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "পর্যায় সারণিতে He কোথায়?",
+    "options": [
+      "গ্রুপ ১",
+      "গ্রুপ ২",
+      "গ্রুপ ১৮",
+      "গ্রুপ ১৭"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "সাধারণ ধাতুর বৈশিষ্ট্য?",
+    "options": [
+      "গ্যাসীয়",
+      "ভঙ্গুর",
+      "বিদ্যুৎ পরিবাহী",
+      "ইনসুলেটর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "পর্যায় সারণিতে উল্লম্ব সারিকে বলে?",
+    "options": [
+      "গ্রুপ",
+      "উপগ্রুপ",
+      "পর্যায়",
+      "ব্লক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q17",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "ভর সংখ্যা A=21, Z=11 হলে নিউট্রন সংখ্যা?",
+    "options": [
+      "21",
+      "10",
+      "1",
+      "11"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q18",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "ইলেকট্রন বিন্যাসে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা কত?",
+    "options": [
+      "৮",
+      "৬",
+      "১০",
+      "২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q19",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "হ্যালোজেন কোন গ্রুপে?",
+    "options": [
+      "১৮",
+      "২",
+      "১",
+      "১৭"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q20",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "গ্রুপে উপর থেকে নিচে আয়নিক ব্যাসার্ধ কী হয়?",
+    "options": [
+      "কমে",
+      "বাড়ে",
+      "স্থির",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q21",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "তড়িৎঋণাত্মকতা বৃদ্ধি পায় কোন দিকে?",
+    "options": [
+      "উপরের-ডান",
+      "নিচের-বাম",
+      "মাঝখানে",
+      "গ্রুপ ১৮"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q22",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "Cl এর গ্রুপ নম্বর?",
+    "options": [
+      "১৬",
+      "১৭",
+      "১৫",
+      "১৮"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q23",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "অধাতুর বৈশিষ্ট্য?",
+    "options": [
+      "সবসময় তরল",
+      "চুম্বকীয়",
+      "ইনসুলেটর হতে পারে",
+      "সবসময় ধাতু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q24",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "পর্যায় সারণিতে অনুভূমিক সারিকে বলে?",
+    "options": [
+      "ব্লক",
+      "উপগ্রুপ",
+      "পর্যায়",
+      "গ্রুপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-03-model-test-05-q25",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-03-model-test-05",
+    "text": "ইসোটোপের ক্ষেত্রে কী একই থাকে?",
+    "options": [
+      "নিউট্রন সংখ্যা",
+      "ভর সংখ্যা",
+      "ইলেকট্রন সংখ্যা ভিন্ন",
+      "প্রোটন সংখ্যা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

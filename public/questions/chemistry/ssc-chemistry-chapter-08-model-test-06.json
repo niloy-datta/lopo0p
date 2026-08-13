@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q01",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "নিচের কোন ধাতুটি জলীয় দ্রবণ থেকে হাইড্রোজেনকে প্রতিস্থাপন করতে পারে না?",
+    "options": [
+      "কপার (Cu)",
+      "জিঙ্ক (Zn)",
+      "লোহা (Fe)",
+      "ম্যাগনেসিয়াম (Mg)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q02",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "শুষ্ক কোষে কার্বন গুঁড়োর ব্যবহার করার মূল কারণ কী?",
+    "options": [
+      "কোষের বৈদ্যুতিক পরিবাহিতা বৃদ্ধি করা",
+      "রাসায়নিক বিক্রিয়া বন্ধ করা",
+      "পাত্রটিকে শক্ত করা",
+      "ভোল্টেজ কমানো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q03",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "সোডিয়াম ক্লোরাইডের (NaCl) জলীয় দ্রবণে ক্যাথোড বিক্রিয়াটি নিচের কোনটি?",
+    "options": [
+      "2H⁺ + 2e⁻ → H₂",
+      "Na⁺ + e⁻ → Na",
+      "2Cl⁻ → Cl₂ + 2e⁻",
+      "4OH⁻ → O₂ + 2H₂O + 4e⁻"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q04",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "অম্লীয় পানির তড়িৎ বিশ্লেষণে ১ মোল অক্সিজেন গ্যাস (O₂) উৎপন্ন হতে কত ফ্যারাডে (F) বিদ্যুৎ প্রয়োজন?",
+    "options": [
+      "৪ F",
+      "২ F",
+      "১ F",
+      "৮ F"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q05",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "লোহায় মরিচা পড়া প্রতিরোধে ক্রোমিয়ামের পাতলা প্রলেপ দেওয়াকে কী বলা হয়?",
+    "options": [
+      "ক্রোমিয়াম প্লেটিং (Chromium Plating)",
+      "গ্যালভানাইজিং",
+      "টিন প্লেটিং",
+      "অ্যানোডাইজিং"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q06",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "ড্যানিয়েল কোষে তড়িৎ প্রবাহ বাড়াতে জিংক সালফেট (ZnSO₄) দ্রবণের ঘনত্বের কী পরিবর্তন প্রয়োজন?",
+    "options": [
+      "জিঙ্ক সালফেটের ঘনমাত্রা কমানো প্রয়োজন",
+      "ঘনমাত্রা বৃদ্ধি করা প্রয়োজন",
+      "ঘনমাত্রা অসীম করা প্রয়োজন",
+      "ঘনত্বের কোনো সম্পর্ক নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q07",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "অম্ল ও ক্ষারের প্রশমন বিক্রিয়ায় প্রধানত দর্শক আয়নগুলো ছাড়া মূল কোন রাসায়নিক পরিবর্তনটি ঘটে?",
+    "options": [
+      "H⁺ ও OH⁻ যুক্ত হয়ে H₂O গঠন",
+      "এসিডের জারণ",
+      "ক্ষারের বাষ্পীভবন",
+      "লবণের অধঃক্ষেপণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q08",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "১ মোল হাইড্রোজেন গ্যাসের (H₂) সম্পূর্ণ দহনে কত তাপশক্তি নির্গত হয়?",
+    "options": [
+      "২৮৬ kJ",
+      "৩৯৩.৫ kJ",
+      "৮৯০ kJ",
+      "৫৭.৩৪ kJ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q09",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "তড়িৎ বিশ্লেষ্য কোষে (Electrolytic Cell) ঋণাত্মক তড়িৎদ্বারকে কী বলা হয়?",
+    "options": [
+      "ক্যাথোড",
+      "অ্যানোড",
+      "লবণ সেতু",
+      "ব্যাটারি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q10",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "গ্যালভানিক কোষে সংঘটিত রাসায়নিক বিক্রিয়াটি কোন ধরনের?",
+    "options": [
+      "স্বতঃস্ফূর্ত রেডক্স বিক্রিয়া",
+      "অস্বতঃস্ফূর্ত বিক্রিয়া",
+      "তড়িৎ চালিত অপ্রশমিত বিক্রিয়া",
+      "ভৌত বাষ্পীভবন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q11",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "ড্রাই সেল বা শুষ্ক কোষের অ্যানোড বিক্রিয়াটি নিচের কোনটি?",
+    "options": [
+      "Zn → Zn²⁺ + 2e⁻",
+      "2NH₄⁺ + 2MnO₂ + 2e⁻ → Mn₂O₃ + 2NH₃ + H₂O",
+      "Zn²⁺ + 2e⁻ → Zn",
+      "Cu → Cu²⁺ + 2e⁻"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q12",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "গ্যালভানিক কোষে অ্যানোড ও ক্যাথোড পাত্রকে বৈদ্যুতিক স্পর্শ ছাড়া সংযুক্তকারী কাচনলকে কী বলে?",
+    "options": [
+      "লবণ সেতু (Salt Bridge)",
+      "তড়িৎদ্বার",
+      "কানেক্টিং তার",
+      "থার্মোমিটার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q13",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "জারণ অর্ধ-বিক্রিয়ায় অংশ নেওয়া পরমাণু বা আয়ন নিচের কোনটি করে?",
+    "options": [
+      "ইলেকট্রন বর্জন করে",
+      "ইলেকট্রন গ্রহণ করে",
+      "প্রোটন বর্জন করে",
+      "নিউট্রন গ্রহণ করে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q14",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "কোনো গ্যাসীয় ক্যাটায়ন বা অ্যানায়ন পানির অণুর সাথে যুক্ত হওয়ার সময় নির্গত শক্তিকে কী বলে?",
+    "options": [
+      "হাইড্রেশন শক্তি (Hydration Energy)",
+      "ল্যাটিস শক্তি",
+      "বন্ধন শক্তি",
+      "বিয়োজন তাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "নিচের কোনটি জলীয় দ্রবণে সম্পূর্ণ আয়নিত অবস্থায় থাকে এবং তীব্র তড়িৎ বিশ্লেষ্য?",
+    "options": [
+      "সোডিয়াম হাইড্রোক্সাইড (NaOH)",
+      "অ্যাসিটিক এসিড (CH₃COOH)",
+      "বিশুদ্ধ পানি (H₂O)",
+      "অ্যামোনিয়া (NH₃)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "শুষ্ক কোষে দস্তার চোঙের চারপাশ ঢাকতে সাধারণত কী ব্যবহার করা হয়?",
+    "options": [
+      "অপরিবাহী প্লাস্টিক বা কাগজের আবরণ",
+      "কপার দণ্ড",
+      "স্টার্চ পেস্ট",
+      "জিঙ্ক সালফেট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q17",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "তীব্র অম্ল ও তীব্র ক্ষারের প্রশমন তাপের মান ধ্রুবক (-৫৭.৩৪ kJ) হওয়ার কারণ দর্শক আয়নদের ভূমিকা কেমন?",
+    "options": [
+      "দর্শক আয়নগুলো বিক্রিয়ায় অংশ নেয় না",
+      "দর্শক আয়নগুলো বাষ্পীভূত হয়",
+      "দর্শক আয়নগুলো তাপ শোষণ করে",
+      "দর্শক আয়নগুলো জারিত হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q18",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "পানির তড়িৎ বিশ্লেষণে অ্যানোডে কোন রাসায়নিক বিক্রিয়াটি ঘটে?",
+    "options": [
+      "2H₂O → O₂ + 4H⁺ + 4e⁻",
+      "2H⁺ + 2e⁻ → H₂",
+      "Na⁺ + e⁻ → Na",
+      "2Cl⁻ → Cl₂ + 2e⁻"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q19",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "নিচের কোনটি জলীয় দ্রবণে আংশিক আয়নিত অবস্থায় থাকে এবং মৃদু তড়িৎ বিশ্লেষ্য?",
+    "options": [
+      "অ্যাসিটিক এসিড (CH₃COOH)",
+      "সোডিয়াম ক্লোরাইড (NaCl)",
+      "হাইড্রোক্লোরিক এসিড (HCl)",
+      "কপার সালফেট (CuSO₄)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q20",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "তড়িৎ রাসায়নিক কোষে লবণ সেতু ব্যবহারের প্রধান কারণ কী?",
+    "options": [
+      "কোষের উভয় পাশের আধানের ভারসাম্য রক্ষা করা",
+      "কোষের ভোল্টেজ বৃদ্ধি করা",
+      "তামা ও দস্তার ক্ষয় রোধ করা",
+      "দ্রবণ দুটিকে মিশিয়ে ফেলা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q21",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "১ কিলোজুল (kJ) শক্তির মান কত জুলের সমান?",
+    "options": [
+      "১০০০ J",
+      "১০০ J",
+      "৪.১৮৪ J",
+      "০.২৩৯ J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q22",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "জিংক ও কপার ধাতুর মধ্যে কোন ধাতুর ইলেকট্রন বর্জনের প্রবণতা বা জারণ বিভব বেশি?",
+    "options": [
+      "জিঙ্ক (Zn)",
+      "কপার (Cu)",
+      "উভয়ের সমান",
+      "উভয়ই নিষ্ক্রিয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q23",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "তড়িৎ প্রলেপন (Electroplating) করার সময় ধাতুর ক্যাটায়ন কোন তড়িৎদ্বারে গিয়ে ইলেকট্রন গ্রহণ করে?",
+    "options": [
+      "ক্যাথোডে",
+      "অ্যানোডে",
+      "লবণ সেতুতে",
+      "ব্যাটারিতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q24",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "লেড-এসিড ব্যাটারি পুনরায় চার্জ করার সময় ক্যাথোডে কোন বিজারণ বিক্রিয়াটি ঘটে?",
+    "options": [
+      "PbSO₄ + 2e⁻ → Pb + SO₄²⁻",
+      "Pb + SO₄²⁻ → PbSO₄ + 2e⁻",
+      "PbO₂ + SO₄²⁻ + 4H⁺ + 2e⁻ → PbSO₄ + 2H₂O",
+      "PbSO₄ + 2H₂O → PbO₂ + SO₄²⁻ + 4H⁺ + 2e⁻"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-06-q25",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-06",
+    "text": "রাসায়নিক বন্ধন শক্তির মান সবসময় ধনাত্মক হওয়ার অর্থ কী?",
+    "options": [
+      "বন্ধনটি ভাঙতে বাইরে থেকে শক্তি দিতে হয় (তাপহারী)",
+      "বন্ধন ভাঙলে শক্তি মুক্ত হয়",
+      "বন্ধনটি অত্যন্ত দুর্বল",
+      "যৌগটি উদ্বায়ী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "স্টোমাটার কাজ কী?",
+    "options": [
+      "কোষ বিভাজন",
+      "পানি ধারণ",
+      "প্রোটিন তৈরি",
+      "গ্যাস বিনিময়"
+    ],
+    "image": "/images/quiz/bio-stomata.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "এনজাইমের কাজ কী?",
+    "options": [
+      "শক্তি উৎপাদন",
+      "রেচন",
+      "DNA তৈরি",
+      "জৈব প্রতিক্রিয়া ত্বরান্বিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "সবাত শ্বসনে এক অণু গ্লুকোজ সম্পূর্ণ জারিত হয়ে কয়টি কার্বন ডাই অক্সাইড (CO2) অণু তৈরি করে?",
+    "options": [
+      "৪টি",
+      "২টি",
+      "৩৮টি",
+      "৬টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "সালোকসংশ্লেষণে সবচেয়ে বেশি কার্যকর আলোর তরঙ্গদৈর্ঘ্য কোনটি?",
+    "options": [
+      "বেগুনি আলো",
+      "সবুজ আলো",
+      "লাল আলো",
+      "হলুদ আলো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "শ্বসন প্রক্রিয়ায় গ্লাইকোলাইসিস ধাপে নিট কয়টি ATP অণু উৎপন্ন হয়?",
+    "options": [
+      "২টি",
+      "৬টি",
+      "৩৮টি",
+      "৪টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "সবাত শ্বসনে অ্যাসিটাইল কো-এ তৈরিতে কয়টি CO2 অণু উৎপন্ন হয়?",
+    "options": [
+      "৬টি",
+      "৪টি",
+      "৮টি",
+      "২টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "পাতার সবুজ রং কারণ কী?",
+    "options": [
+      "স্টার্চ",
+      "জাইলেম",
+      "ক্লোরোফিল",
+      "কারোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "এই কিউটিকলের প্রধান কাজ হলো — i. অতিরিক্ত প্রস্বেদন রোধ করা ii. যান্ত্রিক আঘাত থেকে রক্ষা করা iii. সালোকসংশ্লেষণে সাহায্য করা",
+    "options": [
+      "i ও iii",
+      "i ও ii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "ফটোরেসপিরেশন ঘটে কোথায়?",
+    "options": [
+      "দিনে",
+      "রাতে",
+      "বৃষ্টিতে",
+      "শীতকালে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "সালোকসংশ্লেষণে শক্তি উৎস কী?",
+    "options": [
+      "রাসায়নিক বন্ধন",
+      "বাতাস",
+      "সূর্যালোক",
+      "তাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "উদ্ভিদে অক্সিজেন উৎপাদন কী?",
+    "options": [
+      "সালোকসংশ্লেষণে",
+      "পরিপাকে",
+      "শ্বসনে",
+      "রেচনে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "মানবে শ্বসনের গ্যাস বিনিময় কোথায় ঘটে?",
+    "options": [
+      "লিভারে",
+      "ফুসফুসে",
+      "কিডনিতে",
+      "ত্বকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "শ্বসনে শক্তি মুদ্রা কী?",
+    "options": [
+      "ATP",
+      "গ্লুকোজ",
+      "RNA",
+      "DNA"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "বায়বীয় শ্বসনে (Aerobic respiration) এক অণু গ্লুকোজ সম্পূর্ণ জারিত হয়ে মোট কয়টি ATP উৎপন্ন করে?",
+    "options": [
+      "২টি",
+      "৩৬টি",
+      "৮টি",
+      "৩৮টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "সালোকসংশ্লেষণে আলোর পরিপূরক অভ্যন্তরীণ উপাদান কোনটি?",
+    "options": [
+      "পানি",
+      "খনিজ লবণ",
+      "ক্লোরোফিল",
+      "তাপমাত্রা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "সালোকসংশ্লেষণের স্থান কোথায়?",
+    "options": [
+      "নিউক্লিয়াস",
+      "রাইবোসোম",
+      "ক্লোরোপ্লাস্ট",
+      "মাইটোকন্ড্রিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "সালোকসংশ্লেষণ প্রক্রিয়ার অন্ধকার পর্যায়ে কার্বন ডাই অক্সাইড (CO2) বিজারণের কয়টি গতিপথ আবিষ্কৃত হয়েছে?",
+    "options": [
+      "৫টি",
+      "২টি",
+      "৪টি",
+      "৩টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "শ্বসনের স্থান কোথায়?",
+    "options": [
+      "মাইটোকন্ড্রিয়া",
+      "ক্লোরোপ্লাস্ট",
+      "কোষপ্রাচীর",
+      "ভ্যাকুয়োল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "প্রকাশ্য প্রতিক্রিয়ায় ব্যবহৃত কোনটি?",
+    "options": [
+      "ATP",
+      "NADPH",
+      "O₂",
+      "CO₂ ও H₂O"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "অন্ধকার প্রতিক্রিয়ায় তৈরি কী?",
+    "options": [
+      "পানি",
+      "O₂",
+      "গ্লুকোজ",
+      "CO₂"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "শ্বসন ও সালোকসংশ্লেষণের সম্পর্ক কী?",
+    "options": [
+      "অসম্পর্কিত",
+      "একই",
+      "বিপরীতমুখী",
+      "শুধু উদ্ভিদে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "উদ্ভিদে স্টার্চ সংরক্ষিত কোথায়?",
+    "options": [
+      "ফুল",
+      "মূল",
+      "ব্যাকটেরিয়া",
+      "পাতা ও বীজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "শ্বসনের শেষ উৎপাদ কী?",
+    "options": [
+      "শুধু স্টার্চ",
+      "CO₂ ও H₂O",
+      "শুধু ATP",
+      "O₂ ও গ্লুকোজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "সালোকসংশ্লেষণে অক্সিজেন উৎপন্ন হয় — উৎস কী?",
+    "options": [
+      "গ্লুকোজ থেকে",
+      "পানি ভাঙ্গা থেকে",
+      "ক্লোরোফিল থেকে",
+      "CO₂ থেকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-04-model-test-01-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-04-model-test-01",
+    "text": "NADPH তৈরি হয় কী?",
+    "options": [
+      "প্রকাশ্য প্রতিক্রিয়ায়",
+      "রেচনে",
+      "শ্বসনে",
+      "অন্ধকার প্রতিক্রিয়ায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

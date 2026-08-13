@@ -1,0 +1,102 @@
+{
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q01": {
+    "correctOption": "1.414 (√2)",
+    "explanation": "μ = sin((A+δm)/2) / sin(A/2) = sin45°/sin30° = (1/√2)/(1/2) = √2 = 1.414"
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q02": {
+    "correctOption": "−0.2 m",
+    "explanation": "P = 1/f ⇒ f = 1/P = 1/(−5) = −0.2 m = −20 cm। ঋণাত্মক চিহ্ন নির্দেশ করে এটি অবতল লেন্স।"
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q03": {
+    "correctOption": "144 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q04": {
+    "correctOption": "81 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q05": {
+    "correctOption": "135 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q06": {
+    "correctOption": "240 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q07": {
+    "correctOption": "28 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q08": {
+    "correctOption": "630 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q09": {
+    "correctOption": "1008 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q10": {
+    "correctOption": "64 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q11": {
+    "correctOption": "128 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q12": {
+    "correctOption": "90 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q13": {
+    "correctOption": "27 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q14": {
+    "correctOption": "108 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q15": {
+    "correctOption": "144 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q16": {
+    "correctOption": "4\\Omega",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q17": {
+    "correctOption": "I = \\frac{2E}{R+\\frac{r}{2}}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q18": {
+    "correctOption": "0.94",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q19": {
+    "correctOption": "49",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q20": {
+    "correctOption": "0^\\circ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q21": {
+    "correctOption": "\\frac{\\lambda}{4}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q22": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q23": {
+    "correctOption": "আপেক্ষিক রোধ একই থাকে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q24": {
+    "correctOption": "\\frac{1}{8}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-05-q25": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  }
+}

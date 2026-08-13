@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-12-model-test-02-q01": {
+    "correctOption": "3i+4j",
+    "explanation": "AB = B-A = (4-1)i+(6-2)j = 3i+4j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q02": {
+    "correctOption": "13",
+    "explanation": "AB=(5i+12j)। তাই |AB|=√(5²+12²)=13।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q03": {
+    "correctOption": "5i+12j",
+    "explanation": "AB=(3-(-2))i+(13-1)j=5i+12j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q04": {
+    "correctOption": "-3i-4j",
+    "explanation": "AB=(1-4)i+(1-5)j=-3i-4j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q05": {
+    "correctOption": "3i+4j",
+    "explanation": "BA=A-B=(4-1)i+(5-1)j=3i+4j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q06": {
+    "correctOption": "-2i-3j",
+    "explanation": "BA হলো AB-এর বিপরীত ভেক্টর। তাই BA=-(2i+3j)=-2i-3j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q07": {
+    "correctOption": "2i+2j",
+    "explanation": "a+b=(4-2)i+(-3+5)j=2i+2j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q08": {
+    "correctOption": "3i+6j",
+    "explanation": "a-b=(6-3)i+(2-(-4))j=3i+6j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q09": {
+    "correctOption": "5i+j",
+    "explanation": "2a=4i-2j। তাই 2a+b=(4i-2j)+(i+3j)=5i+j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q10": {
+    "correctOption": "5i-6j",
+    "explanation": "2b=2i-8j। তাই a+2b=(3i+2j)+(2i-8j)=5i-6j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q11": {
+    "correctOption": "11i+7j",
+    "explanation": "3a=15i+9j এবং 2b=4i+2j। তাই 3a-2b=11i+7j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q12": {
+    "correctOption": "2√26",
+    "explanation": "a+b=10i+2j। মান = √(10²+2²)=√104=2√26।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q13": {
+    "correctOption": "(3/5)i+(4/5)j",
+    "explanation": "|a|=10। তাই a/|a|=(6/10)i+(8/10)j=(3/5)i+(4/5)j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q14": {
+    "correctOption": "13",
+    "explanation": "|a|=√((-5)²+12²)=√169=13।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q15": {
+    "correctOption": "(-5/13)i+(12/13)j",
+    "explanation": "|a|=13। তাই একক ভেক্টর a/|a|=(-5/13)i+(12/13)j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q16": {
+    "correctOption": "b=2a",
+    "explanation": "2a=2(2i+3j)=4i+6j=b। তাই b=2a।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q17": {
+    "correctOption": "a=-3b",
+    "explanation": "-3b=-3(-i+2j)=3i-6j=a। তাই a=-3b।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q18": {
+    "correctOption": "সমান্তরাল",
+    "explanation": "b=2a। এক ভেক্টর অন্যটির স্কেলার গুণিতক হলে তারা সমান্তরাল।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q19": {
+    "correctOption": "0i+0j",
+    "explanation": "b=-a। তাই a+b=a+(-a)=0i+0j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q20": {
+    "correctOption": "0i+0j",
+    "explanation": "যেকোনো ভেক্টরের সঙ্গে তার বিপরীত ভেক্টর যোগ করলে শূন্য ভেক্টর পাওয়া যায়।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q21": {
+    "correctOption": "10",
+    "explanation": "|a|=5। তাই |2a|=2|a|=10।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q22": {
+    "correctOption": "13",
+    "explanation": "বিপরীত ভেক্টরের মান মূল ভেক্টরের মানের সমান। |a|=13, তাই |-a|=13।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q23": {
+    "correctOption": "(1/√2)i+(1/√2)j",
+    "explanation": "b=2i+2j, |b|=√8=2√2। তাই একক ভেক্টর = (1/√2)i+(1/√2)j।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q24": {
+    "correctOption": "5",
+    "explanation": "অবস্থান ভেক্টর = 3i-4j। মান = √(3²+(-4)²)=5।"
+  },
+  "ssc-higher-math-chapter-12-model-test-02-q25": {
+    "correctOption": "10",
+    "explanation": "অবস্থান ভেক্টর = -8i+6j। মান = √(64+36)=10।"
+  }
+}

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "তানিয়ার রক্তের গ্রুপ A negative। তানিয়াকে কোন গ্রুপের রক্ত দেওয়া সবচেয়ে নিরাপদ?",
+    "options": [
+      "A negative",
+      "O positive",
+      "AB negative",
+      "A positive"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "কৈশিকনালির ব্যাস কেমন?",
+    "options": [
+      "মাঝারি",
+      "শূন্য",
+      "বড়",
+      "অতি সূক্ষ্ম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "রক্তের গ্রুপ নির্ধারণ কী?",
+    "options": [
+      "অ্যান্টিজেন",
+      "এনজাইম",
+      "ভিটামিন",
+      "হরমোন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "অনুচক্রিকার কাজ কী?",
+    "options": [
+      "O₂ বহন",
+      "রক্ত জমাট",
+      "পানি পরিবহন",
+      "রোগ প্রতিরোধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "মানবদেহে রক্ত সঞ্চালনের সঠিক গতিপথ কোনটি?",
+    "options": [
+      "ধমনি → শিরা → হৃৎপিণ্ড → কৈশিকনালি → ধমনি",
+      "শিরা → হৃৎপিণ্ড → ধমনি → কৈশিকনালি → শিরা",
+      "হৃৎপিণ্ড → শিরা → কৈশিকনালি → ধমনি → হৃৎপিণ্ড",
+      "হৃৎপিণ্ড → ধমনি → কৈশিকনালি → শিরা → হৃৎপিণ্ড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "কোন রক্তের গ্রুপে কোনো অ্যান্টিবডি থাকে না?",
+    "options": [
+      "B",
+      "O",
+      "AB",
+      "A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "উদ্ভিদে মূল চুলের কাজ কী?",
+    "options": [
+      "পানি শোষণ",
+      "গ্যাস বিনিময়",
+      "খাদ্য তৈরি",
+      "বীজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "হৃদপিণ্ডের করোনারি ধমনী চর্বি জমে সংকুচিত হলে বুকে যে তীব্র ব্যথা হয় তাকে কী বলে?",
+    "options": [
+      "হার্ট অ্যাটাক",
+      "স্ট্রোক",
+      "অ্যানজিনা (Angina Pectoris)",
+      "হার্ট ফেইলিউর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "কোন রক্তের গ্রুপে 'A' এবং 'B' উভয় ধরনের অ্যান্টিজেন উপস্থিত থাকে?",
+    "options": [
+      "B",
+      "O",
+      "A",
+      "AB"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "হৃদপিণ্ডের কোন ভাল্ব বা কপাটিকা ডান অলিন্দ ও ডান নিলয়ের সংযোগস্থলে থাকে?",
+    "options": [
+      "ট্রাইকাসপিড কপাটিকা",
+      "অ্যাওর্টিক কপাটিকা",
+      "বাইকাসপিড কপাটিকা",
+      "সেমিলুনার কপাটিকা"
+    ],
+    "image": "/images/quiz/bio-neuron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "মানুষের শ্বেত রক্তকণিকার মধ্যে আকারে সবচেয়ে বড় কোনটি?",
+    "options": [
+      "ইওসিনোফিল",
+      "লিম্ফোসাইট",
+      "নিউট্রোফিল",
+      "মনোসাইট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "উচ্চ রক্তচাপের কারণ কী?",
+    "options": [
+      "ভিটামিন",
+      "কম পানি",
+      "অতিরিক্ত O₂",
+      "ধমনি সংকুচিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "উদ্ভিদে ট্রান্সপিরেশন কী?",
+    "options": [
+      "বীজ",
+      "খাদ্য তৈরি",
+      "পানি বাষ্পীভবন",
+      "কোষ বিভাজন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "হৃদপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনীকে কী বলা হয়?",
+    "options": [
+      "পালমোনারি ধমনী",
+      "করোনারি ধমনী",
+      "রেনাল ধমনী",
+      "ক্যারোটিড ধমনী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "রক্ত সংক্রমণ প্রতিরোধে কী?",
+    "options": [
+      "প্লেটলেট",
+      "শ্বেত কণিকা",
+      "প্লাজমা",
+      "লোহিত কণিকা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "হৃৎপিণ্ডের চতুষ্ঠলা কী?",
+    "options": [
+      "দুই অলিন্দ ও দুই নিলয়",
+      "এক অলিন্দ",
+      "চার অলিন্দ",
+      "তিন নিলয়"
+    ],
+    "image": "/images/quiz/bio-heart.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "চিত্রে যদি মানব নেফ্রনের গঠন দেখানো থাকে, তবে রক্ত ছাঁকনির কাজ (Ultrafiltration) কোথায় ঘটে?",
+    "options": [
+      "হেনলির লুপ",
+      "সংগ্রাহক নালিকা",
+      "প্রক্সিমাল প্যাঁচানো নালিকা",
+      "গ্লোমেরুলাস"
+    ],
+    "image": "/images/quiz/bio-nephron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "উদ্দীপক: শফিক সাহেব হঠাৎ একদিন বুকে প্রচণ্ড ব্যথা অনুভব করলেন। ডাক্তার তাকে পরীক্ষা করে জানালেন যে, তার হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটি চর্বি জমে সংকুচিত হয়ে গেছে। শফিক সাহেবের হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটির নাম কী?",
+    "options": [
+      "হেপাটিক ধমনি",
+      "করোনারি ধমনি",
+      "রেনাল ধমনি",
+      "পালমোনারি ধমনি"
+    ],
+    "image": "/images/quiz/bio-heart.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "উদ্দীপক: শফিক সাহেব হঠাৎ একদিন বুকে প্রচণ্ড ব্যথা অনুভব করলেন। ডাক্তার তাকে পরীক্ষা করে জানালেন যে, তার হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটি চর্বি জমে সংকুচিত হয়ে গেছে। শফিক সাহেবের এই শারীরিক অবস্থা থেকে পরিত্রাণ পেতে করণীয়— i. নিয়মিত ব্যায়াম করা ii. চর্বিযুক্ত খাবার বেশি খাওয়া iii. ধূমপান থেকে বিরত থাকা নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii",
+      "i ও ii"
+    ],
+    "image": "/images/quiz/bio-heart.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "ফুসফুসীয় ধমনিতে রক্ত কী?",
+    "options": [
+      "অক্সিজেনহীন",
+      "অক্সিজেনযুক্ত",
+      "CO₂ শূন্য",
+      "প্লাজমা"
+    ],
+    "image": "/images/quiz/bio-alveoli.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "রক্তের প্লাজমায় থাকে কী?",
+    "options": [
+      "শুধু লোহিত কণিকা",
+      "শুধু চর্বি",
+      "শুধু DNA",
+      "পানি ও প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "শ্বেত রক্তকণিকার (WBC) প্রধান কাজ কী?",
+    "options": [
+      "রক্ত জমাট বাঁধতে সাহায্য করা",
+      "কার্বন ডাই অক্সাইড পরিবহন করা",
+      "রোগজীবাণু ধ্বংস করা",
+      "অক্সিজেন পরিবহন করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "রক্তে অণুচক্রিকার (Platelets) প্রধান কাজ কোনটি?",
+    "options": [
+      "রক্ত জমাট বাঁধতে সাহায্য করা",
+      "অক্সিজেন পরিবহন করা",
+      "হরমোন পরিবহন করা",
+      "রোগ প্রতিরোধ করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "মানুষের রক্তের তরল অংশ বা রক্তরসের (Plasma) শতকরা কত ভাগ পানি?",
+    "options": [
+      "৬০-৬৫%",
+      "৭০-৭৫%",
+      "৯০-৯২%",
+      "৫০-৫৫%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-03-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-03",
+    "text": "নিচের কোন অঙ্গে লোহিত রক্তকণিকা ধ্বংস হয়?",
+    "options": [
+      "বৃক্ক",
+      "ফুসফুস",
+      "প্লীহা",
+      "যকৃৎ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

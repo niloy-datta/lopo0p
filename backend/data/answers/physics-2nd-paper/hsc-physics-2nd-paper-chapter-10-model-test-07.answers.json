@@ -1,0 +1,78 @@
+{
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q01": {
+    "correctOption": "[বর্তনী ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q02": {
+    "correctOption": "NOR",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q03": {
+    "correctOption": "1",
+    "explanation": "উত্তর: B) 1 — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q04": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "অনেক তত্ত্বের প্রয়োগে i, ii এবং iii সবকটি বিবেচ্য। — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q05": {
+    "correctOption": "AB̄ + ĀB",
+    "explanation": "XOR গেট: Y = A ⊕ B = A·B̄ + Ā·B। আউটপুট 1 হবে যখন ইনপুটদ্বয় ভিন্ন।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q06": {
+    "correctOption": "NAND",
+    "explanation": "প্রশ্নের প্রদত্ত বিকল্পগুলির মধ্যে NAND নিকটতম বিকল্প হিসেবে নেওয়া হয়েছে।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q07": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q08": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q09": {
+    "correctOption": "3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q10": {
+    "correctOption": "33.33%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q11": {
+    "correctOption": "10^{-10} m",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q12": {
+    "correctOption": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q13": {
+    "correctOption": "এনট্রপি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q14": {
+    "correctOption": "ম্যাক্স প্লাঙ্ক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q15": {
+    "correctOption": "প্রোটন (সঠিক উত্তর নেই)",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q16": {
+    "correctOption": "আয়রন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q17": {
+    "correctOption": "আলফা কণা",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q18": {
+    "correctOption": "[লেখচিত্র ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-07-q19": {
+    "correctOption": "+2 \\times 10^{-19} C",
+    "explanation": ""
+  }
+}

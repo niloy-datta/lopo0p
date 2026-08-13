@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "999² এর মান কত?",
+    "options": [
+      "৯৯৮০০১",
+      "৯৯৯০০১",
+      "৯৯৮৯৯৯",
+      "৯৯৯৯৯৯"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "1002² − 998² এর মান কত?",
+    "options": [
+      "৪০০০",
+      "৬০০০",
+      "৮০০০",
+      "১০০০০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "1005 × 995 এর মান কত?",
+    "options": [
+      "৯৯৯৯৭৫",
+      "১০০০০২৫",
+      "৯৯৯৯২৫",
+      "১০০০০০০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "497² − 3² এর মান কত?",
+    "options": [
+      "২৪৬৯৯১",
+      "২৪৭০০০",
+      "২৪৭০০৯",
+      "২৪৭৯৯১"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "63² − 2 × 63 × 37 + 37² এর মান কত?",
+    "options": [
+      "২৬²",
+      "১০০²",
+      "৩৭²",
+      "৬৩²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "2a² + 2b² − 4ab এর উৎপাদক কোনটি?",
+    "options": [
+      "2(a − b)²",
+      "2(a + b)²",
+      "4(a − b)²",
+      "(2a − 2b)²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "3x² − 12xy + 12y² এর উৎপাদক কোনটি?",
+    "options": [
+      "3(x − 2y)²",
+      "3(x + 2y)²",
+      "(3x − 2y)²",
+      "12(x − y)²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "5a² − 20b² এর উৎপাদক কোনটি?",
+    "options": [
+      "5(a + 2b)(a − 2b)",
+      "(5a + 20b)(a − b)",
+      "5(a − 2b)²",
+      "20(a + b)(a − b)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "x⁴ − y⁴ এর উৎপাদক কোনটি?",
+    "options": [
+      "(x² + y²)(x + y)(x − y)",
+      "(x² − y²)²",
+      "(x + y)⁴",
+      "(x² + y²)²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "x⁴ − 16 এর পূর্ণ উৎপাদক কোনটি?",
+    "options": [
+      "(x − 2)(x + 2)(x² + 4)",
+      "(x² − 4)²",
+      "(x − 4)(x + 4)",
+      "(x² + 4)(x² + 4)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "a⁴ − b⁴ এর উৎপাদক কোনটি?",
+    "options": [
+      "(a − b)(a + b)(a² + b²)",
+      "(a² − b²)²",
+      "(a − b)²(a + b)²",
+      "(a + b)(a² − ab + b²)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "x² + y² + z² − 2xy − 2yz + 2xz এর উৎপাদক কোনটি?",
+    "options": [
+      "(x − y + z)²",
+      "(x + y − z)²",
+      "(x − y − z)²",
+      "(x + y + z)²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "a² + b² + c² − 2ab − 2bc + 2ca এর উৎপাদক কোনটি?",
+    "options": [
+      "(a − b + c)²",
+      "(a + b − c)²",
+      "(a − b − c)²",
+      "(a + b + c)²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "x² − 11x + 30 এর উৎপাদক কোনটি?",
+    "options": [
+      "(x − 5)(x − 6)",
+      "(x + 5)(x + 6)",
+      "(x − 3)(x − 10)",
+      "(x − 2)(x − 15)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "3x² − 14x − 5 এর উৎপাদক কোনটি?",
+    "options": [
+      "(3x + 1)(x − 5)",
+      "(3x − 1)(x + 5)",
+      "(x − 1)(3x + 5)",
+      "(3x − 5)(x + 1)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "4x² − 4x − 15 এর উৎপাদক কোনটি?",
+    "options": [
+      "(2x − 5)(2x + 3)",
+      "(2x + 5)(2x − 3)",
+      "(4x − 5)(x + 3)",
+      "(2x − 3)(2x + 5)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "6x² − 17x + 12 এর উৎপাদক কোনটি?",
+    "options": [
+      "(3x − 4)(2x − 3)",
+      "(3x − 2)(2x − 6)",
+      "(6x − 3)(x − 4)",
+      "(2x − 4)(3x − 3)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "10x² + 17x + 3 এর উৎপাদক কোনটি?",
+    "options": [
+      "(5x + 1)(2x + 3)",
+      "(10x + 1)(x + 3)",
+      "(5x + 3)(2x + 1)",
+      "(x + 1)(10x + 3)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "a + b + c = 0 হলে a³ + b³ + c³ এর মান কোনটির সমান?",
+    "options": [
+      "abc",
+      "2abc",
+      "3abc",
+      "0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "x + y + z = 0 হলে x² + y² + z² কোনটির সমান?",
+    "options": [
+      "xy + yz + zx",
+      "−2(xy + yz + zx)",
+      "2(xy + yz + zx)",
+      "−(xy + yz + zx)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "a + b = 10 এবং a² + b² = 58 হলে a³ + b³ কত?",
+    "options": [
+      "৪২০",
+      "৪৬০",
+      "৫২০",
+      "৫৮০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "a − b = 5 এবং a² + b² = 65 হলে a³ − b³ কত?",
+    "options": [
+      "৪২৫",
+      "৪৭৫",
+      "৫২৫",
+      "৫৭৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "x + 1/x = 4 হলে x⁴ + 1/x⁴ কত?",
+    "options": [
+      "১৭২",
+      "১৮২",
+      "১৯৪",
+      "২০৬"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "x − 1/x = 2 হলে x⁴ + 1/x⁴ কত?",
+    "options": [
+      "১৪",
+      "১৮",
+      "২২",
+      "২৬"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-03-model-test-05-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-03-model-test-05",
+    "text": "a³ − 27b³ + 9ab(a − 3b) এর উৎপাদক কোনটি?",
+    "options": [
+      "(a − 3b)³",
+      "(a + 3b)³",
+      "(a − 3b)(a² + 3ab + 9b²)",
+      "(a + 3b)(a² − 3ab + 9b²)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

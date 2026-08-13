@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $U=\\{1,2,3,\\dots,20\\}$, $A=\\{x:x\\in U,\\ x$ হলো 4-এর গুণিতক$\\}$ এবং $B=\\{x:x\\in U,\\ x$ হলো 6-এর গুণিতক$\\}$ হয়, তবে $A\\cap B$ কোনটি?",
+    "options": [
+      "$\\{12\\}$",
+      "$\\{4,8,12,16,20\\}$",
+      "$\\{6,12,18\\}$",
+      "$\\{12,24\\}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$A=\\{x:x\\in N,\\ x^2-7x+10=0\\}$ হলে $A$-এর প্রকৃত উপসেটের সংখ্যা কত?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $n(A-B)=11$, $n(B-A)=7$ এবং $n(A\\cap B)=5$ হয়, তবে $n(A\\cup B)$ কত?",
+    "options": [
+      "18",
+      "21",
+      "23",
+      "28"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "একটি শ্রেণিতে 60 জন শিক্ষার্থীর মধ্যে 35 জন গণিত, 28 জন ইংরেজি এবং 12 জন উভয় বিষয় পছন্দ করে। কোনো বিষয়ই পছন্দ করে না কয়জন?",
+    "options": [
+      "7",
+      "9",
+      "11",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $A\\subseteq B$ এবং $B\\subseteq C$ হয়, তবে নিচের কোনটি অবশ্যই সত্য?",
+    "options": [
+      "$A\\subseteq C$",
+      "$C\\subseteq A$",
+      "$A\\cap C=\\varnothing$",
+      "$A\\cup C=B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$A=\\{1,2,3,4,5,6\\}$ এবং $B=\\{2,4,6,8\\}$ হলে $A-(A\\cap B)$ কোনটি?",
+    "options": [
+      "$\\{1,3,5\\}$",
+      "$\\{2,4,6\\}$",
+      "$\\{8\\}$",
+      "$\\{1,2,3,4,5,6,8\\}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$U=\\{1,2,3,4,5,6,7,8,9\\}$, $A=\\{1,2,3,4\\}$ এবং $B=\\{3,4,5,6\\}$ হলে $(A\\cup B)'$ কোনটি?",
+    "options": [
+      "$\\{7,8,9\\}$",
+      "$\\{3,4\\}$",
+      "$\\{1,2,5,6\\}$",
+      "$\\{1,2,3,4,5,6\\}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "De Morgan-এর সূত্র অনুযায়ী $(A\\cap B)'$ কোনটির সমান?",
+    "options": [
+      "$A'\\cup B'$",
+      "$A'\\cap B'$",
+      "$A\\cup B$",
+      "$A-B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$A=\\{x:x\\in N,\\ x$ হলো 18-এর গুণনীয়ক$\\}$ হলে $n(A)$ কত?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $A=\\{1,2,3,4\\}$ হয়, তবে power set $P(A)$-এর উপাদান সংখ্যা কত?",
+    "options": [
+      "4",
+      "8",
+      "12",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$A=\\{1,2,3,4,5\\}$ এবং $B=\\{2,4,6,8\\}$ হলে $B-A$ কোনটি?",
+    "options": [
+      "$\\{6,8\\}$",
+      "$\\{2,4\\}$",
+      "$\\{1,3,5\\}$",
+      "$\\{1,2,3,4,5,6,8\\}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$A=\\{2,3,5,7\\}$ এবং $B=\\{1,4,6,8\\}$ হলে $A\\cap B$ কোনটি?",
+    "options": [
+      "$\\varnothing$",
+      "$\\{2,4,6,8\\}$",
+      "$\\{1,3,5,7\\}$",
+      "$\\{1,2,3,4,5,6,7,8\\}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "নিচের কোন অন্বয়টি ফাংশন?",
+    "options": [
+      "$\\{(1,2),(2,4),(3,6),(4,8)\\}$",
+      "$\\{(1,2),(1,3),(2,4)\\}$",
+      "$\\{(2,5),(2,6),(3,7)\\}$",
+      "$\\{(3,1),(3,2),(4,3)\\}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$R=\\{(1,3),(2,5),(3,7),(4,9)\\}$ হলে অন্বয়টির range কোনটি?",
+    "options": [
+      "$\\{3,5,7,9\\}$",
+      "$\\{1,2,3,4\\}$",
+      "$\\{1,3,5,7\\}$",
+      "$\\{2,4,6,8\\}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$R=\\{(1,4),(2,7),(3,10),(4,13)\\}$ হলে অন্বয়টির rule কোনটি হতে পারে?",
+    "options": [
+      "$y=3x+1$",
+      "$y=2x+2$",
+      "$y=x+4$",
+      "$y=4x-1$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $f(x)=x^2-4x+1$ হয়, তবে $f(3)$ কত?",
+    "options": [
+      "$-2$",
+      "$-1$",
+      "1",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $f(x)=3x-2$ হয়, তবে $f(2a-1)$ কোনটি?",
+    "options": [
+      "$6a-5$",
+      "$6a-3$",
+      "$3a-5$",
+      "$2a+1$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $f(x)=4x+3$ এবং $f(x)=27$ হয়, তবে $x$ এর মান কত?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $f(x)=x+2$ এবং $g(x)=3x-1$ হয়, তবে $(g\\circ f)(2)$ কত?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $f(x)=2x-1$ এবং $g(x)=x^2+1$ হয়, তবে $(f\\circ g)(2)$ কত?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$f=\\{(2,1),(4,2),(6,3),(8,4)\\}$ হলে $f^{-1}$ কোনটি?",
+    "options": [
+      "$\\{(1,2),(2,4),(3,6),(4,8)\\}$",
+      "$\\{(2,1),(4,2),(6,3),(8,4)\\}$",
+      "$\\{(1,4),(2,3),(3,2),(4,1)\\}$",
+      "$\\{(2,4),(4,6),(6,8),(8,10)\\}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $f(x)=\\frac{x+5}{2}$ হয়, তবে $f^{-1}(x)$ কোনটি?",
+    "options": [
+      "$2x-5$",
+      "$2x+5$",
+      "$\\frac{x-5}{2}$",
+      "$\\frac{x+5}{2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $f(x)=ax+4$ এবং $f(3)=19$ হয়, তবে $a$ কত?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $f(x)=x^2-3$ হয়, তবে $f(-2)+f(3)$ কত?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-03-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $f(x)=3x-4$ হয়, তবে কোন $x$-এর জন্য $f(x)=2x+6$ হবে?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  }
+]

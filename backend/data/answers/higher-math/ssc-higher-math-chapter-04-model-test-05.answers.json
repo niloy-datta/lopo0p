@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-04-model-test-05-q01": {
+    "correctOption": "নির্দিষ্ট শর্ত অনুযায়ী সঠিক চিত্র নির্মাণ",
+    "explanation": "জ্যামিতিক অঙ্কনে প্রদত্ত শর্ত মেনে সঠিক চিত্র নির্মাণ করাই মূল উদ্দেশ্য।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q02": {
+    "correctOption": "কম্পাস",
+    "explanation": "কম্পাস দিয়ে একটি রেখাংশের দৈর্ঘ্য অপর স্থানে স্থানান্তর করা যায়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q03": {
+    "correctOption": "প্রোট্রাক্টর",
+    "explanation": "প্রোট্রাক্টর দিয়ে কোণ মাপা বা নির্দিষ্ট কোণ আঁকা যায়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q04": {
+    "correctOption": "$60^\\circ$",
+    "explanation": "সমদ্বিখণ্ডক $120^\\circ$ কোণকে দুইটি $60^\\circ$ কোণে ভাগ করে।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q05": {
+    "correctOption": "সমান",
+    "explanation": "লম্বদ্বিখণ্ডক রেখাংশকে দুই সমান অংশে বিভক্ত করে।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q06": {
+    "correctOption": "6টি",
+    "explanation": "রেখাংশকে n সমান ভাগে ভাগ করতে সহায়ক রশ্মিতে nটি সমান অংশ নেওয়া হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q07": {
+    "correctOption": "$105^\\circ$",
+    "explanation": "মোট অনুপাত 12। এক ভাগ = 180°/12 = 15°। বড় কোণ = 7×15° = 105°।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q08": {
+    "correctOption": "সম্ভব",
+    "explanation": "4+6>9, 4+9>6 এবং 6+9>4। তাই ত্রিভুজ সম্ভব।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q09": {
+    "correctOption": "অসম্ভব",
+    "explanation": "4+5=9, যা 10-এর চেয়ে ছোট। তাই ত্রিভুজ সম্ভব নয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q10": {
+    "correctOption": "SSS",
+    "explanation": "তিনটি বাহুর দৈর্ঘ্য দেওয়া আছে, তাই SSS construction।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q11": {
+    "correctOption": "SAS",
+    "explanation": "দুই বাহু ও অন্তর্ভুক্ত কোণ দেওয়া আছে, তাই SAS construction।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q12": {
+    "correctOption": "ASA",
+    "explanation": "এক বাহু এবং তার দুই প্রান্তের কোণ দেওয়া আছে, তাই ASA construction।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q13": {
+    "correctOption": "RHS",
+    "explanation": "সমকোণী ত্রিভুজে অতিভুজ ও একটি বাহু দেওয়া থাকলে RHS construction ব্যবহার হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q14": {
+    "correctOption": "15 cm",
+    "explanation": "মোট অনুপাত = 11। এক ভাগ = 33/11 = 3 cm। বৃহত্তম বাহু = 5×3 = 15 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q15": {
+    "correctOption": "9 cm",
+    "explanation": "তৃতীয় বাহু = 28−9−10 = 9 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q16": {
+    "correctOption": "বাহুর লম্বদ্বিখণ্ডক",
+    "explanation": "পরিকেন্দ্র বাহুগুলোর লম্বদ্বিখণ্ডকের ছেদবিন্দু। তাই পরিবৃত্ত অঙ্কনে লম্বদ্বিখণ্ডক আঁকা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q17": {
+    "correctOption": "কোণসমদ্বিখণ্ডক",
+    "explanation": "অন্তঃকেন্দ্র কোণসমদ্বিখণ্ডকগুলোর ছেদবিন্দু। তাই অন্তঃবৃত্তে কোণসমদ্বিখণ্ডক আঁকা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q18": {
+    "correctOption": "লম্ব রেখা",
+    "explanation": "স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের উপর লম্ব হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q19": {
+    "correctOption": "বহিঃস্থ বিন্দু ও কেন্দ্রের সংযোগরেখা",
+    "explanation": "বহিঃস্থ বিন্দু ও কেন্দ্রের সংযোগরেখাকে ব্যাস ধরে সহায়ক বৃত্ত আঁকা হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q20": {
+    "correctOption": "15 cm",
+    "explanation": "বহিঃস্পর্শে কেন্দ্রদূরত্ব = 11+4 = 15 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q21": {
+    "correctOption": "7 cm",
+    "explanation": "অন্তঃস্পর্শে কেন্দ্রদূরত্ব = 11−4 = 7 cm।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q22": {
+    "correctOption": "বহিঃস্পর্শী",
+    "explanation": "9+6=15, যা কেন্দ্রদূরত্বের সমান। তাই বৃত্তদ্বয় বহিঃস্পর্শী।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q23": {
+    "correctOption": "অন্তঃস্পর্শী",
+    "explanation": "13−8=5, যা কেন্দ্রদূরত্বের সমান। তাই বৃত্তদ্বয় অন্তঃস্পর্শী।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q24": {
+    "correctOption": "কেন্দ্রদূরত্ব > ব্যাসার্ধদ্বয়ের যোগফল",
+    "explanation": "দুই বৃত্ত বাইরে পৃথক থাকলে কেন্দ্রদূরত্ব ব্যাসার্ধদ্বয়ের যোগফলের চেয়ে বেশি হয়।"
+  },
+  "ssc-higher-math-chapter-04-model-test-05-q25": {
+    "correctOption": "প্রতিটি ধাপের শর্ত যাচাই করা",
+    "explanation": "প্রতিটি ধাপে প্রদত্ত শর্ত ঠিকভাবে মানা হচ্ছে কি না যাচাই করলে অঙ্কন নির্ভুল হয়।"
+  }
+}

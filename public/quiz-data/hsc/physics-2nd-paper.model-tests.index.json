@@ -1,0 +1,2110 @@
+{
+  "level": "hsc",
+  "subject": "physics-2nd-paper",
+  "modelTests": {
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 01",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-02": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 02",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-03": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 03",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-04": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 04",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-05": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 05",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-01": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-02": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০২"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-07": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-09": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-10": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ১০"
+    },
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-06": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 06",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-07": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 07",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-08": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 08",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-09": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 09",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-tier-a-hot-model-test-10": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-standard",
+        "high-priority",
+        "paper-wise"
+      ],
+      "name": "Board Standard Model Test 10",
+      "confidenceLabel": "Board Standard"
+    },
+    "hsc-physics-2nd-paper-chapter-01-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "তাপগতিবিদ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-01-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "তাপগতিবিদ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-01-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "তাপগতিবিদ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-01-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "তাপগতিবিদ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-01-model-test-06": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "তাপগতিবিদ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-01-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "তাপগতিবিদ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-01-model-test-08": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "তাপগতিবিদ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-01-model-test-09": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "তাপগতিবিদ্যা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · তাপগতিবিদ্যা · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-02": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০২"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-03": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-04": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-05": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-06": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-07": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-08": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-09": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-02-model-test-10": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "স্থির তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০২ · স্থির তড়িৎ · টেস্ট ১০"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০২"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-03-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "চল তড়িৎ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · চল তড়িৎ · টেস্ট ১০"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-03": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-06": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-08": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-04-model-test-10": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "চৌম্বক ক্রিয়া ও চুম্বকত্ব"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · চৌম্বক ক্রিয়া ও চুম্বকত্ব · টেস্ট ১০"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-02": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০২"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-03": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-06": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-07": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-08": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-09": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-05-model-test-10": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "তাড়িতচৌম্বক আবেশ ও AC"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · তাড়িতচৌম্বক আবেশ ও AC · টেস্ট ১০"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-01": {
+      "questionCount": 24,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-02": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০২"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-03": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-06": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-07": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-08": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-06-model-test-09": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জ্যামিতিক আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · জ্যামিতিক আলোকবিজ্ঞান · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-02": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০২"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-03": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-06": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-07": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-08": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-09": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-07-model-test-10": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ভৌত আলোকবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ভৌত আলোকবিজ্ঞান · টেস্ট ১০"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-01": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-02": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০২"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-03": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-06": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-07": {
+      "questionCount": 18,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-08": {
+      "questionCount": 18,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-09": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-08-model-test-10": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · আধুনিক পদার্থবিজ্ঞান · টেস্ট ১০"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-02": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০২"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-03": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-06": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-07": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-08": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-09": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-09-model-test-10": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · পরমাণু ও নিউক্লিয়ার পদার্থবিজ্ঞান · টেস্ট ১০"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০১"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-02": {
+      "questionCount": 22,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০২"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-03": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৩"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৪"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৫"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-06": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৬"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-07": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৭"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-08": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৮"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-09": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ০৯"
+    },
+    "hsc-physics-2nd-paper-chapter-10-model-test-10": {
+      "questionCount": 23,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স"
+        }
+      ],
+      "name": "অধ্যায় ১০ · সেমিকন্ডাক্টর ও ইলেকট্রনিক্স · টেস্ট ১০"
+    },
+    "hsc-physics-2nd-paper-set-11": {
+      "questionCount": 20,
+      "scope": "paper",
+      "displayTitle": "HSC Physics 2nd Paper-wise Model Test Set 11",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "hsc-physics-2nd-paper-set-12": {
+      "questionCount": 20,
+      "scope": "paper",
+      "displayTitle": "HSC Physics 2nd Paper-wise Model Test Set 12",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "hsc-physics-2nd-paper-set-13": {
+      "questionCount": 20,
+      "scope": "paper",
+      "displayTitle": "HSC Physics 2nd Paper-wise Model Test Set 13",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "hsc-physics-2nd-paper-set-14": {
+      "questionCount": 20,
+      "scope": "paper",
+      "displayTitle": "HSC Physics 2nd Paper-wise Model Test Set 14",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "hsc-physics-2nd-paper-set-15": {
+      "questionCount": 20,
+      "scope": "paper",
+      "displayTitle": "HSC Physics 2nd Paper-wise Model Test Set 15",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 01"
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-02": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 02"
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-03": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 03"
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-04": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 04"
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-05": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 05"
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-06": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 06"
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-07": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 07"
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-08": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 08"
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-09": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ০৯",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 09"
+    },
+    "hsc-physics-2nd-paper-board-analyzed-premium-set-10": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "মডেল টেস্ট · সেট ১০",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ],
+      "name": "Board Standard Model Test 10"
+    }
+  }
+}

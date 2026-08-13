@@ -1,0 +1,936 @@
+{
+  "level": "ssc",
+  "subject": "chemistry",
+  "modelTests": {
+    "ssc-chemistry-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "chemistry",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "11",
+        "3",
+        "4",
+        "4 & 5",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "ssc-chemistry-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "chemistry",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "11",
+        "3",
+        "3 & 4",
+        "4",
+        "4 & 5",
+        "5",
+        "5 & 4",
+        "6",
+        "6 / Chemistry basic",
+        "7"
+      ]
+    },
+    "ssc-chemistry-chapter-01-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "রসায়নের ধারণা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-01-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "রসায়নের ধারণা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০২"
+    },
+    "ssc-chemistry-chapter-01-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "রসায়নের ধারণা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০৩"
+    },
+    "ssc-chemistry-chapter-01-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "রসায়নের ধারণা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০৪"
+    },
+    "ssc-chemistry-chapter-01-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "রসায়নের ধারণা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · রসায়নের ধারণা · টেস্ট ০৫"
+    },
+    "ssc-chemistry-chapter-02-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "পদার্থের অবস্থা"
+        }
+      ],
+      "name": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-02-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "পদার্থের অবস্থা"
+        }
+      ],
+      "name": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০২"
+    },
+    "ssc-chemistry-chapter-02-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "পদার্থের অবস্থা"
+        }
+      ],
+      "name": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০৩"
+    },
+    "ssc-chemistry-chapter-02-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "পদার্থের অবস্থা"
+        }
+      ],
+      "name": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০৪"
+    },
+    "ssc-chemistry-chapter-02-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "পদার্থের অবস্থা"
+        }
+      ],
+      "name": "অধ্যায় ০২ · পদার্থের অবস্থা · টেস্ট ০৫"
+    },
+    "ssc-chemistry-chapter-03-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-04-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · রাসায়নিক বন্ধন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "রাসায়নিক বন্ধন"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · রাসায়নিক বন্ধন · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-07-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · জারণ-বিজারণ · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "জারণ-বিজারণ"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · জারণ-বিজারণ · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-08-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রসায়ন ও শক্তি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-03-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০২"
+    },
+    "ssc-chemistry-chapter-03-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০৩"
+    },
+    "ssc-chemistry-chapter-03-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০৪"
+    },
+    "ssc-chemistry-chapter-03-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · মৌলের পর্যায়বৃত্ত ধর্ম · টেস্ট ০৫"
+    },
+    "ssc-chemistry-chapter-04-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · রাসায়নিক বন্ধন · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "রাসায়নিক বন্ধন"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · রাসায়নিক বন্ধন · টেস্ট ০২"
+    },
+    "ssc-chemistry-chapter-08-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রসায়ন ও শক্তি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০২"
+    },
+    "ssc-chemistry-chapter-08-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রসায়ন ও শক্তি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৩"
+    },
+    "ssc-chemistry-chapter-08-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রসায়ন ও শক্তি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৪"
+    },
+    "ssc-chemistry-chapter-08-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রসায়ন ও শক্তি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৫"
+    },
+    "ssc-chemistry-chapter-09-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · জৈব রসায়ন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "জৈব রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · জৈব রসায়ন · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-05-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মোল ধারণা ও গণনা"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-05-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মোল ধারণা ও গণনা"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০২"
+    },
+    "ssc-chemistry-chapter-05-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মোল ধারণা ও গণনা"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০৩"
+    },
+    "ssc-chemistry-chapter-05-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মোল ধারণা ও গণনা"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০৪"
+    },
+    "ssc-chemistry-chapter-05-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মোল ধারণা ও গণনা"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · টেস্ট ০৫"
+    },
+    "ssc-chemistry-chapter-06-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অম্ল-ক্ষার"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-06-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অম্ল-ক্ষার"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০২"
+    },
+    "ssc-chemistry-chapter-06-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অম্ল-ক্ষার"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০৩"
+    },
+    "ssc-chemistry-chapter-06-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অম্ল-ক্ষার"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০৪"
+    },
+    "ssc-chemistry-chapter-06-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অম্ল-ক্ষার"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অম্ল-ক্ষার · টেস্ট ০৫"
+    },
+    "ssc-chemistry-chapter-10-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "হাইড্রোকার্বন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০১"
+    },
+    "ssc-chemistry-chapter-10-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "হাইড্রোকার্বন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০২"
+    },
+    "ssc-chemistry-chapter-10-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "হাইড্রোকার্বন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০৩"
+    },
+    "ssc-chemistry-chapter-10-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "হাইড্রোকার্বন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০৪"
+    },
+    "ssc-chemistry-chapter-10-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "হাইড্রোকার্বন"
+        }
+      ],
+      "name": "অধ্যায় ১০ · হাইড্রোকার্বন · টেস্ট ০৫"
+    },
+    "ssc-chemistry-chapter-08-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৬",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রসায়ন ও শক্তি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৬"
+    },
+    "ssc-chemistry-chapter-08-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৭",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রসায়ন ও শক্তি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৭"
+    },
+    "ssc-chemistry-chapter-08-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৮",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রসায়ন ও শক্তি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · রসায়ন ও শক্তি · টেস্ট ০৮"
+    },
+    "chapter-04-split-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · রাসায়নিক বন্ধন · ভাগ ০১",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "রাসায়নিক বন্ধন"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · রাসায়নিক বন্ধন · ভাগ ০১"
+    },
+    "chapter-05-split-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · ভাগ ০৬",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মোল ধারণা ও গণনা"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · ভাগ ০৬"
+    },
+    "chapter-05-split-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · ভাগ ০৭",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মোল ধারণা ও গণনা"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · ভাগ ০৭"
+    },
+    "chapter-05-split-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · ভাগ ০৮",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মোল ধারণা ও গণনা"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · মোল ধারণা ও গণনা · ভাগ ০৮"
+    },
+    "chapter-09-split-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · জৈব রসায়ন · ভাগ ০১",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "জৈব রসায়ন"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · জৈব রসায়ন · ভাগ ০১"
+    }
+  }
+}

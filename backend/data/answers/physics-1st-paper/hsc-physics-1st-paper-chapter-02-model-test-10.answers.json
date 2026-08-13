@@ -1,0 +1,70 @@
+{
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q01": {
+    "correctOption": "46",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q02": {
+    "correctOption": "48",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q03": {
+    "correctOption": "10",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q04": {
+    "correctOption": "12",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q05": {
+    "correctOption": "14",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q06": {
+    "correctOption": "16",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q07": {
+    "correctOption": "পরস্পর লম্ব",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q08": {
+    "correctOption": "পরস্পর লম্ব",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q09": {
+    "correctOption": "A² - B²",
+    "explanation": "ডট গুণন বণ্টন সূত্র মেনে চলে: A.A - A.B + B.A - B.B। যেহেতু A.B = B.A, পদ দুটি কাটা যায়। বাকি থাকে A² - B²."
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q10": {
+    "correctOption": "90°",
+    "explanation": "ক্রস গুণফল মূল উভয় ভেক্টরের ওপর লম্ব হয়।"
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q11": {
+    "correctOption": "30 N",
+    "explanation": "লব্ধির সর্বোচ্চ মান 15+10=25 N এবং সর্বনিম্ন মান 15−10=5 N। সুতরাং 5 N থেকে 25 N এর বাইরের কোনো মান (যেমন 30 N) হওয়া সম্ভব নয়।"
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q12": {
+    "correctOption": "7N",
+    "explanation": "সর্বনিম্ন লব্ধি R_min = P - Q = 12 - 5 = 7N (যখন কোণ 180°)।"
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q13": {
+    "correctOption": "শূন্য ভেক্টর (0)",
+    "explanation": "একই ভেক্টরের ক্রস গুণন শূন্য ভেক্টর হয় (শুধু 0 নয়, ভেক্টর 0)।"
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q14": {
+    "correctOption": "ডানহাতি স্ক্রু নিয়ম",
+    "explanation": "দুটি ভেক্টরের ক্রস গুণফলের দিক ডানহাতি স্ক্রু নিয়ম (Right-hand screw rule) বা ডানহাতি মুষ্টি নিয়মের সাহায্যে নির্ণয় করা হয়।"
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q15": {
+    "correctOption": "(A×B)/(|A×B|)",
+    "explanation": "ক্রস গুণফল সর্বদা উভয় ভেক্টরের সমতলের ওপর লম্ব হয়। তাই একে এর মান দিয়ে ভাগ করলে লম্ব একক ভেক্টর পাওয়া যায়।"
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q16": {
+    "correctOption": "∣ A × B ∣ A × B ​",
+    "explanation": "দুটি ভেক্টরের ক্রস গুণফল ( A × B ) এমন একটি ভেক্টর তৈরি করে যা উভয়ের ওপর লম্ব। একে তার মান দ্বারা ভাগ করলে লম্ব একক ভেক্টর পাওয়া যায়।"
+  },
+  "hsc-physics-1st-paper-chapter-02-model-test-10-q17": {
+    "correctOption": "0 ∘",
+    "explanation": "R= A 2 +B 2 +2ABcosθ ​ । cosθ এর মান সর্বোচ্চ 1 যখন θ=0 ∘ । তখন লব্ধি হয় A+B।"
+  }
+}

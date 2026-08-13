@@ -1,0 +1,90 @@
+{
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q01": {
+    "correctOption": "NOR",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q02": {
+    "correctOption": "1",
+    "explanation": "উত্তর: B) 1 — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q03": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "অনেক তত্ত্বের প্রয়োগে i, ii এবং iii সবকটি বিবেচ্য। — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q04": {
+    "correctOption": "AB̄ + ĀB",
+    "explanation": "XOR গেট: Y = A ⊕ B = A·B̄ + Ā·B। আউটপুট 1 হবে যখন ইনপুটদ্বয় ভিন্ন।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q05": {
+    "correctOption": "NAND",
+    "explanation": "প্রশ্নের প্রদত্ত বিকল্পগুলির মধ্যে NAND নিকটতম বিকল্প হিসেবে নেওয়া হয়েছে।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q06": {
+    "correctOption": "[বর্তনী ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q07": {
+    "correctOption": "1.5 V",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q08": {
+    "correctOption": "(√3/2) m₀c²",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q09": {
+    "correctOption": "230.4 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q10": {
+    "correctOption": "নিউট্রন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q11": {
+    "correctOption": "83",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q12": {
+    "correctOption": "5.6 fm",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q13": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q14": {
+    "correctOption": "10⁻⁴ Ωm",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q15": {
+    "correctOption": "জুল",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q16": {
+    "correctOption": "নিউক্লিয়াস",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q17": {
+    "correctOption": "আইনস্টাইন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q18": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q19": {
+    "correctOption": "ক্যালসাইট",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q20": {
+    "correctOption": "মাইকেলসন-মর্লি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q21": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-02-q22": {
+    "correctOption": "-১.৬ × ১০⁻¹৯ C",
+    "explanation": ""
+  }
+}

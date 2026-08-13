@@ -1,0 +1,94 @@
+{
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q01": {
+    "correctOption": "λ এর পূর্ণ গুণিতক (nλ)",
+    "explanation": "গঠনমূলক ব্যতিচারে পথ পার্থক্য Δx = nλ (n = 0, 1, 2, ...)। ধ্বংসাত্মক ব্যতিচারে Δx = (2n+1)λ/2।"
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q02": {
+    "correctOption": "ব্যতিচার",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q03": {
+    "correctOption": "চারগুণ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q04": {
+    "correctOption": "\\frac{\\lambda}{2} এর অযুগ্ম গুণিতক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q05": {
+    "correctOption": "সমবর্তন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q06": {
+    "correctOption": "আলোর পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "explanation": "অপটিক্যাল ফাইবার পূর্ণ অভ্যন্তরীণ প্রতিফলনের নীতিতে কাজ করে। কোরের প্রতিসরাঙ্ক > ক্ল্যাডিং এর প্রতিসরাঙ্ক।"
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q07": {
+    "correctOption": "108 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q08": {
+    "correctOption": "144 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q09": {
+    "correctOption": "4\\Omega",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q10": {
+    "correctOption": "I = \\frac{2E}{R+\\frac{r}{2}}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q11": {
+    "correctOption": "0.94",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q12": {
+    "correctOption": "49",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q13": {
+    "correctOption": "0^\\circ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q14": {
+    "correctOption": "\\frac{\\lambda}{4}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q15": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q16": {
+    "correctOption": "আপেক্ষিক রোধ একই থাকে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q17": {
+    "correctOption": "\\frac{1}{8}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q18": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q19": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q20": {
+    "correctOption": "3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q21": {
+    "correctOption": "33.33%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q22": {
+    "correctOption": "10^{-10} m",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-06-q23": {
+    "correctOption": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+    "explanation": ""
+  }
+}

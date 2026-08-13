@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-2nd-paper-paper-set-15-q01": {
+    "correctOption": "\\(x \\le -5\\text{ বা } x \\ge 1\\)",
+    "explanation": "সঠিক উত্তর: ক। \\(x+2 \\ge 3 \\implies x \\ge 1\\) অথবা \\(x+2 \\le -3 \\implies x \\le -5\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q02": {
+    "correctOption": "6",
+    "explanation": "সঠিক উত্তর: খ। \\(AM \\ge GM \\implies \\frac{x^2 + \\frac{9}{x^2}}{2} \\ge \\sqrt{x^2 \\cdot \\frac{9}{x^2}} \\implies x^2 + \\frac{9}{x^2} \\ge 6\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q03": {
+    "correctOption": "36",
+    "explanation": "সঠিক উত্তর: গ। চরম বিন্দুসমূহ পরীক্ষা করে পাই: \\((0,0)\\)-তে \\(Z=0\\), \\((0,8)\\)-তে \\(Z=32\\), \\((6,0)\\)-তে \\(Z=30\\), এবং ছেদবিন্দু \\((4,4)\\)-তে \\(Z=36\\)। সুতরাং সর্বোচ্চ মান 36।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q04": {
+    "correctOption": "(2,3)",
+    "explanation": "সঠিক উত্তর: ক। সমীকরণদ্বয় সমাধান করে পাই: \\(y = 3, x = 2\\)। সুতরাং ছেদবিন্দু \\((2,3)\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q05": {
+    "correctOption": "-4",
+    "explanation": "সঠিক উত্তর: খ। \\((1-i)^2 = 1 - 2i + i^2 = -2i\\)। সুতরাং, \\(((1-i)^2)^2 = (-2i)^2 = -4\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q06": {
+    "correctOption": "\\(\\frac{\\sqrt{2}}{5}\\)",
+    "explanation": "সঠিক উত্তর: খ। পরমমান \\(\\frac{|1-i|}{|3+4i|} = \\frac{\\sqrt{1^2+(-1)^2}}{\\sqrt{3^2+4^2}} = \\frac{\\sqrt{2}}{5}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q07": {
+    "correctOption": "4",
+    "explanation": "সঠিক উত্তর: খ। নিশ্চয়ক \\(D = b^2 - 4ac = 0 \\implies (-4)^2 - 4(1)(k) = 0 \\implies 16 = 4k \\implies k = 4\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q08": {
+    "correctOption": "\\(\\frac{13}{4}\\)",
+    "explanation": "সঠিক উত্তর: খ। মূলদ্বয়ের যোগফল \\(\\alpha+\\beta = -3/2\\) এবং গুণফল \\(\\alpha\\beta = -1/2\\)। সুতরাং \\(\\alpha^2+\\beta^2 = (\\alpha+\\beta)^2 - 2\\alpha\\beta = (-3/2)^2 - 2(-1/2) = 9/4 + 1 = 13/4\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q09": {
+    "correctOption": "-1",
+    "explanation": "সঠিক উত্তর: খ। ভাগশেষ উপপাদ্য অনুযায়ী, \\((-2)^3 + a(-2)^2 - 4(-2) + 4 = 0 \\implies -8 + 4a + 8 + 4 = 0 \\implies 4a = -4 \\implies a = -1\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q10": {
+    "correctOption": "28",
+    "explanation": "সঠিক উত্তর: গ। বিস্তৃতিতে \\(x^2\\)-এর সহগ \\(\\binom{8}{2} = \\frac{8 \\times 7}{2} = 28\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q11": {
+    "correctOption": "252",
+    "explanation": "সঠিক উত্তর: গ। ঘাত ১০ হওয়ায় মোট পদ সংখ্যা ১১টি। মধ্যপদটি হলো ৬ষ্ঠ পদ, যার সহগ \\(\\binom{10}{5} = 252\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q12": {
+    "correctOption": "16",
+    "explanation": "সঠিক উত্তর: ঘ। উপকেন্দ্রিক লম্বের দৈর্ঘ্য \\(|4a| = |16| = 16\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q13": {
+    "correctOption": "(\\(\\pm 3\\), 0)",
+    "explanation": "সঠিক উত্তর: ক। এখানে \\(a=5, b=4 \\implies e = \\sqrt{1 - 16/25} = 3/5\\)। উপকেন্দ্র \\((\\pm ae, 0) = (\\pm 3, 0)\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q14": {
+    "correctOption": "\\(\\frac{5}{4}\\)",
+    "explanation": "সঠিক উত্তর: গ। উৎকেন্দ্রিকতা \\(e = \\sqrt{1 + \\frac{b^2}{a^2}} = \\sqrt{1 + \\frac{9}{16}} = \\sqrt{\\frac{25}{16}} = \\frac{5}{4}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q15": {
+    "correctOption": "(0,-3)",
+    "explanation": "সঠিক উত্তর: খ। পরাবৃত্তের সমীকরণ \\(x^2 = 4(-3)y \\implies a = -3\\)। উপকেন্দ্র \\((0, a) = (0, -3)\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q16": {
+    "correctOption": "\\(\\frac{\\pi}{3}\\)",
+    "explanation": "সঠিক উত্তর: গ। \\(\\cos^{-1}\\) এর প্রধান সীমা \\([0, \\pi]\\)। সুতরাং \\(\\cos^{-1}(\\cos\\frac{5\\pi}{3}) = \\cos^{-1}(\\cos(2\\pi - \\frac{\\pi}{3})) = \\cos^{-1}(\\cos\\frac{\\pi}{3}) = \\frac{\\pi}{3}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q17": {
+    "correctOption": "2",
+    "explanation": "সঠিক উত্তর: খ। এই ব্যবধিতে সমাধানদ্বয় হলো \\(\\theta = \\frac{\\pi}{2}\\) এবং \\(\\frac{3\\pi}{2}\\)। সুতরাং সমাধান সংখ্যা ২টি।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q18": {
+    "correctOption": "\\(\\frac{3\\pi}{4}\\)",
+    "explanation": "সঠিক উত্তর: গ। যেহেতু \\(xy = 2 \\times 3 = 6 > 1\\), তাই সূত্রমতে: \\(\\tan^{-1}2 + \\tan^{-1}3 = \\pi + \\tan^{-1}\\frac{2+3}{1-6} = \\pi - \\tan^{-1}1 = \\pi - \\frac{\\pi}{4} = \\frac{3\\pi}{4}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q19": {
+    "correctOption": "25 N",
+    "explanation": "সঠিক উত্তর: ক। বলদ্বয় লম্ব হওয়ায় লব্ধি \\(R = \\sqrt{7^2 + 24^2} = 25\\text{ N}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q20": {
+    "correctOption": "P",
+    "explanation": "সঠিক উত্তর: খ। সমান বলের লব্ধি \\(R = 2P\\cos\\frac{120^\\circ}{2} = 2P\\cos 60^\\circ = P\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q21": {
+    "correctOption": "40 m",
+    "explanation": "সঠিক উত্তর: গ। সর্বাধিক পাল্লা \\(R_{max} = \\frac{u^2}{g} = \\frac{20^2}{10} = 40\\text{ m}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q22": {
+    "correctOption": "5 s",
+    "explanation": "সঠিক উত্তর: খ। উড্ডয়নকাল \\(T = \\frac{2u\\sin\\theta}{g} = \\frac{2 \\cdot 50 \\cdot \\sin 30^\\circ}{10} = 5\\text{ s}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q23": {
+    "correctOption": "\\(\\frac{7}{8}\\)",
+    "explanation": "সঠিক উত্তর: গ। কোনো হেড না আসার (সবগুলো টেইল - TTT) সম্ভাবনা \\(\\frac{1}{8}\\)। সুতরাং অন্তত একটি হেড আসার সম্ভাবনা \\(1 - \\frac{1}{8} = \\frac{7}{8}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q24": {
+    "correctOption": "\\(\\frac{1}{12}\\)",
+    "explanation": "সঠিক উত্তর: ক। যোগফল ১০-এর বেশি (১১ বা ১২) হওয়ার অনুকূল ঘটনা ৩টি: \\(\\{(5,6), (6,5), (6,6)\\}\\)। মোট ঘটনা ৩৬টি। সম্ভাবনা \\(\\frac{3}{36} = \\frac{1}{12}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-15-q25": {
+    "correctOption": "0.2",
+    "explanation": "সঠিক উত্তর: খ। স্বাধীন ঘটনার ক্ষেত্রে \\(P(A \\cap B) = P(A) \\cdot P(B) = 0.4 \\times 0.5 = 0.2\\)।"
+  }
+}

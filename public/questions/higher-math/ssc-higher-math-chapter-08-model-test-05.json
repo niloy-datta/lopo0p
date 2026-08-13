@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$30^\\circ$ কোণের রেডিয়ান মান কত?",
+    "options": [
+      "$\\frac{\\pi}{6}$",
+      "$\\frac{\\pi}{4}$",
+      "$\\frac{\\pi}{3}$",
+      "$\\frac{\\pi}{2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\pi$ রেডিয়ান সমান কত ডিগ্রি?",
+    "options": [
+      "$180^\\circ$",
+      "$90^\\circ$",
+      "$360^\\circ$",
+      "$60^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\frac{\\pi}{2}$ রেডিয়ান সমান কত ডিগ্রি?",
+    "options": [
+      "$90^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$180^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "ব্যাসার্ধ 9 cm এবং কেন্দ্রীয় কোণ $\\frac{\\pi}{3}$ হলে চাপের দৈর্ঘ্য কত?",
+    "options": [
+      "$3\\pi$ cm",
+      "$6\\pi$ cm",
+      "$9\\pi$ cm",
+      "$\\pi$ cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "ব্যাসার্ধ 8 cm এবং কেন্দ্রীয় কোণ $\\frac{\\pi}{4}$ হলে চাপের দৈর্ঘ্য কত?",
+    "options": [
+      "$2\\pi$ cm",
+      "$4\\pi$ cm",
+      "$8\\pi$ cm",
+      "$\\pi$ cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\sin\\theta=\\frac{3}{5}$ হলে $\\csc\\theta$ কত?",
+    "options": [
+      "$\\frac53$",
+      "$\\frac35$",
+      "$\\frac43$",
+      "$\\frac54$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\cos\\theta=\\frac{4}{5}$ হলে $\\sec\\theta$ কত?",
+    "options": [
+      "$\\frac54$",
+      "$\\frac45$",
+      "$\\frac34$",
+      "$\\frac53$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\tan\\theta=\\frac{2}{3}$ হলে $\\cot\\theta$ কত?",
+    "options": [
+      "$\\frac32$",
+      "$\\frac23$",
+      "$\\frac35$",
+      "$\\frac52$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\sin30^\\circ\\cos60^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac14$",
+      "$\\frac12$",
+      "$\\frac34$",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\cos30^\\circ\\sin60^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac34$",
+      "$\\frac14$",
+      "$\\frac12$",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\tan30^\\circ\\cot30^\\circ$ এর মান কত?",
+    "options": [
+      "1",
+      "$\\frac13$",
+      "3",
+      "$\\sqrt3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\sec30^\\circ\\cos30^\\circ$ এর মান কত?",
+    "options": [
+      "1",
+      "$\\frac12$",
+      "$\\sqrt3$",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\csc60^\\circ\\sin60^\\circ$ এর মান কত?",
+    "options": [
+      "1",
+      "$\\frac{\\sqrt3}{2}$",
+      "$\\frac{2}{\\sqrt3}$",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\sin^230^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac14$",
+      "$\\frac12$",
+      "$\\frac34$",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\cos^260^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac14$",
+      "$\\frac12$",
+      "$\\frac34$",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\tan^260^\\circ$ এর মান কত?",
+    "options": [
+      "3",
+      "1",
+      "$\\frac13$",
+      "$\\sqrt3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$\\tan^230^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac13$",
+      "3",
+      "1",
+      "$\\frac12$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$1-\\sin^230^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac34$",
+      "$\\frac14$",
+      "$\\frac12$",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "$1-\\cos^260^\\circ$ এর মান কত?",
+    "options": [
+      "$\\frac34$",
+      "$\\frac14$",
+      "$\\frac12$",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "যদি $\\sin\\theta=\\frac{5}{13}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\tan\\theta$ কত?",
+    "options": [
+      "$\\frac5{12}$",
+      "$\\frac{12}{5}$",
+      "$\\frac5{13}$",
+      "$\\frac{12}{13}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "যদি $\\cos\\theta=\\frac{5}{13}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\sin\\theta$ কত?",
+    "options": [
+      "$\\frac{12}{13}$",
+      "$\\frac5{13}$",
+      "$\\frac5{12}$",
+      "$\\frac{13}{12}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "যদি $\\tan\\theta=\\frac{12}{5}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\csc\\theta$ কত?",
+    "options": [
+      "$\\frac{13}{12}$",
+      "$\\frac{12}{13}$",
+      "$\\frac{13}{5}$",
+      "$\\frac5{12}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "একটি দালান থেকে 25 m দূরে উন্নতি কোণ $45^\\circ$ হলে দালানের উচ্চতা কত?",
+    "options": [
+      "25 m",
+      "$25\\sqrt3$ m",
+      "$\\frac{25}{\\sqrt3}$ m",
+      "50 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "একটি গাছ থেকে 12 m দূরে উন্নতি কোণ $60^\\circ$ হলে গাছের উচ্চতা কত?",
+    "options": [
+      "$12\\sqrt3$ m",
+      "12 m",
+      "$\\frac{12}{\\sqrt3}$ m",
+      "24 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-05-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-05",
+    "text": "একটি খুঁটির উচ্চতা 18 m এবং দূরত্ব$18\\sqrt3$ m হলে উন্নতি কোণ কত?",
+    "options": [
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  }
+]

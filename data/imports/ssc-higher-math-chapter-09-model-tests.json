@@ -1,0 +1,2279 @@
+{
+  "sets": [
+    {
+      "setName": "অধ্যায় 9 · সূচক ও লগারিদম · মডেল টেস্ট 01",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "a^m × a^n এর মান কোনটি?",
+          "options": [
+            "a^(m+n)",
+            "a^(m-n)",
+            "a^(mn)",
+            "a^(m/n)"
+          ],
+          "answer": "a^(m+n)",
+          "answerIndex": 0,
+          "explanation": "একই ভিত্তির ঘাত গুণ করলে সূচক যোগ হয়। তাই a^m × a^n = a^(m+n)।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "a^m ÷ a^n এর মান কোনটি?",
+          "options": [
+            "a^(m-n)",
+            "a^(m+n)",
+            "a^(mn)",
+            "a^(n-m)"
+          ],
+          "answer": "a^(m-n)",
+          "answerIndex": 0,
+          "explanation": "একই ভিত্তির ঘাত ভাগ করলে সূচক বিয়োগ হয়। তাই a^m ÷ a^n = a^(m-n)।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "(a^m)^n এর মান কোনটি?",
+          "options": [
+            "a^(mn)",
+            "a^(m+n)",
+            "a^(m-n)",
+            "a^(m/n)"
+          ],
+          "answer": "a^(mn)",
+          "answerIndex": 0,
+          "explanation": "ঘাতের উপর ঘাত থাকলে সূচকগুলো গুণ হয়। তাই (a^m)^n = a^(mn)।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "a^0 এর মান কত, যেখানে a ≠ 0?",
+          "options": [
+            "1",
+            "0",
+            "a",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "যেকোনো অশূন্য সংখ্যার শূন্য সূচকবিশিষ্ট ঘাতের মান 1। তাই a^0 = 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "a^(-n) এর মান কোনটি?",
+          "options": [
+            "1/a^n",
+            "a^n",
+            "-a^n",
+            "a/n"
+          ],
+          "answer": "1/a^n",
+          "answerIndex": 0,
+          "explanation": "ঋণাত্মক সূচককে ধনাত্মক করলে ঘাতটি ভগ্নাংশের হরে যায়। তাই a^(-n) = 1/a^n।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "2^3 × 2^4 এর মান কত?",
+          "options": [
+            "128",
+            "64",
+            "32",
+            "16"
+          ],
+          "answer": "128",
+          "answerIndex": 0,
+          "explanation": "2^3 × 2^4 = 2^(3+4) = 2^7 = 128।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "5^7 ÷ 5^3 এর মান কত?",
+          "options": [
+            "625",
+            "125",
+            "25",
+            "3125"
+          ],
+          "answer": "625",
+          "answerIndex": 0,
+          "explanation": "5^7 ÷ 5^3 = 5^(7-3) = 5^4 = 625।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "(3^2)^3 এর মান কত?",
+          "options": [
+            "729",
+            "243",
+            "81",
+            "27"
+          ],
+          "answer": "729",
+          "answerIndex": 0,
+          "explanation": "(3^2)^3 = 3^6 = 729।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "16^(1/2) এর মান কত?",
+          "options": [
+            "4",
+            "8",
+            "2",
+            "16"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "16^(1/2) = √16 = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "27^(1/3) এর মান কত?",
+          "options": [
+            "3",
+            "9",
+            "6",
+            "27"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "27^(1/3) = ∛27 = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "8^(2/3) এর মান কত?",
+          "options": [
+            "4",
+            "2",
+            "8",
+            "16"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "8^(2/3) = (∛8)^2 = 2^2 = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "32^(2/5) এর মান কত?",
+          "options": [
+            "4",
+            "2",
+            "8",
+            "16"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "32^(2/5) = (⁵√32)^2 = 2^2 = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log_a x = y হলে সূচকীয় রূপ কোনটি?",
+          "options": [
+            "a^y = x",
+            "a^x = y",
+            "x^a = y",
+            "y^a = x"
+          ],
+          "answer": "a^y = x",
+          "answerIndex": 0,
+          "explanation": "লগারিদমের সংজ্ঞা অনুযায়ী log_a x = y ⇔ a^y = x।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log₂8 এর মান কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "8"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "2^3 = 8। তাই log₂8 = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log₃81 এর মান কত?",
+          "options": [
+            "4",
+            "3",
+            "5",
+            "9"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "3^4 = 81। তাই log₃81 = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log₁₀1000 এর মান কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "10"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "10^3 = 1000। তাই log₁₀1000 = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log_a 1 এর মান কত, যেখানে a > 0, a ≠ 1?",
+          "options": [
+            "0",
+            "1",
+            "a",
+            "-1"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "explanation": "a^0 = 1। তাই log_a 1 = 0।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log_a a এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "a",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "a^1 = a। তাই log_a a = 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log_a(MN) এর মান কোনটি?",
+          "options": [
+            "log_a M + log_a N",
+            "log_a M - log_a N",
+            "log_a M × log_a N",
+            "log_a M ÷ log_a N"
+          ],
+          "answer": "log_a M + log_a N",
+          "answerIndex": 0,
+          "explanation": "গুণফলের লগারিদম = লগারিদমের যোগফল। তাই log_a(MN) = log_a M + log_a N।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log_a(M/N) এর মান কোনটি?",
+          "options": [
+            "log_a M - log_a N",
+            "log_a M + log_a N",
+            "log_a N - log_a M",
+            "log_a(MN)"
+          ],
+          "answer": "log_a M - log_a N",
+          "answerIndex": 0,
+          "explanation": "ভাগফলের লগারিদম = লবের লগারিদম - হরের লগারিদম।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log_a(M^n) এর মান কোনটি?",
+          "options": [
+            "n log_a M",
+            "log_a M + n",
+            "log_a M - n",
+            "log_a M ÷ n"
+          ],
+          "answer": "n log_a M",
+          "answerIndex": 0,
+          "explanation": "ঘাতের লগারিদমে সূচক সামনে গুণক হিসেবে আসে। তাই log_a(M^n) = n log_a M।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log₂4 + log₂8 এর মান কত?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "3"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "log₂4 = 2 এবং log₂8 = 3। তাই যোগফল 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log₃27 - log₃3 এর মান কত?",
+          "options": [
+            "2",
+            "3",
+            "1",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "log₃27 = 3 এবং log₃3 = 1। তাই মান 3 - 1 = 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "log₅(25^2) এর মান কত?",
+          "options": [
+            "4",
+            "2",
+            "5",
+            "10"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "25^2 = (5^2)^2 = 5^4। তাই log₅(25^2) = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-01-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-01",
+          "text": "2^x = 64 হলে x কত?",
+          "options": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ],
+          "answer": "6",
+          "answerIndex": 0,
+          "explanation": "64 = 2^6। তাই x = 6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 9 · সূচক ও লগারিদম · মডেল টেস্ট 02",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "3^2 × 3^5 এর মান কত?",
+          "options": [
+            "2187",
+            "729",
+            "243",
+            "81"
+          ],
+          "answer": "2187",
+          "answerIndex": 0,
+          "explanation": "3^2 × 3^5 = 3^7 = 2187।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "2^9 ÷ 2^4 এর মান কত?",
+          "options": [
+            "32",
+            "16",
+            "64",
+            "128"
+          ],
+          "answer": "32",
+          "answerIndex": 0,
+          "explanation": "2^9 ÷ 2^4 = 2^5 = 32।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "(5^2)^2 এর মান কত?",
+          "options": [
+            "625",
+            "125",
+            "25",
+            "100"
+          ],
+          "answer": "625",
+          "answerIndex": 0,
+          "explanation": "(5^2)^2 = 5^4 = 625।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "10^(-2) এর মান কত?",
+          "options": [
+            "1/100",
+            "100",
+            "-100",
+            "1/10"
+          ],
+          "answer": "1/100",
+          "answerIndex": 0,
+          "explanation": "10^(-2) = 1/10^2 = 1/100।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "(2/3)^(-1) এর মান কত?",
+          "options": [
+            "3/2",
+            "2/3",
+            "-2/3",
+            "-3/2"
+          ],
+          "answer": "3/2",
+          "answerIndex": 0,
+          "explanation": "ঋণাত্মক সূচকে ভগ্নাংশটি উল্টে যায়। তাই (2/3)^(-1) = 3/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "81^(1/2) এর মান কত?",
+          "options": [
+            "9",
+            "3",
+            "27",
+            "81"
+          ],
+          "answer": "9",
+          "answerIndex": 0,
+          "explanation": "81^(1/2) = √81 = 9।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "125^(1/3) এর মান কত?",
+          "options": [
+            "5",
+            "25",
+            "15",
+            "125"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "125^(1/3) = ∛125 = 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "64^(2/3) এর মান কত?",
+          "options": [
+            "16",
+            "8",
+            "4",
+            "32"
+          ],
+          "answer": "16",
+          "answerIndex": 0,
+          "explanation": "64^(2/3) = (∛64)^2 = 4^2 = 16।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "9^(3/2) এর মান কত?",
+          "options": [
+            "27",
+            "9",
+            "18",
+            "81"
+          ],
+          "answer": "27",
+          "answerIndex": 0,
+          "explanation": "9^(3/2) = (√9)^3 = 3^3 = 27।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "4^x = 64 হলে x কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "6"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "64 = 4^3। তাই x = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "3^(x+1) = 243 হলে x কত?",
+          "options": [
+            "4",
+            "3",
+            "5",
+            "2"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "243 = 3^5। তাই x+1 = 5, সুতরাং x = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "2^(2x) = 256 হলে x কত?",
+          "options": [
+            "4",
+            "3",
+            "5",
+            "8"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "256 = 2^8। তাই 2x = 8, সুতরাং x = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log₄64 এর মান কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "6"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "4^3 = 64। তাই log₄64 = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log₅125 এর মান কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "5^3 = 125। তাই log₅125 = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log₇49 এর মান কত?",
+          "options": [
+            "2",
+            "3",
+            "7",
+            "1"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "7^2 = 49। তাই log₇49 = 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log₂32 - log₂4 এর মান কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "log₂32 = 5 এবং log₂4 = 2। তাই মান 5 - 2 = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log₃9 + log₃27 এর মান কত?",
+          "options": [
+            "5",
+            "4",
+            "3",
+            "6"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "log₃9 = 2 এবং log₃27 = 3। তাই যোগফল 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log₁₀(10^4) এর মান কত?",
+          "options": [
+            "4",
+            "10",
+            "40",
+            "1"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "log_a(a^n) = n। তাই log₁₀(10^4) = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log₂(8×4) এর মান কত?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "3"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "8×4 = 32 = 2^5। তাই log₂(8×4) = 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log₃(81/9) এর মান কত?",
+          "options": [
+            "2",
+            "3",
+            "1",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "81/9 = 9 = 3^2। তাই মান 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log₅625 এর মান কত?",
+          "options": [
+            "4",
+            "3",
+            "5",
+            "2"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "625 = 5^4। তাই log₅625 = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log_a(a^5) এর মান কত?",
+          "options": [
+            "5",
+            "a",
+            "a^5",
+            "1"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "log_a(a^n) = n। তাই log_a(a^5) = 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "a^(log_a x) এর মান কোনটি?",
+          "options": [
+            "x",
+            "a",
+            "log_a x",
+            "1"
+          ],
+          "answer": "x",
+          "answerIndex": 0,
+          "explanation": "লগারিদম ও সূচকীয় ফাংশন পরস্পর বিপরীত। তাই a^(log_a x) = x।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log_a x = 0 হলে x কত?",
+          "options": [
+            "1",
+            "a",
+            "0",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "log_a x = 0 ⇒ a^0 = x ⇒ x = 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-02-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-02",
+          "text": "log_a x = 1 হলে x কত?",
+          "options": [
+            "a",
+            "1",
+            "0",
+            "a^2"
+          ],
+          "answer": "a",
+          "answerIndex": 0,
+          "explanation": "log_a x = 1 ⇒ a^1 = x ⇒ x = a।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 9 · সূচক ও লগারিদম · মডেল টেস্ট 03",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "4^3 × 4^2 এর মান কত?",
+          "options": [
+            "1024",
+            "256",
+            "64",
+            "4096"
+          ],
+          "answer": "1024",
+          "answerIndex": 0,
+          "explanation": "4^3 × 4^2 = 4^5 = 1024।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "7^6 ÷ 7^4 এর মান কত?",
+          "options": [
+            "49",
+            "7",
+            "343",
+            "2401"
+          ],
+          "answer": "49",
+          "answerIndex": 0,
+          "explanation": "7^6 ÷ 7^4 = 7^2 = 49।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "(2^4)^3 এর মান কত?",
+          "options": [
+            "4096",
+            "1024",
+            "512",
+            "256"
+          ],
+          "answer": "4096",
+          "answerIndex": 0,
+          "explanation": "(2^4)^3 = 2^12 = 4096।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "(3/5)^(-1) এর মান কত?",
+          "options": [
+            "5/3",
+            "3/5",
+            "-3/5",
+            "-5/3"
+          ],
+          "answer": "5/3",
+          "answerIndex": 0,
+          "explanation": "ঋণাত্মক সূচক হলে ভগ্নাংশ উল্টে যায়। তাই (3/5)^(-1) = 5/3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "25^(-1/2) এর মান কত?",
+          "options": [
+            "1/5",
+            "5",
+            "1/25",
+            "-5"
+          ],
+          "answer": "1/5",
+          "answerIndex": 0,
+          "explanation": "25^(-1/2) = 1/√25 = 1/5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "216^(1/3) এর মান কত?",
+          "options": [
+            "6",
+            "36",
+            "18",
+            "12"
+          ],
+          "answer": "6",
+          "answerIndex": 0,
+          "explanation": "216^(1/3) = ∛216 = 6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "49^(3/2) এর মান কত?",
+          "options": [
+            "343",
+            "49",
+            "147",
+            "2401"
+          ],
+          "answer": "343",
+          "answerIndex": 0,
+          "explanation": "49^(3/2) = (√49)^3 = 7^3 = 343।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "81^(3/4) এর মান কত?",
+          "options": [
+            "27",
+            "9",
+            "3",
+            "81"
+          ],
+          "answer": "27",
+          "answerIndex": 0,
+          "explanation": "81 = 3^4। তাই 81^(3/4) = (3^4)^(3/4) = 3^3 = 27।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "16^(-3/4) এর মান কত?",
+          "options": [
+            "1/8",
+            "8",
+            "1/4",
+            "4"
+          ],
+          "answer": "1/8",
+          "answerIndex": 0,
+          "explanation": "16 = 2^4। তাই 16^(-3/4) = 2^(-3) = 1/8।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "5^x = 625 হলে x কত?",
+          "options": [
+            "4",
+            "3",
+            "5",
+            "2"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "625 = 5^4। তাই x = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "2^(x-1) = 32 হলে x কত?",
+          "options": [
+            "6",
+            "5",
+            "4",
+            "7"
+          ],
+          "answer": "6",
+          "answerIndex": 0,
+          "explanation": "32 = 2^5। তাই x-1 = 5, সুতরাং x = 6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "3^(2x-1) = 81 হলে x কত?",
+          "options": [
+            "5/2",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "5/2",
+          "answerIndex": 0,
+          "explanation": "81 = 3^4। তাই 2x-1 = 4 ⇒ 2x = 5 ⇒ x = 5/2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₂64 এর মান কত?",
+          "options": [
+            "6",
+            "5",
+            "4",
+            "8"
+          ],
+          "answer": "6",
+          "answerIndex": 0,
+          "explanation": "2^6 = 64। তাই log₂64 = 6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₈64 এর মান কত?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "8"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "8^2 = 64। তাই log₈64 = 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₉81 এর মান কত?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "9"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "9^2 = 81। তাই log₉81 = 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₂(1/32) এর মান কত?",
+          "options": [
+            "-5",
+            "5",
+            "-4",
+            "1/5"
+          ],
+          "answer": "-5",
+          "answerIndex": 0,
+          "explanation": "1/32 = 2^(-5)। তাই log₂(1/32) = -5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₃(1/27) এর মান কত?",
+          "options": [
+            "-3",
+            "3",
+            "-2",
+            "1/3"
+          ],
+          "answer": "-3",
+          "answerIndex": 0,
+          "explanation": "1/27 = 3^(-3)। তাই log₃(1/27) = -3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₁₀0.001 এর মান কত?",
+          "options": [
+            "-3",
+            "3",
+            "-2",
+            "1/3"
+          ],
+          "answer": "-3",
+          "answerIndex": 0,
+          "explanation": "0.001 = 10^(-3)। তাই log₁₀0.001 = -3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₂16 + log₂2 এর মান কত?",
+          "options": [
+            "5",
+            "4",
+            "6",
+            "3"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "log₂16 = 4 এবং log₂2 = 1। তাই যোগফল 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₅125 - log₅5 এর মান কত?",
+          "options": [
+            "2",
+            "3",
+            "1",
+            "4"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "log₅125 = 3 এবং log₅5 = 1। তাই মান 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₄(16×4) এর মান কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "16×4 = 64 = 4^3। তাই log₄(64) = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₂(64/8) এর মান কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "64/8 = 8 = 2^3। তাই মান 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log₃(9^3) এর মান কত?",
+          "options": [
+            "6",
+            "3",
+            "9",
+            "12"
+          ],
+          "answer": "6",
+          "answerIndex": 0,
+          "explanation": "9^3 = (3^2)^3 = 3^6। তাই log₃(9^3) = 6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log_a x = 2 হলে x কত?",
+          "options": [
+            "a^2",
+            "2a",
+            "a/2",
+            "2^a"
+          ],
+          "answer": "a^2",
+          "answerIndex": 0,
+          "explanation": "log_a x = 2 ⇒ a^2 = x। তাই x = a^2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-03-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-03",
+          "text": "log_a x = -1 হলে x কত?",
+          "options": [
+            "1/a",
+            "a",
+            "-a",
+            "a^2"
+          ],
+          "answer": "1/a",
+          "answerIndex": 0,
+          "explanation": "log_a x = -1 ⇒ a^(-1) = x। তাই x = 1/a।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 9 · সূচক ও লগারিদম · মডেল টেস্ট 04",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "সূচকীয় ফাংশন y = a^x এর জন্য ভিত্তি a-এর শর্ত কোনটি?",
+          "options": [
+            "a > 0, a ≠ 1",
+            "a = 0",
+            "a < 0",
+            "a = 1"
+          ],
+          "answer": "a > 0, a ≠ 1",
+          "answerIndex": 0,
+          "explanation": "সূচকীয় ও লগারিদমীয় ফাংশনে ভিত্তি ধনাত্মক এবং 1 নয় হতে হয়। তাই a > 0, a ≠ 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log_a x সংজ্ঞায়িত হওয়ার জন্য x-এর শর্ত কোনটি?",
+          "options": [
+            "x > 0",
+            "x < 0",
+            "x = 0",
+            "x ≤ 0"
+          ],
+          "answer": "x > 0",
+          "answerIndex": 0,
+          "explanation": "লগারিদমে argument অবশ্যই ধনাত্মক হতে হয়। তাই x > 0।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "y = 2^x ফাংশনের মান সর্বদা কেমন?",
+          "options": [
+            "ধনাত্মক",
+            "ঋণাত্মক",
+            "শূন্য",
+            "শুধু পূর্ণসংখ্যা"
+          ],
+          "answer": "ধনাত্মক",
+          "answerIndex": 0,
+          "explanation": "2^x যেকোনো বাস্তব x-এর জন্য ধনাত্মক। তাই y = 2^x সর্বদা ধনাত্মক।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "y = log₂x ফাংশনের domain কোনটি?",
+          "options": [
+            "x > 0",
+            "x ≥ 0",
+            "সকল বাস্তব সংখ্যা",
+            "x < 0"
+          ],
+          "answer": "x > 0",
+          "answerIndex": 0,
+          "explanation": "log₂x সংজ্ঞায়িত হওয়ার জন্য x > 0 হতে হবে। তাই domain হলো x > 0।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "y = 3^x ফাংশনে x = 0 হলে y কত?",
+          "options": [
+            "1",
+            "0",
+            "3",
+            "-1"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "3^0 = 1। তাই y = 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "y = log₃x ফাংশনে x = 1 হলে y কত?",
+          "options": [
+            "0",
+            "1",
+            "3",
+            "-1"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "explanation": "log₃1 = 0, কারণ 3^0 = 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "y = log₄x ফাংশনে x = 4 হলে y কত?",
+          "options": [
+            "1",
+            "0",
+            "2",
+            "4"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "log₄4 = 1, কারণ 4^1 = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "2^x = 1/8 হলে x কত?",
+          "options": [
+            "-3",
+            "3",
+            "-2",
+            "1/3"
+          ],
+          "answer": "-3",
+          "answerIndex": 0,
+          "explanation": "1/8 = 2^(-3)। তাই x = -3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "3^x = 1/81 হলে x কত?",
+          "options": [
+            "-4",
+            "4",
+            "-3",
+            "1/4"
+          ],
+          "answer": "-4",
+          "answerIndex": 0,
+          "explanation": "1/81 = 3^(-4)। তাই x = -4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "10^x = 0.01 হলে x কত?",
+          "options": [
+            "-2",
+            "2",
+            "-1",
+            "1/2"
+          ],
+          "answer": "-2",
+          "answerIndex": 0,
+          "explanation": "0.01 = 1/100 = 10^(-2)। তাই x = -2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₂x = 5 হলে x কত?",
+          "options": [
+            "32",
+            "16",
+            "25",
+            "10"
+          ],
+          "answer": "32",
+          "answerIndex": 0,
+          "explanation": "log₂x = 5 ⇒ x = 2^5 = 32।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₃x = 4 হলে x কত?",
+          "options": [
+            "81",
+            "27",
+            "64",
+            "12"
+          ],
+          "answer": "81",
+          "answerIndex": 0,
+          "explanation": "log₃x = 4 ⇒ x = 3^4 = 81।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₅x = 3 হলে x কত?",
+          "options": [
+            "125",
+            "25",
+            "15",
+            "5"
+          ],
+          "answer": "125",
+          "answerIndex": 0,
+          "explanation": "log₅x = 3 ⇒ x = 5^3 = 125।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₂x + log₂4 = 5 হলে x কত?",
+          "options": [
+            "8",
+            "4",
+            "16",
+            "32"
+          ],
+          "answer": "8",
+          "answerIndex": 0,
+          "explanation": "log₂4 = 2। তাই log₂x + 2 = 5 ⇒ log₂x = 3 ⇒ x = 8।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₃x - log₃3 = 2 হলে x কত?",
+          "options": [
+            "27",
+            "9",
+            "6",
+            "3"
+          ],
+          "answer": "27",
+          "answerIndex": 0,
+          "explanation": "log₃3 = 1। তাই log₃x - 1 = 2 ⇒ log₃x = 3 ⇒ x = 27।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₂(x) = log₂8 হলে x কত?",
+          "options": [
+            "8",
+            "2",
+            "4",
+            "16"
+          ],
+          "answer": "8",
+          "answerIndex": 0,
+          "explanation": "একই ভিত্তির লগারিদম সমান হলে argument সমান। তাই x = 8।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₃(x+1) = log₃10 হলে x কত?",
+          "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+          ],
+          "answer": "9",
+          "answerIndex": 0,
+          "explanation": "x+1 = 10 ⇒ x = 9।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₅(2x) = log₅20 হলে x কত?",
+          "options": [
+            "10",
+            "20",
+            "5",
+            "2"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "2x = 20 ⇒ x = 10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₂8 + log₂16 - log₂4 এর মান কত?",
+          "options": [
+            "5",
+            "4",
+            "6",
+            "3"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "log₂8=3, log₂16=4, log₂4=2। তাই মান 3+4-2 = 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₃81 + log₃9 - log₃27 এর মান কত?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "log₃81=4, log₃9=2, log₃27=3। তাই মান 4+2-3 = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₂(2^7) এর মান কত?",
+          "options": [
+            "7",
+            "2",
+            "14",
+            "49"
+          ],
+          "answer": "7",
+          "answerIndex": 0,
+          "explanation": "log_a(a^n) = n। তাই log₂(2^7) = 7।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₄(4^6) এর মান কত?",
+          "options": [
+            "6",
+            "4",
+            "24",
+            "10"
+          ],
+          "answer": "6",
+          "answerIndex": 0,
+          "explanation": "log₄(4^6) = 6।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "2^(log₂9) এর মান কত?",
+          "options": [
+            "9",
+            "2",
+            "log₂9",
+            "1"
+          ],
+          "answer": "9",
+          "answerIndex": 0,
+          "explanation": "a^(log_a x) = x। তাই 2^(log₂9) = 9।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "5^(log₅12) এর মান কত?",
+          "options": [
+            "12",
+            "5",
+            "log₅12",
+            "1"
+          ],
+          "answer": "12",
+          "answerIndex": 0,
+          "explanation": "a^(log_a x) = x। তাই 5^(log₅12) = 12।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-04-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-04",
+          "text": "log₂x = -2 হলে x কত?",
+          "options": [
+            "1/4",
+            "4",
+            "-4",
+            "1/2"
+          ],
+          "answer": "1/4",
+          "answerIndex": 0,
+          "explanation": "log₂x = -2 ⇒ x = 2^(-2) = 1/4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 9 · সূচক ও লগারিদম · মডেল টেস্ট 05",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "6^2 × 6^3 এর মান কত?",
+          "options": [
+            "7776",
+            "1296",
+            "216",
+            "36"
+          ],
+          "answer": "7776",
+          "answerIndex": 0,
+          "explanation": "6^2 × 6^3 = 6^5 = 7776।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "10^6 ÷ 10^2 এর মান কত?",
+          "options": [
+            "10000",
+            "1000",
+            "100000",
+            "100"
+          ],
+          "answer": "10000",
+          "answerIndex": 0,
+          "explanation": "10^6 ÷ 10^2 = 10^4 = 10000।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "(4^2)^3 এর মান কত?",
+          "options": [
+            "4096",
+            "1024",
+            "256",
+            "64"
+          ],
+          "answer": "4096",
+          "answerIndex": 0,
+          "explanation": "(4^2)^3 = 4^6 = 4096।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "100^(1/2) এর মান কত?",
+          "options": [
+            "10",
+            "100",
+            "50",
+            "20"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "100^(1/2) = √100 = 10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "1000^(1/3) এর মান কত?",
+          "options": [
+            "10",
+            "100",
+            "30",
+            "20"
+          ],
+          "answer": "10",
+          "answerIndex": 0,
+          "explanation": "1000^(1/3) = ∛1000 = 10।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "121^(1/2) এর মান কত?",
+          "options": [
+            "11",
+            "12",
+            "10",
+            "121"
+          ],
+          "answer": "11",
+          "answerIndex": 0,
+          "explanation": "121^(1/2) = √121 = 11।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "343^(1/3) এর মান কত?",
+          "options": [
+            "7",
+            "49",
+            "21",
+            "14"
+          ],
+          "answer": "7",
+          "answerIndex": 0,
+          "explanation": "343^(1/3) = ∛343 = 7।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "125^(2/3) এর মান কত?",
+          "options": [
+            "25",
+            "5",
+            "10",
+            "15"
+          ],
+          "answer": "25",
+          "answerIndex": 0,
+          "explanation": "125^(2/3) = (∛125)^2 = 5^2 = 25।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "27^(-2/3) এর মান কত?",
+          "options": [
+            "1/9",
+            "9",
+            "1/3",
+            "3"
+          ],
+          "answer": "1/9",
+          "answerIndex": 0,
+          "explanation": "27^(-2/3) = 1/(27^(2/3)) = 1/(3^2) = 1/9।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "9^(x) = 729 হলে x কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "6"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "729 = 9^3। তাই x = 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "5^(x-2) = 125 হলে x কত?",
+          "options": [
+            "5",
+            "3",
+            "4",
+            "6"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "125 = 5^3। তাই x-2 = 3 ⇒ x = 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "2^(3x) = 64 হলে x কত?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "64 = 2^6। তাই 3x = 6 ⇒ x = 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₂128 এর মান কত?",
+          "options": [
+            "7",
+            "6",
+            "8",
+            "5"
+          ],
+          "answer": "7",
+          "answerIndex": 0,
+          "explanation": "128 = 2^7। তাই log₂128 = 7।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₆36 এর মান কত?",
+          "options": [
+            "2",
+            "3",
+            "6",
+            "1"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "6^2 = 36। তাই log₆36 = 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₁₁121 এর মান কত?",
+          "options": [
+            "2",
+            "11",
+            "1",
+            "3"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "11^2 = 121। তাই log₁₁121 = 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₄(1/64) এর মান কত?",
+          "options": [
+            "-3",
+            "3",
+            "-2",
+            "1/3"
+          ],
+          "answer": "-3",
+          "answerIndex": 0,
+          "explanation": "1/64 = 4^(-3)। তাই log₄(1/64) = -3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₅(1/125) এর মান কত?",
+          "options": [
+            "-3",
+            "3",
+            "-2",
+            "1/3"
+          ],
+          "answer": "-3",
+          "answerIndex": 0,
+          "explanation": "1/125 = 5^(-3)। তাই log₅(1/125) = -3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₁₀0.0001 এর মান কত?",
+          "options": [
+            "-4",
+            "4",
+            "-3",
+            "1/4"
+          ],
+          "answer": "-4",
+          "answerIndex": 0,
+          "explanation": "0.0001 = 10^(-4)। তাই log₁₀0.0001 = -4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₂8 + log₂32 এর মান কত?",
+          "options": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ],
+          "answer": "8",
+          "answerIndex": 0,
+          "explanation": "log₂8 = 3 এবং log₂32 = 5। তাই যোগফল 8।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₃243 - log₃9 এর মান কত?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "log₃243 = 5 এবং log₃9 = 2। তাই মান 3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₅(25×125) এর মান কত?",
+          "options": [
+            "5",
+            "4",
+            "6",
+            "3"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "25×125 = 5^2 × 5^3 = 5^5। তাই মান 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₂(128/4) এর মান কত?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "3"
+          ],
+          "answer": "5",
+          "answerIndex": 0,
+          "explanation": "128/4 = 32 = 2^5। তাই মান 5।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₄(16^2) এর মান কত?",
+          "options": [
+            "4",
+            "2",
+            "8",
+            "16"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "16^2 = (4^2)^2 = 4^4। তাই log₄(16^2) = 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₂x = 3 এবং log₂y = 4 হলে log₂(xy) কত?",
+          "options": [
+            "7",
+            "12",
+            "1",
+            "4/3"
+          ],
+          "answer": "7",
+          "answerIndex": 0,
+          "explanation": "log₂(xy)=log₂x+log₂y=3+4=7।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-09-model-test-05-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-09-model-test-05",
+          "text": "log₃x = 5 এবং log₃y = 2 হলে log₃(x/y) কত?",
+          "options": [
+            "3",
+            "7",
+            "10",
+            "2/5"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "log₃(x/y)=log₃x-log₃y=5-2=3।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        }
+      ]
+    }
+  ]
+}

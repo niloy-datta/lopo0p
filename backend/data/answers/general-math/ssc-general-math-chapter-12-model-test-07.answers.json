@@ -1,0 +1,212 @@
+{
+  "ssc-general-math-chapter-12-model-test-07-q01": {
+    "answer": "5",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 16 + 11 − 5 = 22।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q02": {
+    "answer": "17",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 17 + 12 − 6 = 23।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q03": {
+    "answer": "31",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 18 + 13 − 7 = 24।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q04": {
+    "answer": "33",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 19 + 14 − 2 = 31।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q05": {
+    "answer": "35",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 20 + 15 − 3 = 32।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q06": {
+    "answer": "4",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 21 + 16 − 4 = 33।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q07": {
+    "answer": "39",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 22 + 17 − 5 = 34।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q08": {
+    "answer": "41",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 23 + 18 − 6 = 35।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q09": {
+    "answer": "43",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 24 + 19 − 7 = 36।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q10": {
+    "answer": "15",
+    "answerIndex": 0,
+    "explanation": "4টি পদ → উপসেট 16।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q11": {
+    "answer": "5",
+    "answerIndex": 0,
+    "explanation": "5টি পদ → উপসেট 32।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q12": {
+    "answer": "63",
+    "answerIndex": 0,
+    "explanation": "6টি পদ → উপসেট 64।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q13": {
+    "answer": "8",
+    "answerIndex": 0,
+    "explanation": "7টি পদ → উপসেট 128।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q14": {
+    "answer": "4",
+    "answerIndex": 0,
+    "explanation": "3টি পদ → উপসেট 8।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q15": {
+    "answer": "15",
+    "answerIndex": 0,
+    "explanation": "4টি পদ → উপসেট 16।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q16": {
+    "answer": "31",
+    "answerIndex": 0,
+    "explanation": "5টি পদ → উপসেট 32।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q17": {
+    "answer": "7",
+    "answerIndex": 0,
+    "explanation": "6টি পদ → উপসেট 64।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q18": {
+    "answer": "127",
+    "answerIndex": 0,
+    "explanation": "7টি পদ → উপসেট 128।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q19": {
+    "answer": "7",
+    "answerIndex": 0,
+    "explanation": "3টি পদ → উপসেট 8।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q20": {
+    "answer": "4",
+    "answerIndex": 0,
+    "explanation": "4টি পদ → উপসেট 16।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q21": {
+    "answer": "6",
+    "answerIndex": 0,
+    "explanation": "5টি পদ → উপসেট 32।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q22": {
+    "answer": "63",
+    "answerIndex": 0,
+    "explanation": "6টি পদ → উপসেট 64।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q23": {
+    "answer": "127",
+    "answerIndex": 0,
+    "explanation": "7টি পদ → উপসেট 128।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q24": {
+    "answer": "7",
+    "answerIndex": 0,
+    "explanation": "3টি পদ → উপসেট 8।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q25": {
+    "answer": "5",
+    "answerIndex": 0,
+    "explanation": "4টি পদ → উপসেট 16।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q26": {
+    "answer": "31",
+    "answerIndex": 0,
+    "explanation": "5টি পদ → উপসেট 32।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q27": {
+    "answer": "63",
+    "answerIndex": 0,
+    "explanation": "6টি পদ → উপসেট 64।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q28": {
+    "answer": "7",
+    "answerIndex": 0,
+    "explanation": "7টি পদ → উপসেট 128।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q29": {
+    "answer": "4",
+    "answerIndex": 0,
+    "explanation": "3টি পদ → উপসেট 8।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-07-q30": {
+    "answer": "15",
+    "answerIndex": 0,
+    "explanation": "4টি পদ → উপসেট 16।",
+    "topic": "সেট",
+    "difficulty": 1200
+  }
+}

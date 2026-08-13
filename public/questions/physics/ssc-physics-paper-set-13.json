@@ -1,0 +1,347 @@
+[
+  {
+    "id": "ssc-physics-paper-set-13-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "এক্স-রে গ্রহণের সময় রোগীর ব্যবহৃত এপে্রানে নিচের কোন পদার্থটি আবরণ থাকে?",
+    "options": [
+      "গ্যালিয়াম",
+      "ক্যাডমিয়াম",
+      "কার্বন",
+      "সিসা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "একটি 3 kg ভরের বস্তুর ওপর 2 m/s² ত্বরণ সৃষ্টি করতে কত বল প্রয়োগ করতে হবে?",
+    "options": [
+      "{(m+a)} N",
+      "a/m N",
+      "6 N",
+      "m/a N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "টায়ারটির উপর কী ধরনের বল কাজ করছে?",
+    "options": [
+      "সাম্য বল",
+      "অসাম্য বল",
+      "লব্ধি বল",
+      "মৌলিক বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "একটি পরিবাহীর রোধ 3 Ω এবং দুই প্রান্তের বিভব পার্থক্য 16 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "5.3 A",
+      "48 A",
+      "0.19 A",
+      "{(v+r)} A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "নিচের কোন লেখচিত্রটি নির্দিষ্ট পরিবাহীর রোধ (R) বনাম ক্ষেত্রফল (A) এর জন্য সঠিক?",
+    "options": [
+      "চিত্র (ক): ক্ষেত্রফলের সাথে সরলরৈখিকভাবে হ্রাসমান রোধ",
+      "চিত্র (খ): ক্ষেত্রফলের সাথে সমানুপাতিক রোধ",
+      "চিত্র (গ): ক্ষেত্রফল পরিবর্তনে অপরিবর্তিত রোধ",
+      "চিত্র (ঘ): ক্ষেত্রফলের সাথে ব্যস্তানুপাতিক হারে হ্রাসমান রোধ (অধিবৃত্তাকার)"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "৫০C এর একটি আধান থেকে ৬০ cm দ–রবর্তী কোনো বিন্দুতে ইলেকটি্রক ফিল্ড কত?",
+    "options": [
+      "১.২৫ \times ১০^{১০}ঘC–১",
+      "১.২৫ \times ১০^{১২}ঘC–১",
+      "২.২৫ \times ১০^{১০}ঘC–১",
+      "২.২৫ \times ১০^{১২}ঘC–১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "নিচের কোন মাধ্যমে শব্দের বেগ সবচেয়ে কম?",
+    "options": [
+      "লোহা",
+      "পানি",
+      "বাতাস",
+      "কেরোসিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "সমমানের দুটি রোধ শ্রেণী ও সমান্তরালে সংযুক্ত করলে নিচের কোন সম্পর্কটি সঠিক হবে?",
+    "options": [
+      "$R_p = 4R_s$",
+      "$R_s = 4R_p$",
+      "$R_p = R_s$",
+      "$R_s = 2R_p$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "একটি 28 m/s বেগে চলমান 3 kg ভরের বস্তুর গতিশক্তি কত?",
+    "options": [
+      "0.5*m*v J",
+      "m*v*v J",
+      "1176 J",
+      "84 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "একটি গাড়ির আদিবেগ 5 m/s এবং ত্বরণ 4 m/s²। 8 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "{u + a*t} m/s",
+      "40 m/s",
+      "{u - a*t} m/s",
+      "{u + 2*a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "কোন মাধ্যমে শব্দের বেগ সর্বোচ্চ?",
+    "options": [
+      "কঠিন",
+      "তরল",
+      "গ্যাস",
+      "পÐাজমা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "1 অ্যাটোমিটার = কত মিটার?",
+    "options": [
+      "10⁻⁹",
+      "10⁻¹²",
+      "10⁻¹⁵",
+      "10⁻¹⁸"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "আলোকবিজ্ঞানের স্থপতি হিসেবে নিচের কোন নামটি বিবেচনা করা হয়?",
+    "options": [
+      "ইবনে আল হাইথাম",
+      "থেলিস",
+      "আল খোয়ারিজমি",
+      "আল মাসুদী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "নিচের কোন পদার্থের ইয়ং মডুলাস সবচেয়ে কম?",
+    "options": [
+      "কাঠ",
+      "কাঁচ",
+      "তামা",
+      "হীরা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "স্প্রিং থেকে ঝুলিয়ে নেওয়া একটা বস্তুর গতি হচ্ছ-ে",
+    "options": [
+      "চলন গতি",
+      "ঘ–র্ণন গতি",
+      "সরলরৈখিক গতি",
+      "স্পন্দন গতি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "সাইকেলের প্যাডেলের গতি কোন ধরনের গতি?",
+    "options": [
+      "চলন গতি",
+      "স্পন্দন গতি",
+      "দোলন গতি",
+      "ঘূর্ণন গতি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "আয়তনে আপেক্ষিক ত্রুটির মান ক্ষেত্রফলের আপেক্ষিক ত্রুটির প্রায় কত গুণ হবে?",
+    "options": [
+      "৩",
+      "২",
+      "১.৫",
+      "০.৬৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 5 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+    "options": [
+      "20 সেমি",
+      "10 সেমি",
+      "5 সেমি",
+      "2.5 সেমি"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-13-q19.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "পরিবাহী তারের রোধ নির্ভর করে কোনটির উপর?",
+    "options": [
+      "বিভব",
+      "তড়িৎ প্রবাহ",
+      "তড়িৎ প্রাবল্য",
+      "প্রস্থচ্ছেদের ক্ষেত্রফল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "ধনাত্মক আধানে আহিত একটি বস্তুকে ভূমির সাথে সংযুক্ত করলে কী ঘটবে?",
+    "options": [
+      "বিভব হ্রাস পাবে",
+      "বিভব বৃদ্ধি পাবে",
+      "নিস্তড়িৎ হবে",
+      "ঋণাত্মক আধানগ্রস্ত হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "কোনটির উপর বাষ্পায়ন নির্ভরশীল নয়?",
+    "options": [
+      "তরলের প্রকৃতি",
+      "তরলের উষ্ণতা",
+      "তরলের আয়তন",
+      "তরলের উপরিভাগের ক্ষেত্রফল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "শক্তির মাত্রা নিচের কোনটি?",
+    "options": [
+      "ML২T–২",
+      "\\(MLT\\)–২",
+      "ML২T–৩",
+      "\\(ML-1T\\)–২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-13-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-13",
+    "text": "চোখের ভেতর আলোর পরিমাণ নিয়ন্ত্রণ করে নিচের কোনটি?",
+    "options": [
+      "রেটিনা",
+      "আইরিস",
+      "ডায়াফ্রাম",
+      "অ্যাকুয়াস হিউমার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

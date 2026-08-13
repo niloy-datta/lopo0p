@@ -1,0 +1,66 @@
+{
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q01": {
+    "correctOption": "MLT⁻²",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q02": {
+    "correctOption": "N m⁻²",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q03": {
+    "correctOption": "((A.B)/|A|²) A",
+    "explanation": "'লম্ব অভিক্ষেপ' হলো স্কেলার (B cos θ)। কিন্তু 'উপাংশ' হলো একটি ভেক্টর। তাই অভিক্ষেপকে A এর দিকের একক ভেক্টর (A/|A|) দিয়ে গুণ করতে হয়। ((A.B)/|A|) * (A/|A|) = ((A.B)/|A|²) A."
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q04": {
+    "correctOption": "6.673 × 10⁻¹¹ N m² kg⁻²",
+    "explanation": "এটি একটি ধ্রুবক মান যা মুখস্থ রাখা জরুরি।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q05": {
+    "correctOption": "2 5 ​RT",
+    "explanation": "অক্সিজেন একটি দ্বি-পারমাণবিক গ্যাস, যার স্বাধীনতার মাত্রা f=5। মোট গতিশক্তি E=2 f ​nRT=2 5 ​RT (যেহেতু n=1)।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q06": {
+    "correctOption": "T",
+    "explanation": "সমজাতীয় রাশি ছাড়া যোগ করা যায় না। যেহেতু c এর সাথে t (সময়) যোগ করা হয়েছে, তাই c এর মাত্রাও সময়ের মাত্রা T হবে।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q07": {
+    "correctOption": "5",
+    "explanation": "y = Asin(ωt) এর সাথে তুলনা করলে A = 5."
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q08": {
+    "correctOption": "ML⁻¹T⁻¹",
+    "explanation": "Pa·s = ML⁻¹T⁻² × T = ML⁻¹T⁻¹।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q09": {
+    "correctOption": "২%",
+    "explanation": "ক্ষেত্রফল A = πr²। ত্রুটি = 2 × (ব্যাসার্ধের ত্রুটি) = 2 × 1% = 2%."
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q10": {
+    "correctOption": "sin⁻¹(0.08)",
+    "explanation": "রেললাইনের ব্যাংকিং কোণ হিসাবের সূত্র হলো sin θ = h/d, যেখানে h = উচ্চতা = 8 cm = 0.08 m এবং d = পাত দুটির দূরত্ব = 1 m। অতএব θ = sin⁻¹(0.08/1) = sin⁻¹(0.08)। (এখানে tan θ হবে না কারণ দূরত্ব সোজা পাত বরাবর ধরা হয়)।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q11": {
+    "correctOption": "একক নেই",
+    "explanation": "কর্মদক্ষতা হলো লভ্য কার্যকর শক্তি এবং মোট প্রদত্ত শক্তির অনুপাত। দুটি সমজাতীয় রাশির অনুপাত হওয়ায় এর কোনো একক নেই। (একে শতকরায় প্রকাশ করা হয়, তবে % কোনো ভৌত একক নয়)।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q12": {
+    "correctOption": "স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তর করে",
+    "explanation": "গ্রেডিয়েন্ট কোনো স্কেলার ক্ষেত্রের ওপর অপারেট করে একটি ভেক্টর রাশি তৈরি করে, যা ওই স্কেলার রাশির সর্বাধিক পরিবর্তনের হার ও দিক নির্দেশ করে।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q13": {
+    "correctOption": "একক নেই",
+    "explanation": "দুটি বলের (ঘর্ষণ বল ও অভিলম্ব প্রতিক্রিয়া) অনুপাত হওয়ায় এর কোনো একক বা মাত্রা নেই।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q14": {
+    "correctOption": "tan⁻¹(0.5)",
+    "explanation": "μ = tanθ।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q15": {
+    "correctOption": "রেনল্ডস সংখ্যা (Reynold\\'s number)",
+    "explanation": "রেনল্ডস সংখ্যা (Re) একটি মাত্রাহীন সংখ্যা যা নির্দেশ করে তরলের প্রবাহ ধারারেখ হবে (Re < 2000) নাকি বিক্ষিপ্ত হবে (Re > 3000)।"
+  },
+  "hsc-physics-1st-paper-chapter-01-model-test-06-q16": {
+    "correctOption": "A ⋅( B × C )=0",
+    "explanation": "তিনটি ভেক্টর সমতলীয় হলে তাদের দ্বারা গঠিত সামান্তরিক ঘনবস্তুর (Parallelepiped) আয়তন শূন্য হয়। ভেক্টরগুলোর স্কেলার ট্রিপল প্রোডাক্ট A ⋅( B × C ) হলো সেই আয়তন।"
+  }
+}

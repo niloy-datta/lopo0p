@@ -1,0 +1,98 @@
+{
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q01": {
+    "correctOption": "4.8 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q02": {
+    "correctOption": "3.2 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q03": {
+    "correctOption": "4.4 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q04": {
+    "correctOption": "1.8 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q05": {
+    "correctOption": "4.7 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q06": {
+    "correctOption": "2.0 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q07": {
+    "correctOption": "3.0 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q08": {
+    "correctOption": "3.4 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q09": {
+    "correctOption": "3.9 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q10": {
+    "correctOption": "1.6 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q11": {
+    "correctOption": "3.3 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q12": {
+    "correctOption": "2.0 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q13": {
+    "correctOption": "3.2 rad/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q14": {
+    "correctOption": "32 N",
+    "explanation": "সুতার টান কেন্দ্রমুখী বলের জোগান দেয়। F c ​ =mrω 2 =2×1×(4) 2 =2×16=32 N।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q15": {
+    "correctOption": "দ্বিগুণ",
+    "explanation": "ω=2π/T।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q16": {
+    "correctOption": "π rad/s",
+    "explanation": "ω = 2π/T = π।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q17": {
+    "correctOption": "ভর",
+    "explanation": "p=mv, ঢাল m।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q18": {
+    "correctOption": "১৬",
+    "explanation": "v^2 = 2as = 2 \\\\times 4 \\\\times 32 = 256, v = 16।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q19": {
+    "correctOption": "অর্ধেক",
+    "explanation": "a_c = v²/r, তাই a_c ∝ 1/r।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q20": {
+    "correctOption": "ঋণাত্মক",
+    "explanation": "chosen positive direction-এর বিপরীত দিকে গতি।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q21": {
+    "correctOption": "ত্বরণ",
+    "explanation": "a = dv/dt।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q22": {
+    "correctOption": "2as",
+    "explanation": "সমত্বরণের সূত্র v^2 = u^2 + 2as।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q23": {
+    "correctOption": "ত্বরণ",
+    "explanation": "v²/r = (L²T⁻²) / L = LT⁻²।"
+  },
+  "hsc-physics-1st-paper-chapter-03-model-test-09-q24": {
+    "correctOption": "১২",
+    "explanation": "a = ω^2 x = 4 \\\\times 3 = 12।"
+  }
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ssc-physics-paper-set-11-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "১ ন্যানো সেকেন্ড সমান কত সেকেন্ড?",
+    "options": [
+      "10^{-৯}",
+      "10^{-৬}",
+      "10^{৬}",
+      "10^{৯}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "কাঁচের প্রতিসরাঙ্ক $1.5$, কাঁচে আলোর বেগ $2 \\times 10^8\\text{ ms}^{-1}$ হলে বায়ুতে আলোর বেগ কত?",
+    "options": [
+      "$1.5 \\times 10^8\\text{ ms}^{-1}$",
+      "$2 \\times 10^8\\text{ ms}^{-1}$",
+      "$2.5 \\times 10^8\\text{ ms}^{-1}$",
+      "$3 \\times 10^8\\text{ ms}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "ঘর্ষণের ফলে শক্তির যে অপচয় হয় তা প্রধানত কীরূপে আবির্ভূত হয়?",
+    "options": [
+      "আলো",
+      "তাপ",
+      "শব্দ",
+      "বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "পরীক্ষার মাধ্যমে আলোর তরঙ্গ ধর্মের প্রমাণ করেছিলেন কোন বিজ্ঞানী?",
+    "options": [
+      "থেলিস",
+      "ইয়ং",
+      "ম্যাক্সওয়েল",
+      "বেকেরেল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 21 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "10.5 A",
+      "{(v+r)} A",
+      "0.10 A",
+      "42 A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "বাল্বটির রোধ কত? [60W – 220V বাল্ব]",
+    "options": [
+      "0.0012 Ω",
+      "0.273 Ω",
+      "3.667 Ω",
+      "806.67 Ω"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "একটি গাড়ির আদিবেগ 3 m/s এবং ত্বরণ 3 m/s²। 3 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "9 m/s",
+      "{u - a*t} m/s",
+      "{u + 2*a*t} m/s",
+      "{u + a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "নিচের কোনটিতে ঘর্ষণ বল কম?",
+    "options": [
+      "খাটে শুয়ে থাকা",
+      "মাটির উপর দাঁড়িয়ে থাকা",
+      "দেয়ালে পেরেক লাগানো",
+      "চাকাযুক্ত চেয়ার টেনে নেওয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "এক্স-রে এর তরঙ্গদৈর্ঘ্য কত?",
+    "options": [
+      "১০–৬ স",
+      "১০–১০",
+      "গ ১০–১২ স",
+      "১০–১৪ স"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "নিচের কোনটির মধ্য দিয়ে ইলেকট্রন মুক্তভাবে চলাচল করতে পারে?",
+    "options": [
+      "জার্মেনিয়াম",
+      "প্লাস্টিক",
+      "কাচ",
+      "তামা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "একটি উত্তল লেন্সের বক্রতার ব্যাসার্ধ 50 cm হলে লেন্সটির ক্ষমতা কত?",
+    "options": [
+      "4.0 ডায়াপ্টার",
+      "2.0 ডায়াপ্টার",
+      "0.04 ডায়াপ্টার",
+      "0.02 ডায়াপ্টার"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-11-q12.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "বজ্রপাত হলে যে বিজলির আলো দেখা যায় সেটি পদার্থের কোন অবস্থা?",
+    "options": [
+      "কঠিন",
+      "তরল",
+      "গ্যাসীয়",
+      "প্লাজমা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "ভ্যাকুয়াম টিউব আবিষ্কার করেন কে?",
+    "options": [
+      "জন ফ্লেমিং",
+      "জন বারডিন",
+      "ওয়াল্টার ব্রাটেইন",
+      "উইলিয়াম শকলি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "একটি বস্তুকে খাড়া উপরের দিকে $49\\text{m s}^{-1}$ বেগে নিক্ষেপ করলে বস্তুটি কত সময় শূন্যে থাকে?",
+    "options": [
+      "10 sec",
+      "5 sec",
+      "0.4 sec",
+      "0.2 sec"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "কোনো তেজস্ক্রিয় মৌলের অর্ধায়ু 100 বছর হলে মৌলটির 1/8 অংশ অক্ষত থাকতে কত সময় লাগবে?",
+    "options": [
+      "50 বছর",
+      "200 বছর",
+      "300 বছর",
+      "400 বছর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "নিচের কোনটি পরিবাহী পদার্থ?",
+    "options": [
+      "কাচ",
+      "তামা",
+      "রবার",
+      "প্লাস্টিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "কোন রাশি যুগলের মাত্রা অভিন্ন?",
+    "options": [
+      "চাপ এবং পীড়ন",
+      "কাজ ও ক্ষমতা",
+      "তড়িৎ প্রবাহ ও দীপন তীব্রতা",
+      "ত্বরণ ও দ্রুতি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 15 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+    "options": [
+      "7.5 সেমি",
+      "15 সেমি",
+      "60 সেমি",
+      "30 সেমি"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-11-q19.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "পড়ন্ত বস্তুর ক্ষেত্রে নিচের কোনটি সঠিক?",
+    "options": [
+      "h ∝ t²",
+      "h ∝ t",
+      "v ∝ t²",
+      "h ∝ v"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "20°C তাপমাত্রা বৃদ্ধিতে তারটির চূড়ান্ত দৈর্ঘ্য কত হবে? (উদ্দীপকভিত্তিক)",
+    "options": [
+      "0.00096 m",
+      "0.0146 m",
+      "30.00096 m",
+      "30.0146 m"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-11-q21.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "গাড়ির সর্বোচ্চ গতিশক্তি কত?",
+    "options": [
+      "2 × 10⁴ J",
+      "4 × 10⁴ J",
+      "8 × 10⁵ J",
+      "16 × 10⁷ J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "নিচের কোন রাশি জোড়ার একক অভিন্ন?",
+    "options": [
+      "সরণ ও বেগ",
+      "ত্বরণ ও মন্দন",
+      "বেগ ও ত্বরণ",
+      "সরণ ও দ্রুতি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "স–র্যগ্রহণের ভবিষ্যদ্বাণী করেছিলেন কে?",
+    "options": [
+      "ডেমোক্রিটাস",
+      "থেলিস",
+      "পিথাগোরাস",
+      "আর¯@িারাকস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-11-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-11",
+    "text": "$2\\text{ kg}$ পানির তাপমাত্রা $2^\\circ\\text{C}$ বাড়াতে প্রয়োজনীয় তাপ কত? $[S_w = 4200\\text{ J kg}^{-1}\\text{K}^{-1}]$",
+    "options": [
+      "$16800\\text{ J}$",
+      "$8400\\text{ J}$",
+      "$4000\\text{ J}$",
+      "$2000\\text{ J}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

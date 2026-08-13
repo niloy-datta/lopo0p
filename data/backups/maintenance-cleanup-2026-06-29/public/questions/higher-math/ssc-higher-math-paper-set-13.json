@@ -1,0 +1,453 @@
+[
+  {
+  "id": "ssc-higher-math-paper-set-16-q01",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "যদি $A=\{x:x\in N,\ x^2-5x+4\leq0\}$ হয়, তবে $A$ সেটটি কোনটি?",
+  "options": [
+  "$\{1,2,3,4\}$",
+  "$\{2,3,4,5\}$",
+  "$\{1,4,5\}$",
+  "$\{0,1,2,3,4\}$"
+  ],
+  "answer": "$\{1,2,3,4\}$",
+  "answerIndex": 0,
+  "explanation": "$x^2-5x+4=(x-1)(x-4)$। তাই $1\leq x\leq4$। স্বাভাবিক সংখ্যা হলে $A=\{1,2,3,4\}$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q02",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "যদি $f(x)=2x+1$ এবং $g(x)=x^2-3$ হয়, তবে $f(g(2))$ এর মান কত?",
+  "options": [
+  "1",
+  "2",
+  "3",
+  "5"
+  ],
+  "answer": "3",
+  "answerIndex": 2,
+  "explanation": "$g(2)=2^2-3=1$। তাই $f(g(2))=f(1)=2\times1+1=3$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q03",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$2x^2-5x-3=0$ সমীকরণের বৃহত্তর মূল কত?",
+  "options": [
+  "$-\frac12$",
+  "$\frac12$",
+  "2",
+  "3"
+  ],
+  "answer": "3",
+  "answerIndex": 3,
+  "explanation": "$2x^2-5x-3=(2x+1)(x-3)$। তাই মূল $-\frac12$ ও $3$; বৃহত্তর মূল $3$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q04",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$x^2-6x+k=0$ সমীকরণের মূলদ্বয় সমান হলে $k$ এর মান কত?",
+  "options": [
+  "6",
+  "9",
+  "12",
+  "36"
+  ],
+  "answer": "9",
+  "answerIndex": 1,
+  "explanation": "সমান মূলের জন্য discriminant $b^2-4ac=0$। তাই $36-4k=0 \Rightarrow k=9$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q05",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$2<3x-1\leq11$ হলে $x$ এর মানের পরিসর কোনটি?",
+  "options": [
+  "$1<x\leq4$",
+  "$1\leq x<4$",
+  "$x<4$",
+  "$x\geq1$"
+  ],
+  "answer": "$1<x\leq4$",
+  "answerIndex": 0,
+  "explanation": "$2<3x-1\leq11 \Rightarrow 3<3x\leq12 \Rightarrow 1<x\leq4$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q06",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "একটি সমান্তর ধারার ৬ষ্ঠ পদ 22 এবং ১০ম পদ 38 হলে ১২তম পদ কত?",
+  "options": [
+  "42",
+  "44",
+  "46",
+  "48"
+  ],
+  "answer": "46",
+  "answerIndex": 2,
+  "explanation": "$a_{10}-a_6=4d$। তাই $38-22=4d \Rightarrow d=4$। $a_{12}=a_{10}+2d=38+8=46$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 90
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q07",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "সমান্তর ধারার প্রথম পদ 4 এবং সাধারণ অন্তর 3 হলে প্রথম ১৫ পদের সমষ্টি কত?",
+  "options": [
+  "345",
+  "360",
+  "375",
+  "390"
+  ],
+  "answer": "375",
+  "answerIndex": 2,
+  "explanation": "$S_n=\frac{n}{2}[2a+(n-1)d]$। তাই $S_{15}=\frac{15}{2}[8+42]=\frac{15}{2}\times50=375$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 90
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q08",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "গুণোত্তর ধারার প্রথম পদ 3 এবং সাধারণ অনুপাত 2 হলে প্রথম ৫ পদের সমষ্টি কত?",
+  "options": [
+  "45",
+  "63",
+  "93",
+  "96"
+  ],
+  "answer": "93",
+  "answerIndex": 2,
+  "explanation": "$S_n=a\frac{r^n-1}{r-1}$। তাই $S_5=3\frac{2^5-1}{2-1}=3\times31=93$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q09",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$12+6+3+\frac32+\cdots$ অসীম ধারাটির সমষ্টি কত?",
+  "options": [
+  "18",
+  "20",
+  "24",
+  "30"
+  ],
+  "answer": "24",
+  "answerIndex": 2,
+  "explanation": "এখানে $a=12$, $r=\frac12$। অসীম সমষ্টি $S=\frac{a}{1-r}=\frac{12}{1-\frac12}=24$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q10",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$225^\circ$ কোণের বৃত্তীয় মান কত?",
+  "options": [
+  "$\frac{3\pi}{4}$",
+  "$\frac{5\pi}{4}$",
+  "$\frac{7\pi}{6}$",
+  "$\frac{4\pi}{3}$"
+  ],
+  "answer": "$\frac{5\pi}{4}$",
+  "answerIndex": 1,
+  "explanation": "$225^\circ=225\times\frac{\pi}{180}=\frac{5\pi}{4}$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 45
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q11",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$\frac{1-\sec^2\theta}{\tan^2\theta}$ এর মান কত?",
+  "options": [
+  "$-1$",
+  "0",
+  "1",
+  "$\sec^2\theta$"
+  ],
+  "answer": "$-1$",
+  "answerIndex": 0,
+  "explanation": "$\sec^2\theta-1=\tan^2\theta$। তাই $1-\sec^2\theta=-\tan^2\theta$। অতএব মান $-1$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q12",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "যদি $\tan A=\frac{7}{24}$ এবং $A$ সূক্ষ্মকোণ হয়, তবে $\sin A$ কত?",
+  "options": [
+  "$\frac{7}{25}$",
+  "$\frac{24}{25}$",
+  "$\frac{25}{7}$",
+  "$\frac{25}{24}$"
+  ],
+  "answer": "$\frac{7}{25}$",
+  "answerIndex": 0,
+  "explanation": "$\tan A=\frac{লম্ব}{ভূমি}=\frac{7}{24}$। অতিভুজ $=25$। তাই $\sin A=\frac{7}{25}$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q13",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$\sin75^\circ$ এর মান কোনটি?",
+  "options": [
+  "$\frac{\sqrt6+\sqrt2}{4}$",
+  "$\frac{\sqrt6-\sqrt2}{4}$",
+  "$\frac{\sqrt3}{2}$",
+  "$\frac12$"
+  ],
+  "answer": "$\frac{\sqrt6+\sqrt2}{4}$",
+  "answerIndex": 0,
+  "explanation": "$\sin75^\circ=\sin(45^\circ+30^\circ)=\sin45^\circ\cos30^\circ+\cos45^\circ\sin30^\circ=\frac{\sqrt6+\sqrt2}{4}$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 90
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q14",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "যদি $\tan A=\frac34$ এবং $\tan B=\frac12$ হয়, তবে $\tan(A+B)$ কত?",
+  "options": [
+  "1",
+  "$\frac32$",
+  "2",
+  "$\frac52$"
+  ],
+  "answer": "2",
+  "answerIndex": 2,
+  "explanation": "$\tan(A+B)=\frac{\tan A+\tan B}{1-\tan A\tan B}=\frac{\frac34+\frac12}{1-\frac34\times\frac12}=\frac{\frac54}{\frac58}=2$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 90
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q15",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$\log_2 x+\log_2 4=6$ হলে $x$ এর মান কত?",
+  "options": [
+  "8",
+  "12",
+  "16",
+  "32"
+  ],
+  "answer": "16",
+  "answerIndex": 2,
+  "explanation": "$\log_2 x+\log_2 4=\log_2(4x)=6$। তাই $4x=2^6=64 \Rightarrow x=16$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q16",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$9^{x-1}=27$ হলে $x$ এর মান কত?",
+  "options": [
+  "$\frac32$",
+  "2",
+  "$\frac52$",
+  "3"
+  ],
+  "answer": "$\frac52$",
+  "answerIndex": 2,
+  "explanation": "$9^{x-1}=(3^2)^{x-1}=3^{2x-2}$ এবং $27=3^3$। তাই $2x-2=3 \Rightarrow x=\frac52$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q17",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$(2x-3)^5$ বিস্তৃতিতে $x^3$ পদের সহগ কত?",
+  "options": [
+  "360",
+  "540",
+  "720",
+  "810"
+  ],
+  "answer": "720",
+  "answerIndex": 2,
+  "explanation": "$x^3$ পদ আসে $\binom53(2x)^3(-3)^2$ থেকে। সহগ $=10\times8\times9=720$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 90
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q18",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$(x+2)^6$ বিস্তৃতিতে $x^4$ পদের সহগ কত?",
+  "options": [
+  "30",
+  "45",
+  "60",
+  "80"
+  ],
+  "answer": "60",
+  "answerIndex": 2,
+  "explanation": "$x^4$ পদ আসে $\binom64x^4(2)^2$ থেকে। সহগ $=15\times4=60$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q19",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$(-1,3)$ এবং $(5,-5)$ বিন্দুদ্বয়ের মধ্যবর্তী দূরত্ব কত?",
+  "options": [
+  "8",
+  "10",
+  "12",
+  "14"
+  ],
+  "answer": "10",
+  "answerIndex": 1,
+  "explanation": "দূরত্ব $=\sqrt{(5+1)^2+(-5-3)^2}=\sqrt{36+64}=10$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q20",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "ঢাল 3 এবং বিন্দু $(2,-1)$ দিয়ে অতিক্রান্ত সরলরেখার সমীকরণ কোনটি?",
+  "options": [
+  "$y+1=3(x-2)$",
+  "$y-1=3(x+2)$",
+  "$y+2=3(x-1)$",
+  "$x+1=3(y-2)$"
+  ],
+  "answer": "$y+1=3(x-2)$",
+  "answerIndex": 0,
+  "explanation": "বিন্দু-ঢাল সূত্র $y-y_1=m(x-x_1)$। এখানে $m=3$, $(x_1,y_1)=(2,-1)$। তাই $y+1=3(x-2)$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q21",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$4x+3y-12=0$ সরলরেখাটি $x$-অক্ষকে কোন বিন্দুতে ছেদ করে?",
+  "options": [
+  "$(0,4)$",
+  "$(3,0)$",
+  "$(-3,0)$",
+  "$(0,-4)$"
+  ],
+  "answer": "$(3,0)$",
+  "answerIndex": 1,
+  "explanation": "$x$-অক্ষের উপর $y=0$। তাই $4x-12=0 \Rightarrow x=3$। বিন্দু $(3,0)$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q22",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$\vec a=2\hat i+3\hat j$ এবং $\vec b=4\hat i-\hat j$ হলে $\vec a\cdot\vec b$ কত?",
+  "options": [
+  "3",
+  "5",
+  "8",
+  "11"
+  ],
+  "answer": "5",
+  "answerIndex": 1,
+  "explanation": "$\vec a\cdot\vec b=2\times4+3\times(-1)=8-3=5$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q23",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "$\vec p=-8\hat i+6\hat j$ হলে $\vec p$ এর একক ভেক্টর কোনটি?",
+  "options": [
+  "$-\frac45\hat i+\frac35\hat j$",
+  "$\frac45\hat i-\frac35\hat j$",
+  "$-8\hat i+6\hat j$",
+  "$-\frac35\hat i+\frac45\hat j$"
+  ],
+  "answer": "$-\frac45\hat i+\frac35\hat j$",
+  "answerIndex": 0,
+  "explanation": "$|\vec p|=\sqrt{(-8)^2+6^2}=10$। একক ভেক্টর $=\frac{\vec p}{|\vec p|}=-\frac45\hat i+\frac35\hat j$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q24",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "ব্যাসার্ধ 7 cm এবং উচ্চতা 12 cm বিশিষ্ট সিলিন্ডারের বক্রতলের ক্ষেত্রফল কত? $\pi=\frac{22}{7}$",
+  "options": [
+  "264 cm²",
+  "308 cm²",
+  "528 cm²",
+  "616 cm²"
+  ],
+  "answer": "528 cm²",
+  "answerIndex": 2,
+  "explanation": "সিলিন্ডারের বক্রতলের ক্ষেত্রফল $=2\pi rh=2\times\frac{22}{7}\times7\times12=528$ cm²।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 60
+  },
+  {
+  "id": "ssc-higher-math-paper-set-16-q25",
+  "subject": "higher-math",
+  "chapter": "ssc-higher-math-paper-set-16",
+  "text": "একটি বাক্সে 4টি সাদা ও 3টি কালো বল আছে। ফেরত না দিয়ে পরপর ২টি বল তুললে উভয়টি সাদা হওয়ার সম্ভাবনা কত?",
+  "options": [
+  "$\frac17$",
+  "$\frac27$",
+  "$\frac37$",
+  "$\frac47$"
+  ],
+  "answer": "$\frac27$",
+  "answerIndex": 1,
+  "explanation": "সম্ভাবনা $=\frac47\times\frac36=\frac{12}{42}=\frac27$।",
+  "image": null,
+  "optionImages": null,
+  "timeLimit": 75
+  }
+  ]
+  

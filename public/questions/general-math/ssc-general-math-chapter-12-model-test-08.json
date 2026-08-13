@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{23,24,25,26,27} সেটের উপসেট কয়টি?",
+    "options": [
+      "31",
+      "5",
+      "32",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{24,25,26,27,28,29} সেটের উপসেট কয়টি?",
+    "options": [
+      "63",
+      "6",
+      "7",
+      "64"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{25,26,27,28,29,30,31} সেটের উপসেট কয়টি?",
+    "options": [
+      "8",
+      "128",
+      "7",
+      "127"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{26,27,28} সেটের উপসেট কয়টি?",
+    "options": [
+      "4",
+      "8",
+      "7",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{27,28,29,30} সেটের উপসেট কয়টি?",
+    "options": [
+      "15",
+      "4",
+      "16",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{28,29,30,31,32} সেটের উপসেট কয়টি?",
+    "options": [
+      "31",
+      "6",
+      "5",
+      "32"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{29,30,31,32,33,34} সেটের উপসেট কয়টি?",
+    "options": [
+      "6",
+      "64",
+      "7",
+      "63"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{30,31,32,33,34,35,36} সেটের উপসেট কয়টি?",
+    "options": [
+      "127",
+      "8",
+      "128",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{31,32,33} সেটের উপসেট কয়টি?",
+    "options": [
+      "7",
+      "3",
+      "8",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{32,33,34,35} সেটের উপসেট কয়টি?",
+    "options": [
+      "4",
+      "5",
+      "15",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{33,34,35,36,37} সেটের উপসেট কয়টি?",
+    "options": [
+      "5",
+      "32",
+      "6",
+      "31"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{34,35,36,37,38,39} সেটের উপসেট কয়টি?",
+    "options": [
+      "63",
+      "64",
+      "7",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{35,36,37,38,39,40,41} সেটের উপসেট কয়টি?",
+    "options": [
+      "127",
+      "128",
+      "7",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{36,37,38} সেটের উপসেট কয়টি?",
+    "options": [
+      "7",
+      "3",
+      "4",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{37,38,39,40} সেটের উপসেট কয়টি?",
+    "options": [
+      "4",
+      "16",
+      "5",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{38,39,40,41,42} সেটের উপসেট কয়টি?",
+    "options": [
+      "6",
+      "32",
+      "31",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{39,40,41,42,43,44} সেটের উপসেট কয়টি?",
+    "options": [
+      "63",
+      "64",
+      "6",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{40,41,42,43,44,45,46} সেটের উপসেট কয়টি?",
+    "options": [
+      "7",
+      "8",
+      "127",
+      "128"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{41,42,43} সেটের উপসেট কয়টি?",
+    "options": [
+      "4",
+      "3",
+      "8",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{42,43,44,45} সেটের উপসেট কয়টি?",
+    "options": [
+      "15",
+      "16",
+      "5",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{43,44,45,46,47} সেটের উপসেট কয়টি?",
+    "options": [
+      "5",
+      "32",
+      "31",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{44,45,46,47,48,49} সেটের উপসেট কয়টি?",
+    "options": [
+      "63",
+      "7",
+      "6",
+      "64"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{45,46,47,48,49,50,51} সেটের উপসেট কয়টি?",
+    "options": [
+      "7",
+      "128",
+      "8",
+      "127"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{46,47,48} সেটের উপসেট কয়টি?",
+    "options": [
+      "7",
+      "8",
+      "4",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{47,48,49,50} সেটের উপসেট কয়টি?",
+    "options": [
+      "15",
+      "16",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{48,49,50,51,52} সেটের উপসেট কয়টি?",
+    "options": [
+      "31",
+      "5",
+      "6",
+      "32"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{49,50,51,52,53,54} সেটের উপসেট কয়টি?",
+    "options": [
+      "7",
+      "6",
+      "64",
+      "63"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{50,51,52,53,54,55,56} সেটের উপসেট কয়টি?",
+    "options": [
+      "127",
+      "128",
+      "8",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{51,52,53} সেটের উপসেট কয়টি?",
+    "options": [
+      "3",
+      "8",
+      "7",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-08-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-08",
+    "text": "{52,53,54,55} সেটের উপসেট কয়টি?",
+    "options": [
+      "15",
+      "5",
+      "4",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "কোনো বস্তু পানিতে ভাসে যখন— i. ঘনত্ব পানির চেয়ে কম ii. প্লবতা ওজনের সমান iii. ওজন প্লবতার চেয়ে বেশি",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "3 m গভীরতায় তেলের চাপ 24000 Pa হলে তেলের ঘনত্ব কত? [g = 10 ms⁻²]",
+    "options": [
+      "400 kgm⁻³",
+      "600 kgm⁻³",
+      "800 kgm⁻³",
+      "1000 kgm⁻³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "একটি বস্তুর ভর 600 g এবং আয়তন 300 cm³ হলে ঘনত্ব কত?",
+    "options": [
+      "0.5 gcm⁻³",
+      "1 gcm⁻³",
+      "2 gcm⁻³",
+      "3 gcm⁻³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "পানির ঘনত্ব 1 gcm⁻³ হলে 200 cm³ পানির ভর কত?",
+    "options": [
+      "100 g",
+      "200 g",
+      "300 g",
+      "400 g"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "একটি বস্তুর ঘনত্ব 1200 kgm⁻³ এবং পানির ঘনত্ব 1000 kgm⁻³ হলে বস্তুটি পানিতে—",
+    "options": [
+      "ভাসবে",
+      "ডুববে",
+      "অর্ধেক ভাসবে",
+      "ওজনহীন হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "প্লবতা সম্পর্কে কোনটি সঠিক?— i. এটি নিট ঊর্ধ্বমুখী বল ii. এটি তরল বা গ্যাসীয় উভয় ক্ষেত্রে কাজ করে iii. এটি সর্বদা নিচের দিকে কাজ করে",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "1000 kgm⁻³ ঘনত্বের পানিতে 2 m গভীরতায় চাপ কত? [g = 9.8 ms⁻²]",
+    "options": [
+      "1960 Pa",
+      "9800 Pa",
+      "19600 Pa",
+      "98000 Pa"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "0.5 kg ভরের একটি বস্তু পানিতে সম্পূর্ণ ডুবালে 3 N প্লবতা অনুভব করে। পানিতে বস্তুটির আপাত ওজন কত? [g = 10 ms⁻²]",
+    "options": [
+      "2 N",
+      "3 N",
+      "5 N",
+      "8 N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "800 kgm⁻³ ঘনত্বের কোনো তেল 0.5 m গভীরতায় কত চাপ সৃষ্টি করে? [g = 9.8 ms⁻²]",
+    "options": [
+      "392 Pa",
+      "3920 Pa",
+      "39200 Pa",
+      "3.92 Pa"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "300 cm³ আয়তনের একটি বস্তুর ভর 240 g। বস্তুটির ঘনত্ব কত?",
+    "options": [
+      "0.8 gcm⁻³",
+      "1.25 gcm⁻³",
+      "8 gcm⁻³",
+      "80 gcm⁻³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "পানির ঘনত্ব 1000 kgm⁻³। 5 m গভীরতায় পানির চাপ কত? (g = 10 ms⁻²)",
+    "options": [
+      "5×10³ Pa",
+      "5×10⁴ Pa",
+      "5×10⁵ Pa",
+      "5×10⁶ Pa"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "2 kg ভরের একটি বস্তুর আয়তন 4×10⁻³ m³। বস্তুটির ঘনত্ব কত?",
+    "options": [
+      "250 kgm⁻³",
+      "500 kgm⁻³",
+      "800 kgm⁻³",
+      "2000 kgm⁻³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "500 kgm⁻³ ঘনত্বের তরলে 4 m গভীরতায় চাপ কত? [g = 10 ms⁻²]",
+    "options": [
+      "2000 Pa",
+      "10000 Pa",
+      "20000 Pa",
+      "50000 Pa"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "একটি বস্তুর ভর 750 g ও আয়তন 500 cm³। ঘনত্ব কত?",
+    "options": [
+      "0.67 gcm⁻³",
+      "1.5 gcm⁻³",
+      "2.5 gcm⁻³",
+      "15 gcm⁻³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "পানির 4 m গভীরতায় চাপ কত? ρ = 1000 kgm⁻³, g = 10 ms⁻²",
+    "options": [
+      "4000 Pa",
+      "40000 Pa",
+      "10000 Pa",
+      "400000 Pa"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "পানিতে 0.2 m গভীরতায় চাপ কত? [ρ = 1000, g = 10]",
+    "options": [
+      "200 Pa",
+      "2000 Pa",
+      "20000 Pa",
+      "5000 Pa"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "তরলের উপরিতলের ক্ষেত্রফল বৃদ্ধি পেলে, নিচের কোনটি ঘটে থাকে?",
+    "options": [
+      "বাষ্পায়ন দ্রুত হয়",
+      "বাষ্পায়ন হ্রাস পায়",
+      "বাষ্পায়ন অপরিবর্তিত থাকে",
+      "প্রথমে হ্রাস পায় পরে বৃদ্ধি পায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "20 cm³ আয়তনে পানির ভর কত?",
+    "options": [
+      "10g",
+      "20g",
+      "25g",
+      "50g"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "সমান আয়তনের কোন বস্তুর জড়তা বেশি?",
+    "options": [
+      "তামা",
+      "রূপা",
+      "সোনা",
+      "লোহা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "পৃথিবীর প্রতি বর্গমিটারে বায়ুমণ্ডলীয় চাপ কত?",
+    "options": [
+      "76N",
+      "1033.6N",
+      "10⁵N",
+      "10⁵N/m²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "ব্যারোমিটার যদি উচ্চচাপ দেখায় তাহলে বোঝা যায়—",
+    "options": [
+      "বায়ু আর্দ্র",
+      "আবহাওয়া ভালো",
+      "জলীয়বাষ্পের পরিমাণ বেড়ে যায়",
+      "বাতাসের ঘনত্ব কমে যায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "1 cc কেরোসিনের ভর 0.8g। কেরোসিনের 50 cm গভীরে চাপ কত?",
+    "options": [
+      "392000 Nm⁻²",
+      "3920 Nm⁻²",
+      "392 Nm⁻²",
+      "3.92 Nm⁻²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-05-model-test-04-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-05-model-test-04",
+    "text": "নিরাপদ পানির ঘনত্ব 1000 kg m⁻³ এবং তোমার দেহের ঘনত্ব 985 kg m⁻³ হলে ঐ পানিতে সাঁতার কাটার সময় তোমার শরীরের কত শতাংশ ভাসবে?",
+    "options": [
+      "0.985%",
+      "1.5%",
+      "98.5%",
+      "99.02%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,1156 @@
+{
+  "exam": {
+    "title": "HSC Chemistry 1st Paper — Modified Board Standard MCQ",
+    "full_marks": 25,
+    "time_minutes": 25,
+    "subject_code": 175
+  },
+  "sets": [
+    {
+      "set_id": 5,
+      "label": "SET 05",
+      "title": "SET 05 — Modified Board Standard",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "passage": null,
+          "questionText": "ল্যাবের কাচের যন্ত্রে জমে থাকা তেলজাতীয়/জৈব ময়লা পরিষ্কারের জন্য কোন মিশ্রণটি সবচেয়ে কার্যকর?",
+          "options": [
+            "ক) NaCl দ্রবণ ও পানি",
+            "খ) K₂Cr₂O₇ ও গাঢ় H₂SO₄",
+            "গ) NaOH ও HCl",
+            "ঘ) CaCO₃ ও পানি"
+          ],
+          "correctOption": "খ",
+          "explanation": "ক্রোমিক এসিড জৈব দাগ ও তৈলীয় ময়লা অপসারণে কাচ সামগ্রীর জন্য সবচেয়ে কার্যকর।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 2,
+          "passage": null,
+          "questionText": "কোনো শক্তিস্তরের প্রধান কোয়ান্টাম সংখ্যা n=4 হলে ঐ স্তরে মোট কতটি অরবিটাল থাকতে পারে?",
+          "options": [
+            "ক) ৪টি",
+            "খ) ৮টি",
+            "গ) ১৬টি",
+            "ঘ) ৩২টি"
+          ],
+          "correctOption": "গ",
+          "explanation": "n² নিয়ম: 4² = ১৬টি অরবিটাল।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 3,
+          "passage": null,
+          "questionText": "Al³⁺ আয়ন শনাক্ত করতে NaOH দ্রবণ যোগ করলে কী ধরনের অধঃক্ষেপ দেখা যায়?",
+          "options": [
+            "ক) নীল অধঃক্ষেপ",
+            "খ) সাদা জেলির মতো অধঃক্ষেপ",
+            "গ) বাদামি অধঃক্ষেপ",
+            "ঘ) হলুদ অধঃক্ষেপ"
+          ],
+          "correctOption": "খ",
+          "explanation": "Al³⁺ + OH⁻ → Al(OH)₃ সাদা জেলি সদৃশ অধঃক্ষেপ।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 4,
+          "passage": null,
+          "questionText": "নিচের কোন ক্যাটায়নটির আকার ছোট এবং চার্জ বেশি হওয়ায় পোলারাইজিং ক্ষমতা সবচেয়ে বেশি?",
+          "options": [
+            "ক) K⁺",
+            "খ) Na⁺",
+            "গ) Mg²⁺",
+            "ঘ) Al³⁺"
+          ],
+          "correctOption": "ঘ",
+          "explanation": "ছোট আয়ন ও উচ্চ চার্জে Al³⁺-এর পোলারাইজিং শক্তি সর্বোচ্চ।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 5,
+          "passage": null,
+          "questionText": "পানির অণুতে অক্সিজেনের চারপাশে ইলেকট্রন জোড়ের বিন্যাসের কারণে অণুর আকৃতি কেমন হয়?",
+          "options": [
+            "ক) রৈখিক, 180°",
+            "খ) কৌণিক, প্রায় 104.5°",
+            "গ) সমতলীয় ত্রিকোণাকার, 120°",
+            "ঘ) চতুস্তলকীয়, 109.5°"
+          ],
+          "correctOption": "খ",
+          "explanation": "O-তে ২টি lone pair; V-আকৃতি, বন্ধন কোণ ≈104.5°।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 6,
+          "passage": null,
+          "questionText": "কোনো সাম্য বিক্রিয়ার Kc মান পরিবর্তনের প্রধান কারণ কোনটি?",
+          "options": [
+            "ক) বিক্রিয়কের পরিমাণ",
+            "খ) তাপমাত্রা",
+            "গ) প্রভাবকের উপস্থিতি",
+            "ঘ) পাত্রের আয়তন"
+          ],
+          "correctOption": "খ",
+          "explanation": "Kc শুধুমাত্র তাপমাত্রার ফাংশন।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 7,
+          "passage": null,
+          "questionText": "তাপমাত্রা 25°C থেকে 60°C করলে বিশুদ্ধ পানির pH সম্পর্কে কোনটি সঠিক?",
+          "options": [
+            "ক) pH ৭-এর নিচে নেমে যায়",
+            "খ) pH ৭-এর উপরে যায়",
+            "গ) pH সবসময় ৭ থাকে",
+            "ঘ) pH শূন্য হয়ে যায়"
+          ],
+          "correctOption": "ক",
+          "explanation": "তাপমাত্রা বাড়লে Kw বাড়ে; [H⁺] বাড়ে → pH < 7 (তবু নিরপেক্ষ)।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 8,
+          "passage": null,
+          "questionText": "ভিনেগার খাদ্য সংরক্ষণে কার্যকর কারণ এটি—",
+          "options": [
+            "ক) খাদ্যের রং পরিবর্তন করে",
+            "খ) খাদ্যের pH কমিয়ে জীবাণুর বৃদ্ধি বাধা দেয়",
+            "গ) খাদ্যের পানি সম্পূর্ণ সরিয়ে দেয়",
+            "ঘ) খাদ্যের চর্বি ভেঙে ফেলে"
+          ],
+          "correctOption": "খ",
+          "explanation": "অ্যাসিটিক এসিড pH কমিয়ে অণুজীব ও এনজাইম নিষ্ক্রিয় করে।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 9,
+          "passage": null,
+          "questionText": "শিখা পরীক্ষার আগে ধাতব লবণে গাঢ় HCl যোগ করার উদ্দেশ্য কী?",
+          "options": [
+            "ক) ধাতুকে উড়নশীল ক্লোরাইডে পরিণত করা",
+            "খ) শিখাকে ঠান্ডা করা",
+            "গ) ধাতুর ভর বাড়ানো",
+            "ঘ) লবণকে অদ্রবণীয় করা"
+          ],
+          "correctOption": "ক",
+          "explanation": "গাঢ় HCl ধাতুকে উদ্বায়ী ক্লোরাইডে রূপান্তর করে শিখা পরীক্ষা সহজ করে।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 10,
+          "passage": null,
+          "questionText": "আউফবাউ নীতি অনুযায়ী নিচের কোন শক্তিক্রমটি সঠিক?",
+          "options": [
+            "ক) 3d < 4s < 4p",
+            "খ) 4s < 3d < 4p",
+            "গ) 4p < 4s < 3d",
+            "ঘ) 3d < 4p < 4s"
+          ],
+          "correctOption": "খ",
+          "explanation": "আউফবাউ ক্রম: 4s পূর্ণ হওয়ার পর 3d, তারপর 4p।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 11,
+          "passage": null,
+          "questionText": "কাচের প্রধান উপাদান SiO₂ কোন এসিডের সাথে বিক্রিয়া করে ক্ষয়প্রাপ্ত হয়?",
+          "options": [
+            "ক) HCl",
+            "খ) HNO₃",
+            "গ) HF",
+            "ঘ) H₂SO₄"
+          ],
+          "correctOption": "গ",
+          "explanation": "SiO₂ শুধু HF-এ দ্রবণীয়; কাঁচ কাটতে HF ব্যবহৃত।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 12,
+          "passage": null,
+          "questionText": "ক্রোমিয়াম পরমাণুর ব্যতিক্রমী ইলেকট্রন বিন্যাস কোনটি?",
+          "options": [
+            "ক) 3d⁴4s²",
+            "খ) 3d⁵4s¹",
+            "গ) 3d⁶4s⁰",
+            "ঘ) 3d³4s³"
+          ],
+          "correctOption": "খ",
+          "explanation": "Cr: [Ar] 3d⁵ 4s¹ — অর্ধপূর্ণ d-এর অতিরিক্ত স্থায়িত্ব।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 13,
+          "passage": null,
+          "questionText": "AgCl-এর Ksp = 1.69 × 10⁻¹⁰ হলে সম্পৃক্ত দ্রবণে Ag⁺-এর ঘনমাত্রা কত হবে?",
+          "options": [
+            "ক) 1.3 × 10⁻⁵ M",
+            "খ) 1.69 × 10⁻¹⁰ M",
+            "গ) 2.6 × 10⁻⁵ M",
+            "ঘ) 1.0 × 10⁻¹⁰ M"
+          ],
+          "correctOption": "ক",
+          "explanation": "S = √Ksp = √(1.69×10⁻¹⁰) ≈ 1.3×10⁻⁵ M।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 14,
+          "passage": null,
+          "questionText": "একই অরবিটালে দুইটি ইলেকট্রন থাকলে তাদের স্পিন বিপরীত হয়—এটি কোন নীতির ফল?",
+          "options": [
+            "ক) হুন্ডের নীতি",
+            "খ) পাউলির বর্জন নীতি",
+            "গ) আউফবাউ নীতি",
+            "ঘ) ডি-ব্রগলি নীতি"
+          ],
+          "correctOption": "খ",
+          "explanation": "পাউলি: এক অরবিটালে সর্বোচ্চ ২ ইলেকট্রন, বিপরীত স্পিন।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 15,
+          "passage": null,
+          "questionText": "0.005 M Ca(OH)₂ দ্রবণের pH কত?",
+          "options": [
+            "ক) 2",
+            "খ) 7",
+            "গ) 12",
+            "ঘ) 11"
+          ],
+          "correctOption": "গ",
+          "explanation": "[OH⁻]=0.01 M; pOH=2; pH=12।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 16,
+          "passage": null,
+          "questionText": "সম্পৃক্ত NaCl দ্রবণে HCl গ্যাস প্রবাহিত করলে NaCl তলানি পড়ে কেন?",
+          "options": [
+            "ক) সমআয়ন প্রভাবের কারণে",
+            "খ) তাপ বৃদ্ধির কারণে",
+            "গ) দ্রবণের রং পরিবর্তনের কারণে",
+            "ঘ) NaCl ভেঙে যাওয়ার কারণে"
+          ],
+          "correctOption": "ক",
+          "explanation": "Cl⁻ যোগে সমআয়ন প্রভাবে NaCl-এর দ্রাব্যতা কমে অধঃক্ষেপ হয়।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 17,
+          "passage": null,
+          "questionText": "নিচের কোন অণুতে কেন্দ্রীয়/বন্ধনকারী পরমাণুর তুলনায় মোট lone pair সংখ্যা সবচেয়ে বেশি?",
+          "options": [
+            "ক) CH₄",
+            "খ) NH₃",
+            "গ) H₂O",
+            "ঘ) HF"
+          ],
+          "correctOption": "ঘ",
+          "explanation": "HF-এ F-তে ৩টি lone pair; মোট সবচেয়ে বেশি।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 18,
+          "passage": null,
+          "questionText": "হেসের সূত্র মূলত কোন ধারণার ওপর নির্ভর করে?",
+          "options": [
+            "ক) তাপমাত্রার পরিবর্তন",
+            "খ) শক্তির সংরক্ষণশীলতা",
+            "গ) গ্যাসের চাপ",
+            "ঘ) ভরের বৃদ্ধি"
+          ],
+          "correctOption": "খ",
+          "explanation": "হেসের সূত্র ১ম সূত্র (শক্তির সংরক্ষণশীলতা) থেকে উদ্ভূত।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 19,
+          "passage": null,
+          "questionText": "মিল্ক অব ম্যাগনেসিয়া কোন যৌগের সাসপেনশন হিসেবে ব্যবহৃত হয়?",
+          "options": [
+            "ক) MgCl₂",
+            "খ) MgSO₄",
+            "গ) Mg(OH)₂",
+            "ঘ) MgCO₃"
+          ],
+          "correctOption": "গ",
+          "explanation": "মিল্ক অব ম্যাগনেসিয়া = Mg(OH)₂ সাসপেনশন।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 20,
+          "passage": null,
+          "questionText": "d-ব্লকের সব মৌল অবস্থান্তর মৌল নয়—এর সবচেয়ে উপযুক্ত উদাহরণ কোনটি?",
+          "options": [
+            "ক) Fe",
+            "খ) Cr",
+            "গ) Zn",
+            "ঘ) Mn"
+          ],
+          "correctOption": "গ",
+          "explanation": "Zn²⁺: d¹⁰; পরিবর্তনশীল জারণ সংখ্যা নেই → অবস্থান্তর মৌল নয়।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 21,
+          "passage": "একটি গ্যাসীয় সাম্য বিক্রিয়া:\nN₂(g) + 3H₂(g) ⇌ 2NH₃(g) + ΔH\nবিক্রিয়াটি তাপ উৎপন্নকারী।",
+          "questionText": "চাপ বাড়ালে সাম্যাবস্থার দিক কোনদিকে সরে যাবে?",
+          "options": [
+            "ক) উৎপাদের দিকে",
+            "খ) বিক্রিয়কের দিকে",
+            "গ) কোনো পরিবর্তন হবে না",
+            "ঘ) Kc কমে যাবে"
+          ],
+          "correctOption": "ক",
+          "explanation": "বামে ৪ মোল গ্যাস, ডানে ২ মোল; চাপ বাড়লে কম মোলের দিকে → NH₃ বাড়ে।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 22,
+          "passage": "উপরের উদ্দীপক অনুসারে।",
+          "questionText": "উপরোক্ত বিক্রিয়ার জন্য Kp ও Kc-এর সম্পর্ক কোনটি?",
+          "options": [
+            "ক) Kp = Kc(RT)²",
+            "খ) Kp = Kc(RT)⁻²",
+            "গ) Kp = Kc(RT)",
+            "ঘ) Kp = Kc"
+          ],
+          "correctOption": "খ",
+          "explanation": "Δn = 2−4 = −2; Kp = Kc(RT)⁻²।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 23,
+          "passage": null,
+          "questionText": "নিচের কোন বিকিরণের তরঙ্গদৈর্ঘ্য সবচেয়ে কম?",
+          "options": [
+            "ক) রেডিও তরঙ্গ",
+            "খ) অবলোহিত রশ্মি",
+            "গ) দৃশ্যমান আলো",
+            "ঘ) এক্স-রে"
+          ],
+          "correctOption": "ঘ",
+          "explanation": "EM স্পেকট্রামে X-ray-এর তরঙ্গদৈর্ঘ্য সবচেয়ে ছোট।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 24,
+          "passage": null,
+          "questionText": "H₂CO₃/HCO₃⁻ বাফার সিস্টেম মানবদেহে প্রধানত কোন তরলের pH নিয়ন্ত্রণ করে?",
+          "options": [
+            "ক) রক্ত",
+            "খ) পাকস্থলীর রস",
+            "গ) ঘাম",
+            "ঘ) চোখের পানি"
+          ],
+          "correctOption": "ক",
+          "explanation": "রক্তে কার্বনিক এসিড–বাইকার্বনেট বাফার pH ≈ 7.4 বজায় রাখে।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 25,
+          "passage": null,
+          "questionText": "কোনো রাসায়নিক বোতলে \"Flammable\" চিহ্ন থাকলে সেটি কোথায় রাখা অনিরাপদ?",
+          "options": [
+            "ক) ঠান্ডা স্থানে",
+            "খ) পানির কাছাকাছি",
+            "গ) আগুন বা তাপের উৎসের কাছে",
+            "ঘ) লেবেলযুক্ত তাকের মধ্যে"
+          ],
+          "correctOption": "গ",
+          "explanation": "দাহ্য পদার্থ আগুন/তাপের উৎস থেকে দূরে রাখতে হয়।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        }
+      ]
+    },
+    {
+      "set_id": 6,
+      "label": "SET 06",
+      "title": "SET 06 — Modified Board Standard",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "passage": null,
+          "questionText": "NaOH কে প্রাইমারি স্ট্যান্ডার্ড হিসেবে ব্যবহার করা যায় না কেন?",
+          "options": [
+            "ক) এটি বাতাস থেকে জলীয় বাষ্প ও CO₂ শোষণ করে",
+            "খ) এটি সম্পূর্ণ অদ্রবণীয়",
+            "গ) এটি আলোতে বিস্ফোরিত হয়",
+            "ঘ) এটি পানির সাথে বিক্রিয়া করে অক্সিজেন দেয়"
+          ],
+          "correctOption": "ক",
+          "explanation": "NaOH হাইগ্রোস্কোপিক; বায়ু থেকে H₂O ও CO₂ শোষণে কার্বনেট তৈরি হয়।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 2,
+          "passage": null,
+          "questionText": "চৌম্বক ক্ষেত্র প্রয়োগ করলে বর্ণালীর রেখা বিভক্ত হওয়ার ঘটনাকে কী বলা হয়?",
+          "options": [
+            "ক) স্টার্ক প্রভাব",
+            "খ) জিম্যান প্রভাব",
+            "গ) কম্পটন প্রভাব",
+            "ঘ) ফটোইলেকট্রিক প্রভাব"
+          ],
+          "correctOption": "খ",
+          "explanation": "চৌম্বক ক্ষেত্রে স্পেকট্রাল লাইন বিভাজন = জিম্যান প্রভাব।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 3,
+          "passage": null,
+          "questionText": "NH₄⁺ আয়ন শনাক্তকরণের জন্য কোন বিকারক ব্যবহৃত হয়?",
+          "options": [
+            "ক) নেসলার বিকারক",
+            "খ) সিলভার নাইট্রেট",
+            "গ) বেরিয়াম ক্লোরাইড",
+            "ঘ) অ্যামোনিয়াম অক্সালেট"
+          ],
+          "correctOption": "ক",
+          "explanation": "নেসলার বিকারক NH₄⁺-এ বাদামী অধঃক্ষেপ দেয়।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 4,
+          "passage": null,
+          "questionText": "২য় পর্যায়ের মৌলগুলোর আয়নীকরণ শক্তির ব্যতিক্রম বিবেচনায় সঠিক ক্রম কোনটি?",
+          "options": [
+            "ক) Li < B < Be < C < O < N < F",
+            "খ) Li < Be < B < C < N < O < F",
+            "গ) F < O < N < C < Be < B < Li",
+            "ঘ) Li < C < B < Be < O < N < F"
+          ],
+          "correctOption": "ক",
+          "explanation": "২য় পর্যায়ে Be ও B, N ও O-তে IE ব্যতিক্রম; ক্রম Li < B < Be < C < O < N < F।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 5,
+          "passage": null,
+          "questionText": "PCl₅ অণুতে ফসফরাসের সংকরায়ণ কী?",
+          "options": [
+            "ক) sp²",
+            "খ) sp³",
+            "গ) sp³d",
+            "ঘ) sp³d²"
+          ],
+          "correctOption": "গ",
+          "explanation": "PCl₅-এ P এর sp³d সংকরায়ণ; trigonal bipyramidal।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 6,
+          "passage": null,
+          "questionText": "Henderson equation অনুযায়ী কখন অম্লীয় বাফারের pH = pKa হবে?",
+          "options": [
+            "ক) [লবণ] = [অম্ল]",
+            "খ) [লবণ] > [অম্ল]",
+            "গ) [অম্ল] = 0",
+            "ঘ) [লবণ] < [অম্ল]"
+          ],
+          "correctOption": "ক",
+          "explanation": "pH = pKa + log([লবণ]/[অম্ল]); সমান হলে pH = pKa।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 7,
+          "passage": null,
+          "questionText": "CuSO₄·5H₂O স্ফটিকে কোন কোন ধরনের বন্ধন পাওয়া যায়?",
+          "options": [
+            "ক) শুধু আয়নিক",
+            "খ) আয়নিক ও সমযোজী",
+            "গ) আয়নিক, সমযোজী, সন্নিবেশ ও হাইড্রোজেন বন্ধন",
+            "ঘ) শুধু হাইড্রোজেন বন্ধন"
+          ],
+          "correctOption": "গ",
+          "explanation": "Cu²⁺–SO₄²⁻ আয়নিক; SO₄ ও H₂O-তে সমযোজী/সন্নিবেশ; স্ফটিকে H-বন্ধন।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 8,
+          "passage": null,
+          "questionText": "ভিনেগারের অম্লীয় পরিবেশ ব্যাকটেরিয়ার কোন অংশের কার্যকারিতা নষ্ট করতে সাহায্য করে?",
+          "options": [
+            "ক) কোষপ্রাচীর ও প্রোটিন",
+            "খ) নিউক্লিয়ার ঝিল্লি",
+            "গ) সেলুলোজ স্তর",
+            "ঘ) ক্লোরোপ্লাস্ট"
+          ],
+          "correctOption": "ক",
+          "explanation": "নিম্ন pH-এ কোষপ্রাচীর ও প্রোটিন/এনজাইম নিষ্ক্রিয় হয়।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 9,
+          "passage": null,
+          "questionText": "হাইড্রোজেনের বামার সিরিজের প্রথম রেখা কোন transition-এর জন্য সৃষ্টি হয়?",
+          "options": [
+            "ক) n=2 → n=1",
+            "খ) n=3 → n=2",
+            "গ) n=4 → n=3",
+            "ঘ) n=∞ → n=1"
+          ],
+          "correctOption": "খ",
+          "explanation": "বামার সিরিজের প্রথম লাইন: n=3 থেকে n=2।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 10,
+          "passage": null,
+          "questionText": "ইথানল ও ডাইমিথাইল ইথারের স্ফুটনাঙ্কে পার্থক্য হওয়ার মূল কারণ কী?",
+          "options": [
+            "ক) ইথানলে আন্তঃআণবিক হাইড্রোজেন বন্ধন থাকে",
+            "খ) ডাইমিথাইল ইথারের ভর বেশি",
+            "গ) ইথানল আয়নিক যৌগ",
+            "ঘ) উভয়ের গঠন একই"
+          ],
+          "correctOption": "ক",
+          "explanation": "ইথানলে H-বন্ধন; ইথারে নেই → স্ফুটনাঙ্ক পার্থক্য।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 11,
+          "passage": null,
+          "questionText": "নিচের কোন অক্সাইডটি অম্ল ও ক্ষার—উভয়ের সাথে বিক্রিয়া করতে পারে?",
+          "options": [
+            "ক) CO₂",
+            "খ) Al₂O₃",
+            "গ) SO₂",
+            "ঘ) Na₂O"
+          ],
+          "correctOption": "খ",
+          "explanation": "Al₂O₃ উভধর্মী; অম্ল ও ক্ষার উভয়ের সাথে বিক্রিয়া করে।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 12,
+          "passage": null,
+          "questionText": "Fe²⁺ আয়নে কতটি অযুগ্ম ইলেকট্রন থাকে?",
+          "options": [
+            "ক) ২টি",
+            "খ) ৩টি",
+            "গ) ৪টি",
+            "ঘ) ৫টি"
+          ],
+          "correctOption": "গ",
+          "explanation": "Fe²⁺: [Ar] 3d⁶; ক্ষেত্রে দুর্বল হলে ৪টি অযুগ্ম ইলেকট্রন।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 13,
+          "passage": null,
+          "questionText": "CaF₂-এর মোলার দ্রাব্যতা S হলে Ksp-এর মান কোনটি?",
+          "options": [
+            "ক) S²",
+            "খ) 2S²",
+            "গ) 4S³",
+            "ঘ) 27S⁴"
+          ],
+          "correctOption": "গ",
+          "explanation": "CaF₂ ⇌ Ca²⁺ + 2F⁻; Ksp = S(2S)² = 4S³।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 14,
+          "passage": null,
+          "questionText": "NO₃⁻ আয়নে নাইট্রোজেনের চারপাশের জ্যামিতিক বিন্যাস কী?",
+          "options": [
+            "ক) রৈখিক",
+            "খ) পিরামিডীয়",
+            "গ) সমতলীয় ত্রিকোণাকার",
+            "ঘ) চতুস্তলকীয়"
+          ],
+          "correctOption": "গ",
+          "explanation": "NO₃⁻-এ N sp²; সমতল ত্রিকোণাকার।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 15,
+          "passage": null,
+          "questionText": "যে প্রভাবক বিক্রিয়ার গতি কমিয়ে দেয় তাকে কী বলা হয়?",
+          "options": [
+            "ক) ধনাত্মক প্রভাবক",
+            "খ) ঋণাত্মক প্রভাবক",
+            "গ) স্বপ্রভাবক",
+            "ঘ) এনজাইম"
+          ],
+          "correctOption": "খ",
+          "explanation": "ঋণাত্মক প্রভাবক/বিষ বিক্রিয়ার গতি হ্রাস করে।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 16,
+          "passage": null,
+          "questionText": "কোল্ড ক্রিমে ব্যবহৃত তেলজাতীয় উপাদানের মধ্যে কোনটি গুরুত্বপূর্ণ?",
+          "options": [
+            "ক) তরল প্যারাফিন",
+            "খ) ভিনেগার",
+            "গ) NaCl",
+            "ঘ) মিথানল"
+          ],
+          "correctOption": "ক",
+          "explanation": "কোল্ড ক্রিমে তরল প্যারাফিন প্রধান তৈলাক্ত ভিত্তি।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 17,
+          "passage": null,
+          "questionText": "রক্তে H⁺ আয়ন বেড়ে গেলে কোন আয়ন তা গ্রহণ করে বাফার হিসেবে কাজ করে?",
+          "options": [
+            "ক) HCO₃⁻",
+            "খ) H₂CO₃",
+            "গ) Na⁺",
+            "ঘ) Cl⁻"
+          ],
+          "correctOption": "ক",
+          "explanation": "HCO₃⁻ + H⁺ → H₂CO₃; অতিরিক্ত H⁺ শোষণ।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 18,
+          "passage": null,
+          "questionText": "পেপার ক্রোমাটোগ্রাফিতে stationary phase হিসেবে কোনটি কাজ করে?",
+          "options": [
+            "ক) কাগজের সেলুলোজে থাকা পানি",
+            "খ) চলমান দ্রাবক",
+            "গ) বাতাস",
+            "ঘ) কাঁচের পাত"
+          ],
+          "correctOption": "ক",
+          "explanation": "কাগজে আবদ্ধ পানি স্থির ফেজ; দ্রাবক মোবাইল ফেজ।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 19,
+          "passage": null,
+          "questionText": "কোনো বিক্রিয়া স্বতঃস্ফূর্ত হবে যদি—",
+          "options": [
+            "ক) ΔG < 0",
+            "খ) ΔG > 0",
+            "গ) ΔH = 0",
+            "ঘ) ΔS = 0"
+          ],
+          "correctOption": "ক",
+          "explanation": "ΔG < 0 হলে বিক্রিয়া স্বতঃস্ফূর্ত।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 20,
+          "passage": null,
+          "questionText": "F অপেক্ষা Cl-এর electron affinity বেশি হওয়ার প্রধান কারণ কী?",
+          "options": [
+            "ক) Cl-এর আকার তুলনামূলক বড় হওয়ায় ইলেকট্রন বিকর্ষণ কম",
+            "খ) F-এর তড়িৎ ঋণাত্মকতা নেই",
+            "গ) Cl ধাতব মৌল",
+            "ঘ) F-এর ভর বেশি"
+          ],
+          "correctOption": "ক",
+          "explanation": "F-এর 2p-তে ইলেকট্রন ঘনত্ব বেশি; Cl-এর আকার বড় হলে বিকর্ষণ কম → EA বেশি।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 21,
+          "passage": "0.1 M CH₃COOH দ্রবণের বিয়োজন মাত্রা 1.34%।",
+          "questionText": "এই এসিডের Ka-এর মান কতের কাছাকাছি?",
+          "options": [
+            "ক) 1.8 × 10⁻⁵",
+            "খ) 1.34 × 10⁻²",
+            "গ) 1.8 × 10⁻³",
+            "ঘ) 1.0 × 10⁻⁷"
+          ],
+          "correctOption": "ক",
+          "explanation": "Ka ≈ Cα² = 0.1×(0.0134)² ≈ 1.8×10⁻⁵।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 22,
+          "passage": "উপরের উদ্দীপক অনুসারে।",
+          "questionText": "দ্রবণটির pH প্রায় কত?",
+          "options": [
+            "ক) 1.00",
+            "খ) 2.87",
+            "গ) 4.74",
+            "ঘ) 7.00"
+          ],
+          "correctOption": "খ",
+          "explanation": "[H⁺]=Cα=0.00134; pH≈2.87।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 23,
+          "passage": null,
+          "questionText": "হুন্ডের নীতির বিরোধী ইলেকট্রন বিন্যাস কোনটি?",
+          "options": [
+            "ক) pₓ¹pᵧ¹p_z¹",
+            "খ) pₓ²pᵧ¹p_z¹",
+            "গ) pₓ¹pᵧ¹p_z⁰",
+            "ঘ) pₓ²pᵧ⁰p_z⁰"
+          ],
+          "correctOption": "ঘ",
+          "explanation": "অর্ধপূর্ণ না হওয়া পর্যন্ত জোড় গঠন হুন্ডের নীতি লঙ্ঘন; pₓ² একা জোড়িত।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 24,
+          "passage": null,
+          "questionText": "খাদ্য সংরক্ষণে সোডিয়াম বেনজোয়েট সাধারণত সর্বোচ্চ কত শতাংশ পর্যন্ত অনুমোদিত?",
+          "options": [
+            "ক) 0.1%",
+            "খ) 1.5%",
+            "গ) 5%",
+            "ঘ) 10%"
+          ],
+          "correctOption": "ক",
+          "explanation": "খাদ্যে Na-benzoate সর্বোচ্চ ~০.১%।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 25,
+          "passage": null,
+          "questionText": "অরবিটালের ত্রিমাত্রিক দিকবিন্যাস কোন কোয়ান্টাম সংখ্যা দ্বারা বোঝা যায়?",
+          "options": [
+            "ক) প্রধান কোয়ান্টাম সংখ্যা",
+            "খ) সহকারী কোয়ান্টাম সংখ্যা",
+            "গ) চৌম্বক কোয়ান্টাম সংখ্যা",
+            "ঘ) স্পিন কোয়ান্টাম সংখ্যা"
+          ],
+          "correctOption": "গ",
+          "explanation": "চৌম্বক কোয়ান্টাম সংখ্যা m অরবিটালের দিক নির্ধারণ করে।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        }
+      ]
+    },
+    {
+      "set_id": 7,
+      "label": "SET 07",
+      "title": "SET 07 — Modified Board Standard",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "passage": null,
+          "questionText": "হাতে শক্তিশালী এসিড লাগলে পানি দিয়ে ধোয়ার পর কোন দ্রবণ ব্যবহার করা নিরাপদ?",
+          "options": [
+            "ক) গাঢ় NaOH",
+            "খ) 5% NaHCO₃ দ্রবণ",
+            "গ) গাঢ় HCl",
+            "ঘ) ইথানল"
+          ],
+          "correctOption": "খ",
+          "explanation": "এসিড পোড়া: প্রচুর পানি + ৫% NaHCO₃ (মৃদু ক্ষার প্রশমন)।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 2,
+          "passage": null,
+          "questionText": "জাল নোট ও গুরুত্বপূর্ণ নথি পরীক্ষা করতে কোন বিকিরণ বেশি ব্যবহৃত হয়?",
+          "options": [
+            "ক) UV রশ্মি",
+            "খ) IR রশ্মি",
+            "গ) রেডিও তরঙ্গ",
+            "ঘ) মাইক্রোওয়েভ"
+          ],
+          "correctOption": "ক",
+          "explanation": "নিরাপত্তা মুদ্রা/নথিতে UV ফ্লোরোসেন্স শনাক্তকরণ।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 3,
+          "passage": null,
+          "questionText": "বোর মডেল কোন ধরনের কণার বর্ণালী ব্যাখ্যায় সবচেয়ে সফল?",
+          "options": [
+            "ক) এক-ইলেকট্রনযুক্ত পরমাণু/আয়ন",
+            "খ) বহু-ইলেকট্রনযুক্ত পরমাণু",
+            "গ) কঠিন ধাতু",
+            "ঘ) জৈব যৌগ"
+          ],
+          "correctOption": "ক",
+          "explanation": "বোর মডেল H ও He⁺-এর মতো এক-ইলেকট্রন সিস্টেমে সঠিক।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 4,
+          "passage": null,
+          "questionText": "হ্যালোজেনদের electron affinity-এর ব্যতিক্রমী সঠিক ক্রম কোনটি?",
+          "options": [
+            "ক) F > Cl > Br > I",
+            "খ) Cl > F > Br > I",
+            "গ) Br > Cl > F > I",
+            "ঘ) I > Br > F > Cl"
+          ],
+          "correctOption": "খ",
+          "explanation": "F-এ 2p ঘনত্বে বিকর্ষণ; Cl-এর EA সর্বোচ্চ।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 5,
+          "passage": null,
+          "questionText": "BF₃ অণুর সমতলীয় ত্রিকোণাকার আকৃতির কারণ কী?",
+          "options": [
+            "ক) sp সংকরায়ণ",
+            "খ) sp² সংকরায়ণ",
+            "গ) sp³ সংকরায়ণ",
+            "ঘ) sp³d সংকরায়ণ"
+          ],
+          "correctOption": "খ",
+          "explanation": "BF₃-এ B এর sp² সংকরায়ণ; সমতল ত্রিকোণাকার।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 6,
+          "passage": null,
+          "questionText": "কোনো বিক্রিয়ার activation energy বেশি হলে সাধারণত বিক্রিয়ার গতি—",
+          "options": [
+            "ক) কমে যায়",
+            "খ) বেড়ে যায়",
+            "গ) অপরিবর্তিত থাকে",
+            "ঘ) অসীম হয়"
+          ],
+          "correctOption": "ক",
+          "explanation": "Ea বেশি হলে কম অণু সক্রিয়ণ শক্তি অতিক্রম করে → বেগ কম।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 7,
+          "passage": null,
+          "questionText": "ক্ষারীয় বাফারে ক্ষারীয় অংশের ঘনমাত্রা বাড়ালে pH—",
+          "options": [
+            "ক) বৃদ্ধি পায়",
+            "খ) কমে যায়",
+            "গ) ৭ হয়ে যায়",
+            "ঘ) শূন্য হয়"
+          ],
+          "correctOption": "ক",
+          "explanation": "ক্ষারকীয় উপাদান বাড়লে pH বাড়ে।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 8,
+          "passage": null,
+          "questionText": "ইথানলকে জারিত করে এসিটিক এসিড তৈরি করতে কোন ব্যাকটেরিয়া ব্যবহৃত হয়?",
+          "options": [
+            "ক) Acetobacter aceti",
+            "খ) E. coli",
+            "গ) Streptococcus",
+            "ঘ) Salmonella"
+          ],
+          "correctOption": "ক",
+          "explanation": "Acetobacter aceti ইথানল → অ্যাসিটিক এসিড (অ্যাসিটিক অ্যাসিড ফারমেন্টেশন)।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 9,
+          "passage": null,
+          "questionText": "l=2 হলে সংশ্লিষ্ট উপশক্তিস্তর কোনটি?",
+          "options": [
+            "ক) s",
+            "খ) p",
+            "গ) d",
+            "ঘ) f"
+          ],
+          "correctOption": "গ",
+          "explanation": "l=2 → d-উপশক্তিস্তর।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 10,
+          "passage": null,
+          "questionText": "নিচের কোন অণুর bond angle সবচেয়ে ছোট?",
+          "options": [
+            "ক) CH₄",
+            "খ) NH₃",
+            "গ) H₂O",
+            "ঘ) H₂S"
+          ],
+          "correctOption": "ঘ",
+          "explanation": "H₂S-এ বন্ধন কোণ প্রায় 92°—সবচেয়ে কম।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 11,
+          "passage": null,
+          "questionText": "নিচের কোন যৌগে সমযোজী চরিত্র সবচেয়ে বেশি হওয়ায় গলনাঙ্ক তুলনামূলক কম?",
+          "options": [
+            "ক) NaCl",
+            "খ) MgCl₂",
+            "গ) AlCl₃",
+            "ঘ) KCl"
+          ],
+          "correctOption": "গ",
+          "explanation": "AlCl₃-এ ফাজান প্রভাবে সমযোজী চরিত্র বেশি; গলনাঙ্ক কম।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 12,
+          "passage": null,
+          "questionText": "Cu²⁺ আয়নের d-অরবিটালে মোট কতটি ইলেকট্রন থাকে?",
+          "options": [
+            "ক) ১০টি",
+            "খ) ৯টি",
+            "গ) ৮টি",
+            "ঘ) ৭টি"
+          ],
+          "correctOption": "খ",
+          "explanation": "Cu²⁺: [Ar] 3d⁹ → d-এ ৯টি ইলেকট্রন।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 13,
+          "passage": null,
+          "questionText": "সম্পৃক্ত BaSO₄ দ্রবণে সামান্য Na₂SO₄ যোগ করলে দ্রাব্যতা কী হবে?",
+          "options": [
+            "ক) বৃদ্ধি পাবে",
+            "খ) হ্রাস পাবে",
+            "গ) অপরিবর্তিত থাকবে",
+            "ঘ) সম্পূর্ণ দ্রবীভূত হবে"
+          ],
+          "correctOption": "খ",
+          "explanation": "SO₄²⁻ সমআয়ন যোগে BaSO₄-এর দ্রাব্যতা কমে।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 14,
+          "passage": null,
+          "questionText": "CO₂ অণু রৈখিক হওয়ায় এর dipole moment কত?",
+          "options": [
+            "ক) 0 D",
+            "খ) 1 D",
+            "গ) 1.85 D",
+            "ঘ) 2.5 D"
+          ],
+          "correctOption": "ক",
+          "explanation": "CO₂ রৈখিক ও সমমুখী; নিট ডাইপোল শূন্য।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 15,
+          "passage": null,
+          "questionText": "লা-শাতেলিয়ের নীতি কোন ক্ষেত্রে প্রযোজ্য নয়?",
+          "options": [
+            "ক) রাসায়নিক সাম্যাবস্থা",
+            "খ) ভৌত সাম্যাবস্থা",
+            "গ) একমুখী সম্পূর্ণ বিক্রিয়া",
+            "ঘ) গ্যাসীয় সাম্যাবস্থা"
+          ],
+          "correctOption": "গ",
+          "explanation": "লা-শাতেলিয়ে উভমুখী সাম্যাবস্থায় প্রযোজ্য; একমুখী বিক্রিয়ায় নয়।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 16,
+          "passage": null,
+          "questionText": "আফটার শেভ লোশনে শীতল অনুভূতি ও সুগন্ধ তৈরিতে কোন উপাদান ব্যবহৃত হয়?",
+          "options": [
+            "ক) ইথানল ও মেনথল",
+            "খ) মিথানল ও HCl",
+            "গ) সোডিয়াম হাইড্রোক্সাইড",
+            "ঘ) পেট্রোল"
+          ],
+          "correctOption": "ক",
+          "explanation": "ইথানল (অ্যান্টিসেপ্টিক) + মেনথল (ঠান্ডা অনুভূতি)।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 17,
+          "passage": null,
+          "questionText": "0.01 M HCl দ্রবণের pH কত?",
+          "options": [
+            "ক) 1",
+            "খ) 2",
+            "গ) 7",
+            "ঘ) 12"
+          ],
+          "correctOption": "খ",
+          "explanation": "pH = −log(0.01) = 2।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 18,
+          "passage": null,
+          "questionText": "পাতনের মৌলিক ধাপ কোনটি?",
+          "options": [
+            "ক) বাষ্পীভবন ও ঘনীভবন",
+            "খ) পরিস্রাবণ ও স্ফটিকীকরণ",
+            "গ) নিষ্কাশন ও শোষণ",
+            "ঘ) অবক্ষেপণ ও শুকানো"
+          ],
+          "correctOption": "ক",
+          "explanation": "পাতন = বাষ্পীভবন + ঘনীভবন।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 19,
+          "passage": null,
+          "questionText": "স্থির চাপে কোনো বিক্রিয়ার তাপ পরিবর্তন কোন রাশির পরিবর্তনের সমান?",
+          "options": [
+            "ক) এন্ট্রপি",
+            "খ) এনথালপি",
+            "গ) চাপ",
+            "ঘ) আয়তন"
+          ],
+          "correctOption": "খ",
+          "explanation": "স্থির চাপে qp = ΔH (এনথালপি পরিবর্তন)।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 20,
+          "passage": null,
+          "questionText": "নিচের কোন মৌলটি অপধাতু হিসেবে পরিচিত?",
+          "options": [
+            "ক) Na",
+            "খ) Si",
+            "গ) Cl",
+            "ঘ) Ar"
+          ],
+          "correctOption": "খ",
+          "explanation": "সিলিকন (Si) অর্ধপরিবাহী/অপধাতু।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 21,
+          "passage": "হাইড্রোজেন পরমাণুর একটি ইলেকট্রন n=3 স্তর থেকে n=2 স্তরে ফিরে আসে।\nRH = 1.097 × 10⁷ m⁻¹",
+          "questionText": "নির্গত বিকিরণের তরঙ্গ সংখ্যা প্রায় কত?",
+          "options": [
+            "ক) 1.52 × 10⁶ m⁻¹",
+            "খ) 6.56 × 10⁻⁷ m⁻¹",
+            "গ) 3.0 × 10⁸ m⁻¹",
+            "ঘ) 9.11 × 10⁻³¹ m⁻¹"
+          ],
+          "correctOption": "ক",
+          "explanation": "ν̃ = RH(1/2²−1/3²) = 1.097×10⁷×5/36 ≈ 1.52×10⁶ m⁻¹।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 22,
+          "passage": null,
+          "questionText": "এই transition কোন series-এর অন্তর্ভুক্ত?",
+          "options": [
+            "ক) লাইম্যান সিরিজ",
+            "খ) বামার সিরিজ",
+            "গ) প্যাশেন সিরিজ",
+            "ঘ) ব্র্যাকেট সিরিজ"
+          ],
+          "correctOption": "খ",
+          "explanation": "3→2 লাফ বামার সিরিজ; দৃশ্যমান আলো।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 23,
+          "passage": null,
+          "questionText": "Planck constant-এর SI এককসহ সঠিক মান কোনটি?",
+          "options": [
+            "ক) 6.626 × 10⁻³⁴ J·s",
+            "খ) 3.00 × 10⁸ m/s",
+            "গ) 9.11 × 10⁻³¹ kg",
+            "ঘ) 1.6 × 10⁻¹⁹ C"
+          ],
+          "correctOption": "ক",
+          "explanation": "h = 6.626×10⁻³⁴ J·s।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 24,
+          "passage": null,
+          "questionText": "খাদ্যে ব্যবহার সম্পূর্ণ নিষিদ্ধ ক্ষতিকর সংরক্ষক কোনটি?",
+          "options": [
+            "ক) ভিনেগার",
+            "খ) সাইট্রিক এসিড",
+            "গ) ফরমালিন",
+            "ঘ) সোডিয়াম বেনজোয়েট"
+          ],
+          "correctOption": "গ",
+          "explanation": "ফরমালিন (ফর্মালডিহাইড) খাদ্যে নিষিদ্ধ কার্সিনোজেনিক সংরক্ষক।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        },
+        {
+          "questionNumber": 25,
+          "passage": null,
+          "questionText": "H₂O অণুতে অক্সিজেন পরমাণুর hybridization কী?",
+          "options": [
+            "ক) sp",
+            "খ) sp²",
+            "গ) sp³",
+            "ঘ) dsp²"
+          ],
+          "correctOption": "গ",
+          "explanation": "H₂O-এ O এর sp³ সংকরায়ণ; কৌণিক জ্যামিতি।",
+          "topic": "HSC Chemistry 1st Paper",
+          "probability": "Board Standard"
+        }
+      ]
+    }
+  ]
+}

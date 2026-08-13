@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-07-model-test-05-q01": {
+    "correctOption": "4",
+    "explanation": "17−13=4 এবং 21−17=4। তাই সাধারণ অন্তর 4।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q02": {
+    "correctOption": "20",
+    "explanation": "a=100, d=-10। 9ম পদ = 100+8×(-10)=20।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q03": {
+    "correctOption": "5n+3",
+    "explanation": "a=8, d=5। nতম পদ = 8+(n−1)5 = 5n+3।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q04": {
+    "correctOption": "810",
+    "explanation": "a=5, d=7, n=15। S₁₅=15/2[10+14×7]=15/2×108=810।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q05": {
+    "correctOption": "69",
+    "explanation": "11তম পদ = 9+10×6 = 69।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q06": {
+    "correctOption": "5",
+    "explanation": "25/5=5 এবং 125/25=5।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q07": {
+    "correctOption": "1/5",
+    "explanation": "25/125=1/5 এবং 5/25=1/5।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q08": {
+    "correctOption": "250",
+    "explanation": "4র্থ পদ = ar³ = 2×5³ = 250।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q09": {
+    "correctOption": "156",
+    "explanation": "1+5+25+125 = 156।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q10": {
+    "correctOption": "255",
+    "explanation": "পদগুলো 3,12,48,192। সমষ্টি = 255।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q11": {
+    "correctOption": "18",
+    "explanation": "a=9, r=1/2। S∞=9/(1−1/2)=18।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q12": {
+    "correctOption": "1/5",
+    "explanation": "দ্বিতীয় পদ/প্রথম পদ = 1/5। তাই সাধারণ অনুপাত 1/5।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q13": {
+    "correctOption": "25",
+    "explanation": "a=20, r=1/5। S∞=20/(1−1/5)=20/(4/5)=25।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q14": {
+    "correctOption": "4/3",
+    "explanation": "a=2, r=-1/2। S∞=2/[1−(-1/2)] = 2/(3/2)=4/3।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q15": {
+    "correctOption": "4/11",
+    "explanation": "0.363636... = 36/99 = 4/11।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q16": {
+    "correctOption": "7/11",
+    "explanation": "0.636363... = 63/99 = 7/11।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q17": {
+    "correctOption": "7/15",
+    "explanation": "0.4666... = 0.4+0.0666... = 2/5+1/15 = 7/15।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q18": {
+    "correctOption": "3, 8, 13",
+    "explanation": "n=1,2,3 বসালে 5n−2 = 3,8,13।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q19": {
+    "correctOption": "0, 3, 8",
+    "explanation": "n=1,2,3 হলে n²−1 = 0,3,8।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q20": {
+    "correctOption": "2/3",
+    "explanation": "n=2 বসালে 2/(n+1)=2/3।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q21": {
+    "correctOption": "1",
+    "explanation": "8ম পদ = a+7d। তাই 36=a+35 ⇒ a=1।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q22": {
+    "correctOption": "5",
+    "explanation": "4র্থ পদ = ar³। তাই 135=a×27 ⇒ a=5।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q23": {
+    "correctOption": "80",
+    "explanation": "a=40, r=1/2। S∞=40/(1−1/2)=80।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q24": {
+    "correctOption": "1/4",
+    "explanation": "a=1/5, r=1/5। S∞=(1/5)/(1−1/5)=(1/5)/(4/5)=1/4।"
+  },
+  "ssc-higher-math-chapter-07-model-test-05-q25": {
+    "correctOption": "4",
+    "explanation": "a=6, r=-1/2। S∞=6/[1−(-1/2)] = 6/(3/2)=4।"
+  }
+}

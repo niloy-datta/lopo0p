@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "চোখ দূরের বস্তু দেখতে পায় না কারণ— i. চক্ষু লেন্সের অভিসারী ক্ষমতা বৃদ্ধি পেলে ii. অক্ষি গোলকের ব্যাসার্ধ বৃদ্ধি পেলে iii. চক্ষু লেন্সের ফোকাস দূরত্ব বৃদ্ধি পেলে নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q01.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "উদ্দীপক: একটি আলোক রশ্মি হালকা মাধ্যম \\(a\\) থেকে ঘন মাধ্যম \\(b\\)-তে প্রবেশ করছে। আপতিত রশ্মিটি বিভেদ তলের সাথে \\(30^{\\circ}\\) কোণ তৈরি করে এবং প্রতিসৃত রশ্মিটি অভিলম্বের সাথে \\(45^{\\circ}\\) কোণ তৈরি করে। \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক কত? \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক \\(_a\\eta_b = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 60^{\\circ}}{\\sin 45^{\\circ}} = \\frac{\\sqrt{3}/2}{1/\\sqrt{2}} = \\frac{\\sqrt{3}}{\\sqrt{2}}\\)।",
+    "options": [
+      "\\(\\frac{1}{2\\sqrt{2}}\\)",
+      "\\(\\frac{1}{2}\\)",
+      "\\(\\frac{\\sqrt{3}}{\\sqrt{2}}\\)",
+      "\\(\\sqrt{2}\\)"
+    ],
+    "image": "/images/quiz/geo-triangle-altitudes.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "-4D ক্ষমতাসম্পন্ন লেন্সের ফোকাস দূরত্ব কত?",
+    "options": [
+      "-25cm",
+      "-4cm",
+      "-0.25cm",
+      "25cm"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q03.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "সরু লেন্সের মাঝখানের যে বিন্দু দিয়ে আলোকরশ্মি যাওয়ার সময় বেঁকে যায় না তাকে বলে—",
+    "options": [
+      "বক্রতার ব্যাসার্ধ",
+      "লেন্সের আলোকীয় কেন্দ্র",
+      "ফোকাস বিন্দু",
+      "মেরু"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q04.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "নিচের কোন আলোকীয় ঘটনা এন্ডোস্কোপিতে পর্যবেক্ষণ করা যায়?",
+    "options": [
+      "প্রতিসরণ",
+      "শোষণ",
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "প্রতিফলন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "আলোকবিজ্ঞানের স্থপতি হিসেবে নিচের কোন নামটি বিবেচনা করা হয়?",
+    "options": [
+      "ইবনে আল হাইথাম",
+      "থেলিস",
+      "আল খোয়ারিজমি",
+      "আল মাসুদী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "চোখের ভেতরে আলো প্রবেশ নিয়ন্ত্রণ করে নিচের কোনটি?",
+    "options": [
+      "আইরিস",
+      "চক্ষু লেন্স",
+      "রেটিনা",
+      "কর্নিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "১৯। চোখের আলোক সংবেদী অংশ কোনটি?",
+    "options": [
+      "রেটিনা",
+      "পিউপিল",
+      "কর্নিয়া",
+      "আইরিশ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
+    "options": [
+      "আল মাসুদি",
+      "ইবনে আল হাইয়াম",
+      "ওমর খৈয়াম",
+      "আল খোয়ারিজমি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "একটি উত্তল লেন্সের ফোকাস দূরত্ব 20 cm হলে এর ক্ষমতা কত?",
+    "options": [
+      "+2 D",
+      "+5 D",
+      "−2 D",
+      "−5 D"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q10.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "একটি লেন্সের ক্ষমতা −4D হলে ফোকাস দূরত্ব কত?",
+    "options": [
+      "−25 cm",
+      "−4 cm",
+      "+25 cm",
+      "+4 cm"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q11.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "প্রতিসরণাঙ্ক 1.7 মাধ্যমে আপতন কোণ 42° হলে প্রতিসরণ কোণ—",
+    "options": [
+      "48",
+      "42",
+      "21",
+      "138"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "লেন্সের ক্ষমতার একক—",
+    "options": [
+      "ডায়োপ্টার",
+      "মিটার",
+      "জুল",
+      "ওয়াট"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q13.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "আলো শূন্য মাধ্যমে গেলে বেগ—",
+    "options": [
+      "সর্বোচ্চ",
+      "সর্বনিম্ন",
+      "শূন্য",
+      "অপরিবর্তিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "n₁sinθ₁=n₂sinθ₂ কোন সূত্র?",
+    "options": [
+      "Snell",
+      "Newton",
+      "Ohm",
+      "Coulomb"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "লেন্সের ক্ষমতার একক কোনটি?",
+    "options": [
+      "ডায়োপ্টার",
+      "মিটার",
+      "জুল",
+      "ওয়াট"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q16.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "নিচের কোনটিতে আলোর প্রতিসরাঙ্কের মান সবচেয়ে বেশি?",
+    "options": [
+      "শূন্য মাধ্যম",
+      "পানি",
+      "বায়ু",
+      "কাচ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "কোনটি পানির প্রতিসরাঙ্ক?",
+    "options": [
+      "1.00",
+      "1.33",
+      "1.52",
+      "2.42"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "অপটিক্যাল ফাইবারে আলো ধরে রাখে কোন নীতিতে?",
+    "options": [
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "প্রতিসরণ",
+      "প্রতিফলন",
+      "বিচ্ছুরণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "বায়ু থেকে কাচে আলো যাওয়ার সময় আপতন কোণ 0° হলে প্রতিসরণ কোণ—",
+    "options": [
+      "0°",
+      "90°",
+      "45°",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "উত্তল লেন্স দ্বারা সৃষ্ট প্রতিবিম্ব সাধারণত—",
+    "options": [
+      "ভার্চুয়াল ও সোজা",
+      "বাস্তব ও উল্টো",
+      "বাস্তব ও সোজা",
+      "অসীম"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q21.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "অবতল লেন্স দ্বারা সৃষ্ট প্রতিবিম্ব সাধারণত—",
+    "options": [
+      "ভার্চুয়াল ও সোজা",
+      "বাস্তব ও উল্টো",
+      "বাস্তব ও সোজা",
+      "অসীম"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q22.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "P=1/f হলে f=20 cm লেন্সের ক্ষমতা কত?",
+    "options": [
+      "5 D",
+      "20 D",
+      "0.05 D",
+      "2 D"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q23.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "পানির প্রতিসরাঙ্ক প্রায় 4/3 হলে শূন্য মাধ্যমে আলোর বেগ 3×10⁸ m/s হলে পানিতে বেগ প্রায়—",
+    "options": [
+      "2.25×10⁸ m/s",
+      "3×10⁸ m/s",
+      "4×10⁸ m/s",
+      "1.5×10⁸ m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "x² − x − 6 = 0 এর সমাধান সেট কোনটি?",
+    "options": [
+      "{0}",
+      "φ",
+      "{−2, 3}",
+      "{1}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "A = {1,2}, B = {2,3}, C = {3,4} হলে A∪B∪C এর উপাদান সংখ্যা কত?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "A = {2,3,4} ও B = {3,4,5} হলে A ∩ B = কত?",
+    "options": [
+      "{3,4}",
+      "{2,5}",
+      "{3}",
+      "{4,5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "A = {x ∈ N : −2 ≤ x ≤ 6} সেটটির উপসেট কয়টি?",
+    "options": [
+      "64",
+      "128",
+      "256",
+      "512"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "Q = {x,y,z}, R = {q,r} হলে Q\\R এর প্রকৃত উপসেট কয়টি?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "A = {2,3,5,7} সেটটির সেট-গঠন পদ্ধতিতে প্রকাশ কোনটি?",
+    "options": [
+      "{x : x জোড় সংখ্যা}",
+      "{x : x মৌলিক সংখ্যা এবং x < 8}",
+      "{x : x ∈ N, x > 10}",
+      "{x : x 3 এর গুণিতক}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(P(A)) = 32 হলে n(A) কত?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "A ⊂ B হলে A ∩ B = ?",
+    "options": [
+      "A",
+      "B",
+      "φ",
+      "U"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "A ও B অসদৃশ হলে n(A ∪ B) = ?",
+    "options": [
+      "n(A) + n(B)",
+      "n(A) − n(B)",
+      "n(A) × n(B)",
+      "n(A) + n(B) − n(A∩B)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 10, n(B) = 8, n(A ∩ B) = 2 হলে n(A ∪ B) কত?",
+    "options": [
+      "10",
+      "2",
+      "16",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 11, n(B) = 9, n(A ∩ B) = 3 হলে n(A ∪ B) কত?",
+    "options": [
+      "11",
+      "17",
+      "20",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 12, n(B) = 10, n(A ∩ B) = 4 হলে n(A ∪ B) কত?",
+    "options": [
+      "4",
+      "18",
+      "22",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 13, n(B) = 11, n(A ∩ B) = 5 হলে n(A ∪ B) কত?",
+    "options": [
+      "24",
+      "13",
+      "5",
+      "19"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 14, n(B) = 12, n(A ∩ B) = 6 হলে n(A ∪ B) কত?",
+    "options": [
+      "6",
+      "20",
+      "14",
+      "26"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 15, n(B) = 13, n(A ∩ B) = 7 হলে n(A ∪ B) কত?",
+    "options": [
+      "28",
+      "21",
+      "15",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 16, n(B) = 14, n(A ∩ B) = 2 হলে n(A ∪ B) কত?",
+    "options": [
+      "2",
+      "28",
+      "30",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 17, n(B) = 15, n(A ∩ B) = 3 হলে n(A ∪ B) কত?",
+    "options": [
+      "32",
+      "3",
+      "17",
+      "29"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 18, n(B) = 16, n(A ∩ B) = 4 হলে n(A ∪ B) কত?",
+    "options": [
+      "18",
+      "4",
+      "30",
+      "34"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 19, n(B) = 17, n(A ∩ B) = 5 হলে n(A ∪ B) কত?",
+    "options": [
+      "19",
+      "31",
+      "36",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 20, n(B) = 18, n(A ∩ B) = 6 হলে n(A ∪ B) কত?",
+    "options": [
+      "38",
+      "32",
+      "6",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 21, n(B) = 19, n(A ∩ B) = 7 হলে n(A ∪ B) কত?",
+    "options": [
+      "40",
+      "21",
+      "7",
+      "33"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 22, n(B) = 8, n(A ∩ B) = 2 হলে n(A ∪ B) কত?",
+    "options": [
+      "2",
+      "28",
+      "22",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 23, n(B) = 9, n(A ∩ B) = 3 হলে n(A ∪ B) কত?",
+    "options": [
+      "32",
+      "23",
+      "29",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 24, n(B) = 10, n(A ∩ B) = 4 হলে n(A ∪ B) কত?",
+    "options": [
+      "34",
+      "30",
+      "4",
+      "24"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 10, n(B) = 11, n(A ∩ B) = 5 হলে n(A ∪ B) কত?",
+    "options": [
+      "21",
+      "5",
+      "10",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 11, n(B) = 12, n(A ∩ B) = 6 হলে n(A ∪ B) কত?",
+    "options": [
+      "11",
+      "6",
+      "17",
+      "23"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 12, n(B) = 13, n(A ∩ B) = 7 হলে n(A ∪ B) কত?",
+    "options": [
+      "12",
+      "18",
+      "25",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 13, n(B) = 14, n(A ∩ B) = 2 হলে n(A ∪ B) কত?",
+    "options": [
+      "27",
+      "25",
+      "2",
+      "13"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 14, n(B) = 15, n(A ∩ B) = 3 হলে n(A ∪ B) কত?",
+    "options": [
+      "29",
+      "14",
+      "3",
+      "26"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-05-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-05",
+    "text": "n(A) = 15, n(B) = 16, n(A ∩ B) = 4 হলে n(A ∪ B) কত?",
+    "options": [
+      "15",
+      "4",
+      "27",
+      "31"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q01",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "একটি নতুন ও সচল শুষ্ক কোষে (Dry Cell) কত ভোল্ট বিদ্যুৎ বিভব উৎপন্ন হয়?",
+    "options": [
+      "১.৫ V",
+      "২.০ V",
+      "১.২ V",
+      "১২.০ V"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q02",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "গ্যালভানিক কোষে লবণ সেতুতে কাচ তুলা বা অ্যাগার-অ্যাগার জেল ব্যবহারের মূল কারণ কী?",
+    "options": [
+      "দ্রবণ দুটি যাতে সরাসরি মিশে না যায় কিন্তু আয়নের প্রবাহ চলতে পারে",
+      "কাচ তুলা বিদ্যুৎ সঞ্চালন করে বলে",
+      "জেলে ক্লোরিন গ্যাস উৎপন্ন হয় বলে",
+      "কাচনলকে রক্ষা করতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q03",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "ড্যানিয়েল কোষে ক্যাথোড অর্ধকোষে সংঘটিত বিজারণ অর্ধ-বিক্রিয়াটি কোনটি?",
+    "options": [
+      "Cu²⁺ + 2e⁻ → Cu",
+      "Cu → Cu²⁺ + 2e⁻",
+      "Zn → Zn²⁺ + 2e⁻",
+      "Zn²⁺ + 2e⁻ → Zn"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q04",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "বিক্রিয়কসমূহের বন্ধন ভাঙার মোট শক্তি উৎপাদের বন্ধন গড়ার শক্তির চেয়ে কম হলে বিক্রিয়াটি কেমন হয়?",
+    "options": [
+      "তাপোৎপাদী বিক্রিয়া",
+      "তাপহারী বিক্রিয়া",
+      "শক্তির কোনো পরিবর্তন হয় না",
+      "অস্বতঃস্ফূর্ত বিক্রিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q05",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "লোহায় মরিচা পড়া (Rusting of Iron) আসলে কোন ধরনের রাসায়নিক বিক্রিয়া?",
+    "options": [
+      "আর্দ্র জারণ-বিজারণ (রেডক্স)",
+      "শুধু জারণ বিক্রিয়া",
+      "প্রশমন বিক্রিয়া",
+      "তাপহারী বিক্রিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q06",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "তড়িৎ প্রলেপন (Electroplating) করার সময় কোন তড়িৎদ্বারে জারণ বিক্রিয়া ঘটে?",
+    "options": [
+      "অ্যানোডে",
+      "ক্যাথোডে",
+      "লবণ সেতুতে",
+      "তড়িৎ বিশ্লেষ্য দ্রবণে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q07",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "পানির তড়িৎ বিশ্লেষণে ক্যাথোডে উৎপন্ন হাইড্রোজেন গ্যাস ও অ্যানোডে উৎপন্ন অক্সিজেন গ্যাসের আয়তনের অনুপাত কত?",
+    "options": [
+      "২:১",
+      "১:২",
+      "১:১",
+      "৩:১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q08",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "মিথেন (CH₄) গ্যাসের প্রমাণ দহন তাপের মান কত?",
+    "options": [
+      "-৮৯০ kJ/mol",
+      "-৩৯৩.৫ kJ/mol",
+      "-৫৭.৩৪ kJ/mol",
+      "+৮৯০ kJ/mol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q09",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "অম্লীয় পানির তড়িৎ বিশ্লেষণে নিষ্ক্রিয় তড়িৎদ্বার হিসেবে নিচের কোনটি বেশি ব্যবহৃত হয়?",
+    "options": [
+      "প্লাটিনাম (Pt)",
+      "জিঙ্ক (Zn)",
+      "কপার (Cu)",
+      "লোহা (Fe)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q10",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "গ্যালভানিক কোষে অ্যানোড তড়িৎদ্বারের পোলারিটি বা আধান কেমন হয়?",
+    "options": [
+      "ঋণাত্মক",
+      "ধনাত্মক",
+      "নিরপেক্ষ",
+      "পরিবর্তনশীল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q11",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "নিচের কোনটি অত্যন্ত শক্তিশালী জারক পদার্থ এবং জারণ-বিজারণে ব্যবহৃত হয়?",
+    "options": [
+      "পটাশিয়াম পারম্যাঙ্গানেট (KMnO₄)",
+      "সোডিয়াম ক্লোরাইড (NaCl)",
+      "জিঙ্ক সালফেট (ZnSO₄)",
+      "অ্যামোনিয়াম ক্লোরাইড (NH₄Cl)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q12",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "একটি সাধারণ শুষ্ক কোষে উৎপন্ন তড়িৎ প্রবাহ কোন প্রকৃতির?",
+    "options": [
+      "একমুখী প্রবাহ (DC)",
+      "পর্যায়বৃত্ত প্রবাহ (AC)",
+      "উচ্চ ভোল্টেজ প্রবাহ",
+      "স্থির বিদ্যুৎ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q13",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "তীব্র অম্ল ও তীব্র ক্ষারের প্রশমন তাপের ধ্রুবক মান কত?",
+    "options": [
+      "-৫৭.৩৪ kJ/mol",
+      "-১১৪.৬৮ kJ/mol",
+      "+৫৭.৩৪ kJ/mol",
+      "০ kJ/mol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q14",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "বন্ধন ভাঙা ও বন্ধন গড়া যথাক্রমে কোন ধরনের প্রক্রিয়া?",
+    "options": [
+      "তাপহারী ও তাপোৎপাদী",
+      "তাপোৎপাদী ও তাপহারী",
+      "উভয়ই তাপহারী",
+      "উভয়ই তাপোৎপাদী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "কপার সালফেট (CuSO₄) দ্রবণে জিঙ্কের (Zn) পাত ডুবালে কী ঘটে?",
+    "options": [
+      "জিঙ্কের গায়ে লালচে তামাটে কপার জমা হয়",
+      "জিঙ্কের পাত পুরু হয়",
+      "দ্রবণের নীল রঙ আরও গাঢ় হয়",
+      "কোনো বিক্রিয়া ঘটে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "শুষ্ক কোষে ব্যবহৃত ম্যাঙ্গানিজ ডাই অক্সাইড (MnO₂) এর প্রধান ভূমিকা কী?",
+    "options": [
+      "উৎপন্ন হাইড্রোজেন গ্যাসকে জারিত করে পানিতে পরিণত করা",
+      "তড়িৎ পরিবাহিতা কমানো",
+      "জিঙ্কের ক্ষয় ত্বরান্বিত করা",
+      "স্টার্চের ঘনত্ব কমানো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q17",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "বিশুদ্ধ পানির তড়িৎ পরিবাহিতা কেমন হয়?",
+    "options": [
+      "অত্যন্ত কম (মৃদু পরিবাহী)",
+      "খুব বেশি (সুপরিবাহী)",
+      "সম্পূর্ণ অপরিবাহী",
+      "ধাতুর মতো পরিবাহী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q18",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "ক্যাথোডিক সুরক্ষা (Cathodic Protection) পদ্ধতিতে লোহাকে ক্ষয় থেকে বাঁচাতে লোহার সাথে কী যুক্ত করা হয়?",
+    "options": [
+      "অধিক সক্রিয় ধাতু যেমন জিঙ্ক বা ম্যাগনেসিয়াম",
+      "কম সক্রিয় ধাতু যেমন তামা",
+      "প্লাস্টিকের পাইপ",
+      "অ্যাসিডের প্রলেপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q19",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "কোনো লবণের হাইড্রেশন শক্তি যদি তার ল্যাটিস বা জালক শক্তির চেয়ে কম হয় তবে লবণটির দ্রাব্যতা কেমন হবে?",
+    "options": [
+      "খুব কম বা অদ্রবণীয়",
+      "খুব বেশি দ্রবণীয়",
+      "অপরিবর্তিত থাকবে",
+      "উষ্ণতা বাড়লে দ্রবীভবন কমবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q20",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "চলমান গ্যালভানিক কোষ থেকে লবণ সেতু হঠাৎ সরিয়ে নিলে কোষের ভোল্টেজ বা বিভব কত হবে?",
+    "options": [
+      "০ ভোল্ট (তড়িৎ প্রবাহ বন্ধ হবে)",
+      "দ্বিগুণ হবে",
+      "১.৫ ভোল্ট স্থির থাকবে",
+      "ঋণাত্মক হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q21",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "রাসায়নিক বন্ধন গঠনের সময় পরমাণুগুলোর মধ্যে মূলত কোন বল কাজ করে?",
+    "options": [
+      "স্থির বৈদ্যুতিক আকর্ষণ বল",
+      "মহাকর্ষ বল",
+      "চৌম্বক বল",
+      "সবল নিউক্লীয় বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q22",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "একটি লেড স্টোরেজ ব্যাটারির (Lead Acid Battery) একটি একক কোষ বা সেল কত ভোল্ট বিদ্যুৎ উৎপন্ন করে?",
+    "options": [
+      "২.০ V",
+      "১.৫ V",
+      "৬.০ V",
+      "১২.০ V"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q23",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "হাইড্রোজেন ফুয়েল সেলে (Hydrogen Fuel Cell) রাসায়নিক বিক্রিয়ার ফলে বিদ্যুৎ ছাড়া প্রধানত কোন পদার্থটি উৎপন্ন হয়?",
+    "options": [
+      "বিশুদ্ধ পানি (H₂O)",
+      "কার্বন ডাই অক্সাইড (CO₂)",
+      "সালফার ডাই অক্সাইড (SO₂)",
+      "অ্যামোনিয়া গ্যাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q24",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "১ ক্যালরি (cal) এর সঠিক সংজ্ঞা কোনটি?",
+    "options": [
+      "১ গ্রাম পানির তাপমাত্রা ১°C বাড়াতে প্রয়োজনীয় তাপশক্তি",
+      "১ কেজি পানির তাপমাত্রা ১°C বাড়াতে প্রয়োজনীয় তাপশক্তি",
+      "১ গ্রাম লোহার তাপমাত্রা ১°C বাড়াতে প্রয়োজনীয় তাপশক্তি",
+      "১ মোল এসিড প্রশমিত করতে নির্গত তাপশক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-07-q25",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-07",
+    "text": "রাসায়নিক কোষে অ্যানোড ও ক্যাথোডের পৃষ্ঠতলের ক্ষেত্রফল বৃদ্ধি করলে কোষ বিক্রিয়ার হার ও তড়িৎ প্রবাহের কী ঘটে?",
+    "options": [
+      "তড়িৎ প্রবাহের মান বৃদ্ধি পায়",
+      "তড়িৎ প্রবাহ হ্রাস পায়",
+      "বিভব পার্থক্য শূন্য হয়",
+      "কোনো পরিবর্তন ঘটে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

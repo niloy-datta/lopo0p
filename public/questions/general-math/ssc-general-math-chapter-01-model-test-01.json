@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "নিচের কোনটি স্বাভাবিক সংখ্যা নয়?",
+    "options": [
+      "১",
+      "৭",
+      "০",
+      "১২"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "নিচের কোন সংখ্যাটি পূর্ণসংখ্যা কিন্তু স্বাভাবিক সংখ্যা নয়?",
+    "options": [
+      "৫",
+      "−৩",
+      "১",
+      "৯"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "০ কোন ধরনের সংখ্যা?",
+    "options": [
+      "স্বাভাবিক সংখ্যা",
+      "ধনাত্মক পূর্ণসংখ্যা",
+      "অঋণাত্মক পূর্ণসংখ্যা",
+      "ঋণাত্মক পূর্ণসংখ্যা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "নিচের কোনটি মূলদ সংখ্যা?",
+    "options": [
+      "√২",
+      "√৩",
+      "৫/৭",
+      "π"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "নিচের কোনটি অমূলদ সংখ্যা?",
+    "options": [
+      "০.২৫",
+      "১.৭৫",
+      "√১৬",
+      "√৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "০.৭৫ সংখ্যাটির ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "৩/৪",
+      "৪/৩",
+      "৭/৫",
+      "৭৫/১০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "২.৪ সংখ্যাটির ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "১২/৫",
+      "২৪/৫",
+      "৬/৫",
+      "৫/১২"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "১/৮ এর দশমিক রূপ কোনটি?",
+    "options": [
+      "০.১২৫",
+      "০.১২",
+      "০.১৮",
+      "০.৮"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "৩/৫ ও ২/৩ এর মধ্যে বড় কোনটি?",
+    "options": [
+      "৩/৫",
+      "২/৩",
+      "উভয় সমান",
+      "নির্ণয় করা যায় না"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "√৯ এর মান কোনটি?",
+    "options": [
+      "৯",
+      "৩",
+      "৪.৫",
+      "৮১"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "√২৫ কোন ধরনের সংখ্যা?",
+    "options": [
+      "অমূলদ সংখ্যা",
+      "মূলদ সংখ্যা",
+      "শুধুই ভগ্নাংশ",
+      "ঋণাত্মক সংখ্যা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "নিচের কোনটি সসীম দশমিক?",
+    "options": [
+      "১/৩",
+      "২/৭",
+      "৩/৮",
+      "৫/৬"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "নিচের কোনটি অসীম আবর্ত দশমিক?",
+    "options": [
+      "০.৫",
+      "০.২৫",
+      "০.১২৫",
+      "০.৩৩৩..."
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "০.৬৬৬... এর ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "১/৬",
+      "২/৩",
+      "৩/৫",
+      "৬/১০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "−৫ ও ২ এর মধ্যে পূর্ণসংখ্যা কয়টি?",
+    "options": [
+      "৫",
+      "৬",
+      "৭",
+      "৮"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "০.০৪ এর বর্গমূল কোনটি?",
+    "options": [
+      "০.২",
+      "০.০২",
+      "০.৪",
+      "২"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "৪/৯ সংখ্যাটি কোন শ্রেণির?",
+    "options": [
+      "অমূলদ",
+      "মূলদ",
+      "শুধুই পূর্ণসংখ্যা",
+      "স্বাভাবিক সংখ্যা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "√৪৯ − √৩৬ এর মান কত?",
+    "options": [
+      "১",
+      "৩",
+      "৭",
+      "১৩"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "০.২ ও ০.০২ এর যোগফল কত?",
+    "options": [
+      "০.০৪",
+      "০.২২",
+      "۰.۴",
+      "۲.۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "নিচের কোনটি ১ অপেক্ষা ছোট?",
+    "options": [
+      "۵/۴",
+      "۷/۶",
+      "۹/۸",
+      "۸/۹"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "۰.۱۲۳۴۵۶... যদি কোনো নির্দিষ্ট ধারা ছাড়া চলতে থাকে, তবে এটি কী ধরনের দশমিক?",
+    "options": [
+      "সসীম দশমিক",
+      "অসীম অনাবর্ত দশমিক",
+      "অসীম আবর্ত দশমিক",
+      "পূর্ণসংখ্যা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "নিচের কোন জোড়ার উভয় সংখ্যাই মূলদ?",
+    "options": [
+      "√۲, ۱/۲",
+      "π, ۳",
+      "۰.۵, −۷",
+      "√۳, √۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "۵/۱۰ এর সরল রূপ কোনটি?",
+    "options": [
+      "۱/۵",
+      "۱/۲",
+      "۲/۵",
+      "۵/۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "۱.۲۵ সংখ্যাটি কোন ভগ্নাংশের সমান?",
+    "options": [
+      "۵/۴",
+      "۴/۵",
+      "۲۵/۱۰",
+      "۱۲۵/۱۰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-01-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-01",
+    "text": "নিচের কোনটি বাস্তব সংখ্যা নয়?",
+    "options": [
+      "−۲",
+      "۰",
+      "√۷",
+      "কোনোটি নয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

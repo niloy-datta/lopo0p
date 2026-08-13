@@ -1,0 +1,212 @@
+{
+  "ssc-general-math-chapter-12-model-test-05-q01": {
+    "answer": "{0}",
+    "answerIndex": 0,
+    "explanation": "সমাধান সেট = {−2, 3}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q02": {
+    "answer": "4",
+    "answerIndex": 0,
+    "explanation": "সব পদ {1,2,3,4} — ৪টি।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q03": {
+    "answer": "{3,4}",
+    "answerIndex": 0,
+    "explanation": "A ∩ B = {3,4}।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q04": {
+    "answer": "128",
+    "answerIndex": 1,
+    "explanation": "পদ {0,1,2,3,4,5,6} — ৭টি, উপসেট 2⁷ = 128।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q05": {
+    "answer": "7",
+    "answerIndex": 1,
+    "explanation": "Q\\R = Q, প্রকৃত উপসেট = 2³−1 = 7।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q06": {
+    "answer": "{x : x মৌলিক সংখ্যা এবং x < 8}",
+    "answerIndex": 1,
+    "explanation": "৮-এর নিচের মৌলিক সংখ্যা।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q07": {
+    "answer": "5",
+    "answerIndex": 1,
+    "explanation": "2⁵ = 32, n(A) = 5।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q08": {
+    "answer": "A",
+    "answerIndex": 0,
+    "explanation": "A,B-এর ছেদ = A।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q09": {
+    "answer": "n(A) + n(B)",
+    "answerIndex": 0,
+    "explanation": "অসদৃশ হলে n(A∩B)=0।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q10": {
+    "answer": "10",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 10 + 8 − 2 = 16।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q11": {
+    "answer": "11",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 11 + 9 − 3 = 17।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q12": {
+    "answer": "4",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 12 + 10 − 4 = 18।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q13": {
+    "answer": "24",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 13 + 11 − 5 = 19।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q14": {
+    "answer": "6",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 14 + 12 − 6 = 20।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q15": {
+    "answer": "28",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 15 + 13 − 7 = 21।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q16": {
+    "answer": "2",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 16 + 14 − 2 = 28।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q17": {
+    "answer": "32",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 17 + 15 − 3 = 29।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q18": {
+    "answer": "18",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 18 + 16 − 4 = 30।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q19": {
+    "answer": "19",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 19 + 17 − 5 = 31।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q20": {
+    "answer": "38",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 20 + 18 − 6 = 32।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q21": {
+    "answer": "40",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 21 + 19 − 7 = 33।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q22": {
+    "answer": "2",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 22 + 8 − 2 = 28।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q23": {
+    "answer": "32",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 23 + 9 − 3 = 29।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q24": {
+    "answer": "34",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 24 + 10 − 4 = 30।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q25": {
+    "answer": "21",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 10 + 11 − 5 = 16।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q26": {
+    "answer": "11",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 11 + 12 − 6 = 17।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q27": {
+    "answer": "12",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 12 + 13 − 7 = 18।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q28": {
+    "answer": "27",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 13 + 14 − 2 = 25।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q29": {
+    "answer": "29",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 14 + 15 − 3 = 26।",
+    "topic": "সেট",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-12-model-test-05-q30": {
+    "answer": "15",
+    "answerIndex": 0,
+    "explanation": "n(A ∪ B) = 15 + 16 − 4 = 27।",
+    "topic": "সেট",
+    "difficulty": 1200
+  }
+}

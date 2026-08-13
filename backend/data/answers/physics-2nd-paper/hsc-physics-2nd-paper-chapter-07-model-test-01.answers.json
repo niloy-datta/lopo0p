@@ -1,0 +1,102 @@
+{
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q01": {
+    "correctOption": "ব্যতিচার",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q02": {
+    "correctOption": "চারগুণ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q03": {
+    "correctOption": "\\frac{\\lambda}{2} এর অযুগ্ম গুণিতক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q04": {
+    "correctOption": "সমবর্তন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q05": {
+    "correctOption": "আলোর পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "explanation": "অপটিক্যাল ফাইবার পূর্ণ অভ্যন্তরীণ প্রতিফলনের নীতিতে কাজ করে। কোরের প্রতিসরাঙ্ক > ক্ল্যাডিং এর প্রতিসরাঙ্ক।"
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q06": {
+    "correctOption": "λ এর পূর্ণ গুণিতক (nλ)",
+    "explanation": "গঠনমূলক ব্যতিচারে পথ পার্থক্য Δx = nλ (n = 0, 1, 2, ...)। ধ্বংসাত্মক ব্যতিচারে Δx = (2n+1)λ/2।"
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q07": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q08": {
+    "correctOption": "\\frac{1}{\\gamma}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q09": {
+    "correctOption": "3.6 \\times 10^6 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q10": {
+    "correctOption": "6 \\times 10^4 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q11": {
+    "correctOption": "90 Volt",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q12": {
+    "correctOption": "-0.2857",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q13": {
+    "correctOption": "\\frac{14}{3} m^3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q14": {
+    "correctOption": "3:5",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q15": {
+    "correctOption": "σ/ε₀",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q16": {
+    "correctOption": "1.32 \\times 10^8 ms^{-1}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q17": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q18": {
+    "correctOption": "1.5 V",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q19": {
+    "correctOption": "(√3/2) m₀c²",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q20": {
+    "correctOption": "230.4 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q21": {
+    "correctOption": "নিউট্রন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q22": {
+    "correctOption": "83",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q23": {
+    "correctOption": "5.6 fm",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q24": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-07-model-test-01-q25": {
+    "correctOption": "10⁻⁴ Ωm",
+    "explanation": ""
+  }
+}

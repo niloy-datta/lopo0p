@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q01",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "শুষ্ক কোষে (Dry Cell) তড়িৎ বিশ্লেষ্য পেস্ট বা মন্ড তৈরিতে অ্যামোনিয়াম ক্লোরাইড ছাড়া নিচের কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "জিঙ্ক ক্লোরাইড (ZnCl₂) ও চারকোল পাউডার",
+      "সোডিয়াম ক্লোরাইড ও বালি",
+      "সালফিউরিক এসিড ও স্টার্চ",
+      "কপার সালফেট ও পানি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q02",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "তড়িৎ রাসায়নিক কোষে বহিস্থ তারের মধ্য দিয়ে চার্জের আধান প্রবাহকে কী বলা হয়?",
+    "options": [
+      "তড়িৎ বা বিদ্যুৎ প্রবাহ",
+      "জারণ বিভব",
+      "তড়িৎ প্রলেপন",
+      "ব্যাপন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q03",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "ড্যানিয়েল কোষে বিদ্যুৎ উৎপন্ন হতে থাকলে ক্যাথোড কপার দণ্ডের ভরের কী পরিবর্তন ঘটে?",
+    "options": [
+      "কপার দণ্ডের ভর বৃদ্ধি পায়",
+      "কপার দণ্ড ক্ষয়প্রাপ্ত হয়ে ভর কমে",
+      "ভরের কোনো পরিবর্তন হয় না",
+      "দণ্ডটি জিঙ্কে পরিণত হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q04",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "বিক্রিয়ক ও উৎপাদের মোট বন্ধন শক্তি যথাক্রমে E₁ ও E₂ হলে তাপোৎপাদী বিক্রিয়ার সঠিক শর্ত কোনটি?",
+    "options": [
+      "E₁ < E₂",
+      "E₁ > E₂",
+      "E₁ = E₂",
+      "ΔH ধনাত্মক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q05",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "কার্বনের দহন বিক্রিয়ার সঠিক এনথালপি পরিবর্তন বা বিক্রিয়া তাপ কোনটি?",
+    "options": [
+      "ΔH = -৩৯৩.৫ kJ/mol",
+      "ΔH = +৩৯৩.৫ kJ/mol",
+      "ΔH = -৮৯০ kJ/mol",
+      "ΔH = -৫৭.৩৪ kJ/mol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q06",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "গ্যালভানিক কোষে অ্যানোড দণ্ডটি কোন মেরু হিসেবে কাজ করে?",
+    "options": [
+      "ঋণাত্মক মেরু",
+      "ধনাত্মক মেরু",
+      "নিরপেক্ষ মেরু",
+      "পরিবর্তনশীল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q07",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "পানির অণুর আকৃতি কেমন হয়?",
+    "options": [
+      "কৌণিক বা V-আকৃতির",
+      "সরলরৈখিক",
+      "চতুস্তলকীয়",
+      "ত্রিভুজাকার সমতলীয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q08",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "শুষ্ক কোষে চারকোল গুঁড়ো ব্যবহার করার অন্যতম প্রধান উদ্দেশ্য কী?",
+    "options": [
+      "পেস্টের মধ্য দিয়ে বিদ্যুৎ পরিবাহিতা সচল রাখা",
+      "কোষের ভোল্টেজ বাড়ানো",
+      "স্টার্চকে শুকাতে না দেওয়া",
+      "জিঙ্কের পাত পরিষ্কার রাখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q09",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "কপার সালফেট জলীয় দ্রবণে অধিক সক্রিয় ধাতুর পাত যেমন জিঙ্কের পাত যোগ করলে কী ধরনের বিক্রিয়া ঘটে?",
+    "options": [
+      "স্বতঃস্ফূর্ত প্রতিস্থাপন বিক্রিয়া",
+      "অস্বতঃস্ফূর্ত সংশ্লেষণ বিক্রিয়া",
+      "প্রশমন বিক্রিয়া",
+      "ভৌত বাষ্পীভবন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q10",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "ড্যানিয়েল কোষে ব্যবহৃত লবণ সেতুর প্রধান তরল উপাদান কোনটি?",
+    "options": [
+      "অ্যাগার-অ্যাগার জেল মিশ্রিত KCl এর সম্পৃক্ত দ্রবণ",
+      "সালফিউরিক এসিডের ঘন দ্রবণ",
+      "সোডিয়াম হাইড্রোক্সাইডের ঘন দ্রবণ",
+      "বিশুদ্ধ ডিস্টিল্ড ওয়াটার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q11",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "সৌর প্যানেল বা সৌর কোষে আলোক শক্তি সরাসরি কোন শক্তিতে রূপান্তরিত হয়?",
+    "options": [
+      "তড়িৎ শক্তি",
+      "রাসায়নিক শক্তি",
+      "শব্দ শক্তি",
+      "যান্ত্রিক শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q12",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "পানির তড়িৎ বিশ্লেষণে ক্যাথোডে ৪ মোল হাইড্রোজেন গ্যাস (H₂) উৎপন্ন করতে কত মোল ইলেকট্রন প্রয়োজন?",
+    "options": [
+      "৮ মোল ইলেকট্রন",
+      "৪ মোল ইলেকট্রন",
+      "২ মোল ইলেকট্রন",
+      "১৬ মোল ইলেকট্রন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q13",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "মিথেন (CH₄) অণুর সব কয়টি বন্ধন ভেঙে পরমাণুতে পরিণত করতে কত বন্ধন শক্তি প্রয়োজন?",
+    "options": [
+      "১৬৫৬ kJ/mol",
+      "৪১৪ kJ/mol",
+      "৮২৮ kJ/mol",
+      "২০৭০ kJ/mol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q14",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "তীব্র অম্ল ও তীব্র ক্ষারের প্রশমন বিক্রিয়ায় উৎপন্ন লবণ ও পানি ছাড়া আর কী তৈরি হয়?",
+    "options": [
+      "প্রশমন তাপ বা শক্তি",
+      "অক্সিজেন গ্যাস",
+      "হাইড্রোজেন গ্যাস",
+      "নতুন এসিড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "প্রশমন তাপের মান ধ্রুবক (-৫৭.৩৪ kJ) থাকার প্রধান শর্ত কোনটি?",
+    "options": [
+      "এসিড ও ক্ষার উভয়ই তীব্র হতে হবে",
+      "বিক্রিয়া পাত্রটি খোলা থাকতে হবে",
+      "এসিড ও ক্ষারের আয়তন সমান হতে হবে",
+      "দর্শক আয়নগুলো নিষ্ক্রিয় গ্যাস হতে হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "লেড-এসিড ব্যাটারি ক্ষয় বা ডিসচার্জ হওয়ার সময় কোন রাসায়নিক যৌগটি তৈরি হয়?",
+    "options": [
+      "লেড সালফেট (PbSO₄)",
+      "লেড ডাই অক্সাইড (PbO₂)",
+      "লেড হাইড্রোক্সাইড",
+      "লেড ক্লোরাইড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q17",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "রসায়নে বিক্রিয়া তাপ প্রকাশের প্রমাণ আন্তর্জাতিক একক কোনটি?",
+    "options": [
+      "কিলোজুল প্রতি মোল (kJ/mol)",
+      "ক্যালরি প্রতি গ্রাম (cal/g)",
+      "জুল (J)",
+      "ওয়াট (W)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q18",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "তাপহারী রাসায়নিক বিক্রিয়ার ক্ষেত্রে এনথালপির পরিবর্তন (ΔH) এর মান কেমন হয়?",
+    "options": [
+      "ধনাত্মক (ΔH > 0)",
+      "ঋণাত্মক (ΔH < 0)",
+      "শূন্য (ΔH = 0)",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q19",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "শুষ্ক কোষকে (Dry Cell) কেন এক প্রকার গ্যালভানিক কোষ বলা হয়?",
+    "options": [
+      "এতে রাসায়নিক শক্তি সরাসরি বিদ্যুৎ শক্তিতে রূপান্তরিত হয়",
+      "এটি পুনরায় চার্জ করা যায় না বলে",
+      "এতে পানির ব্যবহার নেই বলে",
+      "এটি আকারে ছোট বলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q20",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "লোহার চামচের ওপর তামার প্রলেপ দেওয়ার জন্য তামাখণ্ডকে কোথায় রাখতে হবে?",
+    "options": [
+      "অ্যানোডে",
+      "ক্যাথোডে",
+      "লবণ সেতুতে",
+      "তড়িৎ বিশ্লেষ্য পাত্রের নিচে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q21",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "তড়িৎ রাসায়নিক কোষে লবণ সেতু অপসারণ করলে তড়িৎ প্রবাহে কী ঘটবে?",
+    "options": [
+      "তড়িৎ প্রবাহ অবিলম্বে বন্ধ হয়ে যাবে",
+      "তড়িৎ প্রবাহ দ্বিগুণ বৃদ্ধি পাবে",
+      "জিঙ্কের পাত দ্রুত ক্ষয়প্রাপ্ত হবে",
+      "কোনো পরিবর্তন হবে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q22",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "মান বা প্রমাণ অবস্থার তাপমাত্রা ২৫°C কে কেলভিন স্কেলে রূপান্তর করলে কত হয়?",
+    "options": [
+      "২৯৮.১৫ K",
+      "২৭৩.১৫ K",
+      "৩৭৩.১৫ K",
+      "০ K"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q23",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "তড়িৎ বিশ্লেষ্য কোষে (Electrolytic Cell) অ্যানোডে কোন বিক্রিয়াটি ঘটে?",
+    "options": [
+      "জারণ বিক্রিয়া (ইলেকট্রন বর্জন)",
+      "বিজারণ বিক্রিয়া (ইলেকট্রন গ্রহণ)",
+      "প্রশমন বিক্রিয়া",
+      "কোনো বিক্রিয়া ঘটে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q24",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "৪.১৮৪ জুল (J) তাপশক্তি সমান কত ক্যালরি (cal)?",
+    "options": [
+      "১ cal",
+      "১০ cal",
+      "১০০০ cal",
+      "০.২৩৯ cal"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-08-q25",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-08",
+    "text": "রাসায়নিক বিক্রিয়ায় প্রচুর তাপ নির্গমনের (তাপোৎপাদী) ফলে বিক্রিয়া পাত্রের তাপমাত্রা কেমন হয়?",
+    "options": [
+      "বৃদ্ধি পায় (পাত্রটি গরম হয়)",
+      "হ্রাস পায় (পাত্রটি ঠান্ডা হয়)",
+      "অপরিবর্তিত থাকে",
+      "প্রথমে হ্রাস পায় পরে বৃদ্ধি পায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

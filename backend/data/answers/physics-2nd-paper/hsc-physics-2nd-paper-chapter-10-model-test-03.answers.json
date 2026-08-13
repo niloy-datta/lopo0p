@@ -1,0 +1,86 @@
+{
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q01": {
+    "correctOption": "1",
+    "explanation": "উত্তর: B) 1 — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q02": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "অনেক তত্ত্বের প্রয়োগে i, ii এবং iii সবকটি বিবেচ্য। — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q03": {
+    "correctOption": "AB̄ + ĀB",
+    "explanation": "XOR গেট: Y = A ⊕ B = A·B̄ + Ā·B। আউটপুট 1 হবে যখন ইনপুটদ্বয় ভিন্ন।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q04": {
+    "correctOption": "NAND",
+    "explanation": "প্রশ্নের প্রদত্ত বিকল্পগুলির মধ্যে NAND নিকটতম বিকল্প হিসেবে নেওয়া হয়েছে।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q05": {
+    "correctOption": "[বর্তনী ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q06": {
+    "correctOption": "NOR",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q07": {
+    "correctOption": "আইনস্টাইন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q08": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q09": {
+    "correctOption": "ক্যালসাইট",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q10": {
+    "correctOption": "মাইকেলসন-মর্লি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q11": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q12": {
+    "correctOption": "-১.৬ × ১০⁻¹৯ C",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q13": {
+    "correctOption": "ব্যতিচার",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q14": {
+    "correctOption": "চারগুণ হবে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q15": {
+    "correctOption": "চারগুণ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q16": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q17": {
+    "correctOption": "ইলেকট্রন নির্গত হবে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q18": {
+    "correctOption": "5 \\times 10^{14} Hz",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q19": {
+    "correctOption": "1 \\mu F",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q20": {
+    "correctOption": "লোহার ব্লকের অন্তঃস্থ শক্তি বৃদ্ধি পাবে।",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-03-q21": {
+    "correctOption": "তাপমাত্রার পার্থক্যের উপর",
+    "explanation": ""
+  }
+}

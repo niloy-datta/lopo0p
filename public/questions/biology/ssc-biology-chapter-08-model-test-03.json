@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "ADH-এর কাজ কী?",
+    "options": [
+      "পানি পুনঃশোষণ",
+      "অক্সিজেন",
+      "প্রোটিন",
+      "গ্লুকোজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "রেচন তাপ নিয়ন্ত্রণে কী?",
+    "options": [
+      "পরিপাক",
+      "সালোকসংশ্লেষণ",
+      "ঘাম",
+      "শ্বাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "মানব রেচন পদার্থ কী?",
+    "options": [
+      "ইউরিয়া",
+      "হিমোগ্লোবিন",
+      "অক্সিজেন",
+      "গ্লুকোজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "হেনলির লুপ (Loop of Henle) নেফ্রনের কোন অংশে অবস্থিত?",
+    "options": [
+      "রেনাল টিউবিউল",
+      "রেনাল কর্পাসল",
+      "সংগ্রাহী নালিকা",
+      "গলোমেরুলাস"
+    ],
+    "image": "/images/quiz/bio-nephron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "রেচনে অতিরিক্ত পানি বের হয় কোথায়?",
+    "options": [
+      "ঘামে",
+      "মূত্রে",
+      "শ্বাসে",
+      "মলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "ইউরিক এসিড বেশি কী?",
+    "options": [
+      "মানুষে",
+      "সব জীবে",
+      "মাছে",
+      "পাখিতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "মূত্রনালি সংক্রমণ কী?",
+    "options": [
+      "বেরিবেরি",
+      "রিকেটস",
+      "UTI",
+      "স্কার্ভি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "মূত্রের রং হলুদ কারণ কী?",
+    "options": [
+      "হিমোগ্লোবিন",
+      "ইউরোক্রোম",
+      "মেলানিন",
+      "ক্লোরোফিল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "রেচন গতি কমে কী?",
+    "options": [
+      "তৃষ্ণায়",
+      "গরমে",
+      "ব্যায়ামে",
+      "নিঃশেষণে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "রেচনে অ্যামোনিয়া রূপান্তর কী?",
+    "options": [
+      "ইউরিয়ায়",
+      "গ্লুকোজে",
+      "DNA-তে",
+      "ATP-তে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "রেচনের প্রধান অঙ্গ কী?",
+    "options": [
+      "পাকস্থলী",
+      "কিডনি",
+      "ফুসফুস",
+      "হৃৎপিণ্দ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "বৃক্কের (Kidney) গঠন ও কাজের একককে কী বলা হয়?",
+    "options": [
+      "ভিলাই",
+      "অ্যালভিওলাস",
+      "নিউরন",
+      "নেফ্রন"
+    ],
+    "image": "/images/quiz/bio-nephron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "নেফ্রনের গ্লোমেরুলাসে কী ঘটে?",
+    "options": [
+      "গ্যাস বিনিময়",
+      "সালোকসংশ্লেষণ",
+      "রক্ত পরিশোধন শুরু",
+      "প্রোটিন সংশ্লেষণ"
+    ],
+    "image": "/images/quiz/bio-nephron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "মূত্রাশয়ের কাজ কী?",
+    "options": [
+      "রক্ত সংরক্ষণ",
+      "খাদ্য সংরক্ষণ",
+      "গ্যাস সংরক্ষণ",
+      "মূত্র সংরক্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "কিডনির কাজ?",
+    "options": [
+      "পরিপাক",
+      "রক্ত পরিশোধন ও মূত্র",
+      "সমন্বয়",
+      "শ্বাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "মূত্রাশয়ের স্থিতি ধারণ ক্ষমতা প্রায় কত?",
+    "options": [
+      "২ লিটার",
+      "৪০০-৫০০ মিলি",
+      "৫ লিটার",
+      "১০ মিলি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "কিডনি ব্যর্থ হলে?",
+    "options": [
+      "পরিপাক বন্ধ",
+      "ডায়ালাইসিস দরকার",
+      "শ্বাস বন্ধ",
+      "চলন বন্ধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "নেফ্রনের কাজ কী?",
+    "options": [
+      "গ্যাস বিনিময়",
+      "প্রোটিন তৈরি",
+      "রক্ত পরিশোধন",
+      "শক্তি উৎপাদন"
+    ],
+    "image": "/images/quiz/bio-nephron.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "মূত্র তৈরির সঠিক প্রধান ধাপসমূহের ক্রম কোনটি?",
+    "options": [
+      "পুনঃশোষণ → পরিস্রবণ → ক্ষরণ",
+      "পরিস্রবণ → ক্ষরণ → পুনঃশোষণ",
+      "পরিস্রবণ → পুনঃশোষণ → ক্ষরণ",
+      "ক্ষরণ → পরিস্রবণ → পুনঃশোষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "ADH (অ্যান্টিডাইউরেটিক হরমোন) কমলে মূত্রে কী হয়?",
+    "options": [
+      "প্রোটিন বাড়ে",
+      "পানির পরিমাণ বাড়ে",
+      "গ্লুকোজ বাড়ে",
+      "পানি কমে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "কোনটির কারণে মানুষের মূত্রের রঙ খড় বা হালকা হলুদ দেখায়?",
+    "options": [
+      "মেলানিন",
+      "বিলিরুবিন",
+      "ইউরোক্রোম",
+      "হিমোগ্লোবিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "ইউরিয়া তৈরি হয় কী?",
+    "options": [
+      "লিভারে",
+      "পাকস্থলীতে",
+      "কিডনিতে",
+      "ফুসফুসে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "লিভার রেচনে ভূমিকা কী?",
+    "options": [
+      "প্রোটিন হজম",
+      "অক্সিজেন তৈরি",
+      "মূত্র তৈরি",
+      "ইউরিয়া তৈরি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "কিডনি দুটি?",
+    "options": [
+      "মস্তিষ্কে",
+      "পৃষ্ঠদেশীয় অবস্থান",
+      "ফুসফুসে",
+      "বক্ষে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-08-model-test-03-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-08-model-test-03",
+    "text": "মূত্রে গ্লুকোজ থাকলে কী?",
+    "options": [
+      "রিকেটস",
+      "স্বাভাবিক",
+      "স্কার্ভি",
+      "ডায়াবেটিস সন্দেহ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

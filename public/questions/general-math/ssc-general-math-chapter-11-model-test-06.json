@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "২ : ৩ = ৮ : x হলে x=?",
+    "options": [
+      "১০",
+      "১২",
+      "১৪",
+      "১৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "a:b=3:4, b=20 হলে a=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "৫ : ৭ :: ১৫ : ?",
+    "options": [
+      "১৭",
+      "১৯",
+      "২১",
+      "২৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "অনুপাত ২:৫ এর সমানুপাত?",
+    "options": [
+      "২/৫",
+      "৫/২",
+      "২+৫",
+      "৫−২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "x:y=4:5, y=25 হলে x=?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "১২ : ১৮ সরল রূপ?",
+    "options": [
+      "২:৩",
+      "৩:২",
+      "৪:৬",
+      "৬:৯"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "তিন সংখ্যার অনুপাত ২:৩:৫, মোট ৪০ হলে মধ্যটি?",
+    "options": [
+      "১০",
+      "১২",
+      "১৫",
+      "২০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "a:b=2:3, b:c=6:5 হলে a:c=?",
+    "options": [
+      "2:5",
+      "4:5",
+      "3:5",
+      "5:4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "২০% = অনুপাতে?",
+    "options": [
+      "১:৪",
+      "১:৫",
+      "১:৬",
+      "২:৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "৩ জনে ৬০০ টাকা ২:১ অনুপাতে ভাগ করলে বড় অংশ?",
+    "options": [
+      "২০০",
+      "৩০০",
+      "৪০০",
+      "৫০০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "৪ : ৯ = ১২ : ?",
+    "options": [
+      "১৮",
+      "২৪",
+      "২৭",
+      "৩৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "সমানুপাতের মধ্যপদ?",
+    "options": [
+      "প্রথম×চতুর্থ",
+      "দ্বিতীয়×তৃতীয়",
+      "প্রথম+চতুর্থ",
+      "দ্বিতীয়−তৃতীয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "৫:৮ :: ১৫:x, x=?",
+    "options": [
+      "২০",
+      "২২",
+      "২৪",
+      "২৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "০.২৫ : ০.৫০ = ?",
+    "options": [
+      "১:২",
+      "২:১",
+      "১:৪",
+      "৪:১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "a,b,c অনুপাত ১:২:৩, a=৫ হলে c=?",
+    "options": [
+      "১০",
+      "১২",
+      "১৫",
+      "১৮"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "অনুপাতের প্রথম রাশি ৮, দ্বিতীয় ১২; ১৬ হলে দ্বিতীয়?",
+    "options": [
+      "২০",
+      "২২",
+      "২৪",
+      "২৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "৩/৫ : ৬/৭ = ?",
+    "options": [
+      "৭:১০",
+      "১০:৭",
+      "৩:৬",
+      "৫:৭"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "দুই সংখ্যার অনুপাত ৫:৩, যোগফল ৪০ হলে বড়টি?",
+    "options": [
+      "১৫",
+      "২০",
+      "২৫",
+      "৩০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "১ কিমি : ১০০০ মি = ?",
+    "options": [
+      "১:১",
+      "১:১০",
+      "১০:১",
+      "১০০:১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "x:y=7:9, x+y=32 হলে x=?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "৪০% = ?",
+    "options": [
+      "২:৫",
+      "২:৩",
+      "৩:৫",
+      "৪:৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "a:b=1:4, a=7 হলে b=?",
+    "options": [
+      "14",
+      "21",
+      "28",
+      "35"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "৬ : ১৫ সরল?",
+    "options": [
+      "২:৫",
+      "৩:৫",
+      "১:৩",
+      "৫:২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "তিনটি সংখ্যা ২,৩,৫ অনুপাতে; ৫০ হলে প্রথম?",
+    "options": [
+      "১০",
+      "১২",
+      "১৫",
+      "২০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "১.৫ : ২.৫ = ?",
+    "options": [
+      "৩:৫",
+      "৫:৩",
+      "১৫:২৫",
+      "২:৩"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "a:b:c=2:3:4, b=15 হলে a+c=?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "৮০ : ১০০ = ?",
+    "options": [
+      "৪:৫",
+      "৫:৪",
+      "৮:১০",
+      "২:৩"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "x ৪ এর সমানুপাত ১২ হলে x=?",
+    "options": [
+      "৩",
+      "৪",
+      "৬",
+      "৮"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "৫০ টাকা ৩:২ ভাগে প্রথম পাবে?",
+    "options": [
+      "২০",
+      "২৫",
+      "৩০",
+      "৩৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-11-model-test-06-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-11-model-test-06",
+    "text": "২/৩ ও ৮/১২ সম্পর্কে?",
+    "options": [
+      "সমান",
+      "২/৩ বড়",
+      "৮/১২ বড়",
+      "অসম্ভব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 10 cm। মেরু হতে বক্রতার কেন্দ্রের দিকে প্রধান অক্ষের উপর 20 cm দূরত্বে একটি লক্ষ্যবস্তু রাখা হলে তার বিবর্ধন কত হবে?",
+    "options": [
+      "2",
+      "1.5",
+      "1",
+      "0.5"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q01.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "উত্তল আয়নায় সৃষ্ট প্রতিবিম্ব- i. বিবর্ধিত ii. সোজা iii. পর্দায় ফেলা যায় নিচের কোনটি সঠিক?",
+    "options": [
+      "i",
+      "ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "চিত্রে CO = ফোকাস দূরত্ব, BO = বক্রতার ব্যাসার্ধ। নিচের কোন বিন্দুতে বস্তু স্থাপন করলে বাস্তব ও অবাস্তব উভয় প্রকার বিম্ব পাওয়া যাবে? [A–B–C–D–O বিন্দু বরাবর অবতল দর্পণ]",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "image": "/images/quiz/ssc-concave-mirror.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "অবতল দর্পণে অবাস্তব প্রতিবিম্ব পেতে হলে লক্ষ্যবস্তুকে কোথায় রাখতে হবে?",
+    "options": [
+      "3F ও ∞ এর মাঝে",
+      "F ও 2F এর মাঝে",
+      "P ও F এর মাঝে",
+      "2F ও ∞ এর মাঝে"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q04.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "কোনো একটি দর্পণের সামনে রাখা বস্তুর প্রতিবিম্ব যদি বস্তুর সমান আকারের হয়, তবে দর্পণটি-",
+    "options": [
+      "উত্তল",
+      "অবতল",
+      "সমতল",
+      "গোলীয়"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q05.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 16 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+    "options": [
+      "8.0 সেমি",
+      "64 সেমি",
+      "32 সেমি",
+      "16 সেমি"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q06.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "১৭। বিবর্ধন সবসময় $m = 1$ হয় কোন দর্পণের ক্ষেত্রে?",
+    "options": [
+      "উত্তল দর্পণ",
+      "অবতল দর্পণ",
+      "সমতল দর্পণ",
+      "উত্তল লেন্স"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q07.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "পাহাড়ি রাস্তার বাঁকে কত ডিগ্রী কোণে সমতল দর্পণ লাগানো হয়?",
+    "options": [
+      "\\(0^{\\circ}\\)",
+      "\\(30^{\\circ}\\)",
+      "\\(45^{\\circ}\\)",
+      "\\(90^{\\circ}\\)"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q08.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "অবতল লেন্সে গঠিত প্রতিবিম্ব সর্বদা—",
+    "options": [
+      "বাস্তব ও উল্টো",
+      "বাস্তব ও সোজা",
+      "অবাস্তব ও সোজা",
+      "অবাস্তব ও উল্টো"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q09.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "বস্তুকে অবতল দর্পণের প্রধান ফোকাসে রাখলে প্রতিবিম্ব কোথায় গঠিত হবে?",
+    "options": [
+      "মেরুতে",
+      "ফোকাসে",
+      "বক্রতার কেন্দ্রে",
+      "অসীমে"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q10.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "উত্তল লেন্সে বস্তু 2f দূরত্বে থাকলে প্রতিবিম্ব কোথায় গঠিত হবে?",
+    "options": [
+      "f-এ",
+      "2f-এ সমান আকারে",
+      "অসীমে",
+      "লেন্সের একই পাশে"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q11.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "সৃষ্ট প্রতিবিম্বটি হবে-",
+    "options": [
+      "বিবর্ধিত, উল্টো",
+      "বিবর্ধিত, সোজা",
+      "খর্বিত, সোজা",
+      "খর্বিত, উল্টো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "সাধারণ আয়নায় কিংবা দর্পণে প্রতিবিম্ব গঠিত হয়—",
+    "options": [
+      "বাস্তব",
+      "উল্টো",
+      "সোজা",
+      "বস্তু থেকে বড়"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q13.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "আলোর প্রতিফলনে আপতন কোণ ও প্রতিফলন কোণ—",
+    "options": [
+      "সমান",
+      "অসমান",
+      "যোগ 90°",
+      "যোগ 180°"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 10 cm হলে বক্রতার ব্যাসার্ধ কত?",
+    "options": [
+      "20 cm",
+      "5 cm",
+      "10 cm",
+      "40 cm"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q15.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "আয়নায় প্রতিবিম্ব কোন ধরনের?",
+    "options": [
+      "ভার্চুয়াল",
+      "বাস্তব",
+      "উল্টো বাস্তব",
+      "কোনোটিই নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "উদ্দীপক: চিত্রে $2\\text{PC} = 3\\text{PM}$। উপরের আয়নাটি— i. শুধু বাস্তব প্রতিবিম্ব তৈরি করে ii. M বিন্দুতে প্রতিবিম্বের দৈর্ঘ্য বস্তুর দৈর্ঘ্যের চেয়ে বড় হবে iii. $30\\text{ cm}$ দূরে লক্ষ্যবস্তু রাখলে সমান আকারের প্রতিবিম্ব তৈরি করে নিচের কোনটি সঠিক? ii. M বিন্দুটি মেরু থেকে $20\\text{ cm}$ দূরে অবস্থিত। যেহেতু $f = 15\\text{ cm}$ এবং $R = 30\\text{ cm}$, লক্ষ্যবস্তুটি প্রধান ফোকাস ও বক্রতার কেন্দ্রের মাঝে অবস্থিত। এমতাবস্থায় প্রতিবিম্ব বিবর্ধিত (বস্তুর চেয়ে বড়) হয়। তাই এটি সঠিক। iii. $30\\text{ cm}$ অর্থাৎ বক্রতার কেন্দ্রে লক্ষ্যবস্তু রাখলে প্রতিবিম্ব বক্রতার কেন্দ্রেই গঠিত হয় এবং এর আকার লক্ষ্যবস্তুর সমান হয়। তাই এটি সঠিক।",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/ssc-concave-mirror.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "আপতন কোণ ও সংকট কোণের মান সমান হলে প্রতিসৃত রশ্মি ও বিভেদ তলের মধ্যবর্তী কোণ কত?",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "0°"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "প্রতিবিম্বের আকৃতি কেমন হবে?",
+    "options": [
+      "বস্তুর এক-তৃতীয়াংশ",
+      "বস্তুর তিনগুণ",
+      "বস্তুর অর্ধেক",
+      "বস্তুর দ্বিগুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "অবতল দর্পণে রৈখিক বিবর্ধন 1 পেতে হলে বস্তুকে কোথায় স্থাপন করতে হবে?",
+    "options": [
+      "অসীমে",
+      "অসীম ও বক্রতার কেন্দ্রের মধ্যে",
+      "বক্রতার কেন্দ্রে",
+      "প্রধান ফোকাসে"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q20.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "নিচের কোনটি বাস্তব প্রতিবিম্ব তৈরি করতে পারে?",
+    "options": [
+      "উত্তল লেন্স এবং অবতল দর্পণ",
+      "উত্তল দর্পণ এবং সমতল দর্পণ",
+      "অবতল দর্পণ এবং অবতল লেন্স",
+      "অবতল দর্পণ এবং উত্তল দর্পণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "একটি উত্তল আয়নার বক্রতার ব্যাসার্ধ 6cm। আয়নার 2cm সামনে একটি লক্ষ্যবস্তু রাখলে এর প্রতিবিম্ব হবে- i. অবাস্তব ও সোজা ii. বাস্তব ও উল্টো iii. তিনগুণ বর্ধিত নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "সমতল আয়নায় সৃষ্ট বিম্ব অসদ ও — i. সোজা ii. খর্বিত iii. বিবর্ধিত নিচের কোনটি সঠিক?",
+    "options": [
+      "i",
+      "ii",
+      "iii",
+      "i ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "লক্ষ্যবস্তু প্রধান ফোকাস ও বক্রতার কেন্দ্রের মাঝে হলে অবতল দর্পণে সৃষ্ট প্রতিবিম্ব— i. আকারে লক্ষ্যবস্তু অপেক্ষা বড় হবে ii. পর্দায় গঠন করা যাবে iii. উল্টো হবে",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-08-model-test-05-q24.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-08-model-test-05-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-08-model-test-05",
+    "text": "A ও B মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে 1.7 ও 2.2। B মাধ্যম থেকে A মাধ্যমে আলো আপতিত হলে— i. একই সময়ে A মাধ্যমে আলো বেশি দূর যাবে ii. সংকট কোণ হবে 50.6° iii. আপতন কোণ অপেক্ষা প্রতিসরণ কোণ ছোট হবে",
+    "options": [
+      "i",
+      "ii",
+      "i ও ii",
+      "ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

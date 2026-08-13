@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q01",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "ল্যাবের কাচের যন্ত্রে জমে থাকা তেলজাতীয়/জৈব ময়লা পরিষ্কারের জন্য কোন মিশ্রণটি সবচেয়ে কার্যকর?",
+    "options": [
+      "NaCl দ্রবণ ও পানি",
+      "K₂Cr₂O₇ ও গাঢ় H₂SO₄",
+      "NaOH ও HCl",
+      "CaCO₃ ও পানি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q02",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "কোনো শক্তিস্তরের প্রধান কোয়ান্টাম সংখ্যা n=4 হলে ঐ স্তরে মোট কতটি অরবিটাল থাকতে পারে?",
+    "options": [
+      "৪টি",
+      "৮টি",
+      "১৬টি",
+      "৩২টি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q03",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "Al³⁺ আয়ন শনাক্ত করতে NaOH দ্রবণ যোগ করলে কী ধরনের অধঃক্ষেপ দেখা যায়?",
+    "options": [
+      "নীল অধঃক্ষেপ",
+      "সাদা জেলির মতো অধঃক্ষেপ",
+      "বাদামি অধঃক্ষেপ",
+      "হলুদ অধঃক্ষেপ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q04",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "নিচের কোন ক্যাটায়নটির আকার ছোট এবং চার্জ বেশি হওয়ায় পোলারাইজিং ক্ষমতা সবচেয়ে বেশি?",
+    "options": [
+      "K⁺",
+      "Na⁺",
+      "Mg²⁺",
+      "Al³⁺"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q05",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "পানির অণুতে অক্সিজেনের চারপাশে ইলেকট্রন জোড়ের বিন্যাসের কারণে অণুর আকৃতি কেমন হয়?",
+    "options": [
+      "রৈখিক, 180°",
+      "কৌণিক, প্রায় 104.5°",
+      "সমতলীয় ত্রিকোণাকার, 120°",
+      "চতুস্তলকীয়, 109.5°"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q06",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "কোনো সাম্য বিক্রিয়ার Kc মান পরিবর্তনের প্রধান কারণ কোনটি?",
+    "options": [
+      "বিক্রিয়কের পরিমাণ",
+      "তাপমাত্রা",
+      "প্রভাবকের উপস্থিতি",
+      "পাত্রের আয়তন"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q07",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "তাপমাত্রা 25°C থেকে 60°C করলে বিশুদ্ধ পানির pH সম্পর্কে কোনটি সঠিক?",
+    "options": [
+      "pH ৭-এর নিচে নেমে যায়",
+      "pH ৭-এর উপরে যায়",
+      "pH সবসময় ৭ থাকে",
+      "pH শূন্য হয়ে যায়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q08",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "ভিনেগার খাদ্য সংরক্ষণে কার্যকর কারণ এটি—",
+    "options": [
+      "খাদ্যের রং পরিবর্তন করে",
+      "খাদ্যের pH কমিয়ে জীবাণুর বৃদ্ধি বাধা দেয়",
+      "খাদ্যের পানি সম্পূর্ণ সরিয়ে দেয়",
+      "খাদ্যের চর্বি ভেঙে ফেলে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q09",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "শিখা পরীক্ষার আগে ধাতব লবণে গাঢ় HCl যোগ করার উদ্দেশ্য কী?",
+    "options": [
+      "ধাতুকে উড়নশীল ক্লোরাইডে পরিণত করা",
+      "শিখাকে ঠান্ডা করা",
+      "ধাতুর ভর বাড়ানো",
+      "লবণকে অদ্রবণীয় করা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q10",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "আউফবাউ নীতি অনুযায়ী নিচের কোন শক্তিক্রমটি সঠিক?",
+    "options": [
+      "3d < 4s < 4p",
+      "4s < 3d < 4p",
+      "4p < 4s < 3d",
+      "3d < 4p < 4s"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q11",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "কাচের প্রধান উপাদান SiO₂ কোন এসিডের সাথে বিক্রিয়া করে ক্ষয়প্রাপ্ত হয়?",
+    "options": [
+      "HCl",
+      "HNO₃",
+      "HF",
+      "H₂SO₄"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q12",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "ক্রোমিয়াম পরমাণুর ব্যতিক্রমী ইলেকট্রন বিন্যাস কোনটি?",
+    "options": [
+      "3d⁴4s²",
+      "3d⁵4s¹",
+      "3d⁶4s⁰",
+      "3d³4s³"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q13",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "AgCl-এর Ksp = 1.69 × 10⁻¹⁰ হলে সম্পৃক্ত দ্রবণে Ag⁺-এর ঘনমাত্রা কত হবে?",
+    "options": [
+      "1.3 × 10⁻⁵ M",
+      "1.69 × 10⁻¹⁰ M",
+      "2.6 × 10⁻⁵ M",
+      "1.0 × 10⁻¹⁰ M"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q14",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "একই অরবিটালে দুইটি ইলেকট্রন থাকলে তাদের স্পিন বিপরীত হয়—এটি কোন নীতির ফল?",
+    "options": [
+      "হুন্ডের নীতি",
+      "পাউলির বর্জন নীতি",
+      "আউফবাউ নীতি",
+      "ডি-ব্রগলি নীতি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q15",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "0.005 M Ca(OH)₂ দ্রবণের pH কত?",
+    "options": [
+      "2",
+      "7",
+      "12",
+      "11"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q16",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "সম্পৃক্ত NaCl দ্রবণে HCl গ্যাস প্রবাহিত করলে NaCl তলানি পড়ে কেন?",
+    "options": [
+      "সমআয়ন প্রভাবের কারণে",
+      "তাপ বৃদ্ধির কারণে",
+      "দ্রবণের রং পরিবর্তনের কারণে",
+      "NaCl ভেঙে যাওয়ার কারণে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q17",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "নিচের কোন অণুতে কেন্দ্রীয়/বন্ধনকারী পরমাণুর তুলনায় মোট lone pair সংখ্যা সবচেয়ে বেশি?",
+    "options": [
+      "CH₄",
+      "NH₃",
+      "H₂O",
+      "HF"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q18",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "হেসের সূত্র মূলত কোন ধারণার ওপর নির্ভর করে?",
+    "options": [
+      "তাপমাত্রার পরিবর্তন",
+      "শক্তির সংরক্ষণশীলতা",
+      "গ্যাসের চাপ",
+      "ভরের বৃদ্ধি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q19",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "মিল্ক অব ম্যাগনেসিয়া কোন যৌগের সাসপেনশন হিসেবে ব্যবহৃত হয়?",
+    "options": [
+      "MgCl₂",
+      "MgSO₄",
+      "Mg(OH)₂",
+      "MgCO₃"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q20",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "d-ব্লকের সব মৌল অবস্থান্তর মৌল নয়—এর সবচেয়ে উপযুক্ত উদাহরণ কোনটি?",
+    "options": [
+      "Fe",
+      "Cr",
+      "Zn",
+      "Mn"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q21",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "[উদ্দীপক ১]\nউদ্দীপক: একটি গ্যাসীয় সাম্য বিক্রিয়া:\nN₂(g) + 3H₂(g) ⇌ 2NH₃(g) + ΔH\nবিক্রিয়াটি তাপ উৎপন্নকারী।\n\nচাপ বাড়ালে সাম্যাবস্থার দিক কোনদিকে সরে যাবে?",
+    "options": [
+      "উৎপাদের দিকে",
+      "বিক্রিয়কের দিকে",
+      "কোনো পরিবর্তন হবে না",
+      "Kc কমে যাবে"
+    ],
+    "image": "/images/quiz/premium/hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q21.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q22",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "[উদ্দীপক ১] উপরোক্ত বিক্রিয়ার জন্য Kp ও Kc-এর সম্পর্ক কোনটি?",
+    "options": [
+      "Kp = Kc(RT)²",
+      "Kp = Kc(RT)⁻²",
+      "Kp = Kc(RT)",
+      "Kp = Kc"
+    ],
+    "image": "/images/quiz/premium/hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q22.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q23",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "নিচের কোন বিকিরণের তরঙ্গদৈর্ঘ্য সবচেয়ে কম?",
+    "options": [
+      "রেডিও তরঙ্গ",
+      "অবলোহিত রশ্মি",
+      "দৃশ্যমান আলো",
+      "এক্স-রে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q24",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "H₂CO₃/HCO₃⁻ বাফার সিস্টেম মানবদেহে প্রধানত কোন তরলের pH নিয়ন্ত্রণ করে?",
+    "options": [
+      "রক্ত",
+      "পাকস্থলীর রস",
+      "ঘাম",
+      "চোখের পানি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05-q25",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-05",
+    "text": "কোনো রাসায়নিক বোতলে \"Flammable\" চিহ্ন থাকলে সেটি কোথায় রাখা অনিরাপদ?",
+    "options": [
+      "ঠান্ডা স্থানে",
+      "পানির কাছাকাছি",
+      "আগুন বা তাপের উৎসের কাছে",
+      "লেবেলযুক্ত তাকের মধ্যে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

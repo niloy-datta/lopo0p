@@ -1,0 +1,90 @@
+{
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q01": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q02": {
+    "correctOption": "শূন্য",
+    "explanation": "F = qvB sinθ। সমান্তরালে চললে θ = 0°, তাই sin 0° = 0, ফলে বল শূন্য।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q03": {
+    "correctOption": "টরয়েডের কোর এর বাইরের ব্যাসার্ধ",
+    "explanation": "টরয়েডের ভেতরে B = μ₀nI, যা কোরের ব্যাসার্ধের ওপর নির্ভর করে না।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q04": {
+    "correctOption": "দ্রুতগামী ইলেকট্রন",
+    "explanation": "β⁻ কণা হলো দ্রুতগামী ইলেকট্রন। α কণা হিলিয়াম নিউক্লিয়াস, γ রশ্মি তড়িৎচুম্বকীয় তরঙ্গ।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q05": {
+    "correctOption": "হেনরি (Henry)",
+    "explanation": "ইন্ডাকট্যান্সের একক হেনরি (H)। ওয়েবার চৌম্বক ফ্লাক্সের, টেসলা চৌম্বকক্ষেত্রের, ফ্যারাড ধারকত্বের একক।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q06": {
+    "correctOption": "108 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q07": {
+    "correctOption": "144 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q08": {
+    "correctOption": "4\\Omega",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q09": {
+    "correctOption": "I = \\frac{2E}{R+\\frac{r}{2}}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q10": {
+    "correctOption": "0.94",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q11": {
+    "correctOption": "49",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q12": {
+    "correctOption": "0^\\circ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q13": {
+    "correctOption": "\\frac{\\lambda}{4}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q14": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q15": {
+    "correctOption": "আপেক্ষিক রোধ একই থাকে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q16": {
+    "correctOption": "\\frac{1}{8}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q17": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q18": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q19": {
+    "correctOption": "3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q20": {
+    "correctOption": "33.33%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q21": {
+    "correctOption": "10^{-10} m",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-06-q22": {
+    "correctOption": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+    "explanation": ""
+  }
+}

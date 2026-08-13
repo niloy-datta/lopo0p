@@ -1,0 +1,78 @@
+{
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q01": {
+    "correctOption": "আয়তন",
+    "explanation": "গোলকের পরিধি এবং কেন্দ্রের তথ্য আয়তন নির্ধারণের সাথে সম্পর্কিত।"
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q02": {
+    "correctOption": "তাপীয় প্রক্রিয়া",
+    "explanation": "প্রদত্ত বিবরণ অনুযায়ী এটি একটি তাপীয় প্রক্রিয়া হিসেবে ধরা হয়েছে।"
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q03": {
+    "correctOption": "সমচতুর্ভুজ",
+    "explanation": "টেন ও প্রক্ষেপণের সম্মিলিত প্রয়োগ সমচতুর্ভুজ আকৃতি তৈরি করতে পারে।"
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q04": {
+    "correctOption": "L2TI",
+    "explanation": "তাপীয় শক্তি/শক্তির মাত্রা L^2 M T^-2 হলেও দেওয়া বিকল্পের মধ্যে সবচেয়ে কাছেরটি L2TI।"
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q05": {
+    "correctOption": "তাপমাত্রা",
+    "explanation": "তাপমাত্রা একটি স্কেলার পরিমাণ, তাই এটি অপূর্ব পরিমাণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q06": {
+    "correctOption": "\\frac{1}{\\gamma}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q07": {
+    "correctOption": "-0.2857",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q08": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q09": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q10": {
+    "correctOption": "3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q11": {
+    "correctOption": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q12": {
+    "correctOption": "এনট্রপি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q13": {
+    "correctOption": "জুল",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q14": {
+    "correctOption": "থার্মোমিটার",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q15": {
+    "correctOption": "রুদ্ধতাপীয় পরিবর্তন বয়েলের সূত্র মেনে চলে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q16": {
+    "correctOption": "তাপমাত্রা",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q17": {
+    "correctOption": "100%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q18": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-01-model-test-08-q19": {
+    "correctOption": "(\\frac{dp}{dv})_{রুদ্ধতাপীয়} = \\gamma \\times (\\frac{dp}{dv})_{সমোষ্ণ}",
+    "explanation": ""
+  }
+}

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "model-test-51-capstone-final-q01",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "C-14-এ নিউট্রন সংখ্যা কত (Z=৬, A=১৪)?",
+    "options": [
+      "12",
+      "6",
+      "8",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q02",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "1 mol CO2 এ O2 অংশের ভর (g)?",
+    "options": [
+      "12 g",
+      "16 g",
+      "32 g",
+      "44 g"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q03",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "৩য় পর্যায় ও গ্রুপ ২-এর মৌলের উদাহরণ কোনটি?",
+    "options": [
+      "Na",
+      "Al",
+      "Mg",
+      "Ca"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q04",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "হ্যাবার উৎপ্রেরক বিষাক্ত হয় প্রায়ই কোনটির দ্বারা?",
+    "options": [
+      "O2",
+      "CO",
+      "As/S contaminants",
+      "N2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q05",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "NaCl পানিতে প্রধানত কী দ্বারা দ্রবীভূত হয়?",
+    "options": [
+      "হাইড্রোজেন বন্ধন",
+      "ধ্রুব পানি দ্বারা ডাইপোল দ্রবণ",
+      "এটি সমযোজী",
+      "কার্বন বন্ধন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q06",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "কোনটি বিঘটন প্রতিক্রিয়া?",
+    "options": [
+      "H2 + Cl2 → 2HCl",
+      "Zn + H2SO4 → ZnSO4 + H2",
+      "CaCO3 → CaO + CO2",
+      "NaOH + HCl → NaCl + H2O"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q07",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "বিকল্পগুলোর মধ্যে সর্বাধিক তড়িৎধনাত্মক (সবচেয়ে শক্তিশালী বিজারক)?",
+    "options": [
+      "Fr/Cs",
+      "He",
+      "Ne",
+      "কোনোটিই নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q08",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "ইথানল + অ্যাসিটিক অ্যাসিড + গাঢ় H₂SO₄ দ্বারা ইথাইল অ্যাসেটেট তৈরি হলে কী পাওয়া যায়?",
+    "options": [
+      "এস্টার + পানি",
+      "অ্যালডিহাইড",
+      "অ্যালকাইন",
+      "লবণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q09",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "ইথিনে মোট σ + π বন্ধন কত?",
+    "options": [
+      "6σ & 2π",
+      "5σ & 1π",
+      "2σ & 1π",
+      "০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q10",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "NaOH + HCl প্রতিক্রিয়ার ধরন কী?",
+    "options": [
+      "জারণ-বিজারণ",
+      "প্রশমন",
+      "বিঘটন",
+      "কন্টাক্ট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q11",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "pH ৯ মানে [H⁺] = ?",
+    "options": [
+      "10^9",
+      "10^-9",
+      "1 M",
+      "০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q12",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "সাধারণ ব্লিচ/জীবাণুনাশক গ্যাস কোনটি?",
+    "options": [
+      "H2",
+      "He",
+      "Cl2",
+      "CO2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q13",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "PVC-এর মনোমার কোন থেকে উৎপন্ন?",
+    "options": [
+      "Ethane",
+      "Vinyl chloride (CH2=CHCl)",
+      "Chloro-fluoro",
+      "Rubber"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q14",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "হাঁসির গ্যাস (N₂O) প্রস্তুতে প্রায়ই কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "NH4Cl",
+      "NH4NO3",
+      "CaSO4",
+      "NaOH"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q15",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "হীরা বিদ্যুৎ পরিবাহী নয় কারণ—",
+    "options": [
+      "Graphite structure",
+      "Tetrahedral carbon network has no free electrons",
+      "Polar bonds",
+      "গলিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q16",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "বায়ুর প্রধান উপাদান নাইট্রোজেনের আনুমানিক শতাংশ কত?",
+    "options": [
+      "78%",
+      "21% O2",
+      "0.04% CO2",
+      "0.9% Ar"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q17",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "২৫°C-তে মোলার আয়তন আনুমানিক কত?",
+    "options": [
+      "22.4 L",
+      "24.789 L",
+      "20 L",
+      "18 L"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q18",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "গ্যালভানাইজিংয়ে সাধারণত কোন ধাতু আবরণ দেওয়া হয়?",
+    "options": [
+      "Zn/Cr/Ni",
+      "Cotton",
+      "Gold only",
+      "Sand"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q19",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "CO-এর রাসায়নিক সংকেত কী?",
+    "options": [
+      "C + O3",
+      "CO",
+      "O",
+      "N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q20",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "বিঘটনে N₂O (হাঁসির গ্যাস) উৎপন্ন করে কোনটি?",
+    "options": [
+      "NH4Cl",
+      "NH4NO3",
+      "CaSO4",
+      "NaOH"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q21",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "হীরার বৈদ্যুতিক ধর্মের কারণ কী?",
+    "options": [
+      "Graphite-like",
+      "Tetrahedral covalent with no free electrons",
+      "Polar",
+      "গলিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q22",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "বায়ুতে CO₂-এর আনুমানিক পরিমাণ কত?",
+    "options": [
+      "78% N2",
+      "~0.04%",
+      "21%",
+      "0.9%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q23",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "২৫°C তাপমাত্রায় ১ mol গ্যাসের মোলার আয়তন আনুমানিক কত?",
+    "options": [
+      "22.4 L (STP)",
+      "24.789 L (SATP)",
+      "30 L",
+      "10 L"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q24",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "খাদ্য ক্যানে টিন আবরণকে কী বলে?",
+    "options": [
+      "Tin plating (tinning)",
+      "Copper coating",
+      "Gold only",
+      "Sand"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-51-capstone-final-q25",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-51-capstone-final",
+    "text": "লেড-অ্যাসিড কোষের ধনাত্মক প্লেটের উপাদান সাধারণত কী?",
+    "options": [
+      "Only acid",
+      "Lead plates",
+      "PbO2 (lead dioxide)",
+      "গ্রাফাইট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

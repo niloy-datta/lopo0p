@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "{m,n} সেটের প্রকৃত উপসেট কয়টি?",
+    "options": [
+      "4",
+      "0",
+      "3",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "{2,4,6} সেটের উপসেট কয়টি?",
+    "options": [
+      "16",
+      "9",
+      "8",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "{2,4,6} সেটের প্রকৃত উপসেট কয়টি?",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "{a} সেটের উপসেট কয়টি?",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "{a} সেটের প্রকৃত উপসেট কয়টি?",
+    "options": [
+      "3",
+      "0",
+      "2",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "P({1}) এর উপাদান সংখ্যা কত?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "P({1,2}) এর উপাদান সংখ্যা কত?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "P({a,b,c}) এর উপাদান সংখ্যা কত?",
+    "options": [
+      "4",
+      "16",
+      "8",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "P({2,3}) এর উপাদান সংখ্যা কত?",
+    "options": [
+      "8",
+      "5",
+      "2",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "P({1,2,3,4}) এর উপাদান সংখ্যা কত?",
+    "options": [
+      "17",
+      "16",
+      "32",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A = {1,2}, B = {a,b} হলে n(A × B) = ?",
+    "options": [
+      "3",
+      "4",
+      "8",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A = {1,2,3}, B = {x,y} হলে n(A × B) = ?",
+    "options": [
+      "7",
+      "12",
+      "6",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A = {a}, B = {1,2,3} হলে n(A × B) = ?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A = {1,2}, B = {3,4,5} হলে n(A × B) = ?",
+    "options": [
+      "7",
+      "5",
+      "12",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A = {p,q}, B = {r,s,t} হলে n(A × B) = ?",
+    "options": [
+      "12",
+      "5",
+      "6",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "(A ∪ B)′ = A′ ∩ B′ — এটি কোন সূত্র?",
+    "options": [
+      "ডি মরগান",
+      "ডিসট্রিবিউটিভ",
+      "কমিউটেটিভ",
+      "অ্যাসোসিয়েটিভ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "(A ∩ B)′ = A′ ∪ B′ — এটি কোন সূত্র?",
+    "options": [
+      "ডি মরগান",
+      "ডিসট্রিবিউটিভ",
+      "কমিউটেটিভ",
+      "অ্যাসোসিয়েটিভ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A ∩ B = B ∩ A — এটি কোন বৈশিষ্ট্য?",
+    "options": [
+      "কমিউটেটিভ",
+      "অ্যাসোসিয়েটিভ",
+      "ডিসট্রিবিউটিভ",
+      "আইডempotent"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A ∪ A = A — এটি কোন বৈশিষ্ট্য?",
+    "options": [
+      "আইডempotent",
+      "কমিউটেটিভ",
+      "ডিসট্রিবিউটিভ",
+      "অ্যাসোসিয়েটিভ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A ⊆ A সর্বদা সত্য — কারণ?",
+    "options": [
+      "প্রতিটি সেট নিজের উপসেট",
+      "শূন্য সেট",
+      "সার্বজনীন সেট",
+      "পূরক সেট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "φ ⊆ A সর্বদা সত্য — কারণ?",
+    "options": [
+      "শূন্য সেট প্রতিটি সেটের উপসেট",
+      "A = φ",
+      "A = U",
+      "A′ = φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A ∩ U = ?",
+    "options": [
+      "A",
+      "U",
+      "φ",
+      "A′"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A ∪ φ = ?",
+    "options": [
+      "A",
+      "φ",
+      "U",
+      "A′"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "A ∩ φ = ?",
+    "options": [
+      "φ",
+      "A",
+      "U",
+      "A′"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "নিচের কোনটি সীম সেট?",
+    "options": [
+      "{x ∈ N : x < 50}",
+      "{x ∈ N}",
+      "{x ∈ R}",
+      "{x ∈ Z}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "x² = 4 এর সমাধান সেট কোনটি?",
+    "options": [
+      "φ",
+      "{1}",
+      "{−2, 2}",
+      "{0}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "x + 3 = 7 এর সমাধান সেট কোনটি?",
+    "options": [
+      "φ",
+      "{4}",
+      "{0}",
+      "{1}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "2x = 10 এর সমাধান সেট কোনটি?",
+    "options": [
+      "{1}",
+      "{5}",
+      "{0}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "x² − 5x = 0 এর সমাধান সেট কোনটি?",
+    "options": [
+      "{0}",
+      "φ",
+      "{1}",
+      "{0, 5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-04-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-04",
+    "text": "x² = 9x এর সমাধান সেট কোনটি?",
+    "options": [
+      "φ",
+      "{0, 9}",
+      "{1}",
+      "{0}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q01": {
+    "correctOption": "V = E − Ir",
+    "explanation": "ব্যাটারি কারেন্ট সরবরাহ করলে V = E − Ir হয়, কিন্তু ব্যাটারি চার্জ করার সময় V = E + Ir হয়।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q02": {
+    "correctOption": "ভোল্টমিটার",
+    "explanation": "ভোল্টমিটার বিভব পার্থক্য পরিমাপ করতে ব্যবহৃত হয়।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q03": {
+    "correctOption": "U = ½ CV²",
+    "explanation": "ধারকের সঞ্চিত শক্তি U = ½ CV² = ½ QV = Q²/(2C)"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q04": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q05": {
+    "correctOption": "90 Volt",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q06": {
+    "correctOption": "1.5 V",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q07": {
+    "correctOption": "জুল",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q08": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q09": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q10": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q11": {
+    "correctOption": "1 \\mu F",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q12": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q13": {
+    "correctOption": "33.33%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q14": {
+    "correctOption": "ফ্যারাড",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q15": {
+    "correctOption": "1:9",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q16": {
+    "correctOption": "E শূন্য, V পৃষ্ঠের সমান (ধ্রুবক)",
+    "explanation": "চার্জ গোলকের বাইরের পৃষ্ঠে থাকে। ভেতরে E=0, তাই V = constant (পৃষ্ঠের বিভবের সমান)।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q17": {
+    "correctOption": "108 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q18": {
+    "correctOption": "144 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q19": {
+    "correctOption": "4\\Omega",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q20": {
+    "correctOption": "I = \\frac{2E}{R+\\frac{r}{2}}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q21": {
+    "correctOption": "0.94",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-06-q22": {
+    "correctOption": "49",
+    "explanation": ""
+  }
+}

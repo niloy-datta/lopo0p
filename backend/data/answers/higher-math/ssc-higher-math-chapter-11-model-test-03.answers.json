@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-11-model-test-03-q01": {
+    "correctOption": "6 বর্গ একক",
+    "explanation": "ভূমি 4 এবং উচ্চতা 3। ক্ষেত্রফল = 1/2 × 4 × 3 = 6।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q02": {
+    "correctOption": "6 বর্গ একক",
+    "explanation": "AB = 4 এবং AC = 3, দুটি লম্ব। ক্ষেত্রফল = 1/2 × 4 × 3 = 6।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q03": {
+    "correctOption": "24 বর্গ একক",
+    "explanation": "ভূমি 6, উচ্চতা 8। ক্ষেত্রফল = 1/2 × 6 × 8 = 24।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q04": {
+    "correctOption": "12 বর্গ একক",
+    "explanation": "AB = 6 এবং AC = 4। ক্ষেত্রফল = 1/2 × 6 × 4 = 12।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q05": {
+    "correctOption": "সমরেখ",
+    "explanation": "AB-এর ঢাল = (6-2)/(4-1)=4/3 এবং BC-এর ঢাল = (10-6)/(7-4)=4/3। ঢাল সমান, তাই বিন্দু তিনটি সমরেখ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q06": {
+    "correctOption": "সমরেখ",
+    "explanation": "AB-এর ঢাল = 4/2 = 2 এবং BC-এর ঢাল = 4/2 = 2। তাই বিন্দু তিনটি সমরেখ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q07": {
+    "correctOption": "অসমরেখ",
+    "explanation": "AB-এর ঢাল = 2 এবং BC-এর ঢাল = 3। ঢাল সমান নয়, তাই বিন্দু তিনটি অসমরেখ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q08": {
+    "correctOption": "সমরেখ",
+    "explanation": "AB-এর ঢাল = 4/3 এবং BC-এর ঢাল = 4/3। তাই বিন্দু তিনটি সমরেখ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q09": {
+    "correctOption": "সমকোণী ত্রিভুজ",
+    "explanation": "AB অনুভূমিক এবং BC উল্লম্ব, তাই B বিন্দুতে সমকোণ তৈরি হয়।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q10": {
+    "correctOption": "সমবাহু ত্রিভুজ",
+    "explanation": "AB=4, AC=√(4+12)=4, BC=√(4+12)=4। তিন বাহু সমান, তাই সমবাহু।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q11": {
+    "correctOption": "সমদ্বিবাহু ত্রিভুজ",
+    "explanation": "AC=√(2²+3²)=√13 এবং BC=√((-2)²+3²)=√13। দুই বাহু সমান, তাই সমদ্বিবাহু।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q12": {
+    "correctOption": "3, 4, 5",
+    "explanation": "AB=3, BC=4, AC=√(3²+4²)=5।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q13": {
+    "correctOption": "25/2 বর্গ একক",
+    "explanation": "ভূমি 5 এবং উচ্চতা 5। ক্ষেত্রফল = 1/2 × 5 × 5 = 25/2।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q14": {
+    "correctOption": "12 বর্গ একক",
+    "explanation": "AB=4 এবং AC=6। ক্ষেত্রফল = 1/2 × 4 × 6 = 12।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q15": {
+    "correctOption": "6 বর্গ একক",
+    "explanation": "AB=4 এবং BC=3। ক্ষেত্রফল = 1/2 × 4 × 3 = 6।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q16": {
+    "correctOption": "12 বর্গ একক",
+    "explanation": "AB=4 এবং BC=6। ক্ষেত্রফল = 1/2 × 4 × 6 = 12।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q17": {
+    "correctOption": "না, কারণ বিন্দুগুলো সমরেখ",
+    "explanation": "তিন বিন্দুর ঢাল একই, তাই তারা সমরেখ। সমরেখ বিন্দু দিয়ে ত্রিভুজ গঠিত হয় না।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q18": {
+    "correctOption": "না, কারণ বিন্দুগুলো সমরেখ",
+    "explanation": "AB-এর ঢাল =1 এবং BC-এর ঢাল =1। তাই তিন বিন্দু সমরেখ, ত্রিভুজ গঠন সম্ভব নয়।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q19": {
+    "correctOption": "∠B",
+    "explanation": "AB অনুভূমিক এবং BC উল্লম্ব, তাই B বিন্দুতে 90° কোণ তৈরি হয়।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q20": {
+    "correctOption": "13",
+    "explanation": "AB=5, BC=12। অতিভুজ AC=√(5²+12²)=13।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q21": {
+    "correctOption": "বর্গ",
+    "explanation": "চারটি বিন্দু অক্ষের সমান্তরাল বাহুবিশিষ্ট এবং সব বাহু 4 একক। তাই এটি বর্গ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q22": {
+    "correctOption": "আয়তক্ষেত্র",
+    "explanation": "বাহুগুলো অক্ষের সমান্তরাল এবং দৈর্ঘ্য 6 ও 3। বিপরীত বাহু সমান, তাই আয়তক্ষেত্র।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q23": {
+    "correctOption": "বর্গ",
+    "explanation": "পরপর বাহুগুলোর দৈর্ঘ্য সমান √18 এবং কর্ণ AC=6, BD=6। তাই এটি বর্গ।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q24": {
+    "correctOption": "সামান্তরিক",
+    "explanation": "AB ও CD উভয়ই অনুভূমিক এবং সমান দৈর্ঘ্য 4; AD ও BC-ও সমান্তরাল। তাই এটি সামান্তরিক।"
+  },
+  "ssc-higher-math-chapter-11-model-test-03-q25": {
+    "correctOption": "উভয়ই 4",
+    "explanation": "AB=|4-0|=4 এবং CD=|6-2|=4। তাই উভয়ই 4 একক।"
+  }
+}

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q01",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "২ mol S সম্পূর্ণ দহনে কত mol (বা g) O₂ প্রয়োজন?",
+    "options": [
+      "16",
+      "32",
+      "64 g",
+      "128"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q02",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "২ mol ইথানল সম্পূর্ণ দহনে কত mol CO₂ উৎপন্ন হয়?",
+    "options": [
+      "1 mol",
+      "2 mol",
+      "3 mol",
+      "4 mol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q03",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "5.6 g N2 এ molecules সংখ্যা কত?",
+    "options": [
+      "1.2e23",
+      "2.4e24",
+      "6.02e23",
+      "12e23"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q04",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "Acidic soil neutralize করতে কোন সার ব্যবহার করা উচিত?",
+    "options": [
+      "Lime (CaO)",
+      "Ammonium sulfate",
+      "TSP",
+      "Urea"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q05",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "অ্যামোনিয়াম সালফেট দ্রবণে সূচকের আচরণ কেমন?",
+    "options": [
+      "Shows acidic color (methyl orange)",
+      "Like pure water",
+      "Strongly basic",
+      "কোনো পরিবর্তন নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q06",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "বেকিং পাউডারে কোন গ্যাস উৎপন্ন হয়?",
+    "options": [
+      "O2",
+      "CO",
+      "CO2",
+      "N2O"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q07",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "বায়ার পরীক্ষা কী নির্ণয় করে?",
+    "options": [
+      "অম্লতা",
+      "Molecular mass",
+      "অসন্তৃপ্ততা",
+      "pH"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q08",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "রক্তের বাফার ব্যবস্থা কোনটি?",
+    "options": [
+      "HCl",
+      "H2CO3/HCO3-",
+      "ইথানয়িক অ্যাসিড",
+      "Benzoic acid"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q09",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "C-14 ক্ষয়ে কোন বিকিরণ নির্গত হয়?",
+    "options": [
+      "Alpha",
+      "Gamma",
+      "Beta",
+      "মাইক্রোওয়েভ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q10",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "চুনাপানিতে CaCO₃ বিঘটনে দুধালো অধঃক্ষেপ কেন পড়ে?",
+    "options": [
+      "Carbon formation",
+      "CaCO3 precipitate formation",
+      "Chlorination",
+      "Gas whiteness"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q11",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "কন্টাক্ট প্রক্রিয়ায় SO₂→SO₃-এর উৎপ্রেরক কোনটি?",
+    "options": [
+      "Pt",
+      "V2O5",
+      "Iron powder",
+      "সিলিকা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q12",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "Detergent এর সুবিধা soap এর ওপর?",
+    "options": [
+      "Cheap",
+      "Creates lather in hard water",
+      "Better for skin",
+      "Dries quickly"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q13",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "প্লাস্টিকের পরিবেশগত উদ্বেগ: অ-জৈবঘট্য কেন?",
+    "options": [
+      "Not biodegradable",
+      "Too colorful",
+      "Too heavy",
+      "Makes acid"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q14",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "Frozen concentrated acetic acid নাম কী?",
+    "options": [
+      "Vinegar",
+      "Formalin",
+      "Glacial acetic acid",
+      "Rectified spirit"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q15",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "গ্লাস ক্লিনারে প্রধান ক্ষার কোনটি?",
+    "options": [
+      "NaOH",
+      "NH4OH",
+      "Ca(OH)2",
+      "KOH"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q16",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "কাচ প্রধানত কী?",
+    "options": [
+      "Liquid iron",
+      "Carbon allotrope",
+      "Metallic copper state",
+      "Amorphous supercooled silicate"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q17",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "আয়োডিন পরীক্ষা কোন খাদ্য উপাদান শনাক্ত করে?",
+    "options": [
+      "Lipids",
+      "Proteins",
+      "Starch",
+      "Vitamins"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q18",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "চুনাপাথর ক্যালসিনেশনের আনুমানিক তাপমাত্রা কত?",
+    "options": [
+      "২০০°সে",
+      "500°C",
+      "900-1000°C",
+      "15000°C"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q19",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "Marble + dilute HCl এ কোন গ্যাস নির্গত হয়?",
+    "options": [
+      "H2",
+      "O2",
+      "CO2",
+      "Cl2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q20",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "N₂ নিষ্ক্রিয় কেন?",
+    "options": [
+      "Strong triple bond",
+      "বর্ণহীন",
+      "Toxicity",
+      "Large size"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q21",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "Oxidizer hazard চিহ্ন কোনটি?",
+    "options": [
+      "Skull & bones",
+      "Flame",
+      "Flaming O (O with flame)",
+      "Triangle"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q22",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "পলিথিনের মনোমার কী?",
+    "options": [
+      "PVC",
+      "CO",
+      "Ethylene (C2H4)",
+      "Tetrafluoroethylene"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q23",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "স্ল্যাগের প্রধান রাসায়নিক উপাদান কী?",
+    "options": [
+      "Calcium sulfate",
+      "Aluminium silicate",
+      "Calcium silicate",
+      "Iron hydroxide"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q24",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "Sn + Cu alloy নাম কি?",
+    "options": [
+      "Brass",
+      "Bronze",
+      "Steel",
+      "Duralumin"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05-q25",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05",
+    "text": "সাবান রাসায়নিকভাবে কী?",
+    "options": [
+      "Fatty acid",
+      "Mixture of mineral salts",
+      "Salt of higher fatty acids (Na/K)",
+      "Form of ethanol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

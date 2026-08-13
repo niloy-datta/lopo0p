@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-10-model-test-05-q01": {
+    "correctOption": "1, 3, 3, 1",
+    "explanation": "(a+b)^3 বিস্তৃতির সহগগুলো 1,3,3,1।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q02": {
+    "correctOption": "1, 6, 15, 20, 15, 6, 1",
+    "explanation": "(a+b)^6 বিস্তৃতির সহগগুলো 1,6,15,20,15,6,1।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q03": {
+    "correctOption": "35 ও 35",
+    "explanation": "(a+b)^7 এর সহগ: 1,7,21,35,35,21,7,1। মধ্যের দুই সহগ 35 ও 35।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q04": {
+    "correctOption": "8",
+    "explanation": "পদসংখ্যা = n+1। তাই n+1=9 ⇒ n=8।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q05": {
+    "correctOption": "11",
+    "explanation": "পদসংখ্যা = n+1। তাই n+1=12 ⇒ n=11।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q06": {
+    "correctOption": "10",
+    "explanation": "জোড় n হলে মধ্যপদ = n/2+1। তাই n/2+1=6 ⇒ n=10।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q07": {
+    "correctOption": "9",
+    "explanation": "বিজোড় n হলে মধ্যপদ দুটি (n+1)/2 ও (n+3)/2। 5ম ও 6ষ্ঠ হলে n=9।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q08": {
+    "correctOption": "126",
+    "explanation": "x⁴-এর সহগ = ⁹C₄ = 126।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q09": {
+    "correctOption": "126",
+    "explanation": "x⁵-এর সহগ = ⁹C₅ = ⁹C₄ = 126।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q10": {
+    "correctOption": "84",
+    "explanation": "x² পদের সহগ = ⁷C₂ × 2² = 21×4 = 84।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q11": {
+    "correctOption": "280",
+    "explanation": "x³ পদের সহগ = ⁷C₃ × 2³ = 35×8 = 280।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q12": {
+    "correctOption": "96",
+    "explanation": "x² পদের সহগ = ⁴C₂ × 4² = 6×16 = 96।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q13": {
+    "correctOption": "-256",
+    "explanation": "x³ পদের সহগ = ⁴C₃ × (-4)³ = 4×(-64) = -256।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q14": {
+    "correctOption": "1080",
+    "explanation": "x² পদের সহগ = ⁵C₂ × 3³ × 2² = 10×27×4 = 1080।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q15": {
+    "correctOption": "1080",
+    "explanation": "x² পদের সহগ = ⁵C₂ × 3³ × (-2)² = 1080। x² পদের চিহ্ন ধনাত্মক।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q16": {
+    "correctOption": "-720",
+    "explanation": "x³ পদের সহগ = ⁵C₃ × 3² × (-2)³ = 10×9×(-8) = -720।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q17": {
+    "correctOption": "112",
+    "explanation": "x⁶ পেতে r=2। সহগ = ⁸C₂ × 2² = 28×4 = 112।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q18": {
+    "correctOption": "-448",
+    "explanation": "x⁵ পেতে r=3। সহগ = ⁸C₃ × (-2)³ = 56×(-8) = -448।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q19": {
+    "correctOption": "243",
+    "explanation": "ধ্রুবক পদ = 3^5 = 243।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q20": {
+    "correctOption": "-243",
+    "explanation": "ধ্রুবক পদ = (-3)^5 = -243।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q21": {
+    "correctOption": "256",
+    "explanation": "x⁴ পদের সহগ = 4⁴ = 256।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q22": {
+    "correctOption": "-256",
+    "explanation": "x³ পদের সহগ = ⁴C₁ × (4x)^3 × (-1) = 4×64×(-1) = -256।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q23": {
+    "correctOption": "সমান",
+    "explanation": "¹²C₃ = ¹²C₉, কারণ ⁿCᵣ = ⁿC_(n-r)। তাই সহগ সমান।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q24": {
+    "correctOption": "সমান",
+    "explanation": "¹¹C₄ = ¹¹C₇, কারণ 4+7=11। তাই সহগ সমান।"
+  },
+  "ssc-higher-math-chapter-10-model-test-05-q25": {
+    "correctOption": "n+1 হয়",
+    "explanation": "দ্বিপদী বিস্তৃতিতে ঘাত n হলে পদসংখ্যা n+1 হয়।"
+  }
+}

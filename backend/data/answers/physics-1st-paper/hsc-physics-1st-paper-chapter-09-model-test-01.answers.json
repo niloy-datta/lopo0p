@@ -1,0 +1,102 @@
+{
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q01": {
+    "correctOption": "180",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q02": {
+    "correctOption": "s^{-1}",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q03": {
+    "correctOption": "গ্রিড ট্রান্সডিউসার",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q04": {
+    "correctOption": "0.5 Hz",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q05": {
+    "correctOption": "3 m/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q06": {
+    "correctOption": "2/π Hz",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q07": {
+    "correctOption": "বিস্তার",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q08": {
+    "correctOption": "6",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q09": {
+    "correctOption": "3 Hz",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q10": {
+    "correctOption": "π/15 rads⁻¹",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q11": {
+    "correctOption": "120 ms^{-1}",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q12": {
+    "correctOption": "0.5 Hz",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q13": {
+    "correctOption": "কম্পাঙ্ক (f)",
+    "explanation": "কম্পাঙ্ক উৎসের ধর্ম, মাধ্যমের ওপর নির্ভর করে না।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q14": {
+    "correctOption": "সমান্তরাল",
+    "explanation": "অনুদৈর্ঘ্য তরঙ্গে কম্পন দিক তরঙ্গের দিক বরাবর।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q15": {
+    "correctOption": "শূন্য",
+    "explanation": "কেন্দ্রমুখী বল সর্বদা গতির দিকের (স্পর্শকের) সাথে লম্বভাবে ক্রিয়া করে। তাই যেকোনো বিন্দুতে এবং সম্পূর্ণ চক্রেও কাজের পরিমাণ শূন্য (W=Fscos90 ∘ =0)।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q16": {
+    "correctOption": "λ/2",
+    "explanation": "স্থির তরঙ্গে একটি পূর্ণ তরঙ্গদৈর্ঘ্যে ৩টি নিস্পন্দ বিন্দু থাকে। তাই পরপর দুটি নিস্পন্দ বিন্দুর দূরত্ব তরঙ্গদৈর্ঘ্যের অর্ধেক (λ/2)। (যদিও এটি তরঙ্গ চ্যাপ্টারের, যা অনেক সময় ১ম পত্রে পড়ানো হতো)।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q17": {
+    "correctOption": "২ গুণ",
+    "explanation": "v = √(T/μ) ⟹ v ∝ √T। টান ৪ গুণ হলে বেগ √4 = 2 গুণ হবে।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q18": {
+    "correctOption": "২০০",
+    "explanation": "f = v/\\\\lambda = 400/2 = 200Hz।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q19": {
+    "correctOption": "১০০",
+    "explanation": "v = f\\\\lambda = 200 \\\\times 0.5 = 100m/s।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q20": {
+    "correctOption": "m",
+    "explanation": "তরঙ্গদৈর্ঘ্য একটি দৈর্ঘ্য।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q21": {
+    "correctOption": "I ∝ A²",
+    "explanation": "তীব্রতা বিস্তারের বর্গের সমানুপাতিক।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q22": {
+    "correctOption": "λ",
+    "explanation": "2π phase difference মানে এক তরঙ্গদৈর্ঘ্য।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q23": {
+    "correctOption": "৩ গুণ",
+    "explanation": "v=fλ, f ধ্রুব হলে λ ∝ v।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q24": {
+    "correctOption": "১/৪",
+    "explanation": "I \\\\propto 1/r^2।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-01-q25": {
+    "correctOption": "λ/2",
+    "explanation": "স্থির তরঙ্গে পরপর দুটি নোড বা এন্টি-নোডের দূরত্ব λ/2।"
+  }
+}

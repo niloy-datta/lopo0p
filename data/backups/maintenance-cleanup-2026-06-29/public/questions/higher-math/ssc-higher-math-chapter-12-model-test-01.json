@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "যে রাশির মান ও দিক উভয়ই আছে তাকে কী বলে?",
+    "options": [
+      "ভেক্টর রাশি",
+      "স্কেলার রাশি",
+      "ধ্রুব রাশি",
+      "শূন্য রাশি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "যে রাশির শুধু মান আছে কিন্তু দিক নেই তাকে কী বলে?",
+    "options": [
+      "স্কেলার রাশি",
+      "ভেক্টর রাশি",
+      "একক ভেক্টর",
+      "বিপরীত ভেক্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "নিচের কোনটি ভেক্টর রাশি?",
+    "options": [
+      "বেগ",
+      "ভর",
+      "সময়",
+      "তাপমাত্রা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "নিচের কোনটি স্কেলার রাশি?",
+    "options": [
+      "ভর",
+      "সরণ",
+      "বল",
+      "বেগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "শূন্য ভেক্টরের মান কত?",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "অসংজ্ঞায়িত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "যে ভেক্টরের মান 1 তাকে কী বলে?",
+    "options": [
+      "একক ভেক্টর",
+      "শূন্য ভেক্টর",
+      "বিপরীত ভেক্টর",
+      "অবস্থান ভেক্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "দুইটি ভেক্টর সমান হওয়ার শর্ত কোনটি?",
+    "options": [
+      "মান ও দিক উভয়ই সমান",
+      "শুধু মান সমান",
+      "শুধু দিক সমান",
+      "দুইটির অবস্থান একই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "দুইটি বিপরীত ভেক্টরের বৈশিষ্ট্য কোনটি?",
+    "options": [
+      "মান সমান কিন্তু দিক বিপরীত",
+      "মান ও দিক উভয়ই সমান",
+      "মান বিপরীত কিন্তু দিক সমান",
+      "দুইটির মান শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "A(2, 3) বিন্দুর অবস্থান ভেক্টর কোনটি?",
+    "options": [
+      "2i+3j",
+      "3i+2j",
+      "2i-3j",
+      "-2i+3j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "B(-4, 5) বিন্দুর অবস্থান ভেক্টর কোনটি?",
+    "options": [
+      "-4i+5j",
+      "4i-5j",
+      "5i-4j",
+      "-5i+4j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "ভেক্টর a=3i+4j হলে |a| কত?",
+    "options": [
+      "5",
+      "7",
+      "√7",
+      "25"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "ভেক্টর a=5i+12j হলে |a| কত?",
+    "options": [
+      "13",
+      "17",
+      "√17",
+      "60"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "ভেক্টর a=-3i+4j হলে |a| কত?",
+    "options": [
+      "5",
+      "1",
+      "7",
+      "√13"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "ভেক্টর a=8i-6j হলে |a| কত?",
+    "options": [
+      "10",
+      "14",
+      "2",
+      "√14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "i একক ভেক্টরের দিক কোন অক্ষ বরাবর?",
+    "options": [
+      "ধনাত্মক x-অক্ষ",
+      "ধনাত্মক y-অক্ষ",
+      "ঋণাত্মক x-অক্ষ",
+      "ঋণাত্মক y-অক্ষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "j একক ভেক্টরের দিক কোন অক্ষ বরাবর?",
+    "options": [
+      "ধনাত্মক y-অক্ষ",
+      "ধনাত্মক x-অক্ষ",
+      "ঋণাত্মক x-অক্ষ",
+      "ঋণাত্মক y-অক্ষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "a=2i+3j এবং b=4i+5j হলে a+b কত?",
+    "options": [
+      "6i+8j",
+      "2i+2j",
+      "8i+15j",
+      "6i-8j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "a=5i+7j এবং b=2i+3j হলে a-b কত?",
+    "options": [
+      "3i+4j",
+      "7i+10j",
+      "-3i-4j",
+      "10i+21j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "a=3i-2j হলে 2a কত?",
+    "options": [
+      "6i-4j",
+      "5i",
+      "6i+4j",
+      "3i-4j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "a=4i+6j হলে -a কত?",
+    "options": [
+      "-4i-6j",
+      "4i-6j",
+      "-4i+6j",
+      "6i+4j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "a=2i+5j এবং b=-2i-5j হলে b কোন ভেক্টর?",
+    "options": [
+      "a-এর বিপরীত ভেক্টর",
+      "a-এর সমান ভেক্টর",
+      "a-এর একক ভেক্টর",
+      "শূন্য ভেক্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "a=3i+4j এবং b=6i+8j হলে b কোনটির সমান?",
+    "options": [
+      "2a",
+      "a",
+      "-a",
+      "a/2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "a=3i+4j ভেক্টরের একই দিকে একক ভেক্টর কোনটি?",
+    "options": [
+      "(3/5)i+(4/5)j",
+      "3i+4j",
+      "(4/5)i+(3/5)j",
+      "5i+5j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "a=5i+12j ভেক্টরের একই দিকে একক ভেক্টর কোনটি?",
+    "options": [
+      "(5/13)i+(12/13)j",
+      "(12/13)i+(5/13)j",
+      "5i+12j",
+      "13i+13j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-01-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-01",
+    "text": "a=0i+0j হলে a কোন ভেক্টর?",
+    "options": [
+      "শূন্য ভেক্টর",
+      "একক ভেক্টর",
+      "অবস্থান ভেক্টর নয়",
+      "বিপরীত ভেক্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "উদ্দীপক: চিত্রে $AB = 200\\text{ cm}$, $MN = NH = 0.5\\text{ m}$ এবং তরঙ্গটি A থেকে D তে যেতে সময় লাগে $0.025\\text{ s}$। তরঙ্গটির কম্পাঙ্ক কত হার্জ? A থেকে D পর্যন্ত তরঙ্গটি মোট ২টি পূর্ণ তরঙ্গ সম্পন্ন করে। ২টি কম্পন সম্পন্ন করতে প্রয়োজনীয় সময় $t = 0.025\\text{ s}$। তাহলে পর্যায়কাল $T = \\frac{0.025}{2} = 0.0125\\text{ s}$। কম্পাঙ্ক $f = \\frac{1}{T} = \\frac{1}{0.0125} = 80\\text{ Hz}$।",
+    "options": [
+      "$40$",
+      "$80$",
+      "$160$",
+      "$240$"
+    ],
+    "image": "/images/quiz/ssc-wave-standing.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "উদ্দীপক: একটি অনুপ্রস্থ তরঙ্গের চিত্র দেওয়া আছে যেখানে তরঙ্গের উপর বিভিন্ন বিন্দু A, B, C, D, E, F, G, H, I চিহ্নিত করা আছে। চিত্রের কোন কণাগুলো সমদশায় আছে?",
+    "options": [
+      "A, E, I",
+      "B, C, D",
+      "D, F, H",
+      "C, E, G"
+    ],
+    "image": "/images/quiz/wave-transverse.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "তরঙ্গ সঞ্চালনকারী কোনো কণার বেগ বৃদ্ধি পাবে, যদি— i. কম্পাঙ্ক বৃদ্ধি পায় ii. তরঙ্গদৈর্ঘ্য বৃদ্ধি পায় iii. পর্যায়কাল বৃদ্ধি পায়",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "তরঙ্গটির- i. তরঙ্গদৈর্ঘ্য 4m ii. বেগ 4000 ms⁻¹ iii. A, B ও C বিন্দুতে তরঙ্গটির দশা ভিন্ন নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "একটি শব্দতরঙ্গ বাতাসে 5s এ 1750m পথ অতিক্রম করে। তরঙ্গটির তরঙ্গ দৈর্ঘ্য 0.5m হলে কম্পাঙ্ক কত?",
+    "options": [
+      "0.00143 Hz",
+      "175 Hz",
+      "700 Hz",
+      "3500 Hz"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "তরঙ্গস্থিত দুটি সমদশা সম্পন্ন কণার সর্বনিম্ন দূরত্ব কত?",
+    "options": [
+      "λ/4",
+      "λ/2",
+      "2λ/3",
+      "λ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "150 Hz কম্পাঙ্কের একটি শব্দ বায়ু মাধ্যমে 3 সেকেন্ড সময়ে 1050m পথ অতিক্রম করে, তরঙ্গটির তরঙ্গদৈর্ঘ্য কত?",
+    "options": [
+      "0.1428 m",
+      "0.428 m",
+      "2.33 m",
+      "7 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "বাতাসে শব্দের বেগ 340ms⁻¹। উৎস এবং প্রতিফলকের মাঝে সর্বনিম্ন কত দূরত্বে প্রতিধ্বনি শোনা যাবে?",
+    "options": [
+      "1.7m",
+      "17m",
+      "34m",
+      "170m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "তরঙ্গটির পর্যায়কাল কত? [তরঙ্গ: f = 100 Hz, AB=8m, ABC তরঙ্গ]",
+    "options": [
+      "0.001s",
+      "0.01s",
+      "0.1s",
+      "250s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "একটি পানিশূন্য কূপের গভীরতা 25m। এতে সর্বোচ্চ কত উচ্চতায় পানি থাকলে প্রতিধ্বনি শোনা যাবে?",
+    "options": [
+      "0m",
+      "8.5m",
+      "16.5m",
+      "25m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "শব্দ তরঙ্গের প্রকৃতি কীরূপ?",
+    "options": [
+      "অনুদৈর্ঘ্য",
+      "অনুপ্ৰস্থ",
+      "বেতার",
+      "তড়িৎচৌম্বক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "একটি তরঙ্গের কম্পাঙ্ক 340 Hz ও তরঙ্গদৈর্ঘ্য 0.5 m হলে তরঙ্গের বেগ কত?",
+    "options": [
+      "85 ms⁻¹",
+      "170 ms⁻¹",
+      "340 ms⁻¹",
+      "680 ms⁻¹"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "বাতাসে শব্দের বেগ 330 ms⁻¹ হলে প্রতিধ্বনি শোনার জন্য প্রতিফলকের সর্বনিম্ন দূরত্ব কত?",
+    "options": [
+      "8.25 m",
+      "16.5 m",
+      "33 m",
+      "330 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "শব্দের তীব্রতা নির্ভর করে—",
+    "options": [
+      "বিস্তারের বর্গের উপর",
+      "তরঙ্গদৈর্ঘ্যের উপর",
+      "ঘনত্বের উপর",
+      "চাপের উপর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "শব্দের বেগ বায়ুতে প্রায়—",
+    "options": [
+      "343 m/s",
+      "3×10⁸ m/s",
+      "1500 m/s",
+      "100 m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "নিঃশব্দ কক্ষে শব্দের তীব্রতা—",
+    "options": [
+      "0 dB",
+      "10 dB",
+      "20 dB",
+      "1 dB"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "f=330 Hz, λ=0.3 m হলে v=?",
+    "options": [
+      "330.3",
+      "1100",
+      "0.0009090909090909091",
+      "99"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "শব্দের বেগ বায়ুতে প্রায় কত?",
+    "options": [
+      "343 m/s",
+      "3×10⁸ m/s",
+      "1500 m/s",
+      "100 m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "f=340 Hz, λ=1 m হলে শব্দের বেগ v=?",
+    "options": [
+      "340 m/s",
+      "341 m/s",
+      "339 m/s",
+      "680 m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "শব্দ তরঙ্গ কোন ধরনের?",
+    "options": [
+      "অগুণিত",
+      "অক্ষীয়",
+      "তাড়িত",
+      "স্থির"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "নিচের কোনটি দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের সীমা নির্দেশ করে?",
+    "options": [
+      "300 nm - 700 nm",
+      "400 nm - 700 nm",
+      "300 μm - 700 μm",
+      "400 μm - 700 μm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "দৃশ্যমান আলোর তরঙ্গ দৈর্ঘ্যের সীমা কোনটি?",
+    "options": [
+      "400nm – 500nm",
+      "500nm – 700nm",
+      "600nm – 700nm",
+      "400nm – 700nm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "পরীক্ষার মাধ্যমে আলোর তরঙ্গ ধর্মের প্রমাণ করেছিলেন কোন বিজ্ঞানী?",
+    "options": [
+      "থেলিস",
+      "ইয়ং",
+      "ম্যাক্সওয়েল",
+      "বেকেরেল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "নিচের কোনটি অনুদৈর্ঘ্য তরঙ্গ?",
+    "options": [
+      "বেতার তরঙ্গ",
+      "আলোক তরঙ্গ",
+      "পানির তরঙ্গ",
+      "শব্দ তরঙ্গ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-07-model-test-01-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-07-model-test-01",
+    "text": "ত্রিমাত্রিক সিসমিক সার্ভেতে প্রতিফলিত তরঙ্গকে কিসের সাহায্যে ধারণ করা হয়?",
+    "options": [
+      "গ্রিড",
+      "ট্রান্সডিউসার",
+      "জিওফোন",
+      "মনিটর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-paper-set-10-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "প্রধান অক্ষ ফোকাস তলের সাথে কত কোণ উৎপন্ন করে?",
+    "options": [
+      "০",
+      "৪৫",
+      "৯০",
+      "১৮০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "একটি 12 m/s বেগে চলমান 3 kg ভরের বস্তুর গতিশক্তি কত?",
+    "options": [
+      "36 J",
+      "m*v*v J",
+      "216 J",
+      "0.5*m*v J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "নিচের কোন বল আকর্ষণ-বিকর্ষণ দুটোই করতে পারে?",
+    "options": [
+      "সবল নিউক্লীয় বল",
+      "দুর্বল নিউক্লীয় বল",
+      "বিদ্যুৎ চৌম্বকীয় বল",
+      "মহাকর্ষ বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "একটি পানিশূন্য কূপের গভীরতা 25m। এতে সর্বোচ্চ কত উচ্চতায় পানি থাকলে প্রতিধ্বনি শোনা যাবে?",
+    "options": [
+      "0m",
+      "8.5m",
+      "16.5m",
+      "25m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 15 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "0.13 A",
+      "30 A",
+      "{(v+r)} A",
+      "7.5 A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "-4D ক্ষমতাসম্পন্ন লেন্সের ফোকাস দূরত্ব কত?",
+    "options": [
+      "-25cm",
+      "-4cm",
+      "-0.25cm",
+      "25cm"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-10-q06.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "মেয়েদের কোমল কণ্ঠের জন্য কোনটি দায়ী?",
+    "options": [
+      "Wind Pipe",
+      "Larynx",
+      "Pitch",
+      "Vocal cord"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "একটি গাড়ির আদিবেগ 7 m/s এবং ত্বরণ 5 m/s²। 9 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "{u - a*t} m/s",
+      "{u + a*t} m/s",
+      "63 m/s",
+      "{u + 2*a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "একটি বস্তুর সাপেক্ষে অন্য একটি বস্তু চলমান থাকলে নিম্নের কোন ঘর্ষণ সৃষ্টি হয়?",
+    "options": [
+      "প্রবাহী",
+      "আবর্ত",
+      "স্থিতি",
+      "গতি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "150 Hz কম্পাঙ্কের একটি শব্দ বায়ু মাধ্যমে 3 সেকেন্ড সময়ে 1050m পথ অতিক্রম করে, তরঙ্গটির তরঙ্গদৈর্ঘ্য কত?",
+    "options": [
+      "0.1428 m",
+      "0.428 m",
+      "2.33 m",
+      "7 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "কোন বলের কারণে তেজস্ক্রিয় নিউক্লিয়াস থেকে \beta রশ্মি বা ইলেকট্রন বের হয়?",
+    "options": [
+      "চৌম্বক বল",
+      "দুর্বল নিউক্লিয় বল",
+      "বিদু্যৎ বল",
+      "সবল নিউক্লিয় বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "ট্রান্সফরমারের সেকেন্ডারি কয়েলের প্যাঁচসংখ্যা 10 গুণ করলে সেকেন্ডারি ভোল্টেজ কত গুণ হবে?",
+    "options": [
+      "0.1",
+      "1",
+      "10",
+      "100"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "প্রকৃতিতে প্রাপ্ত ইউরেনিয়ামের পরিমাণ কত?",
+    "options": [
+      "0.5%",
+      "0.6%",
+      "0.7%",
+      "0.8%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 13 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+    "options": [
+      "52 সেমি",
+      "6.5 সেমি",
+      "13 সেমি",
+      "26 সেমি"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-10-q14.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "কোনটি মোলার গ্যাস ধ্র“বক (জ) এর মান?",
+    "options": [
+      "৮.১৩৪ JK–১সড়ষ–১",
+      "৮.৩১৪ JK–১সড়ষ–১",
+      "৮.৪৩১ J–১কসড়ষ–১",
+      "৮.৪১৩ J Ñ১ক–১সড়ষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "\\(500\\text{ gm}\\) ভরের একটি বস্তুর উপর \\(5\\text{ N}\\) বল প্রয়োগ করা হলে এর ত্বরণ কত হবে?",
+    "options": [
+      "\\(0.01\\text{ ms}^{-2}\\)",
+      "\\(2.5\\text{ ms}^{-2}\\)",
+      "\\(10\\text{ ms}^{-2}\\)",
+      "\\(100\\text{ ms}^{-2}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "ঢালু তলের সাথে একটি বস্তুকে কত কোণে ছেড়ে দিলে গতিঘর্ষণ সহগের মান বৃদ্ধি পায়?",
+    "options": [
+      "৩০",
+      "৪০",
+      "৫০",
+      "৬০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "কোনটি দ্বারা জড়তা পরিমাপ করা হয়?",
+    "options": [
+      "কাজ",
+      "ত্বরণ",
+      "বল",
+      "ভর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "নিচের কোনটি স্প্রিং ধ্রুবকের মাত্রা?",
+    "options": [
+      "$\\text{MT}^{-1}$",
+      "$\\text{MLT}^{-2}$",
+      "$\\text{MT}^{-2}$",
+      "$\\text{ML}^{-2}\\text{T}^{-2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "শব্দের বেগ শুষ্ক বায়ুতে 0°C তাপমাত্রায় কত?",
+    "options": [
+      "1500 m/s",
+      "343 m/s",
+      "300 m/s",
+      "332 m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "$-5^\\circ\\text{C}$ তাপমাত্রার বরফের আণবিক ধর্ম কোনটি?",
+    "options": [
+      "অণুগুলো নিজ অবস্থানে আটকে থাকে",
+      "তাপমাত্রা বৃদ্ধি করলে অণুগুলোর দূরত্ব কমবে",
+      "অণুগুলো ধীর গতিতে ছুটতে পারে",
+      "অণুগুলোর আন্তঃআণবিক শক্তি কম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "একটি 1 kg ভরের বস্তুর ওপর 4 m/s² ত্বরণ সৃষ্টি করতে কত বল প্রয়োগ করতে হবে?",
+    "options": [
+      "{(m+a)} N",
+      "4 N",
+      "a/m N",
+      "m/a N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "কোন প্রক্রিয়ায় শরীরের নির্দিষ্ট অঙ্গের ভেতর তীব্র আলো ফেলা হয়?",
+    "options": [
+      "প্রতিফলন",
+      "প্রতিসরণ",
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "ব্যতিচার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "বর্তনীতে কত তড়িৎ প্রবাহিত হবে?",
+    "options": [
+      "2.18 A",
+      "3.43 A",
+      "3.86 A",
+      "10.80 A"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-10-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-10",
+    "text": "একটি অবতল দর্পণের ফোকাস থেকে 5 cm দূরে একটি বস্তু স্থাপন করা হলো। দর্পণের বক্রতার ব্যাসার্ধ 20 cm হলে প্রতিবিম্বের দূরত্ব কত?",
+    "options": [
+      "50 cm",
+      "40 cm",
+      "30 cm",
+      "10 cm"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-10-q25.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

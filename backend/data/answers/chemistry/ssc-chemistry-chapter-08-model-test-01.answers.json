@@ -1,0 +1,102 @@
+{
+  "ssc-chemistry-chapter-08-model-test-01-q01": {
+    "correctOption": "বিক্রিয়াটি তাপোৎপাদী এবং ΔH ঋণাত্মক",
+    "explanation": "বিক্রিয়কের শক্তি উৎপাদের শক্তির চেয়ে বেশি হলে অতিরিক্ত শক্তি তাপ হিসেবে নির্গত হয়। তাই বিক্রিয়াটি তাপোৎপাদী এবং ΔH ঋণাত্মক।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q02": {
+    "correctOption": "বরফ গলে জলে পরিণত হওয়া",
+    "explanation": "বরফ গলতে পরিবেশ থেকে তাপ শোষণ করে, তাই এটি তাপহারী প্রক্রিয়া।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q03": {
+    "correctOption": "প্রতি মোল বিক্রিয়ায় 285 kJ তাপ নির্গত হয়",
+    "explanation": "ΔH ঋণাত্মক হলে বিক্রিয়াটি তাপোৎপাদী, অর্থাৎ তাপ নির্গত হয়।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q04": {
+    "correctOption": "4.2 J g⁻¹ °C⁻¹",
+    "explanation": "Q = mcΔT; c = Q/(mΔT) = 2100/(50×10) = 4.2 J g⁻¹ °C⁻¹।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q05": {
+    "correctOption": "কারণ বন্ধন ভাঙতে বেশি শক্তি প্রয়োজন",
+    "explanation": "বন্ড শক্তি বেশি মানে বন্ধন ভাঙতে বেশি শক্তি লাগে, তাই অণুটি তুলনামূলকভাবে বেশি স্থিতিশীল।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q06": {
+    "correctOption": "যখন বিক্রিয়া মান অবস্থায় ঘটে",
+    "explanation": "ΔH°-এর ° চিহ্ন মান অবস্থা বা standard condition নির্দেশ করে।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q07": {
+    "correctOption": "দ্রবণ প্রক্রিয়ায় পরিবেশ থেকে তাপ শোষিত হয়",
+    "explanation": "NH₄Cl দ্রবীভবন তাপহারী; এটি পরিবেশ থেকে তাপ শোষণ করে বলে দ্রবণ ঠান্ডা লাগে।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q08": {
+    "correctOption": "তাপোৎপাদী দ্রবণ প্রক্রিয়া",
+    "explanation": "NaOH জলে দ্রবীভূত হলে তাপ নির্গত হয়, তাই এটি তাপোৎপাদী প্রক্রিয়া।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q09": {
+    "correctOption": "জলের বাষ্পীভবন",
+    "explanation": "বাষ্পীভবনে তাপ শোষিত হয়, তাই ΔH ধনাত্মক।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q10": {
+    "correctOption": "বিক্রিয়ার তাপ পরিবর্তন পরিমাপ করা",
+    "explanation": "ক্যালরিমিটার দিয়ে রাসায়নিক বা ভৌত পরিবর্তনের তাপ পরিবর্তন পরিমাপ করা হয়।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q11": {
+    "correctOption": "বিক্রিয়ার হার বৃদ্ধি পায়",
+    "explanation": "Activation energy কম হলে বেশি সংখ্যক কণা সফল সংঘর্ষে অংশ নিতে পারে, ফলে বিক্রিয়ার হার বাড়ে।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q12": {
+    "correctOption": "কম",
+    "explanation": "তাপোৎপাদী বিক্রিয়ায় শক্তি নির্গত হয়, তাই উৎপাদের শক্তি বিক্রিয়কের তুলনায় কম।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q13": {
+    "correctOption": "বিক্রিয়ার তাপ পরিবর্তন শুধু প্রাথমিক ও চূড়ান্ত অবস্থার উপর নির্ভর করে",
+    "explanation": "Hess-এর সূত্র অনুযায়ী মোট এনথালপি পরিবর্তন পথনিরপেক্ষ; এটি শুধু প্রাথমিক ও চূড়ান্ত অবস্থার উপর নির্ভর করে।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q14": {
+    "correctOption": "-40 kJ",
+    "explanation": "বিপরীত বিক্রিয়ায় ΔH-এর চিহ্ন বিপরীত হয়। তাই B → A এর ΔH = -40 kJ।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q15": {
+    "correctOption": "আয়নের আধান বেশি এবং আয়নের আকার ছোট",
+    "explanation": "আয়নের আধান বেশি ও আকার ছোট হলে আকর্ষণ বল বেশি হয়, ফলে lattice energy বেশি হয়।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q16": {
+    "correctOption": "অবস্থা পরিবর্তনের সময়",
+    "explanation": "অবস্থা পরিবর্তনের সময় গৃহীত তাপ সুপ্ত তাপ হিসেবে ব্যবহৃত হয়; তাই তাপমাত্রা অপরিবর্তিত থাকতে পারে।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q17": {
+    "correctOption": "বিক্রিয়ক থেকে transition state-এ পৌঁছাতে প্রয়োজনীয় শক্তি",
+    "explanation": "Activation energy হলো বিক্রিয়ক থেকে transition state-এ পৌঁছানোর জন্য প্রয়োজনীয় ন্যূনতম শক্তি।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q18": {
+    "correctOption": "তাপ হলো শক্তি, তাপমাত্রা হলো উষ্ণতার মাত্রা",
+    "explanation": "তাপ হলো শক্তির এক রূপ, আর তাপমাত্রা কোনো বস্তুর উষ্ণতা বা অণুগুলোর গড় গতিশক্তির সূচক।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q19": {
+    "correctOption": "H⁺ ও OH⁻ মিলে জল তৈরি করার সময় শক্তি নির্গত হয়",
+    "explanation": "অম্লের H⁺ এবং ক্ষারের OH⁻ মিলে জল তৈরি করে এবং এই প্রক্রিয়ায় তাপ নির্গত হয়।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q20": {
+    "correctOption": "4200 J",
+    "explanation": "Q = mcΔT = 100 × 4.2 × 10 = 4200 J।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q21": {
+    "correctOption": "বেশি থাকে",
+    "explanation": "তাপহারী বিক্রিয়ায় তাপ শোষিত হয়, তাই উৎপাদের শক্তি বিক্রিয়কের তুলনায় বেশি থাকে।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q22": {
+    "correctOption": "এক মোল পদার্থ সম্পূর্ণ দহনে যে তাপ নির্গত হয়",
+    "explanation": "দহন তাপ হলো এক মোল পদার্থের সম্পূর্ণ দহনে নির্গত তাপ।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q23": {
+    "correctOption": "কারণ ΔG = ΔH - TΔS; উচ্চ T-তে TΔS term বেশি গুরুত্বপূর্ণ হয়",
+    "explanation": "ΔG = ΔH - TΔS। ΔS ধনাত্মক হলে উচ্চ তাপমাত্রায় TΔS বড় হয়, ফলে ΔG ঋণাত্মক হতে পারে।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q24": {
+    "correctOption": "তাপ বিনিময় কমিয়ে বেশি নির্ভুল ফল পেতে",
+    "explanation": "ক্যালরিমিটারের ঢাকনা পরিবেশের সাথে তাপ বিনিময় কমায়, ফলে ফলাফল বেশি নির্ভুল হয়।"
+  },
+  "ssc-chemistry-chapter-08-model-test-01-q25": {
+    "correctOption": "বাষ্পীভবন — তাপহারী",
+    "explanation": "বাষ্পীভবনে তরল থেকে গ্যাস হতে তাপ শোষিত হয়, তাই এটি তাপহারী প্রক্রিয়া।"
+  }
+}

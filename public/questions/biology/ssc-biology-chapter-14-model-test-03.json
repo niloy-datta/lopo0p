@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "DNA ফিংগারপ্রিন্টিং দিয়ে কী করা যায়?",
+    "options": [
+      "রক্তচাপ মাপা",
+      "শ্বাস পরিমাপ",
+      "পুষ্টি নির্ধারণ",
+      "ব্যক্তি শনাক্ত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "টিস্যু কালচারে কোষ কোথায় বৃদ্ধি পায়?",
+    "options": [
+      "নিয়ন্ত্রিত ল্যাব পরিবেশে",
+      "শুধু পানিতে",
+      "বাতাসে",
+      "মাটিতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "রিকম্বিনেন্ট DNA তৈরিতে কোন এনজাইম DNA কাটে?",
+    "options": [
+      "লাইপেজ",
+      "পেপসিন",
+      "অ্যামাইলেজ",
+      "রেস্ট্রিকশন এনজাইম"
+    ],
+    "image": "/images/quiz/bio-recombinant-plasmid.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "রোগীর ত্রুটিপূর্ণ জিন সুস্থ জিন দিয়ে প্রতিস্থাপনের চিকিৎসা কোনটি?",
+    "options": [
+      "টিস্যু কালচার",
+      "জিন থেরাপি",
+      "ক্লোনিং",
+      "PCR"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "DNA-এর একটি খণ্ড ল্যাবে বহু কপি তৈরি করা হচ্ছে। এ প্রক্রিয়ার নাম কী?",
+    "options": [
+      "মিয়োসিস",
+      "ফার্মেন্টেশন",
+      "মাইটোসিস",
+      "PCR"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "জীবপ্রযুক্তি কোন ক্ষেত্রে ব্যবহৃত হয়? i. চিকিৎসা ii. কৃষি iii. পরিবেশ সংরক্ষণ?",
+    "options": [
+      "শুধু iii",
+      "i, ii ও iii",
+      "শুধু ii",
+      "শুধু i"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "ট্রান্সজেনিক ফসল বলতে বোঝায় কী?",
+    "options": [
+      "প্রাকৃতিক বন্য ফসল",
+      "শুধু হাইব্রিড ফসল",
+      "অন্য জীবের জিনযুক্ত ফসল",
+      "শুধু জৈব সারে উৎপাদিত ফসল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "GM ফসলের GM অর্থ কী?",
+    "options": [
+      "Green Material",
+      "General Method",
+      "Genetically Modified",
+      "Growth Medium"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "জিন প্রকৌশলের মাধ্যমে কী করা হয়?",
+    "options": [
+      "প্রোটিন নষ্ট",
+      "RNA নষ্ট",
+      "DNA পরিবর্তন ও নতুন বৈশিষ্ট্য যোগ",
+      "কোষ বিভাজন বন্ধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "একটি ফসলে পোকামাকড় প্রতিরোধী জিন স্থাপন করা হয়েছে। এ ধরনের ফসলকে কী বলা হয়?",
+    "options": [
+      "ট্রান্সজেনিক ফসল",
+      "বিলুপ্ত ফসল",
+      "সাধারণ ফসল",
+      "জৈব ফসল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "বাংলাদেশে জীবপ্রযুক্তি গবেষণার অবস্থা কেমন কী?",
+    "options": [
+      "বন্ধ",
+      "একদম নেই",
+      "সম্পূর্ণ নিষিদ্ধ",
+      "গবেষণা চলছে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "ইনসুলিন উৎপাদনে জীবপ্রযুক্তিতে কোন জীব ব্যবহার করা হয়?",
+    "options": [
+      "প্রোটোজোয়া",
+      "ভাইরাস",
+      "মস",
+      "ব্যাকটেরিয়া/ইস্ট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "ল্যাবে DNA-এর অসংখ্য প্রতিলিপি তৈরি করা হচ্ছে। এ পদ্ধতির নাম কী?",
+    "options": [
+      "PCR",
+      "সালোকসংশ্লেষণ",
+      "ফার্মেন্টেশন",
+      "মিয়োসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "জিন থেরাপির মূল উদ্দেশ্য কী?",
+    "options": [
+      "পরিপাক বৃদ্ধি",
+      "শ্বাস বৃদ্ধি",
+      "রেচন বৃদ্ধি",
+      "রোগ নিরাময়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "একটি জীবপ্রযুক্তি কোম্পানি ইস্টে মানব ইনসুলিন জিন স্থাপন করে ইনসুলিন উৎপাদন করছে। এ প্রক্রিয়াকে কী বলা হয়?",
+    "options": [
+      "টিস্যু কালচার",
+      "ক্লোনিং",
+      "মাইটোসিস",
+      "জিন প্রকৌশল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "ব্যাকটেরিয়ায় কৃত্রিমভাবে বৈদেশিক DNA বহন করে এমন ছোট বৃত্তাকার DNA কে কী বলে?",
+    "options": [
+      "মাইটোকন্ড্রিয়া",
+      "ক্রোমোজোম",
+      "প্লাজমিড",
+      "রাইবোসোম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "জীবপ্রযুক্তি মানে কী?",
+    "options": [
+      "শুধু রসায়ন",
+      "জীবের প্রযুক্তি",
+      "শুধু গণিত",
+      "শুধু পদার্থবিজ্ঞান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "ভ্যাকসিন উৎপাদনে জীবপ্রযুক্তির ভূমিকা কী?",
+    "options": [
+      "শুধু পদার্থ দ্বারা",
+      "নিরাপদ ও কার্যকর ভ্যাকসিন তৈরি",
+      "ভ্যাকসিন অসম্ভব",
+      "শুধু রসায়ন দ্বারা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "বায়োগ্যাস প্রধানত কোন গ্যাস?",
+    "options": [
+      "নাইট্রোজেন",
+      "হিলিয়াম",
+      "অক্সিজেন",
+      "মিথেন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "একটি জীবপ্রযুক্তি কোম্পানি ব্যাকটেরিয়ার জিনে মানব ইনসুলিন জিন স্থাপন করে ইনসুলিন উৎপাদন করছে। এ প্রক্রিয়াকে কী বলা হয়?",
+    "options": [
+      "ক্লোনিং",
+      "হাইব্রিডাইজেশন",
+      "জিন প্রকৌশল",
+      "টিস্যু কালচার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "ফেরমেন্টারে সাধারণত কী উৎপাদন করা হয়?",
+    "options": [
+      "মাইক্রোব ও এনজাইম",
+      "অস্থি",
+      "ত্বক",
+      "পেশি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "বায়োটেক ল্যাবে কোন পরিবেশ প্রয়োজন?",
+    "options": [
+      "ধূলোময়",
+      "অরক্ষিত",
+      "স্টেরাইল/জীবাণুমুক্ত",
+      "দূষিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "১৯৯৬ সালে 'ডলি' নামক মেষ ক্লোন তৈরি হয়। ক্লোনিং মূলত কী নির্দেশ করে?",
+    "options": [
+      "মাইটোসিস বন্ধ",
+      "দুই প্রজাতির মিশ্রণ",
+      "জেনেটিকভাবে অভিন্ন প্রতিলিপি",
+      "মিউটেশন বৃদ্ধি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "ব্যাকটেরিয়ায় বৈদেশিক DNA বহনকারী ছোট বৃত্তাকার DNA কে কী বলে?",
+    "options": [
+      "মাইটোকন্ড্রিয়া",
+      "প্লাজমিড",
+      "রাইবোসোম",
+      "রাইবোজোম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-14-model-test-03-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-14-model-test-03",
+    "text": "জীবপ্রযুক্তির নৈতিক দিক কেন আলোচ্য?",
+    "options": [
+      "অপ্রাসঙ্গিক",
+      "গুরুত্বহীন",
+      "সবসময় নিষিদ্ধ",
+      "সঠিক ও নিরাপদ ব্যবহার নিশ্চিত করতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

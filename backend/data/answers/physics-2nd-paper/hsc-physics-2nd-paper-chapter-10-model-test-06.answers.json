@@ -1,0 +1,94 @@
+{
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q01": {
+    "correctOption": "NAND",
+    "explanation": "প্রশ্নের প্রদত্ত বিকল্পগুলির মধ্যে NAND নিকটতম বিকল্প হিসেবে নেওয়া হয়েছে।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q02": {
+    "correctOption": "[বর্তনী ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q03": {
+    "correctOption": "NOR",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q04": {
+    "correctOption": "1",
+    "explanation": "উত্তর: B) 1 — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q05": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "অনেক তত্ত্বের প্রয়োগে i, ii এবং iii সবকটি বিবেচ্য। — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q06": {
+    "correctOption": "AB̄ + ĀB",
+    "explanation": "XOR গেট: Y = A ⊕ B = A·B̄ + Ā·B। আউটপুট 1 হবে যখন ইনপুটদ্বয় ভিন্ন।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q07": {
+    "correctOption": "108 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q08": {
+    "correctOption": "144 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q09": {
+    "correctOption": "4\\Omega",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q10": {
+    "correctOption": "I = \\frac{2E}{R+\\frac{r}{2}}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q11": {
+    "correctOption": "0.94",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q12": {
+    "correctOption": "49",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q13": {
+    "correctOption": "0^\\circ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q14": {
+    "correctOption": "\\frac{\\lambda}{4}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q15": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q16": {
+    "correctOption": "আপেক্ষিক রোধ একই থাকে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q17": {
+    "correctOption": "\\frac{1}{8}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q18": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q19": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q20": {
+    "correctOption": "3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q21": {
+    "correctOption": "33.33%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q22": {
+    "correctOption": "10^{-10} m",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-06-q23": {
+    "correctOption": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+    "explanation": ""
+  }
+}

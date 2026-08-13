@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "x = {−1, 0, 1, 2} সেটটির প্রকৃত উপসেটের সংখ্যা কত?",
+    "options": [
+      "16",
+      "15",
+      "8",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "A = {2, 3, 4} ও B = {3, 4, 5} হলে A ∩ B কোনটি?",
+    "options": [
+      "{2, 3, 4, 5}",
+      "{3, 4}",
+      "{2, 5}",
+      "{3}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "A = {1, 2, 3, 4, 5, 6}, B = {2, 4, 6} হলে A − B কোনটি?",
+    "options": [
+      "{2, 4, 6}",
+      "{1, 3, 5}",
+      "{1, 2, 3, 4, 5, 6}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "n(A) = 12, n(B) = 8, n(A ∩ B) = 3 হলে n(A ∪ B) কত?",
+    "options": [
+      "23",
+      "17",
+      "20",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "{x ∈ N : 6 < x < 10} সেটের পদসংখ্যা কত?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "φ (শূন্য সেট) এর উপসেট কয়টি?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "{a, b} সেটের উপসেট কয়টি?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "A = {x: x ∈ N, x ≤ 6}, B = {x: x একটি 3 এর গুণিতক এবং x ≤ 6} হলে A − B কোনটি?",
+    "options": [
+      "{1, 2, 4, 5}",
+      "{3, 6}",
+      "{1, 3}",
+      "{1, 2, 3, 6}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "Q = {x, y, z} এবং R = {q, r} হলে Q × R এর উপাদান সংখ্যা কত?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "U = {1, 2, 3, 4, 5}, A = {2, 4} হলে A′ (A-এর পূরক) কোনটি?",
+    "options": [
+      "{1, 3, 5}",
+      "{2, 4}",
+      "{1, 2, 3, 4, 5}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "x² = 9x সমীকরণের সমাধান সেট কোনটি?",
+    "options": [
+      "{9}",
+      "{0, 9}",
+      "{−9, 9}",
+      "{0}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "x² − x = 6 সমীকরণের সমাধান সেট কোনটি?",
+    "options": [
+      "{2, 3}",
+      "{−2, 3}",
+      "{−3, 2}",
+      "{6}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "D = {y : y ∈ N এবং 5 ≤ y ≤ 10} সেটটিকে তালিকা পদ্ধতিতে প্রকাশ করলে কোনটি?",
+    "options": [
+      "{5, 6, 7, 8, 9, 10}",
+      "{5, 6, 7, 8, 9}",
+      "{6, 7, 8, 9, 10}",
+      "{5, 10}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "A ⊆ B হলে নিচের কোনটি সর্বদা সত্য?",
+    "options": [
+      "A ∪ B = A",
+      "A ∪ B = B",
+      "A ∩ B = φ",
+      "A − B = B"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "P({1, 2}) (ক্ষমতা সেট) এর উপাদান সংখ্যা কত?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "n(P(A)) = 16 হলে n(A) কত?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "A ∪ B = B ∪ A — এটি সেটের কোন বৈশিষ্ট্য?",
+    "options": [
+      "অ্যাসোসিয়েটিভ",
+      "কমিউটেটিভ",
+      "ডিসট্রিবিউটিভ",
+      "আইডempotent"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C) — এটি কোন সূত্র?",
+    "options": [
+      "ডি মরগান",
+      "ডিসট্রিবিউটিভ",
+      "অ্যাসোসিয়েটিভ",
+      "ডিমরগান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "{1, 2, 3} ∪ {3, 4, 5} = ?",
+    "options": [
+      "{3}",
+      "{1, 2, 3, 4, 5}",
+      "{1, 2, 4, 5}",
+      "{1, 2, 3, 5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "{1, 2, 3, 4} ∩ {3, 4, 5, 6} = ?",
+    "options": [
+      "{1, 2}",
+      "{3, 4}",
+      "{5, 6}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "A ∩ B = φ হলে A ও B কী ধরনের সেট?",
+    "options": [
+      "সমান",
+      "অসদৃশ (disjoint)",
+      "পূরক",
+      "অন্তর্ভুক্ত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "n(U) = 50, n(A) = 30, n(B) = 25, n(A ∩ B) = 10 হলে n(A ∪ B) কত?",
+    "options": [
+      "55",
+      "45",
+      "40",
+      "65"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "2x − 1 = 5 সমীকরণের সমাধান সেট কোনটি?",
+    "options": [
+      "{2}",
+      "{3}",
+      "{−3}",
+      "{1, 5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "{x ∈ Z : −2 ≤ x ≤ 2} সেটের পদসংখ্যা কত?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "U = {1, 2, 3} হলে U′ (সার্বজনীন সেটের পূরক) কোনটি?",
+    "options": [
+      "{1, 2, 3}",
+      "φ",
+      "U",
+      "{0}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "A = {1, 3, 5}, B = {2, 3, 4} হলে (A − B) ∪ (B − A) কোনটি?",
+    "options": [
+      "{3}",
+      "{1, 2, 4, 5}",
+      "{1, 2, 3, 4, 5}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "{1, 2} × {a, b} কার্টেশিয়ান গুণফলের উপাদান সংখ্যা কত?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "Q = {x, y, z} এবং R = {q, r} হলে Q \\ R এর প্রকৃত উপসেট কয়টি?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "A = {2, 3, 5, 7} সেটটির সেট-গঠন পদ্ধতিতে প্রকাশ কোনটি?",
+    "options": [
+      "{x : x জোড় সংখ্যা}",
+      "{x : x মৌলিক সংখ্যা এবং x < 8}",
+      "{x : x ∈ N, x > 10}",
+      "{x : x 3 এর গুণিতক}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-01-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-01",
+    "text": "নিচের কোনটি অসীম সেট?",
+    "options": [
+      "{1, 2, 3}",
+      "{x ∈ N : x < 100}",
+      "{x ∈ N}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

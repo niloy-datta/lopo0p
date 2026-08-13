@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=2i+3j, b=4i-j হলে a+b কত?",
+    "options": [
+      "6i+2j",
+      "2i+4j",
+      "6i+4j",
+      "-2i+4j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=7i-5j, b=2i+3j হলে a-b কত?",
+    "options": [
+      "5i-8j",
+      "9i-2j",
+      "5i+8j",
+      "-5i+8j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=-3i+4j, b=5i-2j হলে a+b কত?",
+    "options": [
+      "2i+2j",
+      "-8i+6j",
+      "8i-6j",
+      "2i-2j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=4i+3j হলে 3a কত?",
+    "options": [
+      "12i+9j",
+      "7i+6j",
+      "12i+3j",
+      "4i+9j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=-2i+5j হলে -2a কত?",
+    "options": [
+      "4i-10j",
+      "-4i+10j",
+      "2i-5j",
+      "-2i-10j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=2i+3j, b=i-2j হলে a+3b কত?",
+    "options": [
+      "5i-3j",
+      "3i+j",
+      "5i+9j",
+      "2i-6j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=3i-j, b=2i+4j হলে 2a-b কত?",
+    "options": [
+      "4i-6j",
+      "8i+2j",
+      "i-5j",
+      "4i+6j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=5i+2j, b=i+j হলে a-4b কত?",
+    "options": [
+      "i-2j",
+      "i+2j",
+      "9i+6j",
+      "4i+j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=2i+3j, b=4i+6j হলে a ও b কেমন?",
+    "options": [
+      "সমান্তরাল",
+      "বিপরীত",
+      "সমান",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=3i-2j, b=-6i+4j হলে a ও b কেমন?",
+    "options": [
+      "বিপরীতমুখী সমান্তরাল",
+      "সমান",
+      "একক ভেক্টর",
+      "শূন্য ভেক্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=4i+6j এবং b=2i+3j হলে a ও b-এর সম্পর্ক কোনটি?",
+    "options": [
+      "a=2b",
+      "b=2a",
+      "a=-2b",
+      "a=b"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=i+2j এবং b=3i+6j হলে b কোনটির সমান?",
+    "options": [
+      "3a",
+      "2a",
+      "a/3",
+      "-3a"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=12i+5j হলে |a| কত?",
+    "options": [
+      "13",
+      "17",
+      "7",
+      "√149"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=7i+24j হলে |a| কত?",
+    "options": [
+      "25",
+      "31",
+      "17",
+      "√31"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=-7i+24j হলে a-এর একই দিকে একক ভেক্টর কোনটি?",
+    "options": [
+      "(-7/25)i+(24/25)j",
+      "(7/25)i-(24/25)j",
+      "(24/25)i-(7/25)j",
+      "-7i+24j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=9i-12j হলে a-এর একই দিকে একক ভেক্টর কোনটি?",
+    "options": [
+      "(3/5)i-(4/5)j",
+      "(4/5)i-(3/5)j",
+      "(9/12)i-(12/9)j",
+      "9i-12j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "A(2, 1), B(5, 5) হলে AB ভেক্টরের একই দিকে একক ভেক্টর কোনটি?",
+    "options": [
+      "(3/5)i+(4/5)j",
+      "(4/5)i+(3/5)j",
+      "3i+4j",
+      "5i+5j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "A(-1, 2), B(4, 14) হলে AB ভেক্টরের মান কত?",
+    "options": [
+      "13",
+      "12",
+      "5",
+      "17"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "A(3, 7), B(9, 15) হলে AB ভেক্টরের মান কত?",
+    "options": [
+      "10",
+      "14",
+      "8",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "P(6, 8) বিন্দুর অবস্থান ভেক্টরের একই দিকে একক ভেক্টর কোনটি?",
+    "options": [
+      "(3/5)i+(4/5)j",
+      "(4/5)i+(3/5)j",
+      "6i+8j",
+      "(6/8)i+(8/6)j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "P(-3, -4) বিন্দুর অবস্থান ভেক্টরের একই দিকে একক ভেক্টর কোনটি?",
+    "options": [
+      "(-3/5)i-(4/5)j",
+      "(3/5)i+(4/5)j",
+      "(-4/5)i-(3/5)j",
+      "-3i-4j"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=2i+3j, b=4i+6j, c=-2i-3j হলে কোনটি a-এর বিপরীত ভেক্টর?",
+    "options": [
+      "c",
+      "b",
+      "a+b",
+      "a-c"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=3i+4j এবং b=3i+4j হলে a ও b কেমন?",
+    "options": [
+      "সমান ভেক্টর",
+      "বিপরীত ভেক্টর",
+      "শূন্য ভেক্টর",
+      "একক ভেক্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=2i+2j এবং b=-2i-2j হলে |a| ও |b|-এর সম্পর্ক কী?",
+    "options": [
+      "সমান",
+      "|a| বড়",
+      "|b| বড়",
+      "উভয়ই 0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-03-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-03",
+    "text": "a=3i+4j হলে a/|a| কোন ধরনের ভেক্টর?",
+    "options": [
+      "একক ভেক্টর",
+      "শূন্য ভেক্টর",
+      "বিপরীত ভেক্টর",
+      "স্কেলার রাশি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

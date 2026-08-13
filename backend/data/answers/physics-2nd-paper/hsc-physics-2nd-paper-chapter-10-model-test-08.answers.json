@@ -1,0 +1,82 @@
+{
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q01": {
+    "correctOption": "NOR",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q02": {
+    "correctOption": "1",
+    "explanation": "উত্তর: B) 1 — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q03": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "অনেক তত্ত্বের প্রয়োগে i, ii এবং iii সবকটি বিবেচ্য। — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q04": {
+    "correctOption": "AB̄ + ĀB",
+    "explanation": "XOR গেট: Y = A ⊕ B = A·B̄ + Ā·B। আউটপুট 1 হবে যখন ইনপুটদ্বয় ভিন্ন।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q05": {
+    "correctOption": "NAND",
+    "explanation": "প্রশ্নের প্রদত্ত বিকল্পগুলির মধ্যে NAND নিকটতম বিকল্প হিসেবে নেওয়া হয়েছে।"
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q06": {
+    "correctOption": "[বর্তনী ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q07": {
+    "correctOption": "ম্যাক্স প্লাঙ্ক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q08": {
+    "correctOption": "প্রোটন (সঠিক উত্তর নেই)",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q09": {
+    "correctOption": "আয়রন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q10": {
+    "correctOption": "আলফা কণা",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q11": {
+    "correctOption": "[লেখচিত্র ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q12": {
+    "correctOption": "+2 \\times 10^{-19} C",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q13": {
+    "correctOption": "3:1",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q14": {
+    "correctOption": "0.94",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q15": {
+    "correctOption": "3 টি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q16": {
+    "correctOption": "জুল",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q17": {
+    "correctOption": "থার্মোমিটার",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q18": {
+    "correctOption": "হ্রাস পায়",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q19": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-10-model-test-08-q20": {
+    "correctOption": "[E-r লেখচিত্র ৩]",
+    "explanation": ""
+  }
+}

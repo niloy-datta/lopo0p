@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "রক্তে অণুচক্রিকার (Platelets) প্রধান কাজ কোনটি?",
+    "options": [
+      "রক্ত জমাট বাঁধতে সাহায্য করা",
+      "অক্সিজেন পরিবহন করা",
+      "রোগ প্রতিরোধ করা",
+      "হরমোন পরিবহন করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "নিচের কোন গ্রন্থির রস সরাসরি রক্তে মিশে শরীরের বৃদ্ধি নিয়ন্ত্রণ করে?",
+    "options": [
+      "যকৃৎ",
+      "পিটুইটারি গ্রন্থি",
+      "লালাগ্রন্থি",
+      "অগ্ন্যাশয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "উদ্দীপক: শফিক সাহেব হঠাৎ একদিন বুকে প্রচণ্ড ব্যথা অনুভব করলেন। ডাক্তার তাকে পরীক্ষা করে জানালেন যে, তার হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটি চর্বি জমে সংকুচিত হয়ে গেছে। শফিক সাহেবের এই শারীরিক অবস্থা থেকে পরিত্রাণ পেতে করণীয়— i. নিয়মিত ব্যায়াম করা ii. চর্বিযুক্ত খাবার বেশি খাওয়া iii. ধূমপান থেকে বিরত থাকা নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii",
+      "ii ও iii"
+    ],
+    "image": "/images/quiz/bio-heart.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "সিলিকনের জন্য যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধান কত?",
+    "options": [
+      "0.3 eV",
+      "6 eV",
+      "1.1 eV",
+      "0.7 eV"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "উদ্দীপক: শফিক সাহেব হঠাৎ একদিন বুকে প্রচণ্ড ব্যথা অনুভব করলেন। ডাক্তার তাকে পরীক্ষা করে জানালেন যে, তার হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটি চর্বি জমে সংকুচিত হয়ে গেছে। শফিক সাহেবের হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটির নাম কী?",
+    "options": [
+      "করোনারি ধমনি",
+      "পালমোনারি ধমনি",
+      "হেপাটিক ধমনি",
+      "রেনাল ধমনি"
+    ],
+    "image": "/images/quiz/bio-heart.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "হৃৎপিণ্ডের চতুষ্ঠলা কী?",
+    "options": [
+      "দুই অলিন্দ ও দুই নিলয়",
+      "এক অলিন্দ",
+      "চার অলিন্দ",
+      "তিন নিলয়"
+    ],
+    "image": "/images/quiz/bio-heart.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "মানব রক্তে লোহিত কণিকার কাজ কী?",
+    "options": [
+      "রক্ত জমাট",
+      "রোগ প্রতিরোধ",
+      "হরমোন",
+      "O₂ বহন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "মানবে শ্বেত কণিকা বৃদ্ধি কী?",
+    "options": [
+      "খালি পেটে",
+      "ঘুমে",
+      "সংক্রমণে",
+      "ব্যায়ামে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "শিরায় ভালভের কাজ কী?",
+    "options": [
+      "পানি শোষণ",
+      "রক্ত চাপ",
+      "O₂ বহন",
+      "উল্টো প্রবাহ রোধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "O বর্ণের রক্তদাতা Universal কী?",
+    "options": [
+      "B দাতা",
+      "AB দাতা",
+      "A দাতা",
+      "O দাতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "মানুষের রক্তের তরল অংশ বা রক্তরসের (Plasma) শতকরা কত ভাগ পানি?",
+    "options": [
+      "৭০-৭৫%",
+      "৫০-৫৫%",
+      "৯০-৯২%",
+      "৬০-৬৫%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "জাইলেম পরিবহন করে কী?",
+    "options": [
+      "পানি ও খনিজ",
+      "O₂",
+      "CO₂",
+      "তৈরি খাদ্য"
+    ],
+    "image": "/images/quiz/bio-xylem-phloem.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "হৃৎপিণ্ডের স্বয়ংক্রিয়তা কী?",
+    "options": [
+      "ভালভ",
+      "ধমনি",
+      "পেসমেকার",
+      "শিরা"
+    ],
+    "image": "/images/quiz/bio-heart.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "ফ্লোয়েমের উপাদান কী?",
+    "options": [
+      "সিভ টিউব",
+      "ভেসেল",
+      "ট্রাকিড",
+      "ক্সাইলেম"
+    ],
+    "image": "/images/quiz/bio-xylem-phloem.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "হৃদপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনীকে কী বলা হয়?",
+    "options": [
+      "ক্যারোটিড ধমনী",
+      "রেনাল ধমনী",
+      "পালমোনারি ধমনী",
+      "করোনারি ধমনী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "রক্ত জমাট বাঁধার পর যে হালকা হলুদ রঙের তরল অংশ নিঃসৃত হয় তাকে কী বলে?",
+    "options": [
+      "প্লাজমা",
+      "লিম্ফ",
+      "হিমোগ্লোবিন",
+      "সিরাম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "উচ্চ রক্তচাপের কারণ কী?",
+    "options": [
+      "ভিটামিন",
+      "কম পানি",
+      "অতিরিক্ত O₂",
+      "ধমনি সংকুচিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "AB বর্ণের রক্তগ্রহীতা Universal কী?",
+    "options": [
+      "B গ্রহীতা",
+      "AB গ্রহীতা",
+      "O গ্রহীতা",
+      "A গ্রহীতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "রক্তের প্লাজমায় থাকে কী?",
+    "options": [
+      "শুধু লোহিত কণিকা",
+      "শুধু চর্বি",
+      "শুধু DNA",
+      "পানি ও প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "হৃদপিণ্ডকে আবৃতকারী দ্বীস্তরী পর্দার নাম কী?",
+    "options": [
+      "পেরিটোনিয়াম",
+      "প্লুরা",
+      "পেরিকার্ডিয়াম",
+      "মেনিনজেস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "রক্তচাপ মাপা হয় কোন যন্ত্রে?",
+    "options": [
+      "স্টেথোস্কোপে",
+      "ব্যারোমিটারে",
+      "স্পিগমোম্যানোমিটারে",
+      "থার্মোমিটারে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "মানবদেহের রক্তের স্বাভাবিক pH মান কত?",
+    "options": [
+      "৭.৪",
+      "৮.৪",
+      "৬.৮",
+      "৭.০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "কোন রক্তের গ্রুপকে 'সার্বজনীন দাতা' (Universal Donor) বলা হয়?",
+    "options": [
+      "O",
+      "A",
+      "AB",
+      "B"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "রক্ত সংক্রমণ প্রতিরোধে কী?",
+    "options": [
+      "প্লেটলেট",
+      "শ্বেত কণিকা",
+      "প্লাজমা",
+      "লোহিত কণিকা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-06-model-test-04-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-06-model-test-04",
+    "text": "লসিকা তন্ত্রের কাজ কী?",
+    "options": [
+      "হরমোন",
+      "রক্ত প্লাজমা ফেরত",
+      "খাদ্য",
+      "O₂ বহন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

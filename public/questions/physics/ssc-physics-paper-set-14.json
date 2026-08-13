@@ -1,0 +1,382 @@
+[
+  {
+    "id": "ssc-physics-paper-set-14-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "কোন দেশে বায়োফুয়েল ব্যাপক আকারে ব্যবহৃত হচ্ছে?",
+    "options": [
+      "কানাডা",
+      "ব্রাজিল",
+      "চীন",
+      "জাপান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "একটি গাড়ির আদিবেগ 6 m/s এবং ত্বরণ 5 m/s²। 7 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "{u - a*t} m/s",
+      "{u + 2*a*t} m/s",
+      "42 m/s",
+      "{u + a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "অপটিক্যাল ফাইবারের ভিতরের অংশকে কী বলে?",
+    "options": [
+      "ক্ল্যাড",
+      "সরু কাচ তন্তু",
+      "কোর",
+      "আলোক নল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "শক্তির সবচেয়ে সাধারণ রূপ কোনটি?",
+    "options": [
+      "তাপশক্তি",
+      "আলোকশক্তি",
+      "সৌরশক্তি",
+      "যান্ত্রিক শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "20 cm³ আয়তনে পানির ভর কত?",
+    "options": [
+      "10g",
+      "20g",
+      "25g",
+      "50g"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "সুপ্ততাপ কোনটির পরিবর্তন ঘটায়?",
+    "options": [
+      "পদার্থের অবস্থার",
+      "তাপমাত্রার",
+      "গলনাঙ্কের",
+      "স্ফুটনাঙ্কের"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "ত্রিমাত্রিক সিসমিক সার্ভেতে প্রতিফলিত তরঙ্গকে কিসের সাহায্যে ধারণ করা হয়?",
+    "options": [
+      "গ্রিড",
+      "ট্রান্সডিউসার",
+      "জিওফোন",
+      "মনিটর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "অবতল দর্পণে রৈখিক বিবর্ধন 1 পেতে হলে বস্তুকে কোথায় স্থাপন করতে হবে?",
+    "options": [
+      "অসীমে",
+      "অসীম ও বক্রতার কেন্দ্রের মধ্যে",
+      "বক্রতার কেন্দ্রে",
+      "প্রধান ফোকাসে"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-14-q08.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "নিচের কোনটিতে আলোর প্রতিসরাঙ্কের মান সবচেয়ে বেশি?",
+    "options": [
+      "শূন্য মাধ্যম",
+      "পানি",
+      "বায়ু",
+      "কাচ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 10 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "5.0 A",
+      "{(v+r)} A",
+      "20 A",
+      "0.20 A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "বর্তনীতে ব্যবহৃত রোধক কত প্রকার?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "স্পিকারে কোন ধরনের চুম্বক ব্যবহার করা হয়?",
+    "options": [
+      "তাড়িত চুম্বক",
+      "দণ্ড চুম্বক",
+      "স্থায়ী চুম্বক",
+      "আবেশি চুম্বক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "নিচের কোন প্রতীকটি n-p-n ট্রানজিস্টরকে নির্দেশ করে?",
+    "options": [
+      "চিত্র ক",
+      "চিত্র খ",
+      "চিত্র গ",
+      "চিত্র ঘ"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-14-q13.svg",
+    "optionImages": [
+      "/images/quiz/premium/ssc-physics-paper-set-14-q13-option-1.svg",
+      "/images/quiz/premium/ssc-physics-paper-set-14-q13-option-2.svg",
+      "/images/quiz/premium/ssc-physics-paper-set-14-q13-option-3.svg",
+      "/images/quiz/premium/ssc-physics-paper-set-14-q13-option-4.svg"
+    ],
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "ব্যাটারি কত সালে আবিষ্কৃত হয়?",
+    "options": [
+      "1600",
+      "1700",
+      "1800",
+      "1900"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "কোন লেখচিত্রের মাধ্যমে ত্বরণ নির্ণয় করা যায়?",
+    "options": [
+      "দূরত্ব-সময়",
+      "সরণ-সময়",
+      "বেগ-সময়",
+      "মন্দন-সময়"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "গোলীয় দর্পণের প্রতিফলক পৃষ্ঠের মধ্যবিন্দুকে কী বলে?",
+    "options": [
+      "মেরু",
+      "ফোকাস",
+      "বক্রতার কেন্দ্র",
+      "আলোক কেন্দ্র"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-14-q16.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "স্প্রিং এ কোন ধরনের শক্তি সঞ্চিত থাকে?",
+    "options": [
+      "বিভব শক্তি",
+      "গতি শক্তি",
+      "শব্দ শক্তি",
+      "তাপ শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "1 cc কেরোসিনের ভর 0.8g। কেরোসিনের 50 cm গভীরে চাপ কত?",
+    "options": [
+      "392000 Nm⁻²",
+      "3920 Nm⁻²",
+      "392 Nm⁻²",
+      "3.92 Nm⁻²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "নিচের কোনটি গলনাঙ্ক নির্ণায়ক নয়?",
+    "options": [
+      "ঘনত্ব",
+      "ভর",
+      "তাপ",
+      "চাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "নিচের কোন মাধ্যমে শব্দ দ্রুত চলে?",
+    "options": [
+      "পানি",
+      "পারদ",
+      "লোহা",
+      "হাইডে্রাজেন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "অবতল দর্পণে অবাস্তব প্রতিবিম্ব পেতে হলে লক্ষ্যবস্তুকে কোথায় রাখতে হবে?",
+    "options": [
+      "3F ও ∞ এর মাঝে",
+      "F ও 2F এর মাঝে",
+      "P ও F এর মাঝে",
+      "2F ও ∞ এর মাঝে"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-14-q21.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "চার্জের প্রবাহ নিচের কোনটির উপর নির্ভর করে?",
+    "options": [
+      "বিভব পার্থক্য",
+      "পরিবাহীর রোধ",
+      "সঞ্চিত শক্তি",
+      "তড়িৎ তীব্রতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "নিচের কোনটি উচ্চ ক্ষমতার এক্স-রে ব্যবহার করে ক্যান্সার কোষকে ধ্বংস করতে পারে?",
+    "options": [
+      "সিটি স্ক্যান",
+      "এমআরআই",
+      "এনজিওগ্রাফি",
+      "রেডিওথেরাপি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "তাড়িতচৌম্বক আবেশের উপর ভিত্তি করে কোনটি তৈরি করা হয়?",
+    "options": [
+      "তড়িৎ মোটর",
+      "ট্রানজিস্টর",
+      "ট্রান্সফরমার",
+      "অ্যামপ্লিফায়ার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-14-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-14",
+    "text": "কোন যন্ত্রে X-ray ব্যবহার করা হয়?",
+    "options": [
+      "আলট্রাসনোগ্রাফি",
+      "সিটি স্ক্যান",
+      "এমআরআই",
+      "এন্ডোস্কোপি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

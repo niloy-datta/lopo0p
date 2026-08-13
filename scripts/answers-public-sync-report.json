@@ -1,0 +1,396 @@
+{
+  "generatedAt": "2026-06-29T03:27:13.621Z",
+  "counts": {
+    "answerFiles": 1719,
+    "publicQuestionFiles": 1444,
+    "orphanAnswers": 265,
+    "missingAnswers": 33,
+    "leakedPublicFiles": 0
+  },
+  "boardYearCoverage": {
+    "ssc": [
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "hsc": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  "orphanAnswers": [
+    {
+      "setId": "barisal-2022",
+      "answersPath": "backend/data/answers/biology/barisal-2022.answers.json"
+    },
+    {
+      "setId": "barisal-2023",
+      "answersPath": "backend/data/answers/biology/barisal-2023.answers.json"
+    },
+    {
+      "setId": "barisal-2024",
+      "answersPath": "backend/data/answers/biology/barisal-2024.answers.json"
+    },
+    {
+      "setId": "barisal-2025",
+      "answersPath": "backend/data/answers/biology/barisal-2025.answers.json"
+    },
+    {
+      "setId": "chittagong-2022",
+      "answersPath": "backend/data/answers/biology/chittagong-2022.answers.json"
+    },
+    {
+      "setId": "chittagong-2023",
+      "answersPath": "backend/data/answers/biology/chittagong-2023.answers.json"
+    },
+    {
+      "setId": "chittagong-2024",
+      "answersPath": "backend/data/answers/biology/chittagong-2024.answers.json"
+    },
+    {
+      "setId": "chittagong-2025",
+      "answersPath": "backend/data/answers/biology/chittagong-2025.answers.json"
+    },
+    {
+      "setId": "comilla-2022",
+      "answersPath": "backend/data/answers/biology/comilla-2022.answers.json"
+    },
+    {
+      "setId": "comilla-2023",
+      "answersPath": "backend/data/answers/biology/comilla-2023.answers.json"
+    },
+    {
+      "setId": "comilla-2024",
+      "answersPath": "backend/data/answers/biology/comilla-2024.answers.json"
+    },
+    {
+      "setId": "comilla-2025",
+      "answersPath": "backend/data/answers/biology/comilla-2025.answers.json"
+    },
+    {
+      "setId": "jessore-2022",
+      "answersPath": "backend/data/answers/biology/jessore-2022.answers.json"
+    },
+    {
+      "setId": "jessore-2023",
+      "answersPath": "backend/data/answers/biology/jessore-2023.answers.json"
+    },
+    {
+      "setId": "jessore-2024",
+      "answersPath": "backend/data/answers/biology/jessore-2024.answers.json"
+    },
+    {
+      "setId": "jessore-2025",
+      "answersPath": "backend/data/answers/biology/jessore-2025.answers.json"
+    },
+    {
+      "setId": "khulna-2022",
+      "answersPath": "backend/data/answers/biology/khulna-2022.answers.json"
+    },
+    {
+      "setId": "khulna-2023",
+      "answersPath": "backend/data/answers/biology/khulna-2023.answers.json"
+    },
+    {
+      "setId": "khulna-2024",
+      "answersPath": "backend/data/answers/biology/khulna-2024.answers.json"
+    },
+    {
+      "setId": "khulna-2025",
+      "answersPath": "backend/data/answers/biology/khulna-2025.answers.json"
+    },
+    {
+      "setId": "barisal-2022",
+      "answersPath": "backend/data/answers/biology-1st-paper/barisal-2022.answers.json"
+    },
+    {
+      "setId": "barisal-2023",
+      "answersPath": "backend/data/answers/biology-1st-paper/barisal-2023.answers.json"
+    },
+    {
+      "setId": "barisal-2024",
+      "answersPath": "backend/data/answers/biology-1st-paper/barisal-2024.answers.json"
+    },
+    {
+      "setId": "barisal-2025",
+      "answersPath": "backend/data/answers/biology-1st-paper/barisal-2025.answers.json"
+    },
+    {
+      "setId": "chittagong-2022",
+      "answersPath": "backend/data/answers/biology-1st-paper/chittagong-2022.answers.json"
+    },
+    {
+      "setId": "chittagong-2023",
+      "answersPath": "backend/data/answers/biology-1st-paper/chittagong-2023.answers.json"
+    },
+    {
+      "setId": "chittagong-2024",
+      "answersPath": "backend/data/answers/biology-1st-paper/chittagong-2024.answers.json"
+    },
+    {
+      "setId": "chittagong-2025",
+      "answersPath": "backend/data/answers/biology-1st-paper/chittagong-2025.answers.json"
+    },
+    {
+      "setId": "comilla-2022",
+      "answersPath": "backend/data/answers/biology-1st-paper/comilla-2022.answers.json"
+    },
+    {
+      "setId": "comilla-2023",
+      "answersPath": "backend/data/answers/biology-1st-paper/comilla-2023.answers.json"
+    },
+    {
+      "setId": "comilla-2024",
+      "answersPath": "backend/data/answers/biology-1st-paper/comilla-2024.answers.json"
+    },
+    {
+      "setId": "comilla-2025",
+      "answersPath": "backend/data/answers/biology-1st-paper/comilla-2025.answers.json"
+    },
+    {
+      "setId": "jessore-2022",
+      "answersPath": "backend/data/answers/biology-1st-paper/jessore-2022.answers.json"
+    },
+    {
+      "setId": "jessore-2023",
+      "answersPath": "backend/data/answers/biology-1st-paper/jessore-2023.answers.json"
+    },
+    {
+      "setId": "jessore-2024",
+      "answersPath": "backend/data/answers/biology-1st-paper/jessore-2024.answers.json"
+    },
+    {
+      "setId": "jessore-2025",
+      "answersPath": "backend/data/answers/biology-1st-paper/jessore-2025.answers.json"
+    },
+    {
+      "setId": "khulna-2022",
+      "answersPath": "backend/data/answers/biology-1st-paper/khulna-2022.answers.json"
+    },
+    {
+      "setId": "khulna-2023",
+      "answersPath": "backend/data/answers/biology-1st-paper/khulna-2023.answers.json"
+    },
+    {
+      "setId": "khulna-2024",
+      "answersPath": "backend/data/answers/biology-1st-paper/khulna-2024.answers.json"
+    },
+    {
+      "setId": "khulna-2025",
+      "answersPath": "backend/data/answers/biology-1st-paper/khulna-2025.answers.json"
+    },
+    {
+      "setId": "barisal-2022",
+      "answersPath": "backend/data/answers/biology-2nd-paper/barisal-2022.answers.json"
+    },
+    {
+      "setId": "barisal-2023",
+      "answersPath": "backend/data/answers/biology-2nd-paper/barisal-2023.answers.json"
+    },
+    {
+      "setId": "barisal-2024",
+      "answersPath": "backend/data/answers/biology-2nd-paper/barisal-2024.answers.json"
+    },
+    {
+      "setId": "barisal-2025",
+      "answersPath": "backend/data/answers/biology-2nd-paper/barisal-2025.answers.json"
+    },
+    {
+      "setId": "chittagong-2022",
+      "answersPath": "backend/data/answers/biology-2nd-paper/chittagong-2022.answers.json"
+    },
+    {
+      "setId": "chittagong-2023",
+      "answersPath": "backend/data/answers/biology-2nd-paper/chittagong-2023.answers.json"
+    },
+    {
+      "setId": "chittagong-2024",
+      "answersPath": "backend/data/answers/biology-2nd-paper/chittagong-2024.answers.json"
+    },
+    {
+      "setId": "chittagong-2025",
+      "answersPath": "backend/data/answers/biology-2nd-paper/chittagong-2025.answers.json"
+    },
+    {
+      "setId": "comilla-2022",
+      "answersPath": "backend/data/answers/biology-2nd-paper/comilla-2022.answers.json"
+    },
+    {
+      "setId": "comilla-2023",
+      "answersPath": "backend/data/answers/biology-2nd-paper/comilla-2023.answers.json"
+    }
+  ],
+  "missingAnswers": [
+    {
+      "setId": "chemistryset1-split-01-split-01-split-01-split-01",
+      "subject": "chemistry-1st-paper",
+      "publicPath": "public/questions/chemistry-1st-paper/chemistryset1-split-01-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "chemistryset1-split-01-split-01-split-01",
+      "subject": "chemistry-1st-paper",
+      "publicPath": "public/questions/chemistry-1st-paper/chemistryset1-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "chemistryset1-split-01-split-01",
+      "subject": "chemistry-1st-paper",
+      "publicPath": "public/questions/chemistry-1st-paper/chemistryset1-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpaperch2set11-split-01-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpaperch2set11-split-01-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpaperch2set11-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpaperch2set11-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpaperch2set11-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpaperch2set11-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpaperfinalsets-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpaperfinalsets-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpaperfinalsets-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpaperfinalsets-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpaperfinalsets-split-02-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpaperfinalsets-split-02-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpaperfinalsets-split-02-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpaperfinalsets-split-02-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets10and13-split-01-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets10and13-split-01-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets10and13-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets10and13-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets10and13-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets10and13-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets10and13-split-02-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets10and13-split-02-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets10and13-split-02-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets10and13-split-02-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets10and13-split-02-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets10and13-split-02-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets11and12-split-01-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets11and12-split-01-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets11and12-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets11and12-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets11and12-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets11and12-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets11and12-split-02-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets11and12-split-02-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets11and12-split-02-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets11and12-split-02-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets11and12-split-02-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets11and12-split-02-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets14to17-split-01-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets14to17-split-01-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets14to17-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets14to17-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets14to17-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets14to17-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets14to17-split-02-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets14to17-split-02-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets14to17-split-02-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets14to17-split-02-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets14to17-split-02-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets14to17-split-02-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets14to17-split-03-split-01-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets14to17-split-03-split-01-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets14to17-split-03-split-01-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets14to17-split-03-split-01-split-01.json"
+    },
+    {
+      "setId": "physicsfirstpapersets14to17-split-03-split-01",
+      "subject": "physics-1st-paper",
+      "publicPath": "public/questions/physics-1st-paper/physicsfirstpapersets14to17-split-03-split-01.json"
+    }
+  ],
+  "leakedPublic": [],
+  "status": "FAIL"
+}

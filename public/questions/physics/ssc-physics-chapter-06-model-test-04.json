@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "সুপ্ততাপ কোনটির পরিবর্তন ঘটায়?",
+    "options": [
+      "পদার্থের অবস্থার",
+      "তাপমাত্রার",
+      "গলনাঙ্কের",
+      "স্ফুটনাঙ্কের"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "তেজস্ক্রিয়তা সম্পর্কে কোনটি সঠিক?— i. এটি স্বতঃস্ফূর্ত ঘটনা ii. এতে অস্থিতিশীল নিউক্লিয়াস থেকে রশ্মি নির্গত হয় iii. এটি বাহ্যিক তাপমাত্রার উপর সম্পূর্ণ নির্ভরশীল",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "1 kg পানির তাপমাত্রা 10K বাড়াতে 4200 J তাপ প্রয়োজন হলে পানির আপেক্ষিক তাপ (s) কত?",
+    "options": [
+      "420 Jkg⁻¹K⁻¹",
+      "840 Jkg⁻¹K⁻¹",
+      "2100 Jkg⁻¹K⁻¹",
+      "4200 Jkg⁻¹K⁻¹"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "0.25 kg পানির তাপমাত্রা 20°C থেকে 60°C করতে কত তাপ লাগবে? পানির আপেক্ষিক তাপ 4200 Jkg⁻¹K⁻¹",
+    "options": [
+      "21000 J",
+      "31500 J",
+      "42000 J",
+      "63000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "0.1 kg ভরের তামার টুকরার তাপমাত্রা 30°C থেকে 80°C করতে 1950 J তাপ লাগে। তামার আপেক্ষিক তাপ কত?",
+    "options": [
+      "195 Jkg⁻¹K⁻¹",
+      "390 Jkg⁻¹K⁻¹",
+      "420 Jkg⁻¹K⁻¹",
+      "780 Jkg⁻¹K⁻¹"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "2 kg পানির তাপমাত্রা 5°C বাড়াতে 42000 J তাপ লাগে। পানির আপেক্ষিক তাপ কত?",
+    "options": [
+      "2100 Jkg⁻¹K⁻¹",
+      "3000 Jkg⁻¹K⁻¹",
+      "4200 Jkg⁻¹K⁻¹",
+      "8400 Jkg⁻¹K⁻¹"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "0.2 kg পানির তাপমাত্রা 25°C থেকে 75°C করতে কত তাপ লাগে? s = 4200 Jkg⁻¹K⁻¹",
+    "options": [
+      "21000 J",
+      "42000 J",
+      "63000 J",
+      "84000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "0.5 kg লোহার তাপমাত্রা 20K বাড়াতে 4500 J তাপ লাগে। লোহার আপেক্ষিক তাপ কত?",
+    "options": [
+      "350",
+      "400",
+      "450",
+      "500"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "2 kg ভরের বস্তুর আপেক্ষিক তাপ 4200 Jkg⁻¹K⁻¹। তাপমাত্রা 30K বাড়াতে কত তাপ লাগবে?",
+    "options": [
+      "12600 J",
+      "25200 J",
+      "50400 J",
+      "6 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "শব্দের বেগ বাতাসে তাপমাত্রা বৃদ্ধির সাথে—",
+    "options": [
+      "কমে",
+      "বাড়ে",
+      "অপরিবর্তিত থাকে",
+      "শূণ্য হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "নিচের কোনটি লব্ধ রাশি?",
+    "options": [
+      "দৈর্ঘ্য",
+      "ভর",
+      "তাপমাত্রা",
+      "ঘনত্ব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "0.5 kg পানির তাপমাত্রা 30°C থেকে 50°C করতে তাপ লাগবে—",
+    "options": [
+      "21000 J",
+      "42000 J",
+      "84000 J",
+      "105000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "বরফ গলনের সুপ্ততাপ বলতে বোঝায়—",
+    "options": [
+      "তাপমাত্রা বাড়ানোর তাপ",
+      "বরফকে পানিতে রূপান্তর করতে প্রয়োজনীয় তাপ",
+      "পানি ফুটানোর তাপ",
+      "গ্যাস ঠান্ডা করার তাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "নিচের কোনটি ভেক্টর রাশি?",
+    "options": [
+      "ভর",
+      "তাপমাত্রা",
+      "সরণ",
+      "সময়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "বরফ গলনের সময় এর তাপমাত্রা—",
+    "options": [
+      "বাড়তে থাকে",
+      "কমতে থাকে",
+      "স্থির থাকে",
+      "দ্বিগুণ হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "তাপ সঞ্চালনের যে পদ্ধতিতে কোনো জড় মাধ্যমের প্রয়োজন হয় না—",
+    "options": [
+      "পরিবহন",
+      "পরিচলন",
+      "বিকিরণ",
+      "প্রবাহ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "28°C থেকে 5°C তাপমাত্রার পার্থক্য=?",
+    "options": [
+      "-23",
+      "33",
+      "140",
+      "23"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "তাপমাত্রিক পদার্থ নয় কোনটি?",
+    "options": [
+      "অ্যালকোহল",
+      "পানি",
+      "গ্যাস",
+      "পারদ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "তাপ গ্রহণ করে পদার্থের তাপমাত্রা বৃদ্ধি— এ প্রক্রিয়ায় শক্তি কোথায় যায়?",
+    "options": [
+      "অণুগুলোর গতিশক্তিতে",
+      "স্থিতিশক্তিতে",
+      "রাসায়নিক বন্ধনে",
+      "আলোক শক্তিতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "পানির সর্বোচ্চ ঘনত্ব কোন তাপমাত্রায়?",
+    "options": [
+      "4°C",
+      "0°C",
+      "100°C",
+      "-4°C"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "তাপ পরিবহনে তাপ কোন দিকে প্রবাহিত হয়?",
+    "options": [
+      "উচ্চ তাপমাত্রা থেকে নিম্ন",
+      "নিম্ন থেকে উচ্চ",
+      "যেকোনো",
+      "স্থির"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "m=1 kg, c=4200 J/kg·K, ΔT=10 K হলে Q=?",
+    "options": [
+      "42000 J",
+      "420 J",
+      "4200 J",
+      "420000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "তাপের SI একক কোনটি?",
+    "options": [
+      "জুল",
+      "কেলভিন",
+      "ক্যালরি",
+      "ওয়াট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "তাপমাত্রার SI একক কোনটি?",
+    "options": [
+      "কেলভিন",
+      "সেলসিয়াস",
+      "ফারেনহাইট",
+      "জুল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-04-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-04",
+    "text": "কঠিন পদার্থের প্রসারণ সাধারণত কোন তাপমাত্রার সাথে বৃদ্ধি পায়?",
+    "options": [
+      "তাপমাত্রা বৃদ্ধির সাথে",
+      "তাপমাত্রা হ্রাসের সাথে",
+      "চাপ বৃদ্ধির সাথে",
+      "ঘনত্ব বৃদ্ধির সাথে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

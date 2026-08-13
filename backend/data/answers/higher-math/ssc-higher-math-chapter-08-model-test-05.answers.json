@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-08-model-test-05-q01": {
+    "correctOption": "$\\frac{\\pi}{6}$",
+    "explanation": "$30^\\circ=\\frac{30}{180}\\pi=\\frac{\\pi}{6}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q02": {
+    "correctOption": "$180^\\circ$",
+    "explanation": "$\\pi$ radian = $180^\\circ$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q03": {
+    "correctOption": "$90^\\circ$",
+    "explanation": "$\\frac{\\pi}{2}\\times\\frac{180^\\circ}{\\pi}=90^\\circ$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q04": {
+    "correctOption": "$3\\pi$ cm",
+    "explanation": "$s=r\\theta=9\\times\\frac{\\pi}{3}=3\\pi$ cm।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q05": {
+    "correctOption": "$2\\pi$ cm",
+    "explanation": "$s=r\\theta=8\\times\\frac{\\pi}{4}=2\\pi$ cm।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q06": {
+    "correctOption": "$\\frac53$",
+    "explanation": "$\\csc\\theta=\\frac1{\\sin\\theta}=\\frac53$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q07": {
+    "correctOption": "$\\frac54$",
+    "explanation": "$\\sec\\theta=\\frac1{\\cos\\theta}=\\frac54$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q08": {
+    "correctOption": "$\\frac32$",
+    "explanation": "$\\cot\\theta=\\frac1{\\tan\\theta}=\\frac32$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q09": {
+    "correctOption": "$\\frac14$",
+    "explanation": "$\\sin30^\\circ=\\frac12$ এবং $\\cos60^\\circ=\\frac12$। গুণফল $\\frac14$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q10": {
+    "correctOption": "$\\frac34$",
+    "explanation": "$\\cos30^\\circ=\\frac{\\sqrt3}{2}$ এবং $\\sin60^\\circ=\\frac{\\sqrt3}{2}$। গুণফল $\\frac34$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q11": {
+    "correctOption": "1",
+    "explanation": "$\\cot30^\\circ=\\frac1{\\tan30^\\circ}$। তাই গুণফল 1।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q12": {
+    "correctOption": "1",
+    "explanation": "$\\sec30^\\circ=\\frac1{\\cos30^\\circ}$। তাই গুণফল 1।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q13": {
+    "correctOption": "1",
+    "explanation": "$\\csc60^\\circ=\\frac1{\\sin60^\\circ}$। তাই গুণফল 1।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q14": {
+    "correctOption": "$\\frac14$",
+    "explanation": "$\\sin30^\\circ=\\frac12$। তাই $\\sin^230^\\circ=\\frac14$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q15": {
+    "correctOption": "$\\frac14$",
+    "explanation": "$\\cos60^\\circ=\\frac12$। তাই $\\cos^260^\\circ=\\frac14$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q16": {
+    "correctOption": "3",
+    "explanation": "$\\tan60^\\circ=\\sqrt3$। তাই $\\tan^260^\\circ=3$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q17": {
+    "correctOption": "$\\frac13$",
+    "explanation": "$\\tan30^\\circ=\\frac1{\\sqrt3}$। তাই $\\tan^230^\\circ=\\frac13$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q18": {
+    "correctOption": "$\\frac34$",
+    "explanation": "$\\sin^230^\\circ=\\frac14$। তাই $1-\\frac14=\\frac34$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q19": {
+    "correctOption": "$\\frac34$",
+    "explanation": "$\\cos^260^\\circ=\\frac14$। তাই $1-\\frac14=\\frac34$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q20": {
+    "correctOption": "$\\frac5{12}$",
+    "explanation": "লম্ব=5, অতিভুজ=13 হলে ভূমি=12। তাই $\\tan\\theta=\\frac5{12}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q21": {
+    "correctOption": "$\\frac{12}{13}$",
+    "explanation": "ভূমি=5, অতিভুজ=13 হলে লম্ব=12। তাই $\\sin\\theta=\\frac{12}{13}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q22": {
+    "correctOption": "$\\frac{13}{12}$",
+    "explanation": "লম্ব=12, ভূমি=5 হলে অতিভুজ=13। তাই $\\csc\\theta=\\frac{অতিভুজ}{লম্ব}=\\frac{13}{12}$।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q23": {
+    "correctOption": "25 m",
+    "explanation": "$\\tan45^\\circ=\\frac{h}{25}=1$। তাই $h=25$ m।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q24": {
+    "correctOption": "$12\\sqrt3$ m",
+    "explanation": "$\\tan60^\\circ=\\frac{h}{12}=\\sqrt3$। তাই $h=12\\sqrt3$ m।"
+  },
+  "ssc-higher-math-chapter-08-model-test-05-q25": {
+    "correctOption": "$30^\\circ$",
+    "explanation": "$\\tan\\theta=\\frac{18}{18\\sqrt3}=\\frac1{\\sqrt3}$। তাই $\\theta=30^\\circ$।"
+  }
+}

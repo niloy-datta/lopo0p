@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "√۲ + √۸ এর মান کت?",
+    "options": [
+      "√۱۰",
+      "۳√۲",
+      "۲√۱۰",
+      "۴√۲"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "√۵ × √۲۰ এর মান کت?",
+    "options": [
+      "۱۰",
+      "۵",
+      "۲√۵",
+      "√۱۰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۰.۹۹۹... এর মান কোনটির সমান?",
+    "options": [
+      "۰.۹",
+      "۹/۱۰",
+      "۱",
+      "۱۰/۹"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۰.۰۹۰۹۰۹... এর ভগ্নাংশ রূপ কত?",
+    "options": [
+      "۱/۱۱",
+      "۹/۱۰۰",
+      "۱/۱۰",
+      "۹/۹۰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۱.۰۲۰۲۰۲... এর ভগ্নাংশ রূপ কোনটি?",
+    "options": [
+      "۱۰۰/۹۹",
+      "۱۰۱/۹۹",
+      "۹۱/۹۰",
+      "۱۰/۹"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "নিচের কোনটি সঠিক?",
+    "options": [
+      "√۲ + √۳ = √۵",
+      "√۲ × √۳ = √۶",
+      "√۸ = ۴√۲",
+      "√۱۲ = ۲√۶"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۱/۳, ۰.۳۴, ۰.۳۳۳... — ক্রমবর্ধমান বিন্যাস কোনটি?",
+    "options": [
+      "۱/۳, ۰.۳۳۳..., ۰.۳۴",
+      "۰.۳۳۳..., ۱/۳, ۰.۳۴",
+      "۱/۳, ۰.۳۴, ۰.۳۳۳...",
+      "۰.۳۴, ۱/۳, ۰.۳۳۳..."
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "−۰.۷, −۲/۳, −۰.۶۵ — সবচেয়ে ছোট কোনটি?",
+    "options": [
+      "−۰.۷",
+      "−۲/۳",
+      "−۰.۶۵",
+      "তিনটি সমান"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۱/۲ ÷ ۱/۴ × ۱/۸ এর মান کت?",
+    "options": [
+      "۱",
+      "۱/۴",
+      "۱/۱۶",
+      "۴"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۰.۲ × ۰.۰۲ × ۰.۰۰۲ এর মান کت?",
+    "options": [
+      "۰.۰۰۰۸",
+      "۰.۰۰۰۰۸",
+      "۰.۰۰۰۰۰۸",
+      "۰.۰۰۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "√۷۲ কে সরল করলে কোনটি হয়?",
+    "options": [
+      "۶√۲",
+      "۱۲√۲",
+      "۸√۳",
+      "۳√۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "√۲۷/√۳ এর মান কত?",
+    "options": [
+      "√۹",
+      "۹",
+      "۳√۳",
+      "√۲۴"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۳√۵ + ۲√۵ − √۵ এর মান কত?",
+    "options": [
+      "۴√۵",
+      "۵√۵",
+      "۶√۵",
+      "۴√۱۵"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۰.۱۲۵ × ۸ এর মান کت?",
+    "options": [
+      "۰.۱",
+      "۱",
+      "۱۰",
+      "۰.۰۱"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۰.۰۴ ÷ ۰.۲ এর মান কত?",
+    "options": [
+      "۰.۲",
+      "۲",
+      "۰.۰۲",
+      "۲۰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۵/۶ সংখ্যার যোগাত্মক বিপরীত ও গুণাত্মক বিপরীতের যোগফল কত?",
+    "options": [
+      "۱۱/۳۰",
+      "۳/۱۰",
+      "۵/۶",
+      "−۱۱/۳۰"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "√۰.۲۵ × √۰.۳۶ এর মান কত?",
+    "options": [
+      "۰.۳",
+      "۰.۰۳",
+      "۳",
+      "۰.۶"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۰.۱۲ + ۰.۰۰۸ + ۰.۴ এর মান کت?",
+    "options": [
+      "۰.۵۲۸",
+      "۰.۴۲۸",
+      "۰.۱۲۸",
+      "۰.۸۲۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۲/۷ ও ۳/۱۱ এর মধ্যে বড় কোনটি?",
+    "options": [
+      "۲/۷",
+      "۳/۱۱",
+      "উভয় সমান",
+      "নির্ণয় করা যায় না"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۴/۵, ۰.۷۹, ۰.۸۰۱ — সবচেয়ে বড় কোনটি?",
+    "options": [
+      "۴/۵",
+      "۰.۷۹",
+      "۰.۸۰۱",
+      "۰.۸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "কোন সংখ্যাটি ۲ ও ۳ এর মধ্যে অবস্থিত?",
+    "options": [
+      "√۳",
+      "√۵",
+      "√۱۰",
+      "√۱۶"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "কোন সংখ্যাটি ۴ ও ۵ এর মধ্যে অবস্থিত?",
+    "options": [
+      "√۱۵",
+      "√۱۷",
+      "√۲۵",
+      "√۳۶"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۱/۹ + ۰.۸۸۸... এর মান কত?",
+    "options": [
+      "۱",
+      "۸/۹",
+      "۹/۸",
+      "۰.۹"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۰.۴۴۴... + ۰.۵۵۵... এর মান کت?",
+    "options": [
+      "۰.۹",
+      "۱",
+      "۹/۱۰",
+      "۱۰/۹"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-04-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-04",
+    "text": "۲.۰۵ − ۰.۹۹ এর মান কত?",
+    "options": [
+      "۱.۰۶",
+      "۱.۱۶",
+      "۱.۰۴",
+      "۱.۱۴"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

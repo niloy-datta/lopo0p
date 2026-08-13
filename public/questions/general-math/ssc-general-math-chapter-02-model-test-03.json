@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {x : x হলো ১০-এর কম মৌলিক সংখ্যা} হলে A কোনটি?",
+    "options": [
+      "{১, ২, ৩, ৫, ৭}",
+      "{২, ৩, ৫, ৭}",
+      "{২, ৪, ৬, ৮}",
+      "{৩, ৫, ৭, ৯}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {x : x² = ৯, x ∈ Z} হলে A কোনটি?",
+    "options": [
+      "{৩}",
+      "{−৩}",
+      "{−৩, ৩}",
+      "∅"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {x : x² = ৯, x ∈ N} হলে A কোনটি?",
+    "options": [
+      "{৩}",
+      "{−৩}",
+      "{−৩, ৩}",
+      "∅"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২, ৩, ৪, ৫}, B = {২, ৪, ৬} হলে A ∩ B কোনটি?",
+    "options": [
+      "{২, ৪}",
+      "{১, ৩, ৫}",
+      "{৬}",
+      "{১, ২, ৩, ৪, ৫, ৬}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২, ৩, ৪, ৫}, B = {২, ৪, ৬} হলে A ∪ B কোনটি?",
+    "options": [
+      "{১, ২, ৩, ৪, ৫}",
+      "{২, ৪}",
+      "{১, ২, ৩, ৪, ৫, ৬}",
+      "{১, ৩, ৫, ৬}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২, ৩, ৪, ৫}, B = {২, ৪, ৬} হলে A − B কোনটি?",
+    "options": [
+      "{১, ৩, ৫}",
+      "{৬}",
+      "{২, ৪}",
+      "{১, ২, ৩, ৪, ৫, ৬}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "U = {১, ২, ৩, ৪, ৫, ৬}, A = {১, ৩, ৫} হলে A′ কোনটি?",
+    "options": [
+      "{১, ৩, ৫}",
+      "{২, ৪, ৬}",
+      "{১, ২, ৩, ৪, ৫, ৬}",
+      "∅"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "U = {a, b, c, d, e}, A = {a, c}, B = {c, d} হলে (A ∪ B)′ কোনটি?",
+    "options": [
+      "{b, e}",
+      "{a, c, d}",
+      "{c}",
+      "{b, c, e}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "U = {a, b, c, d}, A = {a, b}, B = {b, c} হলে (A ∩ B)′ কোনটি?",
+    "options": [
+      "{b}",
+      "{a, c, d}",
+      "{a, d}",
+      "{c, d}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২, ৩}, B = {৩, ৪}, C = {৪, ৫} হলে A ∩ (B ∪ C) কোনটি?",
+    "options": [
+      "{৩}",
+      "{৪}",
+      "{৩, ৪}",
+      "∅"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২, ৩}, B = {২, ৩, ৪}, C = {৩, ৪, ৫} হলে (A ∩ B) ∩ C কোনটি?",
+    "options": [
+      "{২}",
+      "{৩}",
+      "{২, ৩}",
+      "{৪}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২}, B = {২, ৩}, C = {৩, ৪} হলে (A ∪ B) ∩ C কোনটি?",
+    "options": [
+      "{১, ২, ৩}",
+      "{৩}",
+      "{২, ৩}",
+      "∅"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২, ৩}, B = {৩, ৪, ৫} হলে (A − B) ∪ (B − A) কোনটি?",
+    "options": [
+      "{১, ২, ৪, ৫}",
+      "{৩}",
+      "{১, ২, ৩, ৪, ৫}",
+      "∅"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২, ৩}, B = {৩, ৪, ৫} হলে (A ∪ B) − (A ∩ B) কোনটি?",
+    "options": [
+      "{১, ২, ৪, ৫}",
+      "{৩}",
+      "{১, ২, ৩, ৪, ৫}",
+      "∅"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "n(A ∪ B) = ৩০, n(A ∩ B) = ৫, n(A) = ১৮ হলে n(B) কত?",
+    "options": [
+      "১২",
+      "১৭",
+      "২০",
+      "২৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "একটি শ্রেণিতে ২৫ জন গণিত পছন্দ করে, ২০ জন বিজ্ঞান পছন্দ করে এবং ১০ জন উভয়টি পছন্দ করে। অন্তত একটি বিষয় পছন্দ করে কতজন?",
+    "options": [
+      "৩৫",
+      "৪৫",
+      "৫৫",
+      "১৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "৪০ জন শিক্ষার্থীর মধ্যে ১৮ জন ফুটবল, ২২ জন ক্রিকেট এবং ৮ জন উভয়ই খেলে। কোনোটি খেলে না কতজন?",
+    "options": [
+      "৮",
+      "১০",
+      "১২",
+      "১৪"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২, ৩}, B = {a, b} হলে A × B-এর কোনটি উপাদান?",
+    "options": [
+      "(a, ১)",
+      "(১, a)",
+      "{১, a}",
+      "(১, ২)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২}, B = {x, y, z} হলে B × A-এর কোনটি উপাদান নয়?",
+    "options": [
+      "(x, ১)",
+      "(y, ২)",
+      "(z, ১)",
+      "(১, x)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "f(x) = x² + x হলে f(৩) কত?",
+    "options": [
+      "৬",
+      "৯",
+      "১২",
+      "১৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "f(x) = ২x − ৫ হলে f(৫) কত?",
+    "options": [
+      "০",
+      "৫",
+      "১০",
+      "১৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "f(x) = ১০ − ২x হলে f(৪) কত?",
+    "options": [
+      "২",
+      "৪",
+      "৬",
+      "৮"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {১, ২, ৩, ৪}, f(x) = x + ৩ হলে রেঞ্জ কোনটি?",
+    "options": [
+      "{১, ২, ৩, ৪}",
+      "{৩, ৪, ৫, ৬}",
+      "{৪, ৫, ৬, ৭}",
+      "{২, ৩, ৪, ৫}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "A = {−২, −১, ০, ১}, f(x) = x² হলে রেঞ্জ কোনটি?",
+    "options": [
+      "{−২, −১, ০, ১}",
+      "{০, ১, ৪}",
+      "{১, ৪}",
+      "{−৪, −১, ০, ১}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-03-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-03",
+    "text": "নিচের কোনটি ফাংশন নয়?",
+    "options": [
+      "{(১, ২), (২, ৪), (৩, ৬)}",
+      "{(১, ৫), (২, ৫), (৩, ৫)}",
+      "{(১, ২), (১, ৪), (২, ৬)}",
+      "{(০, ১), (১, ২), (২, ৩)}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

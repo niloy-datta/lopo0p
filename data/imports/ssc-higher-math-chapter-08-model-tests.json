@@ -1,0 +1,2279 @@
+{
+  "sets": [
+    {
+      "setName": "অধ্যায় 8 · ত্রিকোণমিতি · মডেল টেস্ট 01",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$180^\\circ$ কোণের রেডিয়ান মান কত?",
+          "options": [
+            "$\\pi$",
+            "$\\frac{\\pi}{2}$",
+            "$2\\pi$",
+            "$\\frac{\\pi}{3}$"
+          ],
+          "answer": "$\\pi$",
+          "answerIndex": 0,
+          "explanation": "$180^\\circ=\\pi$ radian।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$90^\\circ$ কোণের রেডিয়ান মান কত?",
+          "options": [
+            "$\\frac{\\pi}{2}$",
+            "$\\pi$",
+            "$\\frac{\\pi}{3}$",
+            "$\\frac{\\pi}{6}$"
+          ],
+          "answer": "$\\frac{\\pi}{2}$",
+          "answerIndex": 0,
+          "explanation": "$90^\\circ=\\frac{90}{180}\\pi=\\frac{\\pi}{2}$ radian।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\frac{\\pi}{6}$ রেডিয়ান সমান কত ডিগ্রি?",
+          "options": [
+            "$30^\\circ$",
+            "$45^\\circ$",
+            "$60^\\circ$",
+            "$90^\\circ$"
+          ],
+          "answer": "$30^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\pi$ radian = $180^\\circ$। তাই $\\frac{\\pi}{6}=30^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "বৃত্তীয় পরিমাপে চাপের দৈর্ঘ্য $s$, ব্যাসার্ধ $r$ এবং কোণ $\\theta$ হলে সঠিক সম্পর্ক কোনটি?",
+          "options": [
+            "$s=r\\theta$",
+            "$s=\\frac{\\theta}{r}$",
+            "$s=r+\\theta$",
+            "$s=r^2\\theta$"
+          ],
+          "answer": "$s=r\\theta$",
+          "answerIndex": 0,
+          "explanation": "কোণ $\\theta$ রেডিয়ানে হলে চাপের দৈর্ঘ্য $s=r\\theta$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "ব্যাসার্ধ 7 cm এবং কেন্দ্রীয় কোণ 2 radian হলে চাপের দৈর্ঘ্য কত?",
+          "options": [
+            "14 cm",
+            "9 cm",
+            "7 cm",
+            "21 cm"
+          ],
+          "answer": "14 cm",
+          "answerIndex": 0,
+          "explanation": "$s=r\\theta=7\\times2=14$ cm।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "ব্যাসার্ধ 12 cm এবং কেন্দ্রীয় কোণ $60^\\circ$ হলে চাপের দৈর্ঘ্য কত?",
+          "options": [
+            "$4\\pi$ cm",
+            "$6\\pi$ cm",
+            "$12\\pi$ cm",
+            "$2\\pi$ cm"
+          ],
+          "answer": "$4\\pi$ cm",
+          "answerIndex": 0,
+          "explanation": "$60^\\circ=\\frac{\\pi}{3}$। তাই $s=r\\theta=12\\times\\frac{\\pi}{3}=4\\pi$ cm।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "সমকোণী ত্রিভুজে $\\sin\\theta$ কোন অনুপাতের সমান?",
+          "options": [
+            "লম্ব/অতিভুজ",
+            "ভূমি/অতিভুজ",
+            "লম্ব/ভূমি",
+            "অতিভুজ/লম্ব"
+          ],
+          "answer": "লম্ব/অতিভুজ",
+          "answerIndex": 0,
+          "explanation": "সমকোণী ত্রিভুজে $\\sin\\theta=\\frac{লম্ব}{অতিভুজ}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "সমকোণী ত্রিভুজে $\\tan\\theta$ কোন অনুপাতের সমান?",
+          "options": [
+            "লম্ব/ভূমি",
+            "ভূমি/লম্ব",
+            "অতিভুজ/ভূমি",
+            "ভূমি/অতিভুজ"
+          ],
+          "answer": "লম্ব/ভূমি",
+          "answerIndex": 0,
+          "explanation": "$\\tan\\theta=\\frac{লম্ব}{ভূমি}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\sec\\theta$ কোনটির বিপরীত অনুপাত?",
+          "options": [
+            "$\\cos\\theta$",
+            "$\\sin\\theta$",
+            "$\\tan\\theta$",
+            "$\\cot\\theta$"
+          ],
+          "answer": "$\\cos\\theta$",
+          "answerIndex": 0,
+          "explanation": "$\\sec\\theta=\\frac{1}{\\cos\\theta}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "সঠিক ত্রিকোণমিতিক অভেদ কোনটি?",
+          "options": [
+            "$\\sin^2\\theta+\\cos^2\\theta=1$",
+            "$\\sin\\theta+\\cos\\theta=1$",
+            "$\\tan^2\\theta+\\cot^2\\theta=1$",
+            "$\\sec\\theta+\\csc\\theta=1$"
+          ],
+          "answer": "$\\sin^2\\theta+\\cos^2\\theta=1$",
+          "answerIndex": 0,
+          "explanation": "মৌলিক ত্রিকোণমিতিক অভেদ হলো $\\sin^2\\theta+\\cos^2\\theta=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$1+\\tan^2\\theta$ এর মান কোনটির সমান?",
+          "options": [
+            "$\\sec^2\\theta$",
+            "$\\csc^2\\theta$",
+            "$\\sin^2\\theta$",
+            "$\\cos^2\\theta$"
+          ],
+          "answer": "$\\sec^2\\theta$",
+          "answerIndex": 0,
+          "explanation": "মৌলিক অভেদ অনুযায়ী $1+\\tan^2\\theta=\\sec^2\\theta$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$1+\\cot^2\\theta$ এর মান কোনটির সমান?",
+          "options": [
+            "$\\csc^2\\theta$",
+            "$\\sec^2\\theta$",
+            "$\\tan^2\\theta$",
+            "$\\sin^2\\theta$"
+          ],
+          "answer": "$\\csc^2\\theta$",
+          "answerIndex": 0,
+          "explanation": "মৌলিক অভেদ অনুযায়ী $1+\\cot^2\\theta=\\csc^2\\theta$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\sin30^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac12$",
+            "$\\frac{\\sqrt3}{2}$",
+            "$1$",
+            "$0$"
+          ],
+          "answer": "$\\frac12$",
+          "answerIndex": 0,
+          "explanation": "Standard value অনুযায়ী $\\sin30^\\circ=\\frac12$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\cos60^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac12$",
+            "$\\frac{\\sqrt3}{2}$",
+            "$1$",
+            "$0$"
+          ],
+          "answer": "$\\frac12$",
+          "answerIndex": 0,
+          "explanation": "$\\cos60^\\circ=\\frac12$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\tan45^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\sqrt3$",
+            "$\\frac{1}{\\sqrt3}$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\tan45^\\circ=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\sin^230^\\circ+\\cos^230^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\frac12$",
+            "$\\frac32$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\sin^2\\theta+\\cos^2\\theta=1$। তাই মান 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\tan30^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac{1}{\\sqrt3}$",
+            "$\\sqrt3$",
+            "1",
+            "0"
+          ],
+          "answer": "$\\frac{1}{\\sqrt3}$",
+          "answerIndex": 0,
+          "explanation": "$\\tan30^\\circ=\\frac{1}{\\sqrt3}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\tan60^\\circ$ এর মান কত?",
+          "options": [
+            "$\\sqrt3$",
+            "$\\frac{1}{\\sqrt3}$",
+            "1",
+            "0"
+          ],
+          "answer": "$\\sqrt3$",
+          "answerIndex": 0,
+          "explanation": "$\\tan60^\\circ=\\sqrt3$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\sec60^\\circ$ এর মান কত?",
+          "options": [
+            "2",
+            "$\\frac12$",
+            "$\\sqrt3$",
+            "$\\frac{2}{\\sqrt3}$"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "$\\sec60^\\circ=\\frac{1}{\\cos60^\\circ}=\\frac{1}{1/2}=2$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\csc30^\\circ$ এর মান কত?",
+          "options": [
+            "2",
+            "$\\frac12$",
+            "$\\sqrt3$",
+            "$\\frac{2}{\\sqrt3}$"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "$\\csc30^\\circ=\\frac{1}{\\sin30^\\circ}=2$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "যদি $\\sin\\theta=\\frac35$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\cos\\theta$ কত?",
+          "options": [
+            "$\\frac45$",
+            "$\\frac35$",
+            "$\\frac34$",
+            "$\\frac53$"
+          ],
+          "answer": "$\\frac45$",
+          "answerIndex": 0,
+          "explanation": "$\\sin\\theta=\\frac35$ হলে লম্ব=3, অতিভুজ=5। তাই ভূমি=4 এবং $\\cos\\theta=\\frac45$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "যদি $\\tan\\theta=\\frac34$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\sin\\theta$ কত?",
+          "options": [
+            "$\\frac35$",
+            "$\\frac45$",
+            "$\\frac34$",
+            "$\\frac43$"
+          ],
+          "answer": "$\\frac35$",
+          "answerIndex": 0,
+          "explanation": "$\\tan\\theta=\\frac{লম্ব}{ভূমি}=\\frac34$ হলে অতিভুজ=5। তাই $\\sin\\theta=\\frac35$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "ভূমি থেকে একটি টাওয়ারের শীর্ষের উন্নতি কোণ $45^\\circ$ এবং টাওয়ার থেকে পর্যবেক্ষকের দূরত্ব 20 m হলে টাওয়ারের উচ্চতা কত?",
+          "options": [
+            "20 m",
+            "10 m",
+            "$20\\sqrt3$ m",
+            "$10\\sqrt3$ m"
+          ],
+          "answer": "20 m",
+          "answerIndex": 0,
+          "explanation": "$\\tan45^\\circ=\\frac{উচ্চতা}{দূরত্ব}=1$। তাই উচ্চতা = 20 m।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "ভূমি থেকে একটি স্তম্ভের শীর্ষের উন্নতি কোণ $30^\\circ$ এবং স্তম্ভ থেকে দূরত্ব $30\\sqrt3$ m হলে স্তম্ভের উচ্চতা কত?",
+          "options": [
+            "30 m",
+            "$30\\sqrt3$ m",
+            "15 m",
+            "$10\\sqrt3$ m"
+          ],
+          "answer": "30 m",
+          "answerIndex": 0,
+          "explanation": "$\\tan30^\\circ=\\frac{1}{\\sqrt3}=\\frac{উচ্চতা}{30\\sqrt3}$। তাই উচ্চতা = 30 m।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 90
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-01-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-01",
+          "text": "$\\frac{\\sin\\theta}{\\cos\\theta}$ কোনটির সমান?",
+          "options": [
+            "$\\tan\\theta$",
+            "$\\cot\\theta$",
+            "$\\sec\\theta$",
+            "$\\csc\\theta$"
+          ],
+          "answer": "$\\tan\\theta$",
+          "answerIndex": 0,
+          "explanation": "$\\tan\\theta=\\frac{\\sin\\theta}{\\cos\\theta}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 8 · ত্রিকোণমিতি · মডেল টেস্ট 02",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$45^\\circ$ কোণের রেডিয়ান মান কত?",
+          "options": [
+            "$\\frac{\\pi}{4}$",
+            "$\\frac{\\pi}{3}$",
+            "$\\frac{\\pi}{6}$",
+            "$\\frac{\\pi}{2}$"
+          ],
+          "answer": "$\\frac{\\pi}{4}$",
+          "answerIndex": 0,
+          "explanation": "$45^\\circ=\\frac{45}{180}\\pi=\\frac{\\pi}{4}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$60^\\circ$ কোণের রেডিয়ান মান কত?",
+          "options": [
+            "$\\frac{\\pi}{3}$",
+            "$\\frac{\\pi}{6}$",
+            "$\\frac{\\pi}{4}$",
+            "$\\frac{2\\pi}{3}$"
+          ],
+          "answer": "$\\frac{\\pi}{3}$",
+          "answerIndex": 0,
+          "explanation": "$60^\\circ=\\frac{60}{180}\\pi=\\frac{\\pi}{3}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\frac{2\\pi}{3}$ রেডিয়ান সমান কত ডিগ্রি?",
+          "options": [
+            "$120^\\circ$",
+            "$90^\\circ$",
+            "$60^\\circ$",
+            "$150^\\circ$"
+          ],
+          "answer": "$120^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\frac{2\\pi}{3}\\times\\frac{180^\\circ}{\\pi}=120^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "ব্যাসার্ধ 10 cm এবং কোণ $\\frac{\\pi}{5}$ radian হলে চাপের দৈর্ঘ্য কত?",
+          "options": [
+            "$2\\pi$ cm",
+            "$5\\pi$ cm",
+            "$10\\pi$ cm",
+            "$\\pi$ cm"
+          ],
+          "answer": "$2\\pi$ cm",
+          "answerIndex": 0,
+          "explanation": "$s=r\\theta=10\\times\\frac{\\pi}{5}=2\\pi$ cm।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "চাপের দৈর্ঘ্য 18 cm এবং ব্যাসার্ধ 6 cm হলে কেন্দ্রীয় কোণ কত radian?",
+          "options": [
+            "3",
+            "2",
+            "6",
+            "12"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "$s=r\\theta$। তাই $18=6\\theta$, $\\theta=3$ radian।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "সমকোণী ত্রিভুজে $\\cos\\theta$ কোন অনুপাতের সমান?",
+          "options": [
+            "ভূমি/অতিভুজ",
+            "লম্ব/অতিভুজ",
+            "লম্ব/ভূমি",
+            "অতিভুজ/ভূমি"
+          ],
+          "answer": "ভূমি/অতিভুজ",
+          "answerIndex": 0,
+          "explanation": "$\\cos\\theta=\\frac{ভূমি}{অতিভুজ}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\cot\\theta$ কোন অনুপাতের সমান?",
+          "options": [
+            "ভূমি/লম্ব",
+            "লম্ব/ভূমি",
+            "অতিভুজ/ভূমি",
+            "অতিভুজ/লম্ব"
+          ],
+          "answer": "ভূমি/লম্ব",
+          "answerIndex": 0,
+          "explanation": "$\\cot\\theta=\\frac{ভূমি}{লম্ব}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\csc\\theta$ কোনটির বিপরীত অনুপাত?",
+          "options": [
+            "$\\sin\\theta$",
+            "$\\cos\\theta$",
+            "$\\tan\\theta$",
+            "$\\sec\\theta$"
+          ],
+          "answer": "$\\sin\\theta$",
+          "answerIndex": 0,
+          "explanation": "$\\csc\\theta=\\frac{1}{\\sin\\theta}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\sin60^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac{\\sqrt3}{2}$",
+            "$\\frac12$",
+            "$\\frac{1}{\\sqrt3}$",
+            "1"
+          ],
+          "answer": "$\\frac{\\sqrt3}{2}$",
+          "answerIndex": 0,
+          "explanation": "$\\sin60^\\circ=\\frac{\\sqrt3}{2}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\cos30^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac{\\sqrt3}{2}$",
+            "$\\frac12$",
+            "$1$",
+            "$0$"
+          ],
+          "answer": "$\\frac{\\sqrt3}{2}$",
+          "answerIndex": 0,
+          "explanation": "$\\cos30^\\circ=\\frac{\\sqrt3}{2}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\sin45^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac{1}{\\sqrt2}$",
+            "$\\frac12$",
+            "$\\frac{\\sqrt3}{2}$",
+            "$\\sqrt2$"
+          ],
+          "answer": "$\\frac{1}{\\sqrt2}$",
+          "answerIndex": 0,
+          "explanation": "$\\sin45^\\circ=\\frac{1}{\\sqrt2}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\cos45^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac{1}{\\sqrt2}$",
+            "$\\frac12$",
+            "$\\frac{\\sqrt3}{2}$",
+            "1"
+          ],
+          "answer": "$\\frac{1}{\\sqrt2}$",
+          "answerIndex": 0,
+          "explanation": "$\\cos45^\\circ=\\frac{1}{\\sqrt2}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\sin0^\\circ$ এর মান কত?",
+          "options": [
+            "0",
+            "1",
+            "$\\frac12$",
+            "$\\frac{1}{\\sqrt2}$"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "explanation": "$\\sin0^\\circ=0$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\cos0^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\frac12$",
+            "$\\sqrt3$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\cos0^\\circ=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\sin90^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\frac12$",
+            "$\\frac{\\sqrt3}{2}$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\sin90^\\circ=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\cos90^\\circ$ এর মান কত?",
+          "options": [
+            "0",
+            "1",
+            "$\\frac12$",
+            "$\\frac{1}{\\sqrt2}$"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "explanation": "$\\cos90^\\circ=0$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\frac{\\cos\\theta}{\\sin\\theta}$ কোনটির সমান?",
+          "options": [
+            "$\\cot\\theta$",
+            "$\\tan\\theta$",
+            "$\\sec\\theta$",
+            "$\\csc\\theta$"
+          ],
+          "answer": "$\\cot\\theta$",
+          "answerIndex": 0,
+          "explanation": "$\\cot\\theta=\\frac{\\cos\\theta}{\\sin\\theta}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\sec^2\\theta-\\tan^2\\theta$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\sin^2\\theta$",
+            "$\\cos^2\\theta$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$1+\\tan^2\\theta=\\sec^2\\theta$। তাই $\\sec^2\\theta-\\tan^2\\theta=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\csc^2\\theta-\\cot^2\\theta$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\tan^2\\theta$",
+            "$\\sec^2\\theta$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$1+\\cot^2\\theta=\\csc^2\\theta$। তাই $\\csc^2\\theta-\\cot^2\\theta=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "যদি $\\cos\\theta=\\frac{12}{13}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\sin\\theta$ কত?",
+          "options": [
+            "$\\frac5{13}$",
+            "$\\frac{12}{13}$",
+            "$\\frac5{12}$",
+            "$\\frac{13}{12}$"
+          ],
+          "answer": "$\\frac5{13}$",
+          "answerIndex": 0,
+          "explanation": "ভূমি=12, অতিভুজ=13 হলে লম্ব=5। তাই $\\sin\\theta=\\frac5{13}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "যদি $\\sin\\theta=\\frac8{17}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\cos\\theta$ কত?",
+          "options": [
+            "$\\frac{15}{17}$",
+            "$\\frac8{17}$",
+            "$\\frac8{15}$",
+            "$\\frac{17}{15}$"
+          ],
+          "answer": "$\\frac{15}{17}$",
+          "answerIndex": 0,
+          "explanation": "লম্ব=8, অতিভুজ=17 হলে ভূমি=15। তাই $\\cos\\theta=\\frac{15}{17}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "যদি $\\tan\\theta=\\frac{5}{12}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\cos\\theta$ কত?",
+          "options": [
+            "$\\frac{12}{13}$",
+            "$\\frac5{13}$",
+            "$\\frac5{12}$",
+            "$\\frac{13}{12}$"
+          ],
+          "answer": "$\\frac{12}{13}$",
+          "answerIndex": 0,
+          "explanation": "$\\tan\\theta=\\frac{লম্ব}{ভূমি}=\\frac5{12}$ হলে অতিভুজ=13। তাই $\\cos\\theta=\\frac{12}{13}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "একটি খুঁটির শীর্ষের উন্নতি কোণ $60^\\circ$ এবং খুঁটি থেকে দূরত্ব 10 m হলে খুঁটির উচ্চতা কত?",
+          "options": [
+            "$10\\sqrt3$ m",
+            "10 m",
+            "$\\frac{10}{\\sqrt3}$ m",
+            "20 m"
+          ],
+          "answer": "$10\\sqrt3$ m",
+          "answerIndex": 0,
+          "explanation": "$\\tan60^\\circ=\\frac{উচ্চতা}{10}=\\sqrt3$। তাই উচ্চতা $=10\\sqrt3$ m।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "একটি টাওয়ারের উচ্চতা 30 m এবং পর্যবেক্ষক থেকে দূরত্ব 30 m হলে উন্নতি কোণ কত?",
+          "options": [
+            "$45^\\circ$",
+            "$30^\\circ$",
+            "$60^\\circ$",
+            "$90^\\circ$"
+          ],
+          "answer": "$45^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\tan\\theta=\\frac{30}{30}=1$। তাই $\\theta=45^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-02-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-02",
+          "text": "$\\sin^245^\\circ+\\cos^245^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "$\\frac12$",
+            "$\\sqrt2$",
+            "2"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "যেকোনো $\\theta$-এর জন্য $\\sin^2\\theta+\\cos^2\\theta=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 8 · ত্রিকোণমিতি · মডেল টেস্ট 03",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$120^\\circ$ কোণের রেডিয়ান মান কত?",
+          "options": [
+            "$\\frac{2\\pi}{3}$",
+            "$\\frac{\\pi}{3}$",
+            "$\\frac{3\\pi}{2}$",
+            "$\\frac{\\pi}{6}$"
+          ],
+          "answer": "$\\frac{2\\pi}{3}$",
+          "answerIndex": 0,
+          "explanation": "$120^\\circ=\\frac{120}{180}\\pi=\\frac{2\\pi}{3}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$150^\\circ$ কোণের রেডিয়ান মান কত?",
+          "options": [
+            "$\\frac{5\\pi}{6}$",
+            "$\\frac{2\\pi}{3}$",
+            "$\\frac{3\\pi}{4}$",
+            "$\\frac{\\pi}{6}$"
+          ],
+          "answer": "$\\frac{5\\pi}{6}$",
+          "answerIndex": 0,
+          "explanation": "$150^\\circ=\\frac{150}{180}\\pi=\\frac{5\\pi}{6}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\frac{3\\pi}{4}$ রেডিয়ান সমান কত ডিগ্রি?",
+          "options": [
+            "$135^\\circ$",
+            "$120^\\circ$",
+            "$150^\\circ$",
+            "$90^\\circ$"
+          ],
+          "answer": "$135^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\frac{3\\pi}{4}\\times\\frac{180^\\circ}{\\pi}=135^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "ব্যাসার্ধ 14 cm এবং কেন্দ্রীয় কোণ $\\frac{\\pi}{7}$ radian হলে চাপের দৈর্ঘ্য কত?",
+          "options": [
+            "$2\\pi$ cm",
+            "$7\\pi$ cm",
+            "$14\\pi$ cm",
+            "$\\pi$ cm"
+          ],
+          "answer": "$2\\pi$ cm",
+          "answerIndex": 0,
+          "explanation": "$s=r\\theta=14\\times\\frac{\\pi}{7}=2\\pi$ cm।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "চাপের দৈর্ঘ্য $6\\pi$ cm এবং ব্যাসার্ধ 18 cm হলে কেন্দ্রীয় কোণ কত?",
+          "options": [
+            "$\\frac{\\pi}{3}$",
+            "$\\frac{\\pi}{6}$",
+            "$\\pi$",
+            "$\\frac{2\\pi}{3}$"
+          ],
+          "answer": "$\\frac{\\pi}{3}$",
+          "answerIndex": 0,
+          "explanation": "$s=r\\theta$। তাই $6\\pi=18\\theta$, সুতরাং $\\theta=\\frac{\\pi}{3}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\tan\\theta=\\frac{\\sin\\theta}{\\cos\\theta}$ হলে $\\cot\\theta$ কোনটির সমান?",
+          "options": [
+            "$\\frac{\\cos\\theta}{\\sin\\theta}$",
+            "$\\frac{\\sin\\theta}{\\cos\\theta}$",
+            "$\\frac{1}{\\cos\\theta}$",
+            "$\\frac{1}{\\sin\\theta}$"
+          ],
+          "answer": "$\\frac{\\cos\\theta}{\\sin\\theta}$",
+          "answerIndex": 0,
+          "explanation": "$\\cot\\theta=\\frac{1}{\\tan\\theta}=\\frac{\\cos\\theta}{\\sin\\theta}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\sin\\theta\\cdot\\csc\\theta$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\tan\\theta$",
+            "$\\cos\\theta$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\csc\\theta=\\frac1{\\sin\\theta}$। তাই $\\sin\\theta\\cdot\\csc\\theta=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\cos\\theta\\cdot\\sec\\theta$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\sin\\theta$",
+            "$\\tan\\theta$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\sec\\theta=\\frac1{\\cos\\theta}$। তাই $\\cos\\theta\\cdot\\sec\\theta=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\cot45^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\sqrt3$",
+            "$\\frac{1}{\\sqrt3}$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\tan45^\\circ=1$, তাই $\\cot45^\\circ=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\cot30^\\circ$ এর মান কত?",
+          "options": [
+            "$\\sqrt3$",
+            "$\\frac{1}{\\sqrt3}$",
+            "1",
+            "2"
+          ],
+          "answer": "$\\sqrt3$",
+          "answerIndex": 0,
+          "explanation": "$\\tan30^\\circ=\\frac1{\\sqrt3}$, তাই $\\cot30^\\circ=\\sqrt3$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\cot60^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac1{\\sqrt3}$",
+            "$\\sqrt3$",
+            "1",
+            "2"
+          ],
+          "answer": "$\\frac1{\\sqrt3}$",
+          "answerIndex": 0,
+          "explanation": "$\\tan60^\\circ=\\sqrt3$, তাই $\\cot60^\\circ=\\frac1{\\sqrt3}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\sec45^\\circ$ এর মান কত?",
+          "options": [
+            "$\\sqrt2$",
+            "$\\frac1{\\sqrt2}$",
+            "1",
+            "2"
+          ],
+          "answer": "$\\sqrt2$",
+          "answerIndex": 0,
+          "explanation": "$\\sec45^\\circ=\\frac1{\\cos45^\\circ}=\\sqrt2$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\csc60^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac{2}{\\sqrt3}$",
+            "$\\frac{\\sqrt3}{2}$",
+            "2",
+            "$\\sqrt3$"
+          ],
+          "answer": "$\\frac{2}{\\sqrt3}$",
+          "answerIndex": 0,
+          "explanation": "$\\csc60^\\circ=\\frac1{\\sin60^\\circ}=\\frac{2}{\\sqrt3}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\sec30^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac{2}{\\sqrt3}$",
+            "$\\frac{\\sqrt3}{2}$",
+            "2",
+            "$\\sqrt3$"
+          ],
+          "answer": "$\\frac{2}{\\sqrt3}$",
+          "answerIndex": 0,
+          "explanation": "$\\sec30^\\circ=\\frac1{\\cos30^\\circ}=\\frac{2}{\\sqrt3}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\sin60^\\circ\\cos30^\\circ+\\cos60^\\circ\\sin30^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "$\\frac12$",
+            "$\\frac{\\sqrt3}{2}$",
+            "0"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "মান = $(\\frac{\\sqrt3}{2})(\\frac{\\sqrt3}{2})+(\\frac12)(\\frac12)=\\frac34+\\frac14=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\tan60^\\circ\\cdot\\tan30^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "$\\sqrt3$",
+            "$\\frac1{\\sqrt3}$",
+            "3"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\tan60^\\circ=\\sqrt3$ এবং $\\tan30^\\circ=\\frac1{\\sqrt3}$। গুণফল 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\sin^260^\\circ+\\cos^260^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "$\\frac34$",
+            "$\\frac14$",
+            "$\\frac32$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "মৌলিক অভেদ অনুযায়ী $\\sin^2\\theta+\\cos^2\\theta=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$1-\\sin^2\\theta$ কোনটির সমান?",
+          "options": [
+            "$\\cos^2\\theta$",
+            "$\\sin^2\\theta$",
+            "$\\tan^2\\theta$",
+            "$\\sec^2\\theta$"
+          ],
+          "answer": "$\\cos^2\\theta$",
+          "answerIndex": 0,
+          "explanation": "$\\sin^2\\theta+\\cos^2\\theta=1$ থেকে $1-\\sin^2\\theta=\\cos^2\\theta$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$1-\\cos^2\\theta$ কোনটির সমান?",
+          "options": [
+            "$\\sin^2\\theta$",
+            "$\\cos^2\\theta$",
+            "$\\cot^2\\theta$",
+            "$\\csc^2\\theta$"
+          ],
+          "answer": "$\\sin^2\\theta$",
+          "answerIndex": 0,
+          "explanation": "$\\sin^2\\theta+\\cos^2\\theta=1$ থেকে $1-\\cos^2\\theta=\\sin^2\\theta$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "যদি $\\sec\\theta=\\frac{13}{5}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\cos\\theta$ কত?",
+          "options": [
+            "$\\frac5{13}$",
+            "$\\frac{12}{13}$",
+            "$\\frac{13}{5}$",
+            "$\\frac5{12}$"
+          ],
+          "answer": "$\\frac5{13}$",
+          "answerIndex": 0,
+          "explanation": "$\\sec\\theta=\\frac1{\\cos\\theta}$। তাই $\\cos\\theta=\\frac5{13}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "যদি $\\csc\\theta=\\frac{17}{8}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\sin\\theta$ কত?",
+          "options": [
+            "$\\frac8{17}$",
+            "$\\frac{15}{17}$",
+            "$\\frac{17}{8}$",
+            "$\\frac8{15}$"
+          ],
+          "answer": "$\\frac8{17}$",
+          "answerIndex": 0,
+          "explanation": "$\\csc\\theta=\\frac1{\\sin\\theta}$। তাই $\\sin\\theta=\\frac8{17}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "যদি $\\cot\\theta=\\frac{12}{5}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\tan\\theta$ কত?",
+          "options": [
+            "$\\frac5{12}$",
+            "$\\frac{12}{5}$",
+            "$\\frac5{13}$",
+            "$\\frac{12}{13}$"
+          ],
+          "answer": "$\\frac5{12}$",
+          "answerIndex": 0,
+          "explanation": "$\\cot\\theta=\\frac1{\\tan\\theta}$। তাই $\\tan\\theta=\\frac5{12}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "একটি দালানের উচ্চতা $20\\sqrt3$ m এবং দালান থেকে পর্যবেক্ষকের দূরত্ব 20 m হলে উন্নতি কোণ কত?",
+          "options": [
+            "$60^\\circ$",
+            "$30^\\circ$",
+            "$45^\\circ$",
+            "$90^\\circ$"
+          ],
+          "answer": "$60^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\tan\\theta=\\frac{20\\sqrt3}{20}=\\sqrt3$। তাই $\\theta=60^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "একটি গাছের উচ্চতা 10 m এবং গাছ থেকে পর্যবেক্ষকের দূরত্ব $10\\sqrt3$ m হলে উন্নতি কোণ কত?",
+          "options": [
+            "$30^\\circ$",
+            "$45^\\circ$",
+            "$60^\\circ$",
+            "$90^\\circ$"
+          ],
+          "answer": "$30^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\tan\\theta=\\frac{10}{10\\sqrt3}=\\frac1{\\sqrt3}$। তাই $\\theta=30^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-03-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-03",
+          "text": "$\\sin\\theta=\\cos\\theta$ হলে $\\theta$ সূক্ষ্মকোণ হিসেবে কত?",
+          "options": [
+            "$45^\\circ$",
+            "$30^\\circ$",
+            "$60^\\circ$",
+            "$90^\\circ$"
+          ],
+          "answer": "$45^\\circ$",
+          "answerIndex": 0,
+          "explanation": "সূক্ষ্মকোণে $\\sin45^\\circ=\\cos45^\\circ=\\frac1{\\sqrt2}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 8 · ত্রিকোণমিতি · মডেল টেস্ট 04",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$270^\\circ$ কোণের রেডিয়ান মান কত?",
+          "options": [
+            "$\\frac{3\\pi}{2}$",
+            "$\\frac{2\\pi}{3}$",
+            "$\\frac{5\\pi}{6}$",
+            "$\\frac{\\pi}{2}$"
+          ],
+          "answer": "$\\frac{3\\pi}{2}$",
+          "answerIndex": 0,
+          "explanation": "$270^\\circ=\\frac{270}{180}\\pi=\\frac{3\\pi}{2}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$360^\\circ$ কোণের রেডিয়ান মান কত?",
+          "options": [
+            "$2\\pi$",
+            "$\\pi$",
+            "$\\frac{\\pi}{2}$",
+            "$4\\pi$"
+          ],
+          "answer": "$2\\pi$",
+          "answerIndex": 0,
+          "explanation": "$360^\\circ=2\\pi$ radian।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\frac{5\\pi}{6}$ রেডিয়ান সমান কত ডিগ্রি?",
+          "options": [
+            "$150^\\circ$",
+            "$120^\\circ$",
+            "$135^\\circ$",
+            "$180^\\circ$"
+          ],
+          "answer": "$150^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\frac{5\\pi}{6}\\times\\frac{180^\\circ}{\\pi}=150^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "ব্যাসার্ধ 21 cm এবং কেন্দ্রীয় কোণ $\\frac{2\\pi}{3}$ radian হলে চাপের দৈর্ঘ্য কত?",
+          "options": [
+            "$14\\pi$ cm",
+            "$7\\pi$ cm",
+            "$21\\pi$ cm",
+            "$28\\pi$ cm"
+          ],
+          "answer": "$14\\pi$ cm",
+          "answerIndex": 0,
+          "explanation": "$s=r\\theta=21\\times\\frac{2\\pi}{3}=14\\pi$ cm।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "চাপের দৈর্ঘ্য $10\\pi$ cm এবং কেন্দ্রীয় কোণ $\\frac{\\pi}{2}$ হলে ব্যাসার্ধ কত?",
+          "options": [
+            "20 cm",
+            "10 cm",
+            "5 cm",
+            "$5\\pi$ cm"
+          ],
+          "answer": "20 cm",
+          "answerIndex": 0,
+          "explanation": "$s=r\\theta$। তাই $10\\pi=r\\times\\frac{\\pi}{2}$, সুতরাং $r=20$ cm।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\sin\\theta=\\frac{লম্ব}{অতিভুজ}$ হলে $\\csc\\theta$ কোন অনুপাতের সমান?",
+          "options": [
+            "অতিভুজ/লম্ব",
+            "লম্ব/অতিভুজ",
+            "ভূমি/অতিভুজ",
+            "লম্ব/ভূমি"
+          ],
+          "answer": "অতিভুজ/লম্ব",
+          "answerIndex": 0,
+          "explanation": "$\\csc\\theta=\\frac1{\\sin\\theta}=\\frac{অতিভুজ}{লম্ব}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\cos\\theta=\\frac{ভূমি}{অতিভুজ}$ হলে $\\sec\\theta$ কোন অনুপাতের সমান?",
+          "options": [
+            "অতিভুজ/ভূমি",
+            "ভূমি/অতিভুজ",
+            "লম্ব/ভূমি",
+            "অতিভুজ/লম্ব"
+          ],
+          "answer": "অতিভুজ/ভূমি",
+          "answerIndex": 0,
+          "explanation": "$\\sec\\theta=\\frac1{\\cos\\theta}=\\frac{অতিভুজ}{ভূমি}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\tan\\theta=\\frac{লম্ব}{ভূমি}$ হলে $\\cot\\theta$ কোন অনুপাতের সমান?",
+          "options": [
+            "ভূমি/লম্ব",
+            "লম্ব/ভূমি",
+            "অতিভুজ/ভূমি",
+            "অতিভুজ/লম্ব"
+          ],
+          "answer": "ভূমি/লম্ব",
+          "answerIndex": 0,
+          "explanation": "$\\cot\\theta=\\frac1{\\tan\\theta}=\\frac{ভূমি}{লম্ব}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\tan^230^\\circ+1$ এর মান কত?",
+          "options": [
+            "$\\frac43$",
+            "$\\frac13$",
+            "$\\frac23$",
+            "$\\frac53$"
+          ],
+          "answer": "$\\frac43$",
+          "answerIndex": 0,
+          "explanation": "$1+\\tan^2\\theta=\\sec^2\\theta$। $\\tan30^\\circ=\\frac1{\\sqrt3}$, তাই $1+\\frac13=\\frac43$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\sec^230^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac43$",
+            "$\\frac34$",
+            "$2$",
+            "$\\frac23$"
+          ],
+          "answer": "$\\frac43$",
+          "answerIndex": 0,
+          "explanation": "$\\sec30^\\circ=\\frac{2}{\\sqrt3}$। তাই $\\sec^230^\\circ=\\frac43$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\cot^260^\\circ+1$ এর মান কত?",
+          "options": [
+            "$\\frac43$",
+            "$\\frac13$",
+            "$\\frac23$",
+            "3"
+          ],
+          "answer": "$\\frac43$",
+          "answerIndex": 0,
+          "explanation": "$\\cot60^\\circ=\\frac1{\\sqrt3}$। তাই $1+\\cot^260^\\circ=1+\\frac13=\\frac43$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\csc^260^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac43$",
+            "$\\frac34$",
+            "2",
+            "$\\frac23$"
+          ],
+          "answer": "$\\frac43$",
+          "answerIndex": 0,
+          "explanation": "$\\csc60^\\circ=\\frac{2}{\\sqrt3}$। তাই $\\csc^260^\\circ=\\frac43$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\sin30^\\circ+\\cos60^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "$\\frac12$",
+            "$\\sqrt3$",
+            "$\\frac{\\sqrt3}{2}$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\sin30^\\circ=\\frac12$ এবং $\\cos60^\\circ=\\frac12$। সমষ্টি 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\sin60^\\circ-\\cos30^\\circ$ এর মান কত?",
+          "options": [
+            "0",
+            "1",
+            "$\\frac12$",
+            "$\\frac{\\sqrt3}{2}$"
+          ],
+          "answer": "0",
+          "answerIndex": 0,
+          "explanation": "$\\sin60^\\circ=\\frac{\\sqrt3}{2}$ এবং $\\cos30^\\circ=\\frac{\\sqrt3}{2}$। তাই পার্থক্য 0।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\tan45^\\circ+\\cot45^\\circ$ এর মান কত?",
+          "options": [
+            "2",
+            "1",
+            "0",
+            "$\\sqrt2$"
+          ],
+          "answer": "2",
+          "answerIndex": 0,
+          "explanation": "$\\tan45^\\circ=1$ এবং $\\cot45^\\circ=1$। সমষ্টি 2।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\sec60^\\circ+\\csc30^\\circ$ এর মান কত?",
+          "options": [
+            "4",
+            "2",
+            "3",
+            "$2\\sqrt3$"
+          ],
+          "answer": "4",
+          "answerIndex": 0,
+          "explanation": "$\\sec60^\\circ=2$ এবং $\\csc30^\\circ=2$। সমষ্টি 4।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\sin^245^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac12$",
+            "$\\frac14$",
+            "$\\frac34$",
+            "1"
+          ],
+          "answer": "$\\frac12$",
+          "answerIndex": 0,
+          "explanation": "$\\sin45^\\circ=\\frac1{\\sqrt2}$। তাই $\\sin^245^\\circ=\\frac12$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\cos^245^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac12$",
+            "$\\frac14$",
+            "$\\frac34$",
+            "1"
+          ],
+          "answer": "$\\frac12$",
+          "answerIndex": 0,
+          "explanation": "$\\cos45^\\circ=\\frac1{\\sqrt2}$। তাই $\\cos^245^\\circ=\\frac12$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "$\\tan^245^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "0",
+            "$\\frac12$",
+            "2"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\tan45^\\circ=1$। তাই $\\tan^245^\\circ=1$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "যদি $\\sin\\theta=\\frac7{25}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\cos\\theta$ কত?",
+          "options": [
+            "$\\frac{24}{25}$",
+            "$\\frac7{25}$",
+            "$\\frac7{24}$",
+            "$\\frac{25}{24}$"
+          ],
+          "answer": "$\\frac{24}{25}$",
+          "answerIndex": 0,
+          "explanation": "লম্ব=7, অতিভুজ=25 হলে ভূমি=24। তাই $\\cos\\theta=\\frac{24}{25}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "যদি $\\cos\\theta=\\frac{24}{25}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\tan\\theta$ কত?",
+          "options": [
+            "$\\frac7{24}$",
+            "$\\frac{24}{7}$",
+            "$\\frac7{25}$",
+            "$\\frac{24}{25}$"
+          ],
+          "answer": "$\\frac7{24}$",
+          "answerIndex": 0,
+          "explanation": "ভূমি=24, অতিভুজ=25 হলে লম্ব=7। তাই $\\tan\\theta=\\frac7{24}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "যদি $\\tan\\theta=\\frac7{24}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\sec\\theta$ কত?",
+          "options": [
+            "$\\frac{25}{24}$",
+            "$\\frac{24}{25}$",
+            "$\\frac{25}{7}$",
+            "$\\frac7{25}$"
+          ],
+          "answer": "$\\frac{25}{24}$",
+          "answerIndex": 0,
+          "explanation": "লম্ব=7, ভূমি=24 হলে অতিভুজ=25। তাই $\\sec\\theta=\\frac{অতিভুজ}{ভূমি}=\\frac{25}{24}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "একটি স্তম্ভ থেকে 15 m দূরে উন্নতি কোণ $45^\\circ$ হলে স্তম্ভের উচ্চতা কত?",
+          "options": [
+            "15 m",
+            "$15\\sqrt3$ m",
+            "$5\\sqrt3$ m",
+            "30 m"
+          ],
+          "answer": "15 m",
+          "answerIndex": 0,
+          "explanation": "$\\tan45^\\circ=\\frac{h}{15}=1$। তাই $h=15$ m।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "একটি টাওয়ার থেকে $20\\sqrt3$ m দূরে উন্নতি কোণ $30^\\circ$ হলে টাওয়ারের উচ্চতা কত?",
+          "options": [
+            "20 m",
+            "$20\\sqrt3$ m",
+            "10 m",
+            "40 m"
+          ],
+          "answer": "20 m",
+          "answerIndex": 0,
+          "explanation": "$\\tan30^\\circ=\\frac{h}{20\\sqrt3}=\\frac1{\\sqrt3}$। তাই $h=20$ m।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-04-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-04",
+          "text": "একটি দালানের উচ্চতা $30\\sqrt3$ m এবং দালান থেকে দূরত্ব 30 m হলে উন্নতি কোণ কত?",
+          "options": [
+            "$60^\\circ$",
+            "$30^\\circ$",
+            "$45^\\circ$",
+            "$90^\\circ$"
+          ],
+          "answer": "$60^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\tan\\theta=\\frac{30\\sqrt3}{30}=\\sqrt3$। তাই $\\theta=60^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        }
+      ]
+    },
+    {
+      "setName": "অধ্যায় 8 · ত্রিকোণমিতি · মডেল টেস্ট 05",
+      "questions": [
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q01",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$30^\\circ$ কোণের রেডিয়ান মান কত?",
+          "options": [
+            "$\\frac{\\pi}{6}$",
+            "$\\frac{\\pi}{4}$",
+            "$\\frac{\\pi}{3}$",
+            "$\\frac{\\pi}{2}$"
+          ],
+          "answer": "$\\frac{\\pi}{6}$",
+          "answerIndex": 0,
+          "explanation": "$30^\\circ=\\frac{30}{180}\\pi=\\frac{\\pi}{6}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q02",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\pi$ রেডিয়ান সমান কত ডিগ্রি?",
+          "options": [
+            "$180^\\circ$",
+            "$90^\\circ$",
+            "$360^\\circ$",
+            "$60^\\circ$"
+          ],
+          "answer": "$180^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\pi$ radian = $180^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q03",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\frac{\\pi}{2}$ রেডিয়ান সমান কত ডিগ্রি?",
+          "options": [
+            "$90^\\circ$",
+            "$45^\\circ$",
+            "$60^\\circ$",
+            "$180^\\circ$"
+          ],
+          "answer": "$90^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\frac{\\pi}{2}\\times\\frac{180^\\circ}{\\pi}=90^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q04",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "ব্যাসার্ধ 9 cm এবং কেন্দ্রীয় কোণ $\\frac{\\pi}{3}$ হলে চাপের দৈর্ঘ্য কত?",
+          "options": [
+            "$3\\pi$ cm",
+            "$6\\pi$ cm",
+            "$9\\pi$ cm",
+            "$\\pi$ cm"
+          ],
+          "answer": "$3\\pi$ cm",
+          "answerIndex": 0,
+          "explanation": "$s=r\\theta=9\\times\\frac{\\pi}{3}=3\\pi$ cm।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q05",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "ব্যাসার্ধ 8 cm এবং কেন্দ্রীয় কোণ $\\frac{\\pi}{4}$ হলে চাপের দৈর্ঘ্য কত?",
+          "options": [
+            "$2\\pi$ cm",
+            "$4\\pi$ cm",
+            "$8\\pi$ cm",
+            "$\\pi$ cm"
+          ],
+          "answer": "$2\\pi$ cm",
+          "answerIndex": 0,
+          "explanation": "$s=r\\theta=8\\times\\frac{\\pi}{4}=2\\pi$ cm।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q06",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\sin\\theta=\\frac{3}{5}$ হলে $\\csc\\theta$ কত?",
+          "options": [
+            "$\\frac53$",
+            "$\\frac35$",
+            "$\\frac43$",
+            "$\\frac54$"
+          ],
+          "answer": "$\\frac53$",
+          "answerIndex": 0,
+          "explanation": "$\\csc\\theta=\\frac1{\\sin\\theta}=\\frac53$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q07",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\cos\\theta=\\frac{4}{5}$ হলে $\\sec\\theta$ কত?",
+          "options": [
+            "$\\frac54$",
+            "$\\frac45$",
+            "$\\frac34$",
+            "$\\frac53$"
+          ],
+          "answer": "$\\frac54$",
+          "answerIndex": 0,
+          "explanation": "$\\sec\\theta=\\frac1{\\cos\\theta}=\\frac54$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q08",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\tan\\theta=\\frac{2}{3}$ হলে $\\cot\\theta$ কত?",
+          "options": [
+            "$\\frac32$",
+            "$\\frac23$",
+            "$\\frac35$",
+            "$\\frac52$"
+          ],
+          "answer": "$\\frac32$",
+          "answerIndex": 0,
+          "explanation": "$\\cot\\theta=\\frac1{\\tan\\theta}=\\frac32$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q09",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\sin30^\\circ\\cos60^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac14$",
+            "$\\frac12$",
+            "$\\frac34$",
+            "1"
+          ],
+          "answer": "$\\frac14$",
+          "answerIndex": 0,
+          "explanation": "$\\sin30^\\circ=\\frac12$ এবং $\\cos60^\\circ=\\frac12$। গুণফল $\\frac14$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q10",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\cos30^\\circ\\sin60^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac34$",
+            "$\\frac14$",
+            "$\\frac12$",
+            "1"
+          ],
+          "answer": "$\\frac34$",
+          "answerIndex": 0,
+          "explanation": "$\\cos30^\\circ=\\frac{\\sqrt3}{2}$ এবং $\\sin60^\\circ=\\frac{\\sqrt3}{2}$। গুণফল $\\frac34$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q11",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\tan30^\\circ\\cot30^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "$\\frac13$",
+            "3",
+            "$\\sqrt3$"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\cot30^\\circ=\\frac1{\\tan30^\\circ}$। তাই গুণফল 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q12",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\sec30^\\circ\\cos30^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "$\\frac12$",
+            "$\\sqrt3$",
+            "2"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\sec30^\\circ=\\frac1{\\cos30^\\circ}$। তাই গুণফল 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q13",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\csc60^\\circ\\sin60^\\circ$ এর মান কত?",
+          "options": [
+            "1",
+            "$\\frac{\\sqrt3}{2}$",
+            "$\\frac{2}{\\sqrt3}$",
+            "2"
+          ],
+          "answer": "1",
+          "answerIndex": 0,
+          "explanation": "$\\csc60^\\circ=\\frac1{\\sin60^\\circ}$। তাই গুণফল 1।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q14",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\sin^230^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac14$",
+            "$\\frac12$",
+            "$\\frac34$",
+            "1"
+          ],
+          "answer": "$\\frac14$",
+          "answerIndex": 0,
+          "explanation": "$\\sin30^\\circ=\\frac12$। তাই $\\sin^230^\\circ=\\frac14$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q15",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\cos^260^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac14$",
+            "$\\frac12$",
+            "$\\frac34$",
+            "1"
+          ],
+          "answer": "$\\frac14$",
+          "answerIndex": 0,
+          "explanation": "$\\cos60^\\circ=\\frac12$। তাই $\\cos^260^\\circ=\\frac14$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q16",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\tan^260^\\circ$ এর মান কত?",
+          "options": [
+            "3",
+            "1",
+            "$\\frac13$",
+            "$\\sqrt3$"
+          ],
+          "answer": "3",
+          "answerIndex": 0,
+          "explanation": "$\\tan60^\\circ=\\sqrt3$। তাই $\\tan^260^\\circ=3$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q17",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$\\tan^230^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac13$",
+            "3",
+            "1",
+            "$\\frac12$"
+          ],
+          "answer": "$\\frac13$",
+          "answerIndex": 0,
+          "explanation": "$\\tan30^\\circ=\\frac1{\\sqrt3}$। তাই $\\tan^230^\\circ=\\frac13$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q18",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$1-\\sin^230^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac34$",
+            "$\\frac14$",
+            "$\\frac12$",
+            "1"
+          ],
+          "answer": "$\\frac34$",
+          "answerIndex": 0,
+          "explanation": "$\\sin^230^\\circ=\\frac14$। তাই $1-\\frac14=\\frac34$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q19",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "$1-\\cos^260^\\circ$ এর মান কত?",
+          "options": [
+            "$\\frac34$",
+            "$\\frac14$",
+            "$\\frac12$",
+            "1"
+          ],
+          "answer": "$\\frac34$",
+          "answerIndex": 0,
+          "explanation": "$\\cos^260^\\circ=\\frac14$। তাই $1-\\frac14=\\frac34$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 45
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q20",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "যদি $\\sin\\theta=\\frac{5}{13}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\tan\\theta$ কত?",
+          "options": [
+            "$\\frac5{12}$",
+            "$\\frac{12}{5}$",
+            "$\\frac5{13}$",
+            "$\\frac{12}{13}$"
+          ],
+          "answer": "$\\frac5{12}$",
+          "answerIndex": 0,
+          "explanation": "লম্ব=5, অতিভুজ=13 হলে ভূমি=12। তাই $\\tan\\theta=\\frac5{12}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q21",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "যদি $\\cos\\theta=\\frac{5}{13}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\sin\\theta$ কত?",
+          "options": [
+            "$\\frac{12}{13}$",
+            "$\\frac5{13}$",
+            "$\\frac5{12}$",
+            "$\\frac{13}{12}$"
+          ],
+          "answer": "$\\frac{12}{13}$",
+          "answerIndex": 0,
+          "explanation": "ভূমি=5, অতিভুজ=13 হলে লম্ব=12। তাই $\\sin\\theta=\\frac{12}{13}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q22",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "যদি $\\tan\\theta=\\frac{12}{5}$ এবং $\\theta$ সূক্ষ্মকোণ হয়, তবে $\\csc\\theta$ কত?",
+          "options": [
+            "$\\frac{13}{12}$",
+            "$\\frac{12}{13}$",
+            "$\\frac{13}{5}$",
+            "$\\frac5{12}$"
+          ],
+          "answer": "$\\frac{13}{12}$",
+          "answerIndex": 0,
+          "explanation": "লম্ব=12, ভূমি=5 হলে অতিভুজ=13। তাই $\\csc\\theta=\\frac{অতিভুজ}{লম্ব}=\\frac{13}{12}$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q23",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "একটি দালান থেকে 25 m দূরে উন্নতি কোণ $45^\\circ$ হলে দালানের উচ্চতা কত?",
+          "options": [
+            "25 m",
+            "$25\\sqrt3$ m",
+            "$\\frac{25}{\\sqrt3}$ m",
+            "50 m"
+          ],
+          "answer": "25 m",
+          "answerIndex": 0,
+          "explanation": "$\\tan45^\\circ=\\frac{h}{25}=1$। তাই $h=25$ m।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 60
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q24",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "একটি গাছ থেকে 12 m দূরে উন্নতি কোণ $60^\\circ$ হলে গাছের উচ্চতা কত?",
+          "options": [
+            "$12\\sqrt3$ m",
+            "12 m",
+            "$\\frac{12}{\\sqrt3}$ m",
+            "24 m"
+          ],
+          "answer": "$12\\sqrt3$ m",
+          "answerIndex": 0,
+          "explanation": "$\\tan60^\\circ=\\frac{h}{12}=\\sqrt3$। তাই $h=12\\sqrt3$ m।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        },
+        {
+          "id": "ssc-higher-math-chapter-08-model-test-05-q25",
+          "subject": "higher-math",
+          "chapter": "ssc-higher-math-chapter-08-model-test-05",
+          "text": "একটি খুঁটির উচ্চতা 18 m এবং দূরত্ব$18\\sqrt3$ m হলে উন্নতি কোণ কত?",
+          "options": [
+            "$30^\\circ$",
+            "$45^\\circ$",
+            "$60^\\circ$",
+            "$90^\\circ$"
+          ],
+          "answer": "$30^\\circ$",
+          "answerIndex": 0,
+          "explanation": "$\\tan\\theta=\\frac{18}{18\\sqrt3}=\\frac1{\\sqrt3}$। তাই $\\theta=30^\\circ$।",
+          "image": null,
+          "optionImages": null,
+          "timeLimit": 75
+        }
+      ]
+    }
+  ]
+}

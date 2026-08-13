@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(x+3)(x−2) = ?",
+    "options": [
+      "x²+x−6",
+      "x²−x−6",
+      "x²+5x−6",
+      "x²−5x+6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "x²−9 = ?",
+    "options": [
+      "(x−3)²",
+      "(x+3)(x−3)",
+      "(x+9)(x−1)",
+      "(x−9)²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "2x+5=17 হলে x=?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "3x−4=11 হলে x=?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(a+b)² = ?",
+    "options": [
+      "a²+b²",
+      "a²+2ab+b²",
+      "a²−2ab+b²",
+      "2a+2b"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "a²−b² = ?",
+    "options": [
+      "(a+b)²",
+      "(a−b)²",
+      "(a+b)(a−b)",
+      "a²+b²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "x²+5x+6=0 এর একটি মূল?",
+    "options": [
+      "−2",
+      "2",
+      "3",
+      "−3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "5x−3x = ?",
+    "options": [
+      "2x",
+      "8x",
+      "2",
+      "x²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(3x)² = ?",
+    "options": [
+      "3x²",
+      "6x",
+      "9x²",
+      "9x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "x/2 + x/3 = ?",
+    "options": [
+      "5x/6",
+      "x/5",
+      "2x/5",
+      "x/6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "√(x²) = ? (x≥0)",
+    "options": [
+      "x",
+      "−x",
+      "x²",
+      "2x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(2x+1)² = ?",
+    "options": [
+      "4x²+1",
+      "4x²+4x+1",
+      "2x²+2x+1",
+      "4x²+2x+1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "x²−4x+4=0 হলে x=?",
+    "options": [
+      "2",
+      "−2",
+      "4",
+      "−4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "3(x−1)=9 হলে x=?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(x+1)(x+1)=0 হলে x=?",
+    "options": [
+      "1",
+      "−1",
+      "0",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "2(x+4)=10 হলে x=?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "x²=25 হলে x=?",
+    "options": [
+      "5",
+      "±5",
+      "−5",
+      "25"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(a−b)² = ?",
+    "options": [
+      "a²−b²",
+      "a²+2ab+b²",
+      "a²−2ab+b²",
+      "a²+b²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "4x+8=0 হলে x=?",
+    "options": [
+      "−2",
+      "2",
+      "4",
+      "−4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "x/4=3 হলে x=?",
+    "options": [
+      "7",
+      "12",
+      "1",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(x−5)(x+5)=0 এর মূল?",
+    "options": [
+      "5",
+      "−5",
+      "±5",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "2x²×3x = ?",
+    "options": [
+      "5x²",
+      "6x³",
+      "6x²",
+      "5x³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(6x)/2 = ?",
+    "options": [
+      "3x",
+      "3",
+      "4x",
+      "2x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "x+2x+3x = ?",
+    "options": [
+      "5x",
+      "6x",
+      "3x",
+      "x³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(x+2)²−x² = ?",
+    "options": [
+      "4x+4",
+      "4",
+      "2x+4",
+      "x²+4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "3x−7=2 হলে x=?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "x²+1=0 এর বাস্তব মূল?",
+    "options": [
+      "1",
+      "−1",
+      "নেই",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(5x)⁰ = ? (x≠0)",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "2x+3=3 হলে x=?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-06-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-06",
+    "text": "(x+4)(x−4)=x²−?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

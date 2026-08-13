@@ -1,0 +1,102 @@
+{
+  "ssc-physics-model-test-03-q01": {
+    "correctOption": "12%",
+    "explanation": "আয়তন V = l³, তাই আপেক্ষিক ত্রুটি 3 × 4% = 12%।"
+  },
+  "ssc-physics-model-test-03-q02": {
+    "correctOption": "ঘনত্ব",
+    "explanation": "ঘনত্ব ভর ও আয়তনের উপর নির্ভরশীল, তাই এটি লব্ধ রাশি।"
+  },
+  "ssc-physics-model-test-03-q03": {
+    "correctOption": "10⁻⁶ m",
+    "explanation": "1 μm = 10⁻⁶ m।"
+  },
+  "ssc-physics-model-test-03-q04": {
+    "correctOption": "0.01 mm",
+    "explanation": "লঘিষ্ঠ গণন = 1/100 = 0.01mm।"
+  },
+  "ssc-physics-model-test-03-q05": {
+    "correctOption": "শক্তি",
+    "explanation": "জুল হলো কাজ বা শক্তির একক।"
+  },
+  "ssc-physics-model-test-03-q06": {
+    "correctOption": "40 m, 20 m",
+    "explanation": "দূরত্ব = 30 + 10 = 40m, সরণ = 30 - 10 = 20m পূর্বদিকে।"
+  },
+  "ssc-physics-model-test-03-q07": {
+    "correctOption": "2 ms⁻²",
+    "explanation": "a = (20 - 10) / 5 = 2 ms⁻²।"
+  },
+  "ssc-physics-model-test-03-q08": {
+    "correctOption": "10 ms⁻¹",
+    "explanation": "36 kmh⁻¹ = 36 × 1000 / 3600 = 10 ms⁻¹।"
+  },
+  "ssc-physics-model-test-03-q09": {
+    "correctOption": "গতি জড়তা",
+    "explanation": "গতি জড়তার কারণে দেহ চলন্ত অবস্থায় থাকতে চায়।"
+  },
+  "ssc-physics-model-test-03-q10": {
+    "correctOption": "i ও iii",
+    "explanation": "i ও iii সঠিক; ঘর্ষণ সবসময় ক্ষতিকর নয়, যেমন হাঁটার জন্য ঘর্ষণ প্রয়োজন।"
+  },
+  "ssc-physics-model-test-03-q11": {
+    "correctOption": "40 J",
+    "explanation": "E_k = 1/2 mv² = 1/2 × 5 × 16 = 40 J।"
+  },
+  "ssc-physics-model-test-03-q12": {
+    "correctOption": "36000 J",
+    "explanation": "E = Pt = 60 × (10 × 60) = 36000 J।"
+  },
+  "ssc-physics-model-test-03-q13": {
+    "correctOption": "200 W",
+    "explanation": "P = W/t = 4000 / 20 = 200 W।"
+  },
+  "ssc-physics-model-test-03-q14": {
+    "correctOption": "5×10⁴ Pa",
+    "explanation": "P = hρg = 5 × 1000 × 10 = 5×10⁴ Pa।"
+  },
+  "ssc-physics-model-test-03-q15": {
+    "correctOption": "500 kgm⁻³",
+    "explanation": "ρ = m/V = 2 / (4×10⁻³) = 500 kgm⁻³।"
+  },
+  "ssc-physics-model-test-03-q16": {
+    "correctOption": "ডুবে যাবে",
+    "explanation": "বস্তুর ঘনত্ব তরলের ঘনত্বের চেয়ে বেশি হলে বস্তুটি ডুবে যায়।"
+  },
+  "ssc-physics-model-test-03-q17": {
+    "correctOption": "K⁻¹",
+    "explanation": "আয়তন প্রসারণ সহগের একক K⁻¹।"
+  },
+  "ssc-physics-model-test-03-q18": {
+    "correctOption": "4200 Jkg⁻¹K⁻¹",
+    "explanation": "s = Q / (mΔθ) = 42000 / (2 × 5) = 4200 Jkg⁻¹K⁻¹।"
+  },
+  "ssc-physics-model-test-03-q19": {
+    "correctOption": "50 Hz",
+    "explanation": "f = 1/T = 1 / 0.02 = 50 Hz।"
+  },
+  "ssc-physics-model-test-03-q20": {
+    "correctOption": "Wm⁻²",
+    "explanation": "শব্দের তীব্রতার একক Wm⁻²। তীব্রতার স্তরের একক dB।"
+  },
+  "ssc-physics-model-test-03-q21": {
+    "correctOption": "বাস্তব, উল্টো, খর্বিত",
+    "explanation": "C-এর বাইরে থাকলে প্রতিবিম্ব বাস্তব, উল্টো এবং খর্বিত হয়।"
+  },
+  "ssc-physics-model-test-03-q22": {
+    "correctOption": "2×10⁸ ms⁻¹",
+    "explanation": "n = c/v, তাই v = c/n = 3×10⁸ / 1.5 = 2×10⁸ ms⁻¹।"
+  },
+  "ssc-physics-model-test-03-q23": {
+    "correctOption": "1.5Ω",
+    "explanation": "1/R = 1/3 + 1/6 + 1/6 = 2/3, তাই R = 1.5Ω।"
+  },
+  "ssc-physics-model-test-03-q24": {
+    "correctOption": "4 F",
+    "explanation": "C = Q/V = 20 / 5 = 4F।"
+  },
+  "ssc-physics-model-test-03-q25": {
+    "correctOption": "নিউক্লীয় সংযোজন",
+    "explanation": "সূর্যে হাইড্রোজেন নিউক্লিয়াসের সংযোজনের মাধ্যমে শক্তি উৎপন্ন হয়।"
+  }
+}

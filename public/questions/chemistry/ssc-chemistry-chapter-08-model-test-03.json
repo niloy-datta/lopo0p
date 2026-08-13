@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q01",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "ড্যানিয়েল কোষে লবণ সেতু না থাকলে নিচের কোনটি ঘটবে?",
+    "options": [
+      "তড়িৎ প্রবাহ দ্রুত বন্ধ হয়ে যাবে",
+      "তড়িৎ প্রবাহ দ্বিগুণ বৃদ্ধি পাবে",
+      "কোষটি বিস্ফোরিত হবে",
+      "কোষের বিক্রিয়ার দিক উল্টে যাবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q02",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "শুষ্ক কোষের (Dry Cell) কার্বন দণ্ডটি কোন মেরু হিসেবে কাজ করে?",
+    "options": [
+      "ধনাত্মক মেরু বা ক্যাথোড",
+      "ঋণাত্মক মেরু বা অ্যানোড",
+      "লবণ সেতু",
+      "তড়িৎ বিশ্লেষ্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q03",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "সোডিয়াম ক্লোরাইডের (NaCl) লঘু জলীয় দ্রবণের তড়িৎ বিশ্লেষণে ক্যাথোডে কোনটি মুক্ত হয়?",
+    "options": [
+      "হাইড্রোজেন গ্যাস (H₂)",
+      "সোডিয়াম ধাতু (Na)",
+      "ক্লোরিন গ্যাস (Cl₂)",
+      "অক্সিজেন গ্যাস (O₂)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q04",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "বিক্রিয়ক ও উৎপাদের মোট বন্ধন শক্তি যথাক্রমে E₁ ও E₂ হলে তাপহারী বিক্রিয়ার শর্ত কোনটি?",
+    "options": [
+      "E₁ > E₂",
+      "E₁ < E₂",
+      "E₁ = E₂",
+      "ΔH ঋণাত্মক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q05",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "কয়লার প্রধান উপাদান কার্বনের দহন তাপের সঠিক রাসায়নিক সমীকরণ কোনটি?",
+    "options": [
+      "C(s) + O₂(g) → CO₂(g); ΔH = -৩৯৩.৫ kJ",
+      "C(s) + O₂(g) → CO₂(g); ΔH = +৩৯৩.৫ kJ",
+      "C(s) + 1/2 O₂(g) → CO(g); ΔH = -৩৯৩.৫ kJ",
+      "C(s) + O₂(g) → CO₂(g); ΔH = 0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q06",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "তড়িৎ রাসায়নিক কোষে বাহ্যিক তারের মধ্য দিয়ে ইলেকট্রন কোন দিক থেকে কোন দিকে প্রবাহিত হয়?",
+    "options": [
+      "অ্যানোড থেকে ক্যাথোডের দিকে",
+      "ক্যাথোড থেকে অ্যানোডের দিকে",
+      "লবণ সেতু থেকে অ্যানোডে",
+      "ক্যাথোড থেকে লবণ সেতুতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q07",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "পানির অণুতে H-O একক বন্ধনের বন্ধন শক্তি কত?",
+    "options": [
+      "৪৬৪ kJ/mol",
+      "৪৩৬ kJ/mol",
+      "২৪২ kJ/mol",
+      "৪১৪ kJ/mol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q08",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "শুষ্ক কোষে (Dry Cell) দস্তার বা জিংকের পাত্রটি কী হিসেবে কাজ করে?",
+    "options": [
+      "ঋণাত্মক মেরু বা অ্যানোড",
+      "ধনাত্মক মেরু বা ক্যাথোড",
+      "তড়িৎ বিশ্লেষ্য পাত্র",
+      "ডি-পোলারাইজার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q09",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "কপার সালফেট (CuSO₄) এর জলীয় দ্রবণে কপারের তড়িৎদ্বার ব্যবহার করে তড়িৎ বিশ্লেষণ করলে অ্যানোডের কী পরিবর্তন হয়?",
+    "options": [
+      "অ্যানোডের ক্ষয় হয় (Cu দ্রবীভূত হয়)",
+      "অ্যানোডের ভর বৃদ্ধি পায়",
+      "অ্যানোডে অক্সিজেন বুদবুদ তৈরি হয়",
+      "অ্যানোডের কোনো পরিবর্তন হয় না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q10",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "ড্যানিয়েল কোষে জিঙ্ক দণ্ডটি কোন জলীয় দ্রবণে ডুবানো থাকে?",
+    "options": [
+      "জিঙ্ক সালফেট (ZnSO₄)",
+      "কপার সালফেট (CuSO₄)",
+      "সোডিয়াম ক্লোরাইড (NaCl)",
+      "সালফিউরিক এসিড (H₂SO₄)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q11",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "নিচের কোনটি নবায়নযোগ্য (Renewable) শক্তির পরিবেশবান্ধব উৎস?",
+    "options": [
+      "সৌরশক্তি",
+      "কয়লা",
+      "প্রাকৃতিক গ্যাস",
+      "পেট্রোলিয়াম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q12",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "অম্লীয় পানির তড়িৎ বিশ্লেষণে ক্যাথোড ও অ্যানোডে উৎপন্ন গ্যাসের আয়তনের অনুপাত কত হয়?",
+    "options": [
+      "২:১",
+      "১:২",
+      "১:১",
+      "৩:১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q13",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "C-H বন্ধন শক্তি ৪১৪ kJ/mol হলে ১ মোল মিথেন (CH₄) অণুর সব কয়টি বন্ধন ভাঙতে মোট কত শক্তি প্রয়োজন?",
+    "options": [
+      "১৬৫৬ kJ",
+      "৮২৮ kJ",
+      "৪১৪ kJ",
+      "২০৭০ kJ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q14",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "ড্যানিয়েল কোষে কপার দণ্ডটি কোন জলীয় দ্রবণে ডুবানো থাকে?",
+    "options": [
+      "কপার সালফেট (CuSO₄)",
+      "জিঙ্ক সালফেট (ZnSO₄)",
+      "সোডিয়াম হাইড্রোক্সাইড (NaOH)",
+      "পটাশিয়াম ক্লোরাইড (KCl)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "প্রশমন বিক্রিয়া বা নিরপেক্ষকরণ বিক্রিয়া সবসময় কোন ধরনের বিক্রিয়া?",
+    "options": [
+      "তাপোৎপাদী বিক্রিয়া",
+      "তাপহারী বিক্রিয়া",
+      "জারণ-বিজারণহীন শীতল বিক্রিয়া",
+      "ভৌত পরিবর্তন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "লেড স্টোরেজ ব্যাটারিতে (Lead Storage Battery) তড়িৎ বিশ্লেষ্য হিসেবে কী ব্যবহৃত হয়?",
+    "options": [
+      "সালফিউরিক এসিড দ্রবণ (H₂SO₄)",
+      "অ্যামোনিয়াম ক্লোরাইড পেস্ট",
+      "পটাশিয়াম হাইড্রোক্সাইড দ্রবণ",
+      "গলিত সোডিয়াম ক্লোরাইড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q17",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "রসায়নে পদার্থের রাসায়নিক শক্তির মূল উৎস কোনটি?",
+    "options": [
+      "রাসায়নিক বন্ধন শক্তি ও আকর্ষণ বল",
+      "বস্তুর গতিশক্তি",
+      "বায়ুর চাপ",
+      "পৃথিবীর অভিকর্ষ বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q18",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "কার্বনের এক রূপভেদ হীরক থেকে গ্রাফাইটে রূপান্তরের প্রক্রিয়াটি কেমন?",
+    "options": [
+      "সামান্য তাপোৎপাদী",
+      "তীব্র তাপহারী",
+      "শক্তির পরিবর্তনহীন",
+      "জারণ-বিজারণ"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q19",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "একটি সাধারণ শুষ্ক কোষে (Dry Cell) উৎপাদিত বিদ্যুৎ বিভব বা ভোল্টেজ কত হয়?",
+    "options": [
+      "১.৫ V",
+      "২.০ V",
+      "১.২ V",
+      "৬.০ V"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q20",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "একটি লোহার চাবির ওপর রূপার প্রলেপ দেওয়ার জন্য ক্যাথোড হিসেবে কোনটি ব্যবহার করতে হবে?",
+    "options": [
+      "লোহার চাবিটি",
+      "একটি খাঁটি রূপার পাত",
+      "একটি কার্বন দণ্ড",
+      "জিঙ্ক দণ্ড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q21",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "ড্যানিয়েল কোষে লবণ সেতুর মধ্য দিয়ে আয়নের প্রবাহের মূল কারণ কী?",
+    "options": [
+      "উভয় অর্ধকোষের বৈদ্যুতিক আধানের নিরপেক্ষতা বজায় রাখা",
+      "ইলেকট্রন সরাসরি পারাপার করা",
+      "জিঙ্ক সালফেটকে কপার সালফেটে রূপান্তর করা",
+      "তড়িৎ প্রবাহ বন্ধ করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q22",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "প্রমাণ বা স্ট্যান্ডার্ড অবস্থায় এনথালপির মান প্রকাশের জন্য আদর্শ চাপ কত ধরা হয়?",
+    "options": [
+      "১ atm বা ১০১.৩ kPa",
+      "০ atm",
+      "১০ atm",
+      "৭৬০ atm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q23",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "তড়িৎ বিশ্লেষ্য কোষে (Electrolytic Cell) অ্যানোডের চার্জ বা আধান কেমন হয়?",
+    "options": [
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "নিরপেক্ষ",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q24",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "১ ক্যালরি (cal) শক্তি সমান কত জুল (J)?",
+    "options": [
+      "৪.১৮৪ J",
+      "০.২৩৯ J",
+      "১০০০ J",
+      "৯.৮ J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q25",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "রাসায়নিক বিক্রিয়ায় তাপের শোষণের (তাপহারী) ফলে বিক্রিয়া পাত্রের তাপমাত্রা কেমন হয়?",
+    "options": [
+      "হ্রাস পায় (ঠান্ডা হয়)",
+      "বৃদ্ধি পায় (গরম হয়)",
+      "অপরিবর্তিত থাকে",
+      "প্রথমে বাড়ে পরে কমে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-10-model-test-02-q01": {
+    "correctOption": "1",
+    "explanation": "যেকোনো n-এর জন্য ⁿC₀ = 1। তাই ¹⁰C₀ = 1।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q02": {
+    "correctOption": "10",
+    "explanation": "যেকোনো n-এর জন্য ⁿC₁ = n। তাই ¹⁰C₁ = 10।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q03": {
+    "correctOption": "45",
+    "explanation": "¹⁰C₂ = 10×9/2 = 45।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q04": {
+    "correctOption": "120",
+    "explanation": "¹⁰C₃ = 10×9×8/(3×2×1) = 120।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q05": {
+    "correctOption": "252",
+    "explanation": "¹⁰C₅ = 252।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q06": {
+    "correctOption": "36",
+    "explanation": "⁹C₂ = 9×8/2 = 36।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q07": {
+    "correctOption": "126",
+    "explanation": "⁹C₄ = 126।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q08": {
+    "correctOption": "9",
+    "explanation": "ঘাত 8 হলে পদসংখ্যা 8+1=9।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q09": {
+    "correctOption": "10",
+    "explanation": "ঘাত 9 হলে পদসংখ্যা 9+1=10।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q10": {
+    "correctOption": "6ষ্ঠ পদ",
+    "explanation": "n=10 জোড়, তাই মধ্যপদ = n/2+1 = 6ষ্ঠ পদ।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q11": {
+    "correctOption": "5ম ও 6ষ্ঠ পদ",
+    "explanation": "n=9 বিজোড় হলে মধ্যপদ দুটি হয় (n+1)/2 তম ও (n+3)/2 তম, অর্থাৎ 5ম ও 6ষ্ঠ পদ।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q12": {
+    "correctOption": "35",
+    "explanation": "(1+x)^7-এ x⁴-এর সহগ ⁷C₄ = 35।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q13": {
+    "correctOption": "56",
+    "explanation": "(1+x)^8-এ x³-এর সহগ ⁸C₃ = 56।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q14": {
+    "correctOption": "70",
+    "explanation": "(1+x)^8-এ x⁴-এর সহগ ⁸C₄ = 70।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q15": {
+    "correctOption": "36",
+    "explanation": "(1+x)^9-এ x²-এর সহগ ⁹C₂ = 36।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q16": {
+    "correctOption": "80",
+    "explanation": "x²-এর সহগ = ⁵C₂ × 2³ = 10×8 = 80।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q17": {
+    "correctOption": "54",
+    "explanation": "x²-এর সহগ = ⁴C₂ × 3² = 6×9 = 54।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q18": {
+    "correctOption": "40",
+    "explanation": "x²-এর সহগ = ⁵C₂ × 2² = 10×4 = 40।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q19": {
+    "correctOption": "32",
+    "explanation": "x³-এর সহগ = ⁴C₃ × 2³ = 4×8 = 32।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q20": {
+    "correctOption": "54",
+    "explanation": "x²-এর সহগ = ³C₂ × 2 × (3²) = 3×2×9 = 54; x² পদের চিহ্ন ধনাত্মক।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q21": {
+    "correctOption": "-27",
+    "explanation": "x³ পদের সহগ আসে (-3x)^3 থেকে। তাই সহগ -27।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q22": {
+    "correctOption": "81",
+    "explanation": "ধ্রুবক পদ = 3^4 = 81।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q23": {
+    "correctOption": "81",
+    "explanation": "ধ্রুবক পদ পেতে x-এর ঘাত 0। তাই ধ্রুবক পদ = 3^4 = 81।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q24": {
+    "correctOption": "27",
+    "explanation": "x³ পদের সহগ আসে (3x)^3 থেকে। তাই সহগ 27।"
+  },
+  "ssc-higher-math-chapter-10-model-test-02-q25": {
+    "correctOption": "16",
+    "explanation": "x⁴ পদের সহগ আসে (2x)^4 থেকে। তাই সহগ 16।"
+  }
+}

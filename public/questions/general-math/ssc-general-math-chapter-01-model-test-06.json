@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "নিচের কোনটি স্বাভাবিক সংখ্যা নয়?",
+    "options": [
+      "১",
+      "৭",
+      "০",
+      "১২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "√৫ কোন ধরনের সংখ্যা?",
+    "options": [
+      "মূলদ",
+      "অমূলদ",
+      "পূর্ণ",
+      "স্বাভাবিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "০.৭৫ = ?",
+    "options": [
+      "৩/৪",
+      "৭/৫",
+      "৭৫/১০",
+      "৪/৩"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "১/৮ এর দশমিক রূপ?",
+    "options": [
+      "০.১২৫",
+      "০.১২",
+      "০.৮",
+      "০.১৮"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "৩/৫ ও ২/৩ এর মধ্যে বড়?",
+    "options": [
+      "৩/৫",
+      "২/৩",
+      "সমান",
+      "নির্ণয় অসম্ভব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "√৯ = ?",
+    "options": [
+      "৯",
+      "৩",
+      "৪.৫",
+      "৮১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "নিচের কোনটি সসীম দশমিক?",
+    "options": [
+      "১/৩",
+      "২/৭",
+      "৩/৮",
+      "৫/৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "০.৬৬৬... = ?",
+    "options": [
+      "১/৬",
+      "২/৩",
+      "৩/৫",
+      "৬/১০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "−৫ ও ২ এর মধ্যে পূর্ণসংখ্যা কয়টি?",
+    "options": [
+      "৫",
+      "৬",
+      "৭",
+      "৮"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "০.০৪ এর বর্গমূল?",
+    "options": [
+      "০.২",
+      "০.০২",
+      "০.৪",
+      "২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "√৪৯ − √৩৬ = ?",
+    "options": [
+      "১",
+      "৩",
+      "৭",
+      "১৩"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "০.২ + ০.০২ = ?",
+    "options": [
+      "০.০৪",
+      "০.২২",
+      "২.২",
+      "০.৪"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "৮/৯ ও ৫/৪ এর মধ্যে ছোট?",
+    "options": [
+      "৮/৯",
+      "৫/৪",
+      "সমান",
+      "নির্ণয় অসম্ভব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "০.৩৩৩... ও ১/৩ সম্পর্কে?",
+    "options": [
+      "সমান",
+      "১/৩ বড়",
+      "০.৩৩৩... বড়",
+      "তুলনা অসম্ভব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "√১২ সরল রূপ?",
+    "options": [
+      "২√৩",
+      "৩√২",
+      "৬√২",
+      "৪√৩"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "০.০০৪ = ?",
+    "options": [
+      "১/২৫০",
+      "৪/১০০",
+      "১/২৫",
+      "১/৪০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "২.২৫ ভগ্নাংশে?",
+    "options": [
+      "৯/৪",
+      "৪/৯",
+      "২২৫/১০",
+      "২৫/৯"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "৭/২০ দশমিকে?",
+    "options": [
+      "০.৩৫",
+      "০.৭",
+      "৩.৫",
+      "০.০৭"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "√০.৮১ + √০.০৪ = ?",
+    "options": [
+      "০.১১",
+      "১.১",
+      "০.৯২",
+      "০.৭"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "২/৩ এর গুণাত্মক বিপরীত?",
+    "options": [
+      "−২/৩",
+      "৩/২",
+      "১/৩",
+      "−৩/২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "০.৯৯৯... = ?",
+    "options": [
+      "০.৯",
+      "১",
+      "৯/১০",
+      "১০/৯"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "√২ × √৮ = ?",
+    "options": [
+      "√১০",
+      "৪",
+      "২√২",
+      "৮"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "১.২৫ = ?",
+    "options": [
+      "৫/৪",
+      "৪/৫",
+      "১২৫/১০০",
+      "২৫/১০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "০.১২৫ × ৮ = ?",
+    "options": [
+      "০.১",
+      "১",
+      "১০",
+      "০.০১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "৩/৪ এর শতকরা?",
+    "options": [
+      "২৫%",
+      "৫০%",
+      "৭৫%",
+      "৮০%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "১২.৫% ভগ্নাংশে?",
+    "options": [
+      "১/৪",
+      "১/৮",
+      "১/১২",
+      "১/১৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "√৫০ − √৮ = ?",
+    "options": [
+      "√৪২",
+      "৩√২",
+      "৫√২",
+      "৭√২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "০.৫² = ?",
+    "options": [
+      "০.২৫",
+      "০.৫",
+      "১",
+      "২.৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "−১/২ ও −০.৫ সম্পর্কে?",
+    "options": [
+      "সমান",
+      "−১/২ বড়",
+      "−০.৫ বড়",
+      "অসম্ভব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-01-model-test-06-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-01-model-test-06",
+    "text": "নিচের কোনটি বাস্তব সংখ্যা নয়?",
+    "options": [
+      "−২",
+      "০",
+      "√৭",
+      "কোনোটিই নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

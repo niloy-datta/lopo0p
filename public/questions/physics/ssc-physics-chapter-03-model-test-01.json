@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "নিউটনের তৃতীয় সূত্র—",
+    "options": [
+      "F₁₂=-F₂₁",
+      "F=ma",
+      "p=mv",
+      "W=Fs"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "ঘর্ষণ বল সাধারণত গতির দিকে—",
+    "options": [
+      "বিপরীত",
+      "সমান্তরাল",
+      "সমান",
+      "লম্ব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "নিউটনের দ্বিতীয় সূত্র অনুযায়ী F=?",
+    "options": [
+      "ma",
+      "mv",
+      "mg",
+      "m/a"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "m=4 kg, a=2.5 m/s² হলে বল F=?",
+    "options": [
+      "10 N",
+      "6.5 N",
+      "1.6 N",
+      "8 N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "নিউটনের তৃতীয় সূত্র অনুযায়ী—",
+    "options": [
+      "F₁₂=-F₂₁",
+      "F=ma",
+      "p=mv",
+      "W=Fs"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "ভরবেগের একক কোনটি?",
+    "options": [
+      "kg·m/s",
+      "N",
+      "J",
+      "W"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "নিচের কোন বলটি সবচেয়ে দুর্বল?",
+    "options": [
+      "তাড়িৎচৌম্বক বল",
+      "সবল নিউক্লীয় বল",
+      "দুর্বল নিউক্লীয় বল",
+      "মহাকর্ষ বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "একটি বস্তুর সাপেক্ষে অন্য একটি বস্তু চলমান থাকলে নিম্নের কোন ঘর্ষণ সৃষ্টি হয়?",
+    "options": [
+      "প্রবাহী",
+      "আবর্ত",
+      "স্থিতি",
+      "গতি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "যখন কোনো তারকে টানা হয় তখন তার ভেতরে যে বল কাজ করে তার নাম কোনটি?",
+    "options": [
+      "পীড়ন",
+      "বিকৃতি",
+      "টেনশন",
+      "স্থিতিস্থাপক গুণাঙ্ক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "মহাকর্ষীয় ধ্রুবকের সাংখ্যিক মান কত?",
+    "options": [
+      "5.98 × 10²⁴",
+      "6.37 × 10⁶",
+      "6.67 × 10⁻¹¹",
+      "1.6 × 10⁻²⁴"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "সরু লেন্সের মাঝখানের যে বিন্দু দিয়ে আলোকরশ্মি যাওয়ার সময় বেঁকে যায় না তাকে বলে—",
+    "options": [
+      "বক্রতার ব্যাসার্ধ",
+      "লেন্সের আলোকীয় কেন্দ্র",
+      "ফোকাস বিন্দু",
+      "মেরু"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-03-model-test-01-q12.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "কোন ঘর্ষণ কাজে লাগিয়ে একজন মানুষ পানিতে সাঁতার কাটতে পারে?",
+    "options": [
+      "স্থিতি ঘর্ষণ",
+      "গতি ঘর্ষণ",
+      "আবর্ত ঘর্ষণ",
+      "প্রবাহী ঘর্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "একটি ঢালু তলের উপর দিয়ে একটি ক্রিকেট বল গড়িয়ে পড়লে কোন ধরনের ঘর্ষণ সৃষ্টি হয়?",
+    "options": [
+      "স্থিতি ঘর্ষণ",
+      "গতি ঘর্ষণ",
+      "আবর্ত ঘর্ষণ",
+      "প্রবাহী ঘর্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "তরঙ্গ দৈর্ঘ্য যদি দৃশ্যমান আলোর সর্বোচ্চ তরঙ্গ দৈর্ঘ্যের চেয়েও বড় হয়, সেটাকে আমরা কী বলি?",
+    "options": [
+      "আল্ট্রাভায়োলেট",
+      "এক্স-রে",
+      "গামা-রে",
+      "ইনফ্রারেড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "সূর্য থেকে আলো ও তাপ তৈরি হয় কোন বল দিয়ে?",
+    "options": [
+      "মহাকর্ষ বল",
+      "বিদ্যুৎ চৌম্বকীয় বল",
+      "দুর্বল নিউক্লিয় বল",
+      "সবল নিউক্লিয় বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "উপর থেকে লাফ দিয়ে নিচে পড়ার সময় কোন ঘর্ষণ কাজ করে?",
+    "options": [
+      "স্থিতি ঘর্ষণ",
+      "গতি ঘর্ষণ",
+      "আবর্ত ঘর্ষণ",
+      "প্রবাহী ঘর্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "উদ্দীপক: একটি পাত্রে তরল রয়েছে যার উচ্চতা \\(2\\text{ cm}\\)। পাত্রের তলদেশে চাপের মান \\(196\\text{ Pa}\\)। একটি \\(200\\text{ kg m}^{-3}\\) ঘনত্বের বস্তুকে তরলে ছেড়ে দেওয়া হলো। উদ্দীপকের ক্ষেত্রে— i. বস্তু খণ্ডটির ৪/৫ অংশ ভাসবে ii. বস্তুটির তরলে ডুবে থাকা অংশ দ্বারা অপসারিত তরলের ভর বস্তুর ভরের সমান নয় iii. পাত্রের তলদেশে চাপ পূর্বাপেক্ষা বৃদ্ধি পাবে নিচের কোনটি সঠিক? ii. ভাসমান বস্তুর ক্ষেত্রে অপসারিত তরলের ভর বস্তুর মোট ভরের সমান হয়। তাই উক্তি ii ভুল। iii. পাত্রে বস্তু রাখার কারণে তরলতলের উচ্চতা বৃদ্ধি পাওয়ায় বা নিচের দিকে প্রযুক্ত বল বাড়ায় তলদেশে চাপ বৃদ্ধি পায়। উক্তিটি সঠিক। অতএব, i ও iii সঠিক।",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/ssc-buoyancy.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "সবচেয়ে দুর্বল বল কোনটি?",
+    "options": [
+      "মহাকর্ষ বল",
+      "তড়িৎ চৌম্বক বল",
+      "সবল নিউক্লিয়া বল",
+      "দুর্বল নিউক্লিয় বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "ঘর্ষণের ফলে শক্তির যে অপচয় হয় তা প্রধানত কীরূপে আবির্ভূত হয়?",
+    "options": [
+      "আলো",
+      "তাপ",
+      "শব্দ",
+      "বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "তড়িৎ বলরেখার ক্ষেত্রে কোনটি সঠিক নয়?",
+    "options": [
+      "চার্জের পরিমাণ যত বেশি হবে বলরেখার সংখ্যা তত বেশি হবে",
+      "বলরেখাগুলো যত কাছাকাছি থাকবে তড়িৎক্ষেত্র তত বেশি হবে",
+      "একটি চার্জের বলরেখা অন্য চার্জের বলরেখাকে কখনো ছেদ করে না",
+      "পজিটিভ চার্জের বেলায় বলরেখা পজিটিভ চার্জে কেন্দ্রীভূত হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "নিচের কোনটিতে ঘর্ষণ বল কম?",
+    "options": [
+      "খাটে শুয়ে থাকা",
+      "মাটির উপর দাঁড়িয়ে থাকা",
+      "দেয়ালে পেরেক লাগানো",
+      "চাকাযুক্ত চেয়ার টেনে নেওয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "নিচের কোন বল আকর্ষণ-বিকর্ষণ দুটোই করতে পারে?",
+    "options": [
+      "সবল নিউক্লীয় বল",
+      "দুর্বল নিউক্লীয় বল",
+      "বিদ্যুৎ চৌম্বকীয় বল",
+      "মহাকর্ষ বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "খেলার মাঠে একটি ক্রিকেট বল গড়িয়ে গড়িয়ে সীমানা পার হয়ে গেল। এর উপর ক্রিয়াশীল ঘর্ষণ বল কীরূপ?",
+    "options": [
+      "স্থিতি ঘর্ষণ",
+      "গতি ঘর্ষণ",
+      "আবর্ত ঘর্ষণ",
+      "প্রবাহী ঘর্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-03-model-test-01-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-03-model-test-01",
+    "text": "টায়ারটির উপর কী ধরনের বল কাজ করছে?",
+    "options": [
+      "সাম্য বল",
+      "অসাম্য বল",
+      "লব্ধি বল",
+      "মৌলিক বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

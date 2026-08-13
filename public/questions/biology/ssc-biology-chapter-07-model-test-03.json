@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "ট্রাকিয়ার বৈশিষ্ট্য?",
+    "options": [
+      "শুধু রক্ত",
+      "শুধু পেশি",
+      "শুধু চর্বি",
+      "অস্থি ও তরুণাস্থি রিং"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "ফুসফুসের কাজ কী?",
+    "options": [
+      "গ্যাস বিনিময়",
+      "রক্ত জমাট",
+      "পানি শোষণ",
+      "প্রোটিন তৈরি"
+    ],
+    "image": "/images/quiz/bio-alveoli.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "হিমোগ্লোবিন বহন করে কী?",
+    "options": [
+      "H₂",
+      "CO₂",
+      "N₂",
+      "O₂"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "নিচের কোন রোগটি ব্যাকটেরিয়ার সংক্রমণের কারণে শ্বাসতন্ত্রে হয়ে থাকে?",
+    "options": [
+      "ম্যালেরিয়া",
+      "নিউমোনিয়া",
+      "ইনফ্লুয়েঞ্জা",
+      "এইডস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "উদ্ভিদে CO₂ বের হয় কোথায়?",
+    "options": [
+      "মূল দিয়ে",
+      "বীজ দিয়ে",
+      "স্টোমাটা দিয়ে",
+      "কাণ্ড দিয়ে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাসে O₂ ও CO₂ বিনিময় কী?",
+    "options": [
+      "লসিকা",
+      "অ্যালভিওলি ও কৈশিক",
+      "শিরা",
+      "মহাধমনি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাসতন্ত্রের অঙ্গ নয় কী?",
+    "options": [
+      "ফুসফুস",
+      "কিডনি",
+      "ট্রাকিয়া",
+      "নাসারন্ধ্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাসকষ্টের কারণ কী?",
+    "options": [
+      "কম ATP",
+      "অ্যালভিওলি ক্ষতিগ্রস্ত",
+      "অতিরিক্ত O₂",
+      "বেশি পানি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "উদ্ভিদে স্টোমাটা খোলে কী?",
+    "options": [
+      "দিনে",
+      "শীতে",
+      "রাতে",
+      "বৃষ্টিতে"
+    ],
+    "image": "/images/quiz/bio-stomata.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "মানুষের শ্বাসনালীর উপরিভাগে অবস্থিত তরুণাস্থি নির্মিত ঢাকনিটির নাম কী?",
+    "options": [
+      "গ্লটিস",
+      "ল্যারিঙ্কস",
+      "এপিগ্লটিস",
+      "ব্রঙ্কাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাসে CO₂ বের হয় কোথায়?",
+    "options": [
+      "শ্বাসত্যাগে",
+      "শ্বাসগ্রহণে",
+      "রেচনে",
+      "পরিপাকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাস গতি মাপা হয় কোন যন্ত্রে?",
+    "options": [
+      "ব্যারোমিটারে",
+      "স্টেথোস্কোপে",
+      "থার্মোমিটারে",
+      "স্পাইরোমিটারে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "ডায়াফ্রাম সংকুচিত হলে কী?",
+    "options": [
+      "রক্ত চাপ কমে",
+      "হৃৎস্পন্দন বন্ধ",
+      "ফুসফুস প্রসারিত",
+      "ফুসফুস সংকুচিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাসনালি বায়ু পরিশোধন করে কোথায়?",
+    "options": [
+      "রক্ত তৈরি",
+      "খাদ্য হজম",
+      "ইউরিয়া বের করে",
+      "ধূলিকণা আটকায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "উদ্ভিদে অক্সিজেন বের হয় কোথায়?",
+    "options": [
+      "রেচনে",
+      "পরিপাকে",
+      "সালোকসংশ্লেষণে",
+      "শ্বসনে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাস গতি নিয়ন্ত্রণ কী?",
+    "options": [
+      "সেরিবেলাম",
+      "প্যানক্রিয়াস",
+      "হাইপোথ্যালামাস",
+      "মেডুলা অবলংগাটা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাসনালির কাজ কী?",
+    "options": [
+      "খাদ্য পরিপাক",
+      "বায়ু ফুসফুসে নেওয়া",
+      "রেচন",
+      "রক্ত তৈরি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাসে বায়ু প্রবেশ পথ কোনটি?",
+    "options": [
+      "কান→মস্তিষ্ক",
+      "নাসা→ট্রাকিয়া→ফুসফুস",
+      "মুখ→পাকস্থলী",
+      "ত্বক→রক্ত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "মানব শ্বাসতন্ত্রে বায়ু প্রবেশের সঠিক পথ কোনটি?",
+    "options": [
+      "ত্বক → রক্ত",
+      "কান → মস্তিষ্ক",
+      "নাসিকা → শ্বাসনালি → ব্রঙ্কাস → অ্যালভিওলি",
+      "মুখ → পাকস্থলী → অন্ননালি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "মানবে শ্বাস-প্রশ্বাসের অঙ্গ কী?",
+    "options": [
+      "পাকস্থলী",
+      "কিডনি",
+      "ফুসফুস",
+      "লিভার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "উদ্ভিদে গ্যাস বিনিময় কোথায় ঘটে?",
+    "options": [
+      "মূল দিয়ে",
+      "বীজ দিয়ে",
+      "স্টোমাটা দিয়ে",
+      "ফুল দিয়ে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "শ্বাসে O₂ শোষিত হয় কী?",
+    "options": [
+      "ফুসফুসে",
+      "কিডনিতে",
+      "পাকস্থলীতে",
+      "ত্বকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "উদ্ভিদে দিনের বেলা স্টোমাটা খোলার প্রধান কারণ কী?",
+    "options": [
+      "শ্বসন বন্ধ",
+      "রেচন",
+      "পরিপাক",
+      "সালোকসংশ্লেষণ ও গ্যাস বিনিময়"
+    ],
+    "image": "/images/quiz/bio-stomata.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "অ্যালভিওলির কাজ কী?",
+    "options": [
+      "রক্ত জমাট",
+      "গ্যাস বিনিময়",
+      "পানি শোষণ",
+      "প্রোটিন তৈরি"
+    ],
+    "image": "/images/quiz/bio-alveoli.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-07-model-test-03-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-07-model-test-03",
+    "text": "উদ্ভিদে রাতে CO₂ বের হয় কোথায়?",
+    "options": [
+      "সালোকসংশ্লেষণে",
+      "পরিপাকে",
+      "রেচনে",
+      "শ্বসনে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

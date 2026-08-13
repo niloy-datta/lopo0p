@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-paper-set-09-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "পদার্থের জড়তার পরিমাপক কোনটি?",
+    "options": [
+      "ত্বরণ",
+      "ভর",
+      "বেগ",
+      "বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "সমদশাসম্পন্ন দুটি কণার মধ্যবর্তী দূরত্ব কত?",
+    "options": [
+      "λ/2",
+      "λ",
+      "λ/4",
+      "2λ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "মহাকর্ষীয় ধ্রুবকের সাংখ্যিক মান কত?",
+    "options": [
+      "5.98 × 10²⁴",
+      "6.37 × 10⁶",
+      "6.67 × 10⁻¹¹",
+      "1.6 × 10⁻²⁴"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "শক্তির সবচেয়ে সাধারণ রূপ কোনটি?",
+    "options": [
+      "তাপশক্তি",
+      "আলোকশক্তি",
+      "সৌরশক্তি",
+      "যান্ত্রিক শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "20 cm³ আয়তনে পানির ভর কত?",
+    "options": [
+      "10g",
+      "20g",
+      "25g",
+      "50g"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "সুরযুক্ত শব্দের বৈশিষ্ট্য নয় কোনটি?",
+    "options": [
+      "তীব্রতা",
+      "মাধ্যমের স্থিতিস্থাপকতা",
+      "পিচ",
+      "টিম্বার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 12 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "0.50 A",
+      "72 A",
+      "{(v+r)} A",
+      "2.0 A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "বর্তনীটির বৈদ্যুতিক ক্ষমতা কত? [E = 10V, I₁ = 3A]",
+    "options": [
+      "30W",
+      "13W",
+      "3.33W",
+      "0.3W"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "নিচের কোনটি তেজস্ক্রিয় পদার্থ?",
+    "options": [
+      "তামা",
+      "অক্সিজেন",
+      "লোহা",
+      "ইউরেনিয়াম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "চিত্রে CO = ফোকাস দূরত্ব, BO = বক্রতার ব্যাসার্ধ। নিচের কোন বিন্দুতে বস্তু স্থাপন করলে বাস্তব ও অবাস্তব উভয় প্রকার বিম্ব পাওয়া যাবে? [A–B–C–D–O বিন্দু বরাবর অবতল দর্পণ]",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "image": "/images/quiz/ssc-concave-mirror.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "তরঙ্গ দৈর্ঘ্য যদি দৃশ্যমান আলোর সর্বোচ্চ তরঙ্গ দৈর্ঘ্যের চেয়েও বড় হয়, সেটাকে আমরা কী বলি?",
+    "options": [
+      "আল্ট্রাভায়োলেট",
+      "এক্স-রে",
+      "গামা-রে",
+      "ইনফ্রারেড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "নিচের কোন যন্ত্রে আলোক শক্তিকে তাপ শক্তিতে রূপান্তর করা যায়?",
+    "options": [
+      "জেনারেটর",
+      "মাইক্রোওয়েভ ওভেন",
+      "ফটোগ্রাফিক ফিল্ম",
+      "থার্মোকাপল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "সমান আয়তনের কোন বস্তুর জড়তা বেশি?",
+    "options": [
+      "তামা",
+      "রূপা",
+      "সোনা",
+      "লোহা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "বাদুড় 100 kHz কম্পনের শব্দ তৈরি করতে পারে, এটি কী ধরনের শব্দ?",
+    "options": [
+      "শব্দেতর",
+      "শ্রুতিকটু",
+      "শব্দোত্তর",
+      "শ্রুতিমধুর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "চার্জের প্রবাহ নিচের কোনটির উপর নির্ভর করে?",
+    "options": [
+      "বিভব পার্থক্য",
+      "পরিবাহীর রোধ",
+      "সঞ্চিত শক্তি",
+      "তড়িৎ তীব্রতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "পরিবাহীর রোধ তারের দৈর্ঘ্যের সাথে কীভাবে সম্পর্কিত?",
+    "options": [
+      "সমান",
+      "বর্গের সমান",
+      "সমানুপাতিক",
+      "বর্গের সমানুপাতিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "নিচের কোন মাধ্যমে শব্দ দ্রুত চলে?",
+    "options": [
+      "পানি",
+      "পারদ",
+      "লোহা",
+      "হাইডে্রাজেন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "স্লাইড ক্যালিপার্সের সাহায্যে কোনো দণ্ডের দৈর্ঘ্য পরিমাপ করতে গিয়ে প্রধান স্কেল পাঠ 5 cm, ভার্নিয়ার সমপাতন 7 পাওয়া গেল। যন্ত্রটির ভার্নিয়ার ধ্রুবক 0.1 mm। দণ্ডটির দৈর্ঘ্য কত?",
+    "options": [
+      "5.0007 cm",
+      "5.007 cm",
+      "5.07 cm",
+      "5.7 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "নিচের কোনটিতে আলো পড়লে বর্ণালিতে পরিণত হয়?",
+    "options": [
+      "আয়না",
+      "পি্রজম",
+      "রিয়ার ভিউ মিরর",
+      "সাইড ভিউ মিরর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "একটি 27 m/s বেগে চলমান 5 kg ভরের বস্তুর গতিশক্তি কত?",
+    "options": [
+      "1823 J",
+      "m*v*v J",
+      "135 J",
+      "0.5*m*v J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "এক টুকরো সাধারণ কাঁচে কী পরিমাণ আলো প্রতিফলিত হয়?",
+    "options": [
+      "2% – 3%",
+      "3% – 4%",
+      "4% – 5%",
+      "5% – 6%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "অসীম দ–রত্ব থেকে তড়িৎক্ষেত্রের কোনো বিন্দুতে একটি একক ধনাÍK আধানকে আনতে যে কাজ করতে হয় তাকে কী বলে?",
+    "options": [
+      "তড়িৎধারক",
+      "তড়িৎ বল",
+      "তড়িৎ বিভব",
+      "তড়িৎ তীব্রতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "কেরোসিনের বা®ক্সায়ন নিচের কোনটির উপর নির্ভরশীল নয়?",
+    "options": [
+      "ঘনত্ব",
+      "ক্ষেত্রফল",
+      "চাপ",
+      "উষ্ণতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "নিচের কোনটি emf নির্ণয়ের সূত্র?",
+    "options": [
+      "\\(W \\times Q\\)",
+      "\\(\\frac{W}{Q}\\)",
+      "\\(\\frac{Q}{W}\\)",
+      "\\(\\frac{W}{t}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-09-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-09",
+    "text": "ইলেকটি্রক ফিল্ড পরিবর্তন করতে হলে পটেনশিয়াল-",
+    "options": [
+      "বৃদ্ধি করতে হবে",
+      "হ্রাস করতে হবে",
+      "পরিবর্তন করতে হবে",
+      "অপরিবর্তিত থাকবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

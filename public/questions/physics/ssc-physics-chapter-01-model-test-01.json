@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "পরিমাপে সিস্টেম্যাটিক ত্রুটি—",
+    "options": [
+      "যন্ত্রের ক্যালিব্রেশনজনিত",
+      "এলোমেলো",
+      "এককহীন",
+      "শূন্য হতে পারে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "ব্যাসার্ধ $R=4.5\\pm0.1$ একক হলে আয়তনের শতকরা ত্রুটি প্রায়—",
+    "options": [
+      "8.9%",
+      "9.4%",
+      "4.4%",
+      "2.2%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "দ্রুতির মাত্রা কোনটি?",
+    "options": [
+      "$\\text{LT}^{-1}$",
+      "$\\text{L}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$",
+      "$\\text{T}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "পিচ 2 mm ও বৃত্তাকার স্কেল 78 ভাগের স্ক্রুগজের least count—",
+    "options": [
+      "2 mm",
+      "0.26 mm",
+      "0.026 mm",
+      "0.003 mm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "কাজের মাত্রা কোনটি?",
+    "options": [
+      "$\\text{ML}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$",
+      "$\\text{ML}^2\\text{T}^{-3}$",
+      "$\\text{MLT}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "পদার্থবিজ্ঞানে মৌলিক রাশির সংখ্যা—",
+    "options": [
+      "৭",
+      "৫",
+      "৩",
+      "৯"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "SI পদ্ধতিতে বলের একক কোনটি?",
+    "options": [
+      "নিউটন",
+      "জুল",
+      "ওয়াট",
+      "প্যাসকেল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "সময়ের মাত্রা কোনটি?",
+    "options": [
+      "$\\text{T}$",
+      "$\\text{L}$",
+      "$\\text{M}$",
+      "$\\text{A}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "নিচের কোনটি ভেক্টর রাশি?",
+    "options": [
+      "বেগ",
+      "দ্রুতি",
+      "কাজ",
+      "তাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "পরিমাপের ফলাফলে গুরুত্বপূর্ণ অঙ্কের সংখ্যা নির্ভর করে—",
+    "options": [
+      "অজ্ঞাত অঙ্কের সংখ্যার উপর",
+      "যন্ত্রের রঙের উপর",
+      "পরিবেশ তাপমাত্রার উপর",
+      "পরিমাপকারীর বয়সের উপর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "ক্ষমতার মাত্রা কোনটি?",
+    "options": [
+      "$\\text{ML}^2\\text{T}^{-3}$",
+      "$\\text{MLT}^{-1}$",
+      "$\\text{ML}^2\\text{T}^{-2}$",
+      "$\\text{ML}^{-1}\\text{T}^{-2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "তড়িৎ প্রবাহের মাত্রা কোনটি?",
+    "options": [
+      "$\\text{A}$",
+      "$\\text{V}$",
+      "$\\text{Ω}$",
+      "$\\text{C}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "$[M][L][T]^{-2}$ ও $[L][T]^{-1}$ এর গুণফলের মাত্রা—",
+    "options": [
+      "72",
+      "17",
+      "1",
+      "1.125"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "র্যান্ডম ত্রুটি কমাতে—",
+    "options": [
+      "পুনরাবৃত্তি পরিমাপ",
+      "ভিন্ন যন্ত্র ব্যবহার",
+      "একক পরিবর্তন",
+      "তাপমাত্রা বাড়ানো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "ত্বরণের মাত্রা কোনটি?",
+    "options": [
+      "$\\text{LT}^{-2}$",
+      "$\\text{LT}^{-1}$",
+      "$\\text{L}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "ভার্নিয়ার স্থিরাঙ্কের একক—",
+    "options": [
+      "মিটার",
+      "সেন্টিমিটার",
+      "মিলিমিটার",
+      "এককহীন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "ঘনত্বের মাত্রা কোনটি?",
+    "options": [
+      "$\\text{ML}^{-3}$",
+      "$\\text{ML}^{-2}$",
+      "$\\text{M}^2\\text{L}^{-3}$",
+      "$\\text{LT}^{-3}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "দৈর্ঘ্যের মাত্রা কোনটি?",
+    "options": [
+      "$\\text{L}$",
+      "$\\text{M}$",
+      "$\\text{T}$",
+      "$\\text{I}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "নিচের কোনটি স্কেলার রাশি?",
+    "options": [
+      "দ্রুতি",
+      "বেগ",
+      "ত্বরণ",
+      "বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "1 ন্যানোমিটার = ? মিটার",
+    "options": [
+      "$10^{-3}$",
+      "$10^{-6}$",
+      "$10^{-9}$",
+      "$10^{-12}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "SI পদ্ধতিতে তাপমাত্রার একক—",
+    "options": [
+      "কেলভিন",
+      "সেলসিয়াস",
+      "ফারেনহাইট",
+      "জুল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "পদার্থবিজ্ঞানে মৌলিক রাশির সংখ্যা কত?",
+    "options": [
+      "৭",
+      "৫",
+      "৩",
+      "৯"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "পরিমাপে সিস্টেম্যাটিক ত্রুটি মূলত কিসের জন্য ঘটে?",
+    "options": [
+      "যন্ত্রের ক্যালিব্রেশনজনিত",
+      "এলোমেলো",
+      "এককহীন",
+      "শূন্য হতে পারে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "চাপের মাত্রা কোনটি?",
+    "options": [
+      "$\\text{ML}^{-1}\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$",
+      "$\\text{ML}^2\\text{T}^{-3}$",
+      "$\\text{MLT}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": "পদার্থের জড়তার পরিমাপক কোনটি?",
+    "options": [
+      "ত্বরণ",
+      "ভর",
+      "বেগ",
+      "বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

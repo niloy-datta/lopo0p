@@ -1,0 +1,82 @@
+{
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q01": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q02": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q03": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q04": {
+    "correctOption": "1 \\mu F",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q05": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q06": {
+    "correctOption": "33.33%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q07": {
+    "correctOption": "ফ্যারাড",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q08": {
+    "correctOption": "1:9",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q09": {
+    "correctOption": "E শূন্য, V পৃষ্ঠের সমান (ধ্রুবক)",
+    "explanation": "চার্জ গোলকের বাইরের পৃষ্ঠে থাকে। ভেতরে E=0, তাই V = constant (পৃষ্ঠের বিভবের সমান)।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q10": {
+    "correctOption": "V = E − Ir",
+    "explanation": "ব্যাটারি কারেন্ট সরবরাহ করলে V = E − Ir হয়, কিন্তু ব্যাটারি চার্জ করার সময় V = E + Ir হয়।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q11": {
+    "correctOption": "ভোল্টমিটার",
+    "explanation": "ভোল্টমিটার বিভব পার্থক্য পরিমাপ করতে ব্যবহৃত হয়।"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q12": {
+    "correctOption": "U = ½ CV²",
+    "explanation": "ধারকের সঞ্চিত শক্তি U = ½ CV² = ½ QV = Q²/(2C)"
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q13": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q14": {
+    "correctOption": "90 Volt",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q15": {
+    "correctOption": "1.5 V",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q16": {
+    "correctOption": "জুল",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q17": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q18": {
+    "correctOption": "3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q19": {
+    "correctOption": "10^{-10} m",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-02-model-test-07-q20": {
+    "correctOption": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+    "explanation": ""
+  }
+}

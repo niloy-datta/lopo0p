@@ -1,0 +1,102 @@
+{
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q01": {
+    "correctOption": "৩ গুণ",
+    "explanation": "v=fλ, f ধ্রুব হলে λ ∝ v।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q02": {
+    "correctOption": "১/৪",
+    "explanation": "I \\\\propto 1/r^2।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q03": {
+    "correctOption": "λ/2",
+    "explanation": "স্থির তরঙ্গে পরপর দুটি নোড বা এন্টি-নোডের দূরত্ব λ/2।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q04": {
+    "correctOption": "4L",
+    "explanation": "L = λ/4 ⟹ λ = 4L."
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q05": {
+    "correctOption": "ব্যতিচার",
+    "explanation": "দুটি প্রায় সমান কম্পাঙ্কের তরঙ্গের উপরিপাতন বা ব্যতিচারের ফলে বিট সৃষ্টি হয়।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q06": {
+    "correctOption": "চিকন হয়",
+    "explanation": "বেশি কম্পাঙ্কে উচ্চ স্বর শোনা যায়।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q07": {
+    "correctOption": "I ∝ A²",
+    "explanation": "তরঙ্গ তীব্রতা বিস্তারের বর্গের সমানুপাতিক।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q08": {
+    "correctOption": "I ∝ 1/r²",
+    "explanation": "ইনভার্স স্কয়ার ল মেনে চলে।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q09": {
+    "correctOption": "20000Hz এর বেশি",
+    "explanation": "২০,০০০ হার্জের ওপরের শব্দ।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q10": {
+    "correctOption": "বাড়ে",
+    "explanation": "আপেক্ষিকভাবে বেশি তরঙ্গ প্রতি সেকেন্ডে পৌঁছায়।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q11": {
+    "correctOption": "তরঙ্গ সংখ্যা",
+    "explanation": "k = 2π/λ (তরঙ্গ সংখ্যা বা Angular wave number)।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q12": {
+    "correctOption": "0.5 Hz",
+    "explanation": "সেকেন্ড দোলকের পর্যায়কাল T=2 s। কম্পাঙ্ক f=T 1 ​=2 1 ​=0.5 Hz।"
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q13": {
+    "correctOption": "180",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q14": {
+    "correctOption": "s^{-1}",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q15": {
+    "correctOption": "গ্রিড ট্রান্সডিউসার",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q16": {
+    "correctOption": "0.5 Hz",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q17": {
+    "correctOption": "3 m/s",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q18": {
+    "correctOption": "2/π Hz",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q19": {
+    "correctOption": "বিস্তার",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q20": {
+    "correctOption": "6",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q21": {
+    "correctOption": "3 Hz",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q22": {
+    "correctOption": "π/15 rads⁻¹",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q23": {
+    "correctOption": "120 ms^{-1}",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q24": {
+    "correctOption": "0.5 Hz",
+    "explanation": ""
+  },
+  "hsc-physics-1st-paper-chapter-09-model-test-09-q25": {
+    "correctOption": "কম্পাঙ্ক (f)",
+    "explanation": "কম্পাঙ্ক উৎসের ধর্ম, মাধ্যমের ওপর নির্ভর করে না।"
+  }
+}

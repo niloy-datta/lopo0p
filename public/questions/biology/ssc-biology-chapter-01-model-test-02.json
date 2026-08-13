@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "Homo sapiens-এ sapiens কী নির্দেশ করে?",
+    "options": [
+      "পরিবার",
+      "বর্গ",
+      "প্রজাতি",
+      "গণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "দ্বিপদ নামকরণের (Binomial Nomenclature) প্রবর্তক কে?",
+    "options": [
+      "রবার্ট হুক",
+      "গ্রেগর জোহান মেন্ডেল",
+      "চার্লস ডারউইন",
+      "ক্যারোলাস লিনিয়াস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "জীবের প্রধান বৈশিষ্ট্য নয় কোনটি?",
+    "options": [
+      "প্রজনন",
+      "বিপাক",
+      "বৃদ্ধি ও বিকাশ",
+      "বাহ্যিক শক্তি উৎপাদন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "জীবনের মৌলিক একক কী?",
+    "options": [
+      "কোষ",
+      "অণু",
+      "ইলেকট্রন",
+      "পরমাণু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "মাইক্রোবায়োলজি অধ্যয়ন করে কী?",
+    "options": [
+      "শিলা",
+      "প্রাণী",
+      "উদ্ভিদ",
+      "অণুজীব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "জীবের প্রধান বৈশিষ্ট্য হিসেবে নিচের কোনটি সঠিক নয়?",
+    "options": [
+      "জীবে বৃদ্ধি ও বিকাশ ঘটে",
+      "সব জীব বাহ্যিক শক্তি উৎপাদন করে",
+      "জীব প্রজনন করতে পারে",
+      "জীবে বিপাক চলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "বৈজ্ঞানিক নামে প্রজাতির প্রথম অক্ষর কী?",
+    "options": [
+      "আন্ডারলাইন",
+      "বড় হাতের",
+      "ছোট হাতের",
+      "ইটালিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "Whittaker-এর পাঁচ রাজ্য শ্রেণিবিন্যাসে Monera, Protista, Fungi, Plantae, Animalia কী নির্দেশ করে?",
+    "options": [
+      "পাঁচ রাজ্য শ্রেণিবিন্যাস",
+      "পাঁচটি টিস্যু",
+      "পাঁচটি খাদ্য শ্রেণি",
+      "পাঁচটি অঙ্গতন্ত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "কোন ভাইরাসের কারণে জরায়ুমুখের ক্যান্সার হয়?",
+    "options": [
+      "HBV",
+      "HCV",
+      "HIV",
+      "HPV"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "মনেরা (Monera) রাজ্যের অন্তর্ভুক্ত অণুজী ব কোনটি?",
+    "options": [
+      "পেনিসিলিয়াম",
+      "অ্যামিবা",
+      "ইস্ট",
+      "ব্যাকটেরিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "দ্বিপদ নামকরণে প্রথম অংশ নির্দেশ করে কী?",
+    "options": [
+      "গণ",
+      "বর্গ",
+      "প্রজাতি",
+      "পরিবার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "প্রাণী রাজ্যের বৈশিষ্ট্য কী?",
+    "options": [
+      "চলন ও অনুভূতি",
+      "কোষপ্রাচীর",
+      "ক্লোরোপ্লাস্ট",
+      "স্পোর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "প্রাণিবিজ্ঞানের অধ্যয়ন ক্ষেত্র কী?",
+    "options": [
+      "কণা",
+      "উদ্ভিদ",
+      "মাটি",
+      "প্রাণী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "পাঁচ রাজ্য শ্রেণিবিন্যাসে Monera-তে কোনটি?",
+    "options": [
+      "উদ্ভিদ",
+      "প্রাণী",
+      "ছত্রাক",
+      "ব্যাকটেরিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "ভাইরাসকে কোন শ্রেণিতে রাখা হয়?",
+    "options": [
+      "Monera",
+      "অজীব ও জীবের মাঝামাঝি",
+      "Protista",
+      "Plantae"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "ফানজাই রাজ্যের উদাহরণ কোনটি?",
+    "options": [
+      "ছত্রাক",
+      "অ্যামিবা",
+      "ব্যাকটেরিয়া",
+      "শৈবাল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "ইকোলজি কী অধ্যয়ন করে?",
+    "options": [
+      "কোষ",
+      "জীব ও পরিবেশের সম্পর্ক",
+      "অঙ্গ",
+      "খনিজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "জীববিজ্ঞানের প্রয়োগ ক্ষেত্র কী?",
+    "options": [
+      "শুধু গণিত",
+      "শুধু ইতিহাস",
+      "চিকিৎসা ও কৃষি",
+      "শুধু পদার্থ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "পেনিসিলিয়াম (Penicillium) কোন রাজ্যের অন্তর্ভুক্ত জীব?",
+    "options": [
+      "প্লান্টি",
+      "প্রোটিস্টা",
+      "মনেরা",
+      "ফানজাই (ছত্রাক)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "উদ্দীপক: একটি অণুজীব DNA ও RNA উভয়ই ধারণ করে, কিন্তু কোষীয় গঠন নেই এবং এটি host কোষের ভিতরে সংখ্যাবৃদ্ধি করে। এটি কোন শ্রেণির জীব?",
+    "options": [
+      "ব্যাকটেরিয়া",
+      "শৈবাল",
+      "ভাইরাস",
+      "অ্যামিবা"
+    ],
+    "image": "/images/quiz/dna-rna.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "প্রোটিস্টা (Protista) রাজ্যের অন্তর্ভুক্ত এককোষী জীব কোনটি?",
+    "options": [
+      "ইস্ট",
+      "ব্যাকটেরিয়া",
+      "পেনিসিলিয়াম",
+      "অ্যামিবা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "জীবের কোষীয় গঠন নির্দেশ করে কী?",
+    "options": [
+      "শুধু উদ্ভিদ কোষীয়",
+      "সকল জীব কোষ থেকে গঠিত",
+      "কোনো জীব কোষীয় নয়",
+      "শুধু প্রাণী কোষীয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "Species-এর বাংলা কী?",
+    "options": [
+      "বর্গ",
+      "গণ",
+      "প্রজাতি",
+      "পরিবার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "উদ্ভিদবিজ্ঞানের অধ্যয়ন ক্ষেত্র কী?",
+    "options": [
+      "প্রাণী",
+      "উদ্ভিদ",
+      "শিলা",
+      "ভাইরাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-01-model-test-02-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-01-model-test-02",
+    "text": "দ্বিপদ নামকরণে Homo sapiens-এ Homo ও sapiens যথাক্রমে কী নির্দেশ করে?",
+    "options": [
+      "প্রজাতি ও গণ",
+      "গণ ও প্রজাতি",
+      "পরিবার ও বর্গ",
+      "বর্গ ও গণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "2³×4²=?",
+    "options": [
+      "2⁵",
+      "2⁷",
+      "2⁶",
+      "2⁸"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "16×2⁻³=?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "27×3⁻³=?",
+    "options": [
+      "1",
+      "3",
+      "9",
+      "27"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "(a⁻²)⁻²=?",
+    "options": [
+      "a⁴",
+      "a⁻⁴",
+      "a²",
+      "a⁻²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "(x²y⁻¹)³=?",
+    "options": [
+      "x⁶/y³",
+      "x⁵/y³",
+      "x⁶y³",
+      "x³/y²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "8¹/²=?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "256¹/⁴=?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "log₂3+log₂8=?",
+    "options": [
+      "log₂11",
+      "log₂24",
+      "log₂5",
+      "log₂8"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "log₅75−log₅3=?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "log₂48−log₂3=?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "log₁₀0.1=?",
+    "options": [
+      "-1",
+      "1",
+      "0",
+      "2"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "log₁₀1=?",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "2"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "10⁵=?",
+    "options": [
+      "10000",
+      "100000",
+      "1000000",
+      "1000"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "10⁻⁴=?",
+    "options": [
+      "0.0001",
+      "0.001",
+      "0.01",
+      "0.1"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "2ˣ=8 হলে x=?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "3ˣ=27 হলে x=?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "4ˣ=64 হলে x=?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "5ˣ=125 হলে x=?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "logₓ64=3 হলে x=?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "logₓ81=4 হলে x=?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "x+1/x=3 হলে x²+1/x²=?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "x−1/x=2 হলে x²+1/x²=?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "log₂x+log₂(x−2)=3 হলে x=?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "log₃x+log₃(x+2)=1 হলে x=?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-04-model-test-04-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-04-model-test-04",
+    "text": "log₅(x+1)−log₅x=log₅2 হলে x=?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

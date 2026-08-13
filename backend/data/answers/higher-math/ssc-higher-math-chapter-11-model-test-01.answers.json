@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-11-model-test-01-q01": {
+    "correctOption": "প্রথম চতুর্ভাগ",
+    "explanation": "প্রথম চতুর্ভাগে x ও y উভয়ই ধনাত্মক। P(3,4)-এ x>0, y>0।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q02": {
+    "correctOption": "দ্বিতীয় চতুর্ভাগ",
+    "explanation": "দ্বিতীয় চতুর্ভাগে x ঋণাত্মক এবং y ধনাত্মক। P(-5,2) তাই দ্বিতীয় চতুর্ভাগে।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q03": {
+    "correctOption": "তৃতীয় চতুর্ভাগ",
+    "explanation": "তৃতীয় চতুর্ভাগে x ও y উভয়ই ঋণাত্মক। P(-3,-7) তাই তৃতীয় চতুর্ভাগে।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q04": {
+    "correctOption": "চতুর্থ চতুর্ভাগ",
+    "explanation": "চতুর্থ চতুর্ভাগে x ধনাত্মক এবং y ঋণাত্মক। P(6,-2) তাই চতুর্থ চতুর্ভাগে।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q05": {
+    "correctOption": "y-অক্ষের উপর",
+    "explanation": "যে বিন্দুর x-স্থানাঙ্ক 0, সেটি y-অক্ষের উপর থাকে।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q06": {
+    "correctOption": "x-অক্ষের উপর",
+    "explanation": "যে বিন্দুর y-স্থানাঙ্ক 0, সেটি x-অক্ষের উপর থাকে।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q07": {
+    "correctOption": "(0, 0)",
+    "explanation": "x-অক্ষ ও y-অক্ষ যেখানে ছেদ করে, সেই মূলবিন্দুর স্থানাঙ্ক (0,0)।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q08": {
+    "correctOption": "5",
+    "explanation": "দূরত্ব = √[(4-1)^2+(6-2)^2] = √(9+16)=5।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q09": {
+    "correctOption": "10",
+    "explanation": "দূরত্ব = √[(8-2)^2+(11-3)^2] = √(36+64)=10।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q10": {
+    "correctOption": "5",
+    "explanation": "দূরত্ব = √[(2+1)^2+(6-2)^2] = √(9+16)=5।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q11": {
+    "correctOption": "5",
+    "explanation": "দূরত্ব = √[(1+3)^2+(1+2)^2] = √(16+9)=5।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q12": {
+    "correctOption": "10",
+    "explanation": "দূরত্ব = √(6^2+8^2)=√100=10।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q13": {
+    "correctOption": "6",
+    "explanation": "দুই বিন্দুর y-স্থানাঙ্ক একই, তাই দূরত্ব = |8-2| = 6।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q14": {
+    "correctOption": "6",
+    "explanation": "দুই বিন্দুর x-স্থানাঙ্ক একই, তাই দূরত্ব = |4-(-2)| = 6।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q15": {
+    "correctOption": "(4, 5)",
+    "explanation": "মধ্যবিন্দু = ((2+6)/2, (3+7)/2) = (4,5)।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q16": {
+    "correctOption": "(1, 3)",
+    "explanation": "মধ্যবিন্দু = ((-2+4)/2, (5+1)/2) = (1,3)।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q17": {
+    "correctOption": "(-1, 2)",
+    "explanation": "মধ্যবিন্দু = ((-4+2)/2, (-1+5)/2) = (-1,2)।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q18": {
+    "correctOption": "(4, 5)",
+    "explanation": "মধ্যবিন্দু = ((1+7)/2, (1+9)/2) = (4,5)।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q19": {
+    "correctOption": "2",
+    "explanation": "ঢাল = (11-3)/(6-2) = 8/4 = 2।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q20": {
+    "correctOption": "1",
+    "explanation": "ঢাল = (8-4)/(5-1) = 4/4 = 1।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q21": {
+    "correctOption": "-2",
+    "explanation": "ঢাল = (-5-3)/(2+2) = -8/4 = -2।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q22": {
+    "correctOption": "3",
+    "explanation": "y = mx + c আকারে m হলো ঢাল। এখানে m=3।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q23": {
+    "correctOption": "-2",
+    "explanation": "y = mx + c আকারে x-এর সহগই ঢাল। এখানে ঢাল -2।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q24": {
+    "correctOption": "0",
+    "explanation": "x-অক্ষের সমীকরণ y=0, যা অনুভূমিক রেখা। অনুভূমিক রেখার ঢাল 0।"
+  },
+  "ssc-higher-math-chapter-11-model-test-01-q25": {
+    "correctOption": "অসংজ্ঞায়িত",
+    "explanation": "y-অক্ষ উল্লম্ব রেখা। উল্লম্ব রেখার ঢাল অসংজ্ঞায়িত।"
+  }
+}

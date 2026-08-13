@@ -1,0 +1,177 @@
+{
+  "ssc-general-math-chapter-03-model-test-03-q01": {
+    "answer": "(x + 2)(x + 3)",
+    "answerIndex": 1,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q02": {
+    "answer": "(x − 3)(x − 4)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q03": {
+    "answer": "(x − 3)(x + 4)",
+    "answerIndex": 1,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q04": {
+    "answer": "(x − 8)(x + 3)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q05": {
+    "answer": "(2x + 1)(x + 3)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q06": {
+    "answer": "(3x + 4)(x + 2)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q07": {
+    "answer": "(2x + 1)(x − 3)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q08": {
+    "answer": "(3x − 2)(2x + 1)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q09": {
+    "answer": "(a + b)(x + y)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q10": {
+    "answer": "(x − y)(x + 3)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q11": {
+    "answer": "(2a + 1)(a + 3b)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q12": {
+    "answer": "(x + 3)(y − 2)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q13": {
+    "answer": "(a + b + c)(a + b − c)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q14": {
+    "answer": "(x + 1 + y)(x + 1 − y)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q15": {
+    "answer": "(2a + 3b + 4c)(2a + 3b − 4c)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q16": {
+    "answer": "(a + b + c)²",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q17": {
+    "answer": "(a − b + c)²",
+    "answerIndex": 2,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q18": {
+    "answer": "৩",
+    "answerIndex": 1,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q19": {
+    "answer": "২",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q20": {
+    "answer": "৪১",
+    "answerIndex": 1,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q21": {
+    "answer": "৪০",
+    "answerIndex": 2,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q22": {
+    "answer": "৪৫",
+    "answerIndex": 1,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q23": {
+    "answer": "১১৭",
+    "answerIndex": 3,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q24": {
+    "answer": "(x + 2)(x + 4)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-03-model-test-03-q25": {
+    "answer": "(x − 4)(x − 5)",
+    "answerIndex": 0,
+    "explanation": "",
+    "topic": "বীজগাণিতিক রাশি",
+    "difficulty": 1200
+  }
+}

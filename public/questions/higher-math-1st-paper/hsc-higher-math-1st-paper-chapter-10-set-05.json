@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int x^7dx$ কত?",
+    "options": [
+      "$x^8+C$",
+      "$7x^6+C$",
+      "$\\frac{x^8}{8}+C$",
+      "$\\frac{x^7}{7}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int 8\\,dx$ কত?",
+    "options": [
+      "$8x+C$",
+      "$x^8+C$",
+      "0",
+      "$8+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int \\cos x dx$ কত?",
+    "options": [
+      "$-\\cos x+C$",
+      "$\\cos x+C$",
+      "$\\sin x+C$",
+      "$-\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int \\sin x dx$ কত?",
+    "options": [
+      "$\\cos x+C$",
+      "$-\\cos x+C$",
+      "$-\\sin x+C$",
+      "$\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int e^x dx$ কত?",
+    "options": [
+      "$xe^{x-1}+C$",
+      "$1/e^x+C$",
+      "$e^x+C$",
+      "$\\ln x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int \\frac1x dx$ কত?",
+    "options": [
+      "$e^x+C$",
+      "$x+C$",
+      "$\\ln|x|+C$",
+      "$1/x^2+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int (x+8)dx$ কত?",
+    "options": [
+      "$x^2+8+C$",
+      "$\\frac{x^2}{2}+8x+C$",
+      "$1+C$",
+      "$\\frac{x^2}{2}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int_0^1 1dx$ কত?",
+    "options": [
+      "0",
+      "$\\frac12$",
+      "2",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "1",
+      "$\\frac12$",
+      "$\\frac13$",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "Integration মূলত কোন প্রক্রিয়ার বিপরীত?",
+    "options": [
+      "Vector product",
+      "Matrix multiplication",
+      "Permutation",
+      "Differentiation"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int x^7dx$ কত?",
+    "options": [
+      "$x^8+C$",
+      "$\\frac{x^7}{7}+C$",
+      "$\\frac{x^8}{8}+C$",
+      "$7x^6+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int 8\\,dx$ কত?",
+    "options": [
+      "$8+C$",
+      "$x^8+C$",
+      "0",
+      "$8x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int \\cos x dx$ কত?",
+    "options": [
+      "$-\\cos x+C$",
+      "$-\\sin x+C$",
+      "$\\cos x+C$",
+      "$\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int \\sin x dx$ কত?",
+    "options": [
+      "$-\\cos x+C$",
+      "$-\\sin x+C$",
+      "$\\sin x+C$",
+      "$\\cos x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int e^x dx$ কত?",
+    "options": [
+      "$\\ln x+C$",
+      "$1/e^x+C$",
+      "$xe^{x-1}+C$",
+      "$e^x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int \\frac1x dx$ কত?",
+    "options": [
+      "$1/x^2+C$",
+      "$\\ln|x|+C$",
+      "$x+C$",
+      "$e^x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int (x+8)dx$ কত?",
+    "options": [
+      "$\\frac{x^2}{2}+C$",
+      "$\\frac{x^2}{2}+8x+C$",
+      "$1+C$",
+      "$x^2+8+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int_0^1 1dx$ কত?",
+    "options": [
+      "$\\frac12$",
+      "1",
+      "2",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "$\\frac13$",
+      "0",
+      "1",
+      "$\\frac12$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "Integration মূলত কোন প্রক্রিয়ার বিপরীত?",
+    "options": [
+      "Vector product",
+      "Permutation",
+      "Matrix multiplication",
+      "Differentiation"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int x^7dx$ কত?",
+    "options": [
+      "$x^8+C$",
+      "$7x^6+C$",
+      "$\\frac{x^7}{7}+C$",
+      "$\\frac{x^8}{8}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int 8\\,dx$ কত?",
+    "options": [
+      "0",
+      "$8x+C$",
+      "$x^8+C$",
+      "$8+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int \\cos x dx$ কত?",
+    "options": [
+      "$\\sin x+C$",
+      "$-\\sin x+C$",
+      "$\\cos x+C$",
+      "$-\\cos x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int \\sin x dx$ কত?",
+    "options": [
+      "$\\cos x+C$",
+      "$-\\cos x+C$",
+      "$\\sin x+C$",
+      "$-\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-05-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-05",
+    "text": "$\\int e^x dx$ কত?",
+    "options": [
+      "$\\ln x+C$",
+      "$e^x+C$",
+      "$xe^{x-1}+C$",
+      "$1/e^x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

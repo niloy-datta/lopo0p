@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "জ্যামিতিক অঙ্কনে নির্দিষ্ট শর্ত অনুযায়ী সঠিক চিত্র আঁকতে প্রধানত কোন দুটি যন্ত্র সবচেয়ে বেশি ব্যবহৃত হয়?",
+    "options": [
+      "স্কেল ও কম্পাস",
+      "ক্যালকুলেটর ও স্কেল",
+      "প্রোট্রাক্টর ও ক্যালকুলেটর",
+      "গ্রাফ পেপার ও কলম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "একটি রেখাংশের লম্বদ্বিখণ্ডক অঙ্কন করলে রেখাংশটি কীভাবে বিভক্ত হয়?",
+    "options": [
+      "দুই সমান অংশে",
+      "1:2 অনুপাতে",
+      "2:3 অনুপাতে",
+      "তিন সমান অংশে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "একটি কোণের সমদ্বিখণ্ডক অঙ্কন করলে কোণটি কীভাবে বিভক্ত হয়?",
+    "options": [
+      "দুই সমান কোণে",
+      "দুই অসমান কোণে",
+      "তিন সমান কোণে",
+      "লম্ব কোণে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "একটি সরলরেখার উপর অবস্থিত কোনো বিন্দুতে লম্ব আঁকতে প্রথমে কী করা হয়?",
+    "options": [
+      "বিন্দুর দুই পাশে সমদূরবর্তী দুইটি বিন্দু নেওয়া হয়",
+      "বিন্দুটি মুছে ফেলা হয়",
+      "যেকোনো কোণ আঁকা হয়",
+      "বৃত্তের ক্ষেত্রফল নির্ণয় করা হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "কোনো বহিঃস্থ বিন্দু থেকে একটি সরলরেখার উপর লম্ব আঁকার উদ্দেশ্য কী?",
+    "options": [
+      "বিন্দুটি থেকে রেখাটির ক্ষুদ্রতম দূরত্ব নির্ণয় করা",
+      "রেখাটিকে দ্বিগুণ করা",
+      "রেখাটিকে বৃত্তে রূপ দেওয়া",
+      "কোণকে তিন ভাগ করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "একটি প্রদত্ত রেখার সমান্তরাল রেখা আঁকতে কোন ধারণাটি সবচেয়ে গুরুত্বপূর্ণ?",
+    "options": [
+      "অনুরূপ কোণ সমান রাখা",
+      "ত্রিভুজের ক্ষেত্রফল বের করা",
+      "বৃত্তের ব্যাসার্ধ দ্বিগুণ করা",
+      "রেখাংশকে তিন ভাগ করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "SSS শর্তে ত্রিভুজ আঁকতে কোন তথ্য প্রয়োজন?",
+    "options": [
+      "তিনটি বাহুর দৈর্ঘ্য",
+      "দুই বাহু ও অন্তর্ভুক্ত কোণ",
+      "দুই কোণ ও এক বাহু",
+      "এক বাহু ও ক্ষেত্রফল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "SAS শর্তে ত্রিভুজ আঁকতে কোন তথ্য প্রয়োজন?",
+    "options": [
+      "দুই বাহু ও তাদের অন্তর্ভুক্ত কোণ",
+      "তিন কোণ",
+      "তিন বাহু",
+      "ক্ষেত্রফল ও পরিসীমা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "ASA শর্তে ত্রিভুজ আঁকতে কোন তথ্য প্রয়োজন?",
+    "options": [
+      "দুই কোণ ও অন্তর্ভুক্ত বাহু",
+      "তিন বাহু",
+      "দুই বাহু ও অন্তর্ভুক্ত কোণ",
+      "শুধু তিন কোণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "ত্রিভুজ আঁকার জন্য তিন বাহুর দৈর্ঘ্য 4 cm, 5 cm ও 10 cm দেওয়া হলে কী হবে?",
+    "options": [
+      "ত্রিভুজ আঁকা যাবে না",
+      "সমবাহু ত্রিভুজ হবে",
+      "সমকোণী ত্রিভুজ হবে",
+      "বৃত্ত আঁকা যাবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "ত্রিভুজ আঁকার জন্য 5 cm, 6 cm ও 8 cm বাহু দেওয়া হলে কোন পদ্ধতি প্রযোজ্য?",
+    "options": [
+      "SSS",
+      "SAS",
+      "ASA",
+      "RHS"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "দুই বাহু 6 cm ও 7 cm এবং তাদের অন্তর্ভুক্ত কোণ $50^\\circ$ দেওয়া হলে ত্রিভুজ অঙ্কনের পদ্ধতি কোনটি?",
+    "options": [
+      "SAS",
+      "SSS",
+      "ASA",
+      "RHS"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "এক বাহু 7 cm এবং তার দুই প্রান্তের কোণ $45^\\circ$ ও $65^\\circ$ দেওয়া হলে ত্রিভুজ অঙ্কনের পদ্ধতি কোনটি?",
+    "options": [
+      "ASA",
+      "SAS",
+      "SSS",
+      "RHS"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "সমকোণী ত্রিভুজে অতিভুজ ও একটি বাহু দেওয়া থাকলে কোন নির্মাণ শর্ত ব্যবহৃত হয়?",
+    "options": [
+      "RHS",
+      "SSS",
+      "ASA",
+      "AAA"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "কোনো ত্রিভুজের পরিবৃত্ত আঁকতে প্রথমে কী নির্ণয় করা দরকার?",
+    "options": [
+      "পরিকেন্দ্র",
+      "ভরকেন্দ্র",
+      "লম্ববিন্দু",
+      "ক্ষেত্রফল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "ত্রিভুজের অন্তঃবৃত্ত আঁকতে কোন বিন্দু কেন্দ্র হিসেবে ব্যবহৃত হয়?",
+    "options": [
+      "অন্তঃকেন্দ্র",
+      "পরিকেন্দ্র",
+      "লম্ববিন্দু",
+      "ভরকেন্দ্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "ত্রিভুজের পরিবৃত্তের ব্যাসার্ধ নির্ণয়ে পরিকেন্দ্র থেকে কোন দূরত্ব নেওয়া হয়?",
+    "options": [
+      "যেকোনো শীর্ষবিন্দু পর্যন্ত দূরত্ব",
+      "ভূমির অর্ধেক",
+      "মধ্যমার দৈর্ঘ্য",
+      "ক্ষেত্রফলের বর্গমূল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "ত্রিভুজের অন্তঃবৃত্তের ব্যাসার্ধ নির্ণয়ে অন্তঃকেন্দ্র থেকে কোন দূরত্ব নেওয়া হয়?",
+    "options": [
+      "যেকোনো বাহুর উপর লম্ব দূরত্ব",
+      "শীর্ষবিন্দু পর্যন্ত দূরত্ব",
+      "কর্ণের অর্ধেক",
+      "পরিসীমার অর্ধেক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "একটি বৃত্তের স্পর্শক আঁকতে স্পর্শবিন্দুতে কোন রেখাটি গুরুত্বপূর্ণ?",
+    "options": [
+      "ব্যাসার্ধ",
+      "কর্ণ",
+      "মধ্যমা",
+      "লম্বদ্বিখণ্ডক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "বৃত্তের বাইরে কোনো বিন্দু থেকে স্পর্শক আঁকতে সাধারণত কোন সহায়ক বৃত্ত ব্যবহার করা হয়?",
+    "options": [
+      "বহিঃস্থ বিন্দু ও কেন্দ্রের সংযোগরেখাকে ব্যাস ধরে আঁকা বৃত্ত",
+      "ত্রিভুজের অন্তঃবৃত্ত",
+      "যেকোনো বড় বৃত্ত",
+      "সমবাহু ত্রিভুজের পরিবৃত্ত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "দুইটি বৃত্ত বহিঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের দূরত্ব কোনটির সমান?",
+    "options": [
+      "ব্যাসার্ধদ্বয়ের যোগফল",
+      "ব্যাসার্ধদ্বয়ের বিয়োগফল",
+      "দুই ব্যাসের যোগফল",
+      "একটি ব্যাসার্ধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "দুইটি বৃত্ত অন্তঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের দূরত্ব কোনটির সমান?",
+    "options": [
+      "ব্যাসার্ধদ্বয়ের পার্থক্য",
+      "ব্যাসার্ধদ্বয়ের যোগফল",
+      "দুই ব্যাসের যোগফল",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "দুইটি বৃত্তের ব্যাসার্ধ 5 cm ও 3 cm হলে বহিঃস্পর্শের জন্য কেন্দ্রদ্বয়ের দূরত্ব কত হবে?",
+    "options": [
+      "8 cm",
+      "5 cm",
+      "3 cm",
+      "2 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "দুইটি বৃত্তের ব্যাসার্ধ 9 cm ও 4 cm হলে অন্তঃস্পর্শের জন্য কেন্দ্রদ্বয়ের দূরত্ব কত হবে?",
+    "options": [
+      "5 cm",
+      "9 cm",
+      "13 cm",
+      "4 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-01-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-01",
+    "text": "জ্যামিতিক অঙ্কনে চিত্রের যথার্থতা যাচাই করতে কোনটি সবচেয়ে দরকারি?",
+    "options": [
+      "প্রদত্ত শর্তগুলো ঠিকমতো পূরণ হয়েছে কি না দেখা",
+      "শুধু চিত্র সুন্দর হয়েছে কি না দেখা",
+      "রং ব্যবহার করা",
+      "উত্তর মুখস্থ করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

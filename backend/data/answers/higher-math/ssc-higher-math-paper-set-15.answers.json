@@ -1,0 +1,177 @@
+{
+  "ssc-higher-math-paper-set-15-q01": {
+    "correctOption": "3",
+    "answerIndex": 2,
+    "answer": "3",
+    "explanation": "$\\frac{dy}{dx}=4x^3-6x+5$। $x=1$ বসালে $4-6+5=3$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q02": {
+    "correctOption": "19",
+    "answerIndex": 2,
+    "answer": "19",
+    "explanation": "$f'(x)=6x^2-5$। তাই $f'(2)=6\\times4-5=24-5=19$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q03": {
+    "correctOption": "$x^4-3x^2+2x+C$",
+    "answerIndex": 0,
+    "answer": "$x^4-3x^2+2x+C$",
+    "explanation": "প্রতিটি পদের আলাদা integration করলে $x^4-3x^2+2x+C$ পাওয়া যায়।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q04": {
+    "correctOption": "10",
+    "answerIndex": 1,
+    "answer": "10",
+    "explanation": "$\\int(2x+1)dx=x^2+x$। 1 থেকে 3 বসালে $(9+3)-(1+1)=12-2=10$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q05": {
+    "correctOption": "12",
+    "answerIndex": 2,
+    "answer": "12",
+    "explanation": "${}^nP_2=n(n-1)=132$। $12\\times11=132$। তাই $n=12$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q06": {
+    "correctOption": "12",
+    "answerIndex": 1,
+    "answer": "12",
+    "explanation": "${}^nC_2=\\frac{n(n-1)}{2}=66$। তাই $n(n-1)=132$। $12\\times11=132$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q07": {
+    "correctOption": "2",
+    "answerIndex": 1,
+    "answer": "2",
+    "explanation": "ঢাল $m=\\frac{11-3}{6-2}=\\frac{8}{4}=2$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q08": {
+    "correctOption": "$y-5=-3(x-2)$",
+    "answerIndex": 0,
+    "answer": "$y-5=-3(x-2)$",
+    "explanation": "বিন্দু-ঢাল সূত্র: $y-y_1=m(x-x_1)$। এখানে $m=-3$, $(x_1,y_1)=(2,5)$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q09": {
+    "correctOption": "$(0,4)$",
+    "answerIndex": 0,
+    "answer": "$(0,4)$",
+    "explanation": "$y$-অক্ষের উপর $x=0$। তাই $3y-12=0 \\Rightarrow y=4$। বিন্দু $(0,4)$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q10": {
+    "correctOption": "$(2,-3)$",
+    "answerIndex": 0,
+    "answer": "$(2,-3)$",
+    "explanation": "$x^2-4x+y^2+6y-12=0$। কেন্দ্র $(-\\frac{-4}{2},-\\frac{6}{2})=(2,-3)$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q11": {
+    "correctOption": "5",
+    "answerIndex": 2,
+    "answer": "5",
+    "explanation": "কেন্দ্র $(4,-5)$। $r^2=g^2+f^2-c=16+25-16=25$। তাই $r=5$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q12": {
+    "correctOption": "1",
+    "answerIndex": 2,
+    "answer": "1",
+    "explanation": "এটি $\\sin(45^\\circ+45^\\circ)=\\sin90^\\circ=1$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q13": {
+    "correctOption": "$\\frac{12}{13}$",
+    "answerIndex": 1,
+    "answer": "$\\frac{12}{13}$",
+    "explanation": "$\\tan A=\\frac{লম্ব}{ভূমি}=\\frac{5}{12}$। অতিভুজ $13$। তাই $\\cos A=\\frac{12}{13}$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q14": {
+    "correctOption": "$\\frac{\\sqrt6-\\sqrt2}{4}$",
+    "answerIndex": 0,
+    "answer": "$\\frac{\\sqrt6-\\sqrt2}{4}$",
+    "explanation": "$\\cos75^\\circ=\\cos(45^\\circ+30^\\circ)=\\frac{\\sqrt6-\\sqrt2}{4}$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q15": {
+    "correctOption": "Odd",
+    "answerIndex": 1,
+    "answer": "Odd",
+    "explanation": "$f(-x)=(-x)^3-3(-x)=-x^3+3x=-f(x)$। তাই এটি Odd।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q16": {
+    "correctOption": "$3x+2$",
+    "answerIndex": 0,
+    "answer": "$3x+2$",
+    "explanation": "$y=\\frac{x-2}{3}$ হলে $3y=x-2 \\Rightarrow x=3y+2$। তাই $f^{-1}(x)=3x+2$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q17": {
+    "correctOption": "$-11$",
+    "answerIndex": 0,
+    "answer": "$-11$",
+    "explanation": "$\\vec a\\cdot\\vec b=3(-1)+(-2)(4)=-3-8=-11$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q18": {
+    "correctOption": "$\\frac{3}{5}\\hat i+\\frac{4}{5}\\hat j$",
+    "answerIndex": 0,
+    "answer": "$\\frac{3}{5}\\hat i+\\frac{4}{5}\\hat j$",
+    "explanation": "$|\\vec a|=10$। একক ভেক্টর $=\\frac{3}{5}\\hat i+\\frac{4}{5}\\hat j$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q19": {
+    "correctOption": "10",
+    "answerIndex": 1,
+    "answer": "10",
+    "explanation": "$|A|=3\\times4-2\\times1=12-2=10$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q20": {
+    "correctOption": "6",
+    "answerIndex": 0,
+    "answer": "6",
+    "explanation": "প্রথম সারি দ্বিতীয় স্তম্ভের উপাদান $=1\\times0+2\\times3=6$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q21": {
+    "correctOption": "$\\frac{7}{2}$",
+    "answerIndex": 0,
+    "answer": "$\\frac{7}{2}$",
+    "explanation": "মূলদ্বয়ের যোগফল $=-\\frac{b}{a}=\\frac{7}{2}$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q22": {
+    "correctOption": "5",
+    "answerIndex": 1,
+    "answer": "5",
+    "explanation": "$x^2-9x+20=(x-4)(x-5)$। বৃহত্তর মূল 5।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q23": {
+    "correctOption": "3",
+    "answerIndex": 1,
+    "answer": "3",
+    "explanation": "$a_8-a_4=4d$। $25-13=4d \\Rightarrow d=3$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q24": {
+    "correctOption": "486",
+    "answerIndex": 2,
+    "answer": "486",
+    "explanation": "গুণোত্তর ধারা: $a=2$, $r=3$। $a_6=2\\times3^5=486$।",
+    "difficulty": 1200
+  },
+  "ssc-higher-math-paper-set-15-q25": {
+    "correctOption": "81",
+    "answerIndex": 3,
+    "answer": "81",
+    "explanation": "$\\log_3 x=4$ অর্থ $x=3^4=81$।",
+    "difficulty": 1200
+  }
+}

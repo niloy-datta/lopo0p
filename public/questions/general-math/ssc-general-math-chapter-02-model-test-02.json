@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {x : x হলো ১৫-এর ধনাত্মক গুণনীয়ক} হলে n(A) কত?",
+    "options": [
+      "২",
+      "৩",
+      "৪",
+      "৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {x : x হলো ২০-এর মৌলিক গুণনীয়ক} হলে A কোনটি?",
+    "options": [
+      "{১, ২, ৫}",
+      "{২, ৫}",
+      "{২, ৪, ৫, ১০}",
+      "{১, ২, ৪, ৫, ১০, ২০}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {১, ২, ৩, ৪}, B = {৩, ৪, ৫, ৬} হলে n(A ∪ B) কত?",
+    "options": [
+      "৪",
+      "৬",
+      "৮",
+      "২"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {১, ২, ৩, ৪}, B = {৩, ৪, ৫, ৬} হলে n(A ∩ B) কত?",
+    "options": [
+      "১",
+      "২",
+      "৩",
+      "৪"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "n(A) = ১০, n(B) = ৮, n(A ∩ B) = ৩ হলে n(A ∪ B) কত?",
+    "options": [
+      "১৫",
+      "১৮",
+      "২১",
+      "৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "n(A ∪ B) = ২০, n(A) = ১২, n(B) = ১৫ হলে n(A ∩ B) কত?",
+    "options": [
+      "৫",
+      "৭",
+      "৮",
+      "১০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "n(A) = ৭, n(B) = ৫ এবং A ও B বিচ্ছিন্ন হলে n(A ∪ B) কত?",
+    "options": [
+      "২",
+      "৫",
+      "৭",
+      "১২"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {a, b, c} হলে A-এর উপসেট সংখ্যা কত?",
+    "options": [
+      "৩",
+      "৬",
+      "৮",
+      "৯"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {১, ২, ৩, ৪} হলে A-এর প্রকৃত উপসেট সংখ্যা কত?",
+    "options": [
+      "৮",
+      "১৫",
+      "১৬",
+      "৪"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {১, ২, ৩}, B = {a, b, c, d} হলে n(A × B) কত?",
+    "options": [
+      "৭",
+      "৯",
+      "১২",
+      "১৬"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "n(A) = ৫, n(B) = ৬ হলে n(A × B) কত?",
+    "options": [
+      "১১",
+      "৩০",
+      "২৫",
+      "৩৬"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {১, ২}, B = {৩, ৪} হলে B × A কোনটি?",
+    "options": [
+      "{(১, ৩), (১, ৪), (২, ৩), (২, ৪)}",
+      "{(৩, ১), (৩, ২), (৪, ১), (৪, ২)}",
+      "{(১, ২), (৩, ৪)}",
+      "{(৩, ৪), (১, ২)}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {১, ২}, B = {৩, ৪} হলে A × B ও B × A সম্পর্কে সঠিকটি কোনটি?",
+    "options": [
+      "A × B = B × A",
+      "A × B ≠ B × A",
+      "n(A × B) ≠ n(B × A)",
+      "উভয়ই শূন্য সেট"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "f(x) = ৩x − ২ হলে f(৪) কত?",
+    "options": [
+      "৮",
+      "১০",
+      "১২",
+      "১৪"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "f(x) = x² − ১ হলে f(৫) কত?",
+    "options": [
+      "২৪",
+      "২৫",
+      "২৬",
+      "২৩"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "f(x) = ২x² + ১ হলে f(−২) কত?",
+    "options": [
+      "−৭",
+      "৭",
+      "৯",
+      "−৯"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "f(x) = x/২ হলে f(৮) কত?",
+    "options": [
+      "২",
+      "৪",
+      "৮",
+      "১৬"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "f(x) = ৫ − x হলে f(−৩) কত?",
+    "options": [
+      "২",
+      "−২",
+      "৮",
+      "−৮"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "f = {(২, ৪), (৩, ৯), (৪, ১৬)} হলে f কোন নিয়মে গঠিত?",
+    "options": [
+      "f(x) = ২x",
+      "f(x) = x + ২",
+      "f(x) = x²",
+      "f(x) = x − ২"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "f = {(১, ৩), (২, ৫), (৩, ৭)} হলে f(x) কোনটি?",
+    "options": [
+      "x + ১",
+      "২x + ১",
+      "৩x",
+      "x² + ১"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {১, ২, ৩}, f(x) = ২x হলে f-এর রেঞ্জ কোনটি?",
+    "options": [
+      "{১, ২, ৩}",
+      "{২, ৪, ৬}",
+      "{৩, ৪, ৫}",
+      "{২, ৩, ৪}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {−১, ০, ১}, f(x) = x² হলে রেঞ্জ কোনটি?",
+    "options": [
+      "{−১, ০, ১}",
+      "{০, ১}",
+      "{১}",
+      "{−১, ১}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "f = {(১, ২), (২, ২), (৩, ২)} সম্পর্কটি—",
+    "options": [
+      "ফাংশন নয়",
+      "ফাংশন",
+      "শূন্য সেট",
+      "সার্বিক সেট"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "f = {(১, ২), (১, ৩), (২, ৪)} সম্পর্কটি ফাংশন নয় কেন?",
+    "options": [
+      "রেঞ্জে ২ আছে",
+      "ডোমেনের একই উপাদানের দুইটি প্রতিচ্ছবি আছে",
+      "ordered pair আছে",
+      "উপাদান সংখ্যা কম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-02-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {১, ২, ৩}, B = {২, ৪, ৬}, f = {(১, ২), (২, ৪), (৩, ৬)} হলে f-এর কোডোমেন কোনটি?",
+    "options": [
+      "{১, ২, ৩}",
+      "{২, ৪, ৬}",
+      "{১, ৪, ৬}",
+      "{১, ২, ৪}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

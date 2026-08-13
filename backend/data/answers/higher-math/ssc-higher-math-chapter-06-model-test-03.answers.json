@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-06-model-test-03-q01": {
+    "correctOption": "$x\\le6$",
+    "explanation": "$x+9\\le15 \\Rightarrow x\\le6$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q02": {
+    "correctOption": "$x>7$",
+    "explanation": "$3x-5>16 \\Rightarrow 3x>21 \\Rightarrow x>7$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q03": {
+    "correctOption": "$x\\ge-3$",
+    "explanation": "$-6$ দিয়ে ভাগ করলে অসমতার চিহ্ন উল্টে যায়। তাই $x\\ge-3$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q04": {
+    "correctOption": "$x\\ge2$",
+    "explanation": "$10-4x\\le2 \\Rightarrow -4x\\le-8$। $-4$ দিয়ে ভাগ করলে $x\\ge2$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q05": {
+    "correctOption": "$x<7$",
+    "explanation": "$\frac{2x+1}{3}<5 \\Rightarrow 2x+1<15 \\Rightarrow 2x<14 \\Rightarrow x<7$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q06": {
+    "correctOption": "$x\\ge5$",
+    "explanation": "$7x+3\\ge4x+18 \\Rightarrow 3x\\ge15 \\Rightarrow x\\ge5$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q07": {
+    "correctOption": "$x<5$",
+    "explanation": "$8x-11<3x+14 \\Rightarrow 5x<25 \\Rightarrow x<5$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q08": {
+    "correctOption": "$x>-5$",
+    "explanation": "$-3x-6<9 \\Rightarrow -3x<15$। $-3$ দিয়ে ভাগ করলে $x>-5$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q09": {
+    "correctOption": "ভরাট বৃত্ত",
+    "explanation": "$x\\le8$ হলে 8 অন্তর্ভুক্ত, তাই ভরাট বৃত্ত।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q10": {
+    "correctOption": "ডান দিকে",
+    "explanation": "$x>-6$ মানে $-6$-এর বড় মানগুলো, যা সংখ্যারেখায় ডান দিকে থাকে।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q11": {
+    "correctOption": "4, 6, 8",
+    "explanation": "3 থেকে 9 পর্যন্ত জোড় পূর্ণসংখ্যা হলো 4,6,8।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q12": {
+    "correctOption": "5",
+    "explanation": "পূর্ণসংখ্যা সমাধান: $-4,-3,-2,-1,0$। মোট 5টি।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q13": {
+    "correctOption": "$4x-3<9$",
+    "explanation": "সংখ্যা $x$ হলে 4 গুণ $4x$ এবং 3 বিয়োগ করলে $4x-3$। ফল 9-এর কম, তাই $4x-3<9$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q14": {
+    "correctOption": "$\frac{x}{2}\\ge6$",
+    "explanation": "কমপক্ষে 6 মানে 6 বা তার বেশি। তাই $\frac{x}{2}\\ge6$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q15": {
+    "correctOption": "$x\\ge100$",
+    "explanation": "ন্যূনতম 100 মানে 100 বা তার বেশি। তাই $x\\ge100$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q16": {
+    "correctOption": "1, 2, 3, 4, 5",
+    "explanation": "$3x+1\\le16 \\Rightarrow 3x\\le15 \\Rightarrow x\\le5$। স্বাভাবিক সংখ্যা হলে 1 থেকে 5।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q17": {
+    "correctOption": "4, 5, 6, 7",
+    "explanation": "$2x-1>5 \\Rightarrow x>3$ এবং $x<8$। পূর্ণসংখ্যা হলে $4,5,6,7$।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q18": {
+    "correctOption": "সীমারেখায়",
+    "explanation": "$(6,4)$ বসালে $6+4=10$। তাই বিন্দুটি সীমারেখায় এবং সমাধানের অংশ।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q19": {
+    "correctOption": "না",
+    "explanation": "$(6,4)$ বসালে $6+4=10$। কিন্তু দরকার $<10$, তাই সমাধান নয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q20": {
+    "correctOption": "$x+2y=8$",
+    "explanation": "সীমারেখা পেতে $\\ge$ চিহ্নের জায়গায় $=$ বসানো হয়।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q21": {
+    "correctOption": "ছিন্ন রেখা",
+    "explanation": "$>$ থাকলে সীমারেখা অন্তর্ভুক্ত নয়, তাই dashed line।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q22": {
+    "correctOption": "$y$-অক্ষের বাম পাশসহ $y$-অক্ষ",
+    "explanation": "$x\\le0$ হলে $y$-অক্ষ ও তার বাম পাশের অঞ্চল নির্দেশ করে।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q23": {
+    "correctOption": "$x$-অক্ষের উপরিভাগ",
+    "explanation": "$y>0$ হলে $x$-অক্ষের উপরের অঞ্চল নির্দেশ করে।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q24": {
+    "correctOption": "হ্যাঁ",
+    "explanation": "$(1,2)$ বসালে $1+2=3\\le6$। তাই সমাধান।"
+  },
+  "ssc-higher-math-chapter-06-model-test-03-q25": {
+    "correctOption": "সীমারেখায়",
+    "explanation": "$(3,2)$ বসালে $2\times3+3\times2=12$। তাই বিন্দুটি সীমারেখায়।"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q01": {
+    "correctOption": "টরয়েডের কোর এর বাইরের ব্যাসার্ধ",
+    "explanation": "টরয়েডের ভেতরে B = μ₀nI, যা কোরের ব্যাসার্ধের ওপর নির্ভর করে না।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q02": {
+    "correctOption": "দ্রুতগামী ইলেকট্রন",
+    "explanation": "β⁻ কণা হলো দ্রুতগামী ইলেকট্রন। α কণা হিলিয়াম নিউক্লিয়াস, γ রশ্মি তড়িৎচুম্বকীয় তরঙ্গ।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q03": {
+    "correctOption": "হেনরি (Henry)",
+    "explanation": "ইন্ডাকট্যান্সের একক হেনরি (H)। ওয়েবার চৌম্বক ফ্লাক্সের, টেসলা চৌম্বকক্ষেত্রের, ফ্যারাড ধারকত্বের একক।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q04": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q05": {
+    "correctOption": "শূন্য",
+    "explanation": "F = qvB sinθ। সমান্তরালে চললে θ = 0°, তাই sin 0° = 0, ফলে বল শূন্য।"
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q06": {
+    "correctOption": "1.5 V",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q07": {
+    "correctOption": "(√3/2) m₀c²",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q08": {
+    "correctOption": "230.4 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q09": {
+    "correctOption": "নিউট্রন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q10": {
+    "correctOption": "83",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q11": {
+    "correctOption": "5.6 fm",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q12": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q13": {
+    "correctOption": "10⁻⁴ Ωm",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q14": {
+    "correctOption": "জুল",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q15": {
+    "correctOption": "নিউক্লিয়াস",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q16": {
+    "correctOption": "আইনস্টাইন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q17": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q18": {
+    "correctOption": "ক্যালসাইট",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q19": {
+    "correctOption": "মাইকেলসন-মর্লি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q20": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-04-model-test-02-q21": {
+    "correctOption": "-১.৬ × ১০⁻¹৯ C",
+    "explanation": ""
+  }
+}

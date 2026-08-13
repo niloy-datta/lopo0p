@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "প্রোটিনের অণু কী?",
+    "options": [
+      "গ্লিসারল",
+      "গ্লুকোজ",
+      "অ্যামিনো এসিড",
+      "ফ্যাটি এসিড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "অ্যামাইলেজ কী হজম করে?",
+    "options": [
+      "স্টার্চ",
+      "ভিটামিন",
+      "চর্বি",
+      "প্রোটিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "পাকস্থলীতে প্রোটিন পরিপাককারী প্রধান এনজাইম কোনটি?",
+    "options": [
+      "ট্রিপসিন",
+      "টায়ালিন",
+      "পেপসিন",
+      "রেনিন"
+    ],
+    "image": "/images/quiz/bio-digestive.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ব্যালেন্সড ডায়েটে থাকে কী?",
+    "options": [
+      "সব পুষ্টি উপাদান",
+      "শুধু প্রোটিন",
+      "শুধু ভিটামিন",
+      "শুধু চর্বি"
+    ],
+    "image": "/images/quiz/premium/ssc-biology-chapter-05-model-test-01-q04.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "মানবে বৃহদান্ত্রের কাজ কী?",
+    "options": [
+      "প্রোটিন হজম",
+      "পানি শোষণ",
+      "HCl নিঃসরণ",
+      "ইনসুলিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ভিটামিন D-এর অভাবে কোন রোগ হয়?",
+    "options": [
+      "বেরিবেরি",
+      "পেলাগ্রা",
+      "স্কার্ভি",
+      "রিকেটস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "মানবদেহে খাদ্য পরিপাকের ক্ষেত্রে সঠিক গতিপথ কোনটি?",
+    "options": [
+      "মুখগহ্বর → অন্ননালি → পাকস্থলী → ক্ষুদ্রান্ত্র → বৃহদান্ত্র",
+      "অন্ননালি → মুখগহ্বর → পাকস্থলী → বৃহদান্ত্র → ক্ষুদ্রান্ত্র",
+      "মুখগহ্বর → অন্ননালি → ক্ষুদ্রান্ত্র → পাকস্থলী → বৃহদান্ত্র",
+      "মুখগহ্বর → পাকস্থলী → অন্ননালি → ক্ষুদ্রান্ত্র → বৃহদান্ত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ক্যালসিয়ামের উৎস কী?",
+    "options": [
+      "তেল",
+      "দুধ",
+      "চিনি",
+      "লবণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ভিটামিন C-এর অভাবে কোন রোগ হয়?",
+    "options": [
+      "স্কার্ভি",
+      "অ্যানিমিয়া",
+      "রিকেটস",
+      "বেরিবেরি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "যকৃতের (Liver) কাজ সম্পর্কে নিচের কোনটি সঠিক? i. এটি পিত্তরস তৈরি করে যা চর্বি পরিপাকে সাহায্য করে ii. এটি রক্তে গ্লুকোজের মাত্রা নিয়ন্ত্রণে ভূমিকা রাখে iii. এটি ইনসুলিন হরমোন নিঃসরণ করে নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii",
+      "ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ভিটামিন B1 (থায়ামিন)-এর অভাবে মানুষের কোন রোগটি হয়?",
+    "options": [
+      "রিকেটস",
+      "বেরিবেরি",
+      "পেল্লাগ্রা",
+      "স্কার্ভি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ক্ষুধানালীর কাজ কী?",
+    "options": [
+      "শ্বাস",
+      "রেচন",
+      "খাদ্য গিলে ফেলা",
+      "পরিপাক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ক্ষুধার্ত্রের কাজ কী?",
+    "options": [
+      "পাকস্থলী আলসার রক্ষা",
+      "ইনসুলিন",
+      "পরিপাক এনজাইম",
+      "অক্সিজেন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "পাকস্থলীর গ্যাস্ট্রিক গ্রন্থি থেকে কোন এসিড নিঃসৃত হয় যা জীবাণু ধ্বংস করে?",
+    "options": [
+      "H2SO4",
+      "HNO3",
+      "HCl",
+      "CH3COOH"
+    ],
+    "image": "/images/quiz/bio-digestive.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "পেপসিন কোথায় কাজ করে?",
+    "options": [
+      "পাকস্থলী",
+      "অগ্ন্যাশয়",
+      "ক্ষুধানালী",
+      "মলাশয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "কোন গ্রন্থি নিঃসৃত রসকে 'লালা' (Saliva) বলা হয়?",
+    "options": [
+      "গ্যাস্ট্রিক গ্রন্থি",
+      "প্যারোটিড গ্রন্থি",
+      "থাইরয়েড গ্রন্থি",
+      "অগ্ন্যাশয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ভিটামিন K-এর কাজ কী?",
+    "options": [
+      "রক্ত জমাট",
+      "হাড়",
+      "শক্তি",
+      "দৃষ্টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ল্যাকটেজের কাজ কী?",
+    "options": [
+      "প্রোটিন",
+      "চর্বি",
+      "ল্যাকটোজ হজম",
+      "স্টার্চ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "খাদ্যের প্রধান শক্তি উৎস কী?",
+    "options": [
+      "পানি",
+      "ভিটামিন",
+      "খনিজ",
+      "কার্বোহাইড্রেট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "ক্ষুধার্ত্র নিঃসৃত কী?",
+    "options": [
+      "গ্যাস্ট্রিন",
+      "ইনসুলিন",
+      "থাইরক্সিন",
+      "অ্যাড্রেনালিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "পিত্ত লবণের কাজ কী?",
+    "options": [
+      "শর্করা হজম",
+      "প্রোটিন হজম",
+      "রক্ত জমাট",
+      "চর্বি ইমালসিফাই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "লিভারে গ্লুকোজ সংরক্ষিত কোথায়?",
+    "options": [
+      "প্রোটিন",
+      "গ্লাইকোজেন",
+      "স্টার্চ",
+      "সেলুলোজ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "কোন ভিটামিনের অভাবে স্কার্ভি রোগ হয়?",
+    "options": [
+      "ভিটামিন সি",
+      "ভিটামিন ডি",
+      "ভিটামিন এ",
+      "ভিটামিন বি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "পাকস্থলীতে থাকে কী?",
+    "options": [
+      "H₂SO₄",
+      "HCl",
+      "NH₃",
+      "NaOH"
+    ],
+    "image": "/images/quiz/bio-digestive.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-05-model-test-01-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-05-model-test-01",
+    "text": "মানবে পরিপাক শুরু কোথায়?",
+    "options": [
+      "ক্ষুধান্ত্রে",
+      "মলাশয়ে",
+      "পাকস্থলীতে",
+      "মুখে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

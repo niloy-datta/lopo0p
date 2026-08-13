@@ -1,0 +1,1356 @@
+{
+  "level": "ssc",
+  "subject": "higher-math",
+  "modelTests": {
+    "ssc-higher-math-paper-set-01": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-02": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-03": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-04": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-05": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-06": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-07": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-08": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-09": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-10": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-11": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 11",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-12": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 12",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-13": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 13",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-14": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 14",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-paper-set-15": {
+      "questionCount": 19,
+      "scope": "paper",
+      "displayTitle": "SSC Higher Math Paper-wise Model Test Set 15",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-higher-math-chapter-01-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-02-model-test-03": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "বীজগণিত"
+        }
+      ],
+      "name": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-10-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "দ্বিপদী উপপাদ্য"
+        }
+      ],
+      "name": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-11-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "স্থানাঙ্ক জ্যামিতি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-01-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-01-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-01-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-01-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "সেট ও ফাংশন"
+        }
+      ],
+      "name": "অধ্যায় ০১ · সেট ও ফাংশন · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-02-model-test-01": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "বীজগণিত"
+        }
+      ],
+      "name": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-02-model-test-02": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "বীজগণিত"
+        }
+      ],
+      "name": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-02-model-test-04": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "বীজগণিত"
+        }
+      ],
+      "name": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-02-model-test-05": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "বীজগণিত"
+        }
+      ],
+      "name": "অধ্যায় ০২ · বীজগণিত · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-03-model-test-01": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "সমীকরণ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-03-model-test-02": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "সমীকরণ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-03-model-test-03": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "সমীকরণ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-03-model-test-04": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "সমীকরণ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-03-model-test-05": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "সমীকরণ"
+        }
+      ],
+      "name": "অধ্যায় ০৩ · সমীকরণ · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-04-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জ্যামিতিক অঙ্কন"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-04-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জ্যামিতিক অঙ্কন"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-04-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জ্যামিতিক অঙ্কন"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-04-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জ্যামিতিক অঙ্কন"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-05-model-test-01": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-05-model-test-02": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-05-model-test-03": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-05-model-test-04": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-05-model-test-05": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৫ · ত্রিকোণমিতি · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-06-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অসমতা · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অসমতা · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-06-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অসমতা · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অসমতা · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-06-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অসমতা · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অসমতা · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-06-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অসমতা · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অসমতা · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-06-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৬ · অসমতা · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০৬ · অসমতা · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-07-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ক্রম ও ধারা"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-07-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ক্রম ও ধারা"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-07-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ক্রম ও ধারা"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-07-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ক্রম ও ধারা"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-07-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "ক্রম ও ধারা"
+        }
+      ],
+      "name": "অধ্যায় ০৭ · ক্রম ও ধারা · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-08-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-08-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-08-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-08-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-08-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "ত্রিকোণমিতি"
+        }
+      ],
+      "name": "অধ্যায় ০৮ · ত্রিকোণমিতি · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-09-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-09-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-09-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-09-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-09-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "সূচক ও লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ০৯ · সূচক ও লগারিদম · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-10-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "দ্বিপদী উপপাদ্য"
+        }
+      ],
+      "name": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-10-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "দ্বিপদী উপপাদ্য"
+        }
+      ],
+      "name": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-10-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "দ্বিপদী উপপাদ্য"
+        }
+      ],
+      "name": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-11-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "স্থানাঙ্ক জ্যামিতি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-12-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "ভেক্টর"
+        }
+      ],
+      "name": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-12-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "ভেক্টর"
+        }
+      ],
+      "name": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-12-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "ভেক্টর"
+        }
+      ],
+      "name": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-12-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "ভেক্টর"
+        }
+      ],
+      "name": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-12-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "ভেক্টর"
+        }
+      ],
+      "name": "অধ্যায় ১২ · ভেক্টর · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-13-model-test-01": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০১",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০১"
+    },
+    "ssc-higher-math-chapter-13-model-test-02": {
+      "questionCount": 21,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০২",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০২"
+    },
+    "ssc-higher-math-chapter-13-model-test-03": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-13-model-test-04": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-13-model-test-05": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "লগারিদম"
+        }
+      ],
+      "name": "অধ্যায় ১৩ · লগারিদম · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-04-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জ্যামিতিক অঙ্কন"
+        }
+      ],
+      "name": "অধ্যায় ০৪ · জ্যামিতিক অঙ্কন · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-10-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "দ্বিপদী উপপাদ্য"
+        }
+      ],
+      "name": "অধ্যায় ১০ · দ্বিপদী উপপাদ্য · টেস্ট ০৫"
+    },
+    "ssc-higher-math-chapter-11-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০৩",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "স্থানাঙ্ক জ্যামিতি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০৩"
+    },
+    "ssc-higher-math-chapter-11-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০৪",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "স্থানাঙ্ক জ্যামিতি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০৪"
+    },
+    "ssc-higher-math-chapter-11-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০৫",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "স্থানাঙ্ক জ্যামিতি"
+        }
+      ],
+      "name": "অধ্যায় ১১ · স্থানাঙ্ক জ্যামিতি · টেস্ট ০৫"
+    }
+  }
+}

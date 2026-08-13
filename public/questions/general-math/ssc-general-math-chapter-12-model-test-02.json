@@ -1,0 +1,422 @@
+[
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {1,2,3}, B = {2,3,4} হলে A ∩ B = ?",
+    "options": [
+      "φ",
+      "{2,3}",
+      "{1,2,3}",
+      "{2,3,4}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {2,4,6}, B = {4,6,8} হলে A ∩ B = ?",
+    "options": [
+      "{4,6,8}",
+      "{4,6}",
+      "{2,4,6}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {a,b,c}, B = {b,c,d} হলে A ∩ B = ?",
+    "options": [
+      "{a,b,c}",
+      "φ",
+      "{b,c,d}",
+      "{b,c}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {1,3,5}, B = {3,5,7} হলে A ∩ B = ?",
+    "options": [
+      "φ",
+      "{3,5,7}",
+      "{3,5}",
+      "{1,3,5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {10,20}, B = {20,30} হলে A ∩ B = ?",
+    "options": [
+      "{10,20}",
+      "{20}",
+      "φ",
+      "{20,30}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {2,3,5}, B = {5,7} হলে A ∩ B = ?",
+    "options": [
+      "{2,3,5}",
+      "{5,7}",
+      "φ",
+      "{5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {1,2,3,4}, B = {3,4,5} হলে A ∩ B = ?",
+    "options": [
+      "φ",
+      "{3,4}",
+      "{1,2,3,4}",
+      "{3,4,5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {x,y}, B = {y,z} হলে A ∩ B = ?",
+    "options": [
+      "{y,z}",
+      "{y}",
+      "{x,y}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {1,2}, B = {2,3} হলে A ∪ B = ?",
+    "options": [
+      "φ",
+      "{2,3}",
+      "{1,2,3}",
+      "{1,2}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {2,4}, B = {4,6} হলে A ∪ B = ?",
+    "options": [
+      "{2,4}",
+      "φ",
+      "{2,4,6}",
+      "{4,6}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {a,b}, B = {c,d} হলে A ∪ B = ?",
+    "options": [
+      "{c,d}",
+      "{a,b,c,d}",
+      "{a,b}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {1,3}, B = {3,5} হলে A ∪ B = ?",
+    "options": [
+      "{3,5}",
+      "φ",
+      "{1,3}",
+      "{1,3,5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {5,10}, B = {10,15} হলে A ∪ B = ?",
+    "options": [
+      "φ",
+      "{10,15}",
+      "{5,10,15}",
+      "{5,10}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {2,3,4}, B = {4,5} হলে A ∪ B = ?",
+    "options": [
+      "{2,3,4}",
+      "{2,3,4,5}",
+      "φ",
+      "{4,5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {1}, B = {2,3} হলে A ∪ B = ?",
+    "options": [
+      "{2,3}",
+      "{1,2,3}",
+      "{1}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {6,7}, B = {7,8,9} হলে A ∪ B = ?",
+    "options": [
+      "{6,7}",
+      "φ",
+      "{7,8,9}",
+      "{6,7,8,9}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {1,2,3,4}, B = {2,4} হলে A − B কোনটি?",
+    "options": [
+      "{1,2,3,4}",
+      "{1,3}",
+      "φ",
+      "{2,4}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {2,3,5,7}, B = {3,7} হলে A − B কোনটি?",
+    "options": [
+      "{3,7}",
+      "{2,5}",
+      "φ",
+      "{2,3,5,7}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {a,b,c,d}, B = {b,d} হলে A − B কোনটি?",
+    "options": [
+      "{a,b,c,d}",
+      "{a,c}",
+      "{b,d}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {10,20,30,40}, B = {20,40} হলে A − B কোনটি?",
+    "options": [
+      "{20,40}",
+      "{10,20,30,40}",
+      "φ",
+      "{10,30}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {1,3,5,7,9}, B = {1,3,5} হলে A − B কোনটি?",
+    "options": [
+      "φ",
+      "{7,9}",
+      "{1,3,5,7,9}",
+      "{1,3,5}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "A = {2,4,6,8}, B = {4,8} হলে A − B কোনটি?",
+    "options": [
+      "{4,8}",
+      "{2,6}",
+      "φ",
+      "{2,4,6,8}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "U = {1,2,3,4,5}, A = {2,4} হলে A′ কোনটি?",
+    "options": [
+      "φ",
+      "{1,2,3,4,5}",
+      "{1,3,5}",
+      "{2,4}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "U = {1,2,3}, A = {1} হলে A′ কোনটি?",
+    "options": [
+      "φ",
+      "{2,3}",
+      "{1}",
+      "{1,2,3}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "U = {a,b,c,d,e}, A = {a,c,e} হলে A′ কোনটি?",
+    "options": [
+      "{a,b,c,d,e}",
+      "{b,d}",
+      "{a,c,e}",
+      "φ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "U = {2,4,6,8,10}, A = {2,4,6} হলে A′ কোনটি?",
+    "options": [
+      "{2,4,6}",
+      "{2,4,6,8,10}",
+      "φ",
+      "{8,10}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "U = {10,20,30}, A = {20} হলে A′ কোনটি?",
+    "options": [
+      "φ",
+      "{10,30}",
+      "{10,20,30}",
+      "{20}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-12-model-test-02-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-12-model-test-02",
+    "text": "n(U) = 40, n(A) = 18, n(A ∩ B) = 6 হলে n(A ∪ B) = ?",
+    "options": [
+      "18",
+      "40",
+      "52",
+      "24"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

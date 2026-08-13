@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "বিন্দু P(3, 4) কোন চতুর্ভাগে অবস্থিত?",
+    "options": [
+      "প্রথম চতুর্ভাগ",
+      "দ্বিতীয় চতুর্ভাগ",
+      "তৃতীয় চতুর্ভাগ",
+      "চতুর্থ চতুর্ভাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "বিন্দু P(-5, 2) কোন চতুর্ভাগে অবস্থিত?",
+    "options": [
+      "দ্বিতীয় চতুর্ভাগ",
+      "প্রথম চতুর্ভাগ",
+      "তৃতীয় চতুর্ভাগ",
+      "চতুর্থ চতুর্ভাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "বিন্দু P(-3, -7) কোন চতুর্ভাগে অবস্থিত?",
+    "options": [
+      "তৃতীয় চতুর্ভাগ",
+      "প্রথম চতুর্ভাগ",
+      "দ্বিতীয় চতুর্ভাগ",
+      "চতুর্থ চতুর্ভাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "বিন্দু P(6, -2) কোন চতুর্ভাগে অবস্থিত?",
+    "options": [
+      "চতুর্থ চতুর্ভাগ",
+      "প্রথম চতুর্ভাগ",
+      "দ্বিতীয় চতুর্ভাগ",
+      "তৃতীয় চতুর্ভাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "বিন্দু (0, 5) কোথায় অবস্থিত?",
+    "options": [
+      "y-অক্ষের উপর",
+      "x-অক্ষের উপর",
+      "প্রথম চতুর্ভাগে",
+      "মূলবিন্দুতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "বিন্দু (-4, 0) কোথায় অবস্থিত?",
+    "options": [
+      "x-অক্ষের উপর",
+      "y-অক্ষের উপর",
+      "দ্বিতীয় চতুর্ভাগে",
+      "মূলবিন্দুতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "মূলবিন্দুর স্থানাঙ্ক কোনটি?",
+    "options": [
+      "(0, 0)",
+      "(1, 0)",
+      "(0, 1)",
+      "(1, 1)"
+    ],
+    "image": "/images/quiz/geo-coord-triangle.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "দুই বিন্দু A(1, 2) ও B(4, 6)-এর দূরত্ব কত?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "√34"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "দুই বিন্দু A(2, 3) ও B(8, 11)-এর দূরত্ব কত?",
+    "options": [
+      "10",
+      "8",
+      "6",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "দুই বিন্দু A(-1, 2) ও B(2, 6)-এর দূরত্ব কত?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "√13"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "দুই বিন্দু A(-3, -2) ও B(1, 1)-এর দূরত্ব কত?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "√20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(0, 0) ও B(6, 8)-এর দূরত্ব কত?",
+    "options": [
+      "10",
+      "14",
+      "8",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(2, 5) ও B(8, 5)-এর দূরত্ব কত?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(-3, 4) ও B(-3, -2)-এর দূরত্ব কত?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(2, 3) ও B(6, 7)-এর মধ্যবিন্দু কোনটি?",
+    "options": [
+      "(4, 5)",
+      "(8, 10)",
+      "(2, 2)",
+      "(3, 4)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(-2, 5) ও B(4, 1)-এর মধ্যবিন্দু কোনটি?",
+    "options": [
+      "(1, 3)",
+      "(2, 6)",
+      "(-1, 2)",
+      "(3, 1)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(-4, -1) ও B(2, 5)-এর মধ্যবিন্দু কোনটি?",
+    "options": [
+      "(-1, 2)",
+      "(1, 2)",
+      "(-2, 1)",
+      "(3, 3)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(1, 1) ও B(7, 9)-এর মধ্যবিন্দু কোনটি?",
+    "options": [
+      "(4, 5)",
+      "(3, 4)",
+      "(5, 4)",
+      "(8, 10)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(2, 3) ও B(6, 11)-এর ঢাল কত?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(1, 4) ও B(5, 8)-এর ঢাল কত?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "1/2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "A(-2, 3) ও B(2, -5)-এর ঢাল কত?",
+    "options": [
+      "-2",
+      "2",
+      "-1",
+      "1/2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "y = 3x + 5 সরলরেখার ঢাল কত?",
+    "options": [
+      "3",
+      "5",
+      "-3",
+      "1/3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "y = -2x + 7 সরলরেখার ঢাল কত?",
+    "options": [
+      "-2",
+      "2",
+      "7",
+      "-7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "x-অক্ষের ঢাল কত?",
+    "options": [
+      "0",
+      "1",
+      "অসংজ্ঞায়িত",
+      "-1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-01-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-01",
+    "text": "y-অক্ষের ঢাল কেমন?",
+    "options": [
+      "অসংজ্ঞায়িত",
+      "0",
+      "1",
+      "-1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

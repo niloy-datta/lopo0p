@@ -1,0 +1,102 @@
+{
+  "ssc-higher-math-chapter-09-model-test-01-q01": {
+    "correctOption": "a^(m+n)",
+    "explanation": "একই ভিত্তির ঘাত গুণ করলে সূচক যোগ হয়। তাই a^m × a^n = a^(m+n)।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q02": {
+    "correctOption": "a^(m-n)",
+    "explanation": "একই ভিত্তির ঘাত ভাগ করলে সূচক বিয়োগ হয়। তাই a^m ÷ a^n = a^(m-n)।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q03": {
+    "correctOption": "a^(mn)",
+    "explanation": "ঘাতের উপর ঘাত থাকলে সূচকগুলো গুণ হয়। তাই (a^m)^n = a^(mn)।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q04": {
+    "correctOption": "1",
+    "explanation": "যেকোনো অশূন্য সংখ্যার শূন্য সূচকবিশিষ্ট ঘাতের মান 1। তাই a^0 = 1।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q05": {
+    "correctOption": "1/a^n",
+    "explanation": "ঋণাত্মক সূচককে ধনাত্মক করলে ঘাতটি ভগ্নাংশের হরে যায়। তাই a^(-n) = 1/a^n।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q06": {
+    "correctOption": "128",
+    "explanation": "2^3 × 2^4 = 2^(3+4) = 2^7 = 128।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q07": {
+    "correctOption": "625",
+    "explanation": "5^7 ÷ 5^3 = 5^(7-3) = 5^4 = 625।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q08": {
+    "correctOption": "729",
+    "explanation": "(3^2)^3 = 3^6 = 729।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q09": {
+    "correctOption": "4",
+    "explanation": "16^(1/2) = √16 = 4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q10": {
+    "correctOption": "3",
+    "explanation": "27^(1/3) = ∛27 = 3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q11": {
+    "correctOption": "4",
+    "explanation": "8^(2/3) = (∛8)^2 = 2^2 = 4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q12": {
+    "correctOption": "4",
+    "explanation": "32^(2/5) = (⁵√32)^2 = 2^2 = 4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q13": {
+    "correctOption": "a^y = x",
+    "explanation": "লগারিদমের সংজ্ঞা অনুযায়ী log_a x = y ⇔ a^y = x।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q14": {
+    "correctOption": "3",
+    "explanation": "2^3 = 8। তাই log₂8 = 3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q15": {
+    "correctOption": "4",
+    "explanation": "3^4 = 81। তাই log₃81 = 4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q16": {
+    "correctOption": "3",
+    "explanation": "10^3 = 1000। তাই log₁₀1000 = 3।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q17": {
+    "correctOption": "0",
+    "explanation": "a^0 = 1। তাই log_a 1 = 0।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q18": {
+    "correctOption": "1",
+    "explanation": "a^1 = a। তাই log_a a = 1।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q19": {
+    "correctOption": "log_a M + log_a N",
+    "explanation": "গুণফলের লগারিদম = লগারিদমের যোগফল। তাই log_a(MN) = log_a M + log_a N।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q20": {
+    "correctOption": "log_a M - log_a N",
+    "explanation": "ভাগফলের লগারিদম = লবের লগারিদম - হরের লগারিদম।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q21": {
+    "correctOption": "n log_a M",
+    "explanation": "ঘাতের লগারিদমে সূচক সামনে গুণক হিসেবে আসে। তাই log_a(M^n) = n log_a M।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q22": {
+    "correctOption": "5",
+    "explanation": "log₂4 = 2 এবং log₂8 = 3। তাই যোগফল 5।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q23": {
+    "correctOption": "2",
+    "explanation": "log₃27 = 3 এবং log₃3 = 1। তাই মান 3 - 1 = 2।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q24": {
+    "correctOption": "4",
+    "explanation": "25^2 = (5^2)^2 = 5^4। তাই log₅(25^2) = 4।"
+  },
+  "ssc-higher-math-chapter-09-model-test-01-q25": {
+    "correctOption": "6",
+    "explanation": "64 = 2^6। তাই x = 6।"
+  }
+}

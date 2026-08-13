@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "একটি নির্দিষ্ট দৈর্ঘ্যের রেখাংশ অঙ্কনে স্কেলের প্রধান কাজ কী?",
+    "options": [
+      "দৈর্ঘ্য মাপা ও সরলরেখা আঁকা",
+      "চাপ আঁকা",
+      "কোণ সমদ্বিখণ্ডন করা",
+      "বৃত্তের কেন্দ্র নির্ণয় করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "কম্পাসের প্রধান কাজ কোনটি?",
+    "options": [
+      "চাপ বা বৃত্ত আঁকা",
+      "কাগজ কাটা",
+      "সংখ্যা যোগ করা",
+      "ক্ষেত্রফল হিসাব করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "প্রোট্রাক্টর ব্যবহার করা হয় কোন কাজে?",
+    "options": [
+      "কোণ মাপতে",
+      "দৈর্ঘ্য দ্বিগুণ করতে",
+      "বৃত্তের কেন্দ্র বদলাতে",
+      "রেখাংশ মুছতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "একটি রেখাংশকে 5 সমান ভাগে ভাগ করতে সহায়ক রশ্মিতে কয়টি সমান অংশ চিহ্নিত করা হয়?",
+    "options": [
+      "5টি",
+      "4টি",
+      "6টি",
+      "10টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "রেখাংশকে সমান ভাগে ভাগ করার অঙ্কনে শেষ চিহ্নিত বিন্দুকে রেখাংশের কোন প্রান্তের সঙ্গে যুক্ত করা হয়?",
+    "options": [
+      "অপর প্রান্তের সঙ্গে",
+      "মধ্যবিন্দুর সঙ্গে",
+      "কোনো প্রান্তের সঙ্গে নয়",
+      "শুধু কেন্দ্রের সঙ্গে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "একটি কোণের সমান কোণ অঙ্কনে একই ব্যাসার্ধ ব্যবহার করার কারণ কী?",
+    "options": [
+      "জ্যার দৈর্ঘ্য ঠিকভাবে স্থানান্তর করার জন্য",
+      "ক্ষেত্রফল বাড়ানোর জন্য",
+      "কোণকে বৃত্ত বানানোর জন্য",
+      "রেখা মুছে ফেলার জন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "দুইটি সম্পূরক কোণের একটি $82^\\circ$ হলে অন্যটি কত?",
+    "options": [
+      "$98^\\circ$",
+      "$88^\\circ$",
+      "$108^\\circ$",
+      "$118^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "দুইটি সম্পূরক কোণের অনুপাত $4:5$ হলে ছোট কোণ কত?",
+    "options": [
+      "$70^\\circ$",
+      "$80^\\circ$",
+      "$90^\\circ$",
+      "$100^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "পরিসীমা 18 cm বিশিষ্ট সমবাহু ত্রিভুজের প্রতিটি বাহু কত?",
+    "options": [
+      "6 cm",
+      "9 cm",
+      "12 cm",
+      "18 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "পরিসীমা 20 cm এবং সমদ্বিবাহু ত্রিভুজের সমান দুই বাহু 7 cm করে হলে ভূমি কত?",
+    "options": [
+      "6 cm",
+      "7 cm",
+      "8 cm",
+      "10 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "পরিসীমা 24 cm এবং দুই বাহু 7 cm ও 8 cm হলে তৃতীয় বাহু কত?",
+    "options": [
+      "9 cm",
+      "10 cm",
+      "11 cm",
+      "12 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "পরিসীমা দিয়ে ত্রিভুজ অঙ্কনে প্রথমে কী নির্ণয় করা দরকার?",
+    "options": [
+      "অজানা বাহুর দৈর্ঘ্য",
+      "বৃত্তের ক্ষেত্রফল",
+      "ব্যাসার্ধের বর্গ",
+      "রং করার স্থান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "ত্রিভুজের বাহু 9 cm, 10 cm ও 21 cm হলে ত্রিভুজ আঁকা যাবে কি?",
+    "options": [
+      "না",
+      "হ্যাঁ",
+      "শুধু সমবাহু হলে",
+      "শুধু সমকোণী হলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "ত্রিভুজের বাহু 9 cm, 10 cm ও 18 cm হলে ত্রিভুজ আঁকা যাবে কি?",
+    "options": [
+      "হ্যাঁ",
+      "না",
+      "শুধু বৃত্ত হবে",
+      "শুধু রেখা হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "একটি ত্রিভুজে পরিসীমা 30 cm, দুই বাহু 8 cm ও 11 cm হলে তৃতীয় বাহু কত?",
+    "options": [
+      "11 cm",
+      "10 cm",
+      "9 cm",
+      "8 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "পরিসীমা 24 cm এবং বাহুর অনুপাত $3:4:5$ হলে বৃহত্তম বাহু কত?",
+    "options": [
+      "10 cm",
+      "8 cm",
+      "6 cm",
+      "12 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "পরিসীমা 36 cm এবং বাহুর অনুপাত $2:3:4$ হলে ক্ষুদ্রতম বাহু কত?",
+    "options": [
+      "8 cm",
+      "10 cm",
+      "12 cm",
+      "16 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "একটি বৃত্ত আঁকতে কোন দুটি তথ্য থাকলেই যথেষ্ট?",
+    "options": [
+      "কেন্দ্র ও ব্যাসার্ধ",
+      "ক্ষেত্রফল ও রং",
+      "দুই কোণ",
+      "তিন বাহু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "দুইটি বৃত্ত বহিঃস্পর্শী আঁকতে কেন্দ্রদূরত্ব কীভাবে নিতে হবে?",
+    "options": [
+      "ব্যাসার্ধদ্বয়ের যোগফল",
+      "ব্যাসার্ধদ্বয়ের পার্থক্য",
+      "দুই ব্যাসের গুণফল",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "দুইটি বৃত্ত অন্তঃস্পর্শী আঁকতে কেন্দ্রদূরত্ব কীভাবে নিতে হবে?",
+    "options": [
+      "ব্যাসার্ধদ্বয়ের পার্থক্য",
+      "ব্যাসার্ধদ্বয়ের যোগফল",
+      "দুই ব্যাসের যোগফল",
+      "অর্ধপরিসীমা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "ব্যাসার্ধ 8 cm ও 5 cm বিশিষ্ট দুই বৃত্ত অন্তঃস্পর্শী হলে কেন্দ্রদূরত্ব কত?",
+    "options": [
+      "3 cm",
+      "5 cm",
+      "8 cm",
+      "13 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "ব্যাসার্ধ 8 cm ও 5 cm বিশিষ্ট দুই বৃত্ত বহিঃস্পর্শী হলে কেন্দ্রদূরত্ব কত?",
+    "options": [
+      "13 cm",
+      "8 cm",
+      "5 cm",
+      "3 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "কোনো রেখার সমান্তরাল রেখা অঙ্কনে একই দিকে কী সমান রাখতে হয়?",
+    "options": [
+      "সংশ্লিষ্ট কোণ",
+      "ক্ষেত্রফল",
+      "পরিসীমা",
+      "ব্যাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "একটি রেখার উপর লম্ব আঁকলে উৎপন্ন কোণ কত?",
+    "options": [
+      "$90^\\circ$",
+      "$60^\\circ$",
+      "$45^\\circ$",
+      "$180^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "জ্যামিতিক অঙ্কনে সবচেয়ে বেশি নম্বর রক্ষার জন্য কোনটি জরুরি?",
+    "options": [
+      "সঠিক ধাপ, পরিষ্কার চিত্র ও যুক্তি",
+      "শুধু বড় চিত্র",
+      "শুধু রং",
+      "শুধু উত্তর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$x+3\\ge10$ হলে $x$ এর সমাধান কোনটি?",
+    "options": [
+      "$x\\ge7$",
+      "$x>7$",
+      "$x\\le7$",
+      "$x<7$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$5x-4<21$ হলে $x$ এর সমাধান কোনটি?",
+    "options": [
+      "$x<5$",
+      "$x>5$",
+      "$x\\le5$",
+      "$x\\ge5$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$-7x\\ge21$ হলে $x$ এর সমাধান কোনটি?",
+    "options": [
+      "$x\\le-3$",
+      "$x\\ge-3$",
+      "$x\\le3$",
+      "$x\\ge3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$12-5x>2$ হলে $x$ এর সমাধান কোনটি?",
+    "options": [
+      "$x<2$",
+      "$x>2$",
+      "$x\\le2$",
+      "$x\\ge2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$\\frac{3x-2}{4}\\le4$ হলে $x$ এর সমাধান কোনটি?",
+    "options": [
+      "$x\\le6$",
+      "$x<6$",
+      "$x\\ge6$",
+      "$x>6$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$9x-8\\ge5x+12$ হলে $x$ এর সমাধান কোনটি?",
+    "options": [
+      "$x\\ge5$",
+      "$x>5$",
+      "$x\\le5$",
+      "$x<5$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$2(x+3)<18$ হলে $x$ এর সমাধান কোনটি?",
+    "options": [
+      "$x<6$",
+      "$x>6$",
+      "$x\\le6$",
+      "$x\\ge6$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$-4(x-1)\\le12$ হলে $x$ এর সমাধান কোনটি?",
+    "options": [
+      "$x\\ge-2$",
+      "$x\\le-2$",
+      "$x>2$",
+      "$x<2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$x>10$ সংখ্যারেখায় 10 বিন্দুটি কীভাবে দেখানো হবে?",
+    "options": [
+      "ফাঁকা বৃত্ত",
+      "ভরাট বৃত্ত",
+      "বাম দিকে রেখা",
+      "দুই পাশে রেখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$x\\le3$ সংখ্যারেখায় রেখা কোন দিকে যাবে?",
+    "options": [
+      "বাম দিকে",
+      "ডান দিকে",
+      "উভয় দিকে",
+      "কোনো দিকে নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$0<x\\le5$ হলে স্বাভাবিক সংখ্যা সমাধানগুলো কোনটি?",
+    "options": [
+      "1, 2, 3, 4, 5",
+      "0, 1, 2, 3, 4, 5",
+      "1, 2, 3, 4",
+      "2, 3, 4, 5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$-6\\le x<-1$ হলে পূর্ণসংখ্যা সমাধান কয়টি?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "“একটি সংখ্যার 2 গুণের সঙ্গে 5 যোগ করলে ফল 17-এর বেশি”—এর অসমতা কোনটি?",
+    "options": [
+      "$2x+5>17$",
+      "$2x+5<17$",
+      "$2x-5>17$",
+      "$x+2>17$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "“একটি সংখ্যার 4 গুণ 28-এর অধিক নয়”—এর অসমতা কোনটি?",
+    "options": [
+      "$4x\\le28$",
+      "$4x<28$",
+      "$4x\\ge28$",
+      "$4x>28$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "“18-এর বেশি বয়স” কথাটির গাণিতিক রূপ কোনটি?",
+    "options": [
+      "$x>18$",
+      "$x\\ge18$",
+      "$x<18$",
+      "$x\\le18$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$x$ স্বাভাবিক সংখ্যা এবং $4x-3<17$ হলে সম্ভাব্য মানগুলো কোনটি?",
+    "options": [
+      "1, 2, 3, 4",
+      "1, 2, 3, 4, 5",
+      "0, 1, 2, 3, 4",
+      "2, 3, 4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$x$ পূর্ণসংখ্যা এবং $-1\\le x\\le4$ হলে সম্ভাব্য মানগুলো কোনটি?",
+    "options": [
+      "-1, 0, 1, 2, 3, 4",
+      "0, 1, 2, 3, 4",
+      "-1, 0, 1, 2, 3",
+      "-2, -1, 0, 1, 2, 3, 4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$2x+y<12$ অসমতায় $(5,1)$ বিন্দুটি কি সমাধান?",
+    "options": [
+      "হ্যাঁ",
+      "না",
+      "সীমারেখায়",
+      "নির্ণয় করা যায় না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$x+3y\\ge15$ অসমতায় $(3,4)$ বিন্দুটি কি সমাধান?",
+    "options": [
+      "হ্যাঁ",
+      "না",
+      "শুধু সীমারেখায়",
+      "নির্ণয় করা যায় না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$3x+2y\\le18$ অসমতার সীমারেখা কোনটি?",
+    "options": [
+      "$3x+2y=18$",
+      "$3x+2y<18$",
+      "$3x-2y=18$",
+      "$2x+3y=18$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$3x+2y<18$ অসমতার সীমারেখা কী ধরনের হবে?",
+    "options": [
+      "ছিন্ন রেখা",
+      "অবিচ্ছিন্ন রেখা",
+      "ভরাট রেখা",
+      "অক্ষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$3x+2y\\le18$ অসমতার সীমারেখা কী ধরনের হবে?",
+    "options": [
+      "অবিচ্ছিন্ন রেখা",
+      "ছিন্ন রেখা",
+      "ফাঁকা বৃত্ত",
+      "বক্ররেখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$x>0$ ও $y<0$ হলে বিন্দু কোন চতুর্ভাগে অবস্থিত?",
+    "options": [
+      "চতুর্থ চতুর্ভাগ",
+      "প্রথম চতুর্ভাগ",
+      "দ্বিতীয় চতুর্ভাগ",
+      "তৃতীয় চতুর্ভাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$y\\le0$ কোন অঞ্চল নির্দেশ করে?",
+    "options": [
+      "$x$-অক্ষসহ নিচের অঞ্চল",
+      "$x$-অক্ষের উপরের অঞ্চল",
+      "$y$-অক্ষের ডান অঞ্চল",
+      "$y$-অক্ষের বাম অঞ্চল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-06-model-test-04-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-06-model-test-04",
+    "text": "$2x+y\\le10$ অসমতায় $(0,0)$ বিন্দু কোন অঞ্চলে থাকবে?",
+    "options": [
+      "সমাধান অঞ্চলে",
+      "সমাধান অঞ্চলের বাইরে",
+      "শুধু সীমারেখায়",
+      "নির্ণয় করা যায় না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  }
+]

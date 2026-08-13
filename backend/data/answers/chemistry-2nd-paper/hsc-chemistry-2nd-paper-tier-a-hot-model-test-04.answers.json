@@ -1,0 +1,102 @@
+{
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q01": {
+    "correctOption": "0.0821 L atm K⁻¹ mol⁻¹",
+    "explanation": "R = 0.0821 L·atm·K⁻¹·mol⁻¹।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q02": {
+    "correctOption": "−147°C",
+    "explanation": "N₂ এর ক্রান্তিক তাপমাত্রা প্রায় −147°C।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q03": {
+    "correctOption": "NH₃",
+    "explanation": "NH₄⁺ ⇌ NH₃ + H⁺; অনুবন্ধী ক্ষারক NH₃।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q04": {
+    "correctOption": "0.01 ppm",
+    "explanation": "WHO অনুযায়ী As এর সীমা 0.01 mg/L (0.01 ppm)।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q05": {
+    "correctOption": "অনুটিতে অন্তত একটি কাইরাল কেন্দ্র বা অসম কার্বন থাকতে হবে",
+    "explanation": "অসম কার্বন বা কাইরাল কেন্দ্র থাকলে আলোক সমাবয়বতা সম্ভব।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q06": {
+    "correctOption": "NO₂⁺",
+    "explanation": "HNO₃ + H₂SO₄ → NO₂⁺ (নাইট্রোনিয়াম আয়ন)।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q07": {
+    "correctOption": "CH₃CONH₂",
+    "explanation": "প্রাইমারি অ্যামাইড Br₂/NaOH এ হফম্যান ডিগ্রেডেশনে অ্যামিন দেয়।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q08": {
+    "correctOption": "লুকাস বিকারক",
+    "explanation": "লুকাস বিকারক ৩° > ২° > ১° ক্রমে দ্রুত প্রতিক্রিয়া করে।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q09": {
+    "correctOption": "ইথেন",
+    "explanation": "ওয়ার্টজ বিক্রিয়ায় ২CH₃Cl + 2Na → CH₃CH₃ + 2NaCl।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q10": {
+    "correctOption": "ফেনাইল আইসোসায়ানাইড",
+    "explanation": "অ্যারোমেটিক প্রাইমারি অ্যামিনে কার্বিল অ্যামিন → ফেনাইল আইসোসায়ানাইড।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q11": {
+    "correctOption": "2.0",
+    "explanation": "[OH⁻] = 2 × 0.005 = 0.01 M; pOH = −log(0.01) = 2।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q12": {
+    "correctOption": "2.0 গ্রাম",
+    "explanation": "m = 0.25 × 0.2 × 40 = 2.0 g।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q13": {
+    "correctOption": "+6",
+    "explanation": "ক্যারোস এসিডে S এর জারণ সংখ্যা +6।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q14": {
+    "correctOption": "প্রমাণ আয়োডিন দ্রবণ দ্বারা বিজারক পদার্থের পরিমাপ",
+    "explanation": "আয়োডিমিটিতে সরাসরি I₂ দ্রবণ দিয়ে বিজারক টাইট্রেট করা হয়।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q15": {
+    "correctOption": "g C⁻¹",
+    "explanation": "Z = m/E = g/C (গ্রাম প্রতি কুলম্ব)।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q16": {
+    "correctOption": "PbO₂ বিজারিত হয়ে PbSO₄ তৈরি করে",
+    "explanation": "ডিসচার্জে ক্যাথোডে PbO₂ + H₂SO₄ + 2H⁺ + 2e⁻ → PbSO₄ + 2H₂O।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q17": {
+    "correctOption": "গ্যালভানাইজিং",
+    "explanation": "Zn প্রলেপ = গ্যালভানাইজিং।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q18": {
+    "correctOption": "পানি",
+    "explanation": "২H₂ + O₂ → ২H₂O।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q19": {
+    "correctOption": "1400°C–1600°C",
+    "explanation": "রোটারি কিল্নে ক্লিংকার তৈরি ~১৪০০–১৬০০°C।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q20": {
+    "correctOption": "তরল অ্যামোনিয়া",
+    "explanation": "ইউরিয়া: CO₂ + 2NH₃ → NH₂CONH₂ + H₂O (তরল NH₃)।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q21": {
+    "correctOption": "মারকনিকভ নীতি; ২-ব্রোমোপ্রোপেন",
+    "explanation": "প্রোপিনে HBr যোগ মারকনিকভ → ২-ব্রোমোপ্রোপেন।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q22": {
+    "correctOption": "১-ব্রোমোপ্রোপেন",
+    "explanation": "পারঅক্সাইডে অ্যান্টি-মারকনিকভ → ১-ব্রোমোপ্রোপেন।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q23": {
+    "correctOption": "0 K",
+    "explanation": "আদর্শ গ্যাসের গতিবিদ্যা অনুযায়ী পরম শূন্য (0 K) তে বেগ শূন্য।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q24": {
+    "correctOption": "ইলেক্ট্রোস্ট্যাটিক প্রিসিপিটেটর",
+    "explanation": "ESP ধূলিকণা/ধোঁয়া আয়নিত করে অধঃক্ষেপ করে।"
+  },
+  "hsc-chemistry-2nd-paper-tier-a-hot-model-test-04-q25": {
+    "correctOption": "এডিপিক এসিড",
+    "explanation": "নাইলন-৬,৬ = HMDA + adipic acid।"
+  }
+}

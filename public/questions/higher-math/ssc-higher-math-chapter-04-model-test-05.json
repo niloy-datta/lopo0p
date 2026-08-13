@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "জ্যামিতিক অঙ্কনের মূল উদ্দেশ্য কী?",
+    "options": [
+      "নির্দিষ্ট শর্ত অনুযায়ী সঠিক চিত্র নির্মাণ",
+      "শুধু গণনা করা",
+      "শুধু সূত্র মুখস্থ করা",
+      "শুধু বৃত্তের ক্ষেত্রফল নির্ণয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "দৈর্ঘ্য স্থানান্তরের জন্য কোন যন্ত্র সবচেয়ে কার্যকর?",
+    "options": [
+      "কম্পাস",
+      "ক্যালকুলেটর",
+      "প্রোট্রাক্টর",
+      "ইরেজার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "কোণ মাপার জন্য কোন যন্ত্র ব্যবহার করা হয়?",
+    "options": [
+      "প্রোট্রাক্টর",
+      "কম্পাস",
+      "ডিভাইডার",
+      "ক্যালকুলেটর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "একটি $120^\\circ$ কোণের সমদ্বিখণ্ডক আঁকলে প্রতিটি কোণ কত হবে?",
+    "options": [
+      "$60^\\circ$",
+      "$50^\\circ$",
+      "$45^\\circ$",
+      "$30^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "একটি রেখাংশের লম্বদ্বিখণ্ডক অঙ্কনের ফলে যে দুই অংশ পাওয়া যায়, তাদের সম্পর্ক কী?",
+    "options": [
+      "সমান",
+      "অসমান",
+      "একটি দ্বিগুণ",
+      "একটি শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "একটি রেখাংশকে 6 সমান ভাগে ভাগ করতে সহায়ক রশ্মিতে কয়টি সমান অংশ নিতে হবে?",
+    "options": [
+      "6টি",
+      "5টি",
+      "7টি",
+      "12টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "দুইটি সম্পূরক কোণের অনুপাত $5:7$ হলে বড় কোণ কত?",
+    "options": [
+      "$75^\\circ$",
+      "$90^\\circ$",
+      "$105^\\circ$",
+      "$120^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "ত্রিভুজের তিন বাহু 4 cm, 6 cm ও 9 cm হলে ত্রিভুজ আঁকা সম্ভব কি?",
+    "options": [
+      "সম্ভব",
+      "অসম্ভব",
+      "শুধু সমবাহু হলে",
+      "শুধু বৃত্ত হলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "ত্রিভুজের তিন বাহু 4 cm, 5 cm ও 10 cm হলে ত্রিভুজ আঁকা সম্ভব কি?",
+    "options": [
+      "অসম্ভব",
+      "সম্ভব",
+      "সমবাহু",
+      "সমদ্বিবাহু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "তিন বাহু 7 cm, 9 cm ও 11 cm দেওয়া থাকলে কোন পদ্ধতিতে ত্রিভুজ আঁকা হবে?",
+    "options": [
+      "SSS",
+      "SAS",
+      "ASA",
+      "RHS"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "দুই বাহু 8 cm ও 10 cm এবং অন্তর্ভুক্ত কোণ $45^\\circ$ দেওয়া থাকলে কোন পদ্ধতি প্রযোজ্য?",
+    "options": [
+      "SAS",
+      "SSS",
+      "ASA",
+      "AAA"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "এক বাহু 10 cm এবং দুই প্রান্তের কোণ $50^\\circ$ ও $60^\\circ$ দেওয়া থাকলে কোন পদ্ধতি প্রযোজ্য?",
+    "options": [
+      "ASA",
+      "SAS",
+      "SSS",
+      "RHS"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "সমকোণী ত্রিভুজে অতিভুজ 15 cm ও একটি বাহু 9 cm দেওয়া থাকলে কোন পদ্ধতিতে অঙ্কন করা হবে?",
+    "options": [
+      "RHS",
+      "SSS",
+      "SAS",
+      "ASA"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "পরিসীমা 33 cm এবং বাহুর অনুপাত $2:4:5$ হলে বৃহত্তম বাহু কত?",
+    "options": [
+      "15 cm",
+      "12 cm",
+      "10 cm",
+      "18 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "পরিসীমা 28 cm এবং দুই বাহু 9 cm ও 10 cm হলে তৃতীয় বাহু কত?",
+    "options": [
+      "9 cm",
+      "8 cm",
+      "7 cm",
+      "6 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "পরিবৃত্ত অঙ্কনে পরিকেন্দ্র নির্ণয় করতে কোনগুলো আঁকতে হয়?",
+    "options": [
+      "বাহুর লম্বদ্বিখণ্ডক",
+      "কোণসমদ্বিখণ্ডক",
+      "মধ্যমা",
+      "স্পর্শক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "অন্তঃবৃত্ত অঙ্কনে অন্তঃকেন্দ্র নির্ণয় করতে কোনগুলো আঁকতে হয়?",
+    "options": [
+      "কোণসমদ্বিখণ্ডক",
+      "বাহুর লম্বদ্বিখণ্ডক",
+      "কর্ণ",
+      "জ্যা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "বৃত্তের নির্দিষ্ট স্পর্শবিন্দুতে স্পর্শক আঁকতে ব্যাসার্ধের সঙ্গে কী আঁকা হয়?",
+    "options": [
+      "লম্ব রেখা",
+      "সমান্তরাল রেখা",
+      "মধ্যমা",
+      "কোণসমদ্বিখণ্ডক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "বহিঃস্থ বিন্দু থেকে বৃত্তে স্পর্শক আঁকার সহায়ক বৃত্তের ব্যাস কোন রেখাংশ?",
+    "options": [
+      "বহিঃস্থ বিন্দু ও কেন্দ্রের সংযোগরেখা",
+      "যেকোনো জ্যা",
+      "ত্রিভুজের ভূমি",
+      "বৃত্তের যেকোনো ব্যাসার্ধ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "ব্যাসার্ধ 11 cm ও 4 cm বিশিষ্ট দুই বৃত্ত বহিঃস্পর্শী হলে কেন্দ্রদূরত্ব কত?",
+    "options": [
+      "15 cm",
+      "11 cm",
+      "7 cm",
+      "4 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "ব্যাসার্ধ 11 cm ও 4 cm বিশিষ্ট দুই বৃত্ত অন্তঃস্পর্শী হলে কেন্দ্রদূরত্ব কত?",
+    "options": [
+      "7 cm",
+      "11 cm",
+      "15 cm",
+      "4 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "যদি দুই বৃত্তের ব্যাসার্ধ 9 cm ও 6 cm এবং কেন্দ্রদূরত্ব 15 cm হয়, তবে বৃত্তদ্বয় কেমন?",
+    "options": [
+      "বহিঃস্পর্শী",
+      "অন্তঃস্পর্শী",
+      "সম্পূর্ণ পৃথক",
+      "একই কেন্দ্রবিশিষ্ট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "যদি দুই বৃত্তের ব্যাসার্ধ 13 cm ও 8 cm এবং কেন্দ্রদূরত্ব 5 cm হয়, তবে বৃত্তদ্বয় কেমন?",
+    "options": [
+      "অন্তঃস্পর্শী",
+      "বহিঃস্পর্শী",
+      "বিচ্ছিন্ন",
+      "বাইরে ছেদকারী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "দুইটি পৃথক বৃত্ত বাইরের দিকে একে অপরকে ছেদ না করে থাকলে কেন্দ্রদূরত্বের সম্পর্ক কী?",
+    "options": [
+      "কেন্দ্রদূরত্ব > ব্যাসার্ধদ্বয়ের যোগফল",
+      "কেন্দ্রদূরত্ব = ব্যাসার্ধদ্বয়ের যোগফল",
+      "কেন্দ্রদূরত্ব = ব্যাসার্ধদ্বয়ের পার্থক্য",
+      "কেন্দ্রদূরত্ব = 0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-05-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-05",
+    "text": "জ্যামিতিক অঙ্কনে ভুল কমানোর সবচেয়ে ভালো উপায় কোনটি?",
+    "options": [
+      "প্রতিটি ধাপের শর্ত যাচাই করা",
+      "চিত্র না আঁকা",
+      "উত্তর আন্দাজ করা",
+      "শুধু বড় করে লেখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

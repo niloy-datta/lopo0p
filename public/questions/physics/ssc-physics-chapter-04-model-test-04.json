@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "'হাতে হাতে ঘষলে তাপ উৎপন্ন হয়'। এটি শক্তির কী ধরনের রূপান্তর?",
+    "options": [
+      "রাসায়নিক শক্তি থেকে তাপ শক্তি",
+      "তড়িৎ শক্তি থেকে তাপ শক্তি",
+      "তাপ শক্তি থেকে যান্ত্রিক শক্তি",
+      "যান্ত্রিক শক্তি থেকে তাপ শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "40 J কাজ 5 s-এ সম্পন্ন হলে ক্ষমতা কত?",
+    "options": [
+      "5 W",
+      "8 W",
+      "20 W",
+      "200 W"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "যান্ত্রিক শক্তি সংরক্ষণে— i. মোট শক্তি ধ্রুব থাকে ii. বিভবশক্তি গতিশক্তিতে রূপান্তরিত হতে পারে iii. শক্তি বিনষ্ট হয়",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "যন্ত্রের কর্মদক্ষতা 80%, প্রদত্ত শক্তি (input) 1000 J হলে কার্যকর কাজ (output) কত?",
+    "options": [
+      "200 J",
+      "800 J",
+      "1000 J",
+      "1250 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "কোনো যন্ত্রে 500 J শক্তি সরবরাহ করলে 350 J কার্যকর কাজ পাওয়া যায়। যন্ত্রটির কর্মদক্ষতা কত?",
+    "options": [
+      "35%",
+      "50%",
+      "70%",
+      "85%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "একটি বস্তুকে 10 m উচ্চতায় তুলতে 500 J কাজ করা হলো। বস্তুর ওজন কত?",
+    "options": [
+      "5 N",
+      "25 N",
+      "50 N",
+      "500 N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "2 kg ভরের একটি বস্তু 20 m উচ্চতা থেকে পড়ে। মাটি থেকে 5 m উচ্চতায় তার বিভবশক্তি ও মোট শক্তির অনুপাত কত? [g = 10 ms⁻²]",
+    "options": [
+      "1 : 2",
+      "1 : 3",
+      "1 : 4",
+      "3 : 4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "একটি মোটর 4000 J কাজ 20 s সময়ে করে। মোটরের ক্ষমতা কত?",
+    "options": [
+      "20 W",
+      "100 W",
+      "200 W",
+      "800 W"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "2 kg ভরের একটি বস্তু 10 m উচ্চতায় থাকলে বিভবশক্তি কত? [g = 10 ms⁻²]",
+    "options": [
+      "20 J",
+      "100 J",
+      "200 J",
+      "400 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "একটি যন্ত্রে 800 J শক্তি দিলে 600 J কার্যকর কাজ পাওয়া যায়। কর্মদক্ষতা কত?",
+    "options": [
+      "60%",
+      "70%",
+      "75%",
+      "80%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "6V বিভবে 3Ω রোধে ব্যয়িত ক্ষমতা কত?",
+    "options": [
+      "6 W",
+      "12 W",
+      "18 W",
+      "36 W"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "10 kg ভরের একটি বস্তু 5 m উচ্চতায় তুললে বিভবশক্তি কত? [g = 9.8 ms⁻²]",
+    "options": [
+      "49 J",
+      "98 J",
+      "490 J",
+      "980 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "20 m উচ্চতায় 2 kg বস্তুর বিভবশক্তি কত? [g = 10 ms⁻²]",
+    "options": [
+      "200 J",
+      "300 J",
+      "400 J",
+      "500 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "120 W ক্ষমতার যন্ত্র 2 মিনিট কাজ করলে ব্যয়িত শক্তি কত?",
+    "options": [
+      "240 J",
+      "1440 J",
+      "14400 J",
+      "24000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "নিচের কোনটি অনবায়নযোগ্য শক্তি?",
+    "options": [
+      "বায়ু",
+      "কয়লা",
+      "পেট্রোল",
+      "প্রাকৃতিক গ্যাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "m=1 kg, g=9.8 m/s², h=10 m হলে স্থিতিশক্তি কত?",
+    "options": [
+      "98 J",
+      "9.8 J",
+      "10 J",
+      "980 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "P=500 W, t=2 min হলে শক্তি (জুলে) কত?",
+    "options": [
+      "60000 J",
+      "1000 J",
+      "250 J",
+      "5000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "500 N ওজনের বস্তুকে 2 m উঁচুতে তুলতে কৃতকাজ কত?",
+    "options": [
+      "1000 J",
+      "502 J",
+      "498 J",
+      "250 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "গতিশক্তির মাত্রা কোনটি?",
+    "options": [
+      "$\\text{ML}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$",
+      "$\\text{LT}^{-1}$",
+      "$\\text{MLT}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "ক্ষমতার একক কোনটি?",
+    "options": [
+      "ওয়াট",
+      "জুল",
+      "নিউটন",
+      "প্যাসকেল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "সংকুচিত স্প্রিংয়ের ভেতর কোন শক্তি লুকিয়ে থাকে?",
+    "options": [
+      "স্থিতিশক্তি",
+      "গতিশক্তি",
+      "তাপ শক্তি",
+      "রাসায়নিক শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "স্প্রিং এ কোন ধরনের শক্তি সঞ্চিত থাকে?",
+    "options": [
+      "বিভব শক্তি",
+      "গতি শক্তি",
+      "শব্দ শক্তি",
+      "তাপ শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "তড়িৎবাহী তারের প্রভাবকে কাজে লাগিয়ে নিচের কোন যন্ত্রটি তৈরি?",
+    "options": [
+      "তড়িৎ মোটর",
+      "ট্রান্সফরমার",
+      "ডায়োড",
+      "ট্রানজিস্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "আমরা যে শক্তি ব্যয় করি তার কতভাগ নবায়নযোগ্য শক্তি?",
+    "options": [
+      "1/4",
+      "1/5",
+      "1/6",
+      "1/8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-04-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-04",
+    "text": "প্রথম কে দেখান যে, তাপ এক ধরনের শক্তি এবং যান্ত্রিক শক্তিকে তাপ শক্তিতে রূপান্তর করা যায়?",
+    "options": [
+      "লর্ড কেলভিন",
+      "কাউন্ট রামফোর্ড",
+      "লিবনিজ",
+      "কোপার্নিকাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

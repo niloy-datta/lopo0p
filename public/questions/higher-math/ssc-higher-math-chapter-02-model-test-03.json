@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "যদি $x+y=13$ এবং $xy=36$ হয়, তবে $x^2+y^2$ এর মান কত?",
+    "options": [
+      "97",
+      "100",
+      "109",
+      "121"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "যদি $a-b=7$ এবং $ab=10$ হয়, তবে $a^2+b^2$ এর মান কত?",
+    "options": [
+      "49",
+      "59",
+      "69",
+      "79"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "যদি $m+n=9$ এবং $m^2+n^2=53$ হয়, তবে $mn$ এর মান কত?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "যদি $x+\\frac{1}{x}=6$ হয়, তবে $x^2+\\frac{1}{x^2}$ এর মান কত?",
+    "options": [
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$x^2+\\frac{1}{x^2}=62$ হলে $x+\\frac{1}{x}$ এর ধনাত্মক মান কত?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$x^2-18x+81$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(x-9)^2$",
+      "$(x+9)^2$",
+      "$(x-9)(x+9)$",
+      "$x(x-18)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$25a^2-36b^2$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(5a-6b)(5a+6b)$",
+      "$(25a-36b)(a+b)$",
+      "$(5a-6b)^2$",
+      "$(5a+6b)^2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$x^2+13x+40$ এর সঠিক উৎপাদক কোনটি?",
+    "options": [
+      "$(x+5)(x+8)$",
+      "$(x-5)(x-8)$",
+      "$(x+4)(x+10)$",
+      "$(x+2)(x+20)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$x^2-3x-40$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(x-8)(x+5)$",
+      "$(x+8)(x-5)$",
+      "$(x-10)(x+4)$",
+      "$(x-4)(x+10)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$2x^2+11x+12$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(2x+3)(x+4)$",
+      "$(2x+1)(x+12)$",
+      "$(x+3)(x+4)$",
+      "$(2x-3)(x-4)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$5x^2-16x+3$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(5x-1)(x-3)$",
+      "$(5x-3)(x-1)$",
+      "$(x-1)(x-3)$",
+      "$(5x+1)(x-3)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$x^3+64$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(x+4)(x^2-4x+16)$",
+      "$(x-4)(x^2+4x+16)$",
+      "$(x+4)(x^2+4x+16)$",
+      "$(x-4)(x^2-4x+16)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$125p^3-8q^3$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(5p-2q)(25p^2+10pq+4q^2)$",
+      "$(5p+2q)(25p^2-10pq+4q^2)$",
+      "$(5p-2q)(25p^2-10pq+4q^2)$",
+      "$(125p-8q)(p^2+q^2)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$(4x-3y)^2$ বিস্তার করলে কোনটি পাওয়া যায়?",
+    "options": [
+      "$16x^2-24xy+9y^2$",
+      "$16x^2+24xy+9y^2$",
+      "$4x^2-12xy+3y^2$",
+      "$16x^2-12xy+9y^2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$(5a+2b)^2$ বিস্তার করলে কোনটি পাওয়া যায়?",
+    "options": [
+      "$25a^2+20ab+4b^2$",
+      "$25a^2+10ab+4b^2$",
+      "$5a^2+20ab+2b^2$",
+      "$25a^2-20ab+4b^2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$(a+b)^3+(a-b)^3$ সরল করলে কোনটি পাওয়া যায়?",
+    "options": [
+      "$2a^3+6ab^2$",
+      "$6a^2b+2b^3$",
+      "$4ab$",
+      "$a^3+b^3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 90
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$(x+7)(x-7)+49$ সরল করলে কত হয়?",
+    "options": [
+      "$x^2$",
+      "$x^2+49$",
+      "$x^2-49$",
+      "$x^2+98$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$(p+q)^2-(p-q)^2$ এর মান কোনটি?",
+    "options": [
+      "$4pq$",
+      "$2pq$",
+      "$p^2+q^2$",
+      "$p^2-q^2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$(p+q)^2+(p-q)^2$ এর মান কোনটি?",
+    "options": [
+      "$2(p^2+q^2)$",
+      "$4pq$",
+      "$2p^2+4pq$",
+      "$p^2-q^2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$x^3-12x^2+48x-64$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(x-4)^3$",
+      "$(x+4)^3$",
+      "$(x-4)(x^2+4x+16)$",
+      "$(x+4)(x^2-4x+16)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$9x^2-30xy+25y^2$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(3x-5y)^2$",
+      "$(3x+5y)^2$",
+      "$(9x-25y)(x-y)$",
+      "$(3x-5y)(3x+5y)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$15a^2-22a+8$ এর উৎপাদক কোনটি?",
+    "options": [
+      "$(3a-2)(5a-4)$",
+      "$(5a-2)(3a-4)$",
+      "$(15a-8)(a-1)$",
+      "$(3a+2)(5a-4)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$a+b=12$ এবং $a-b=6$ হলে $a^2-b^2$ এর মান কত?",
+    "options": [
+      "60",
+      "66",
+      "72",
+      "84"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$x^2+px+30$ রাশিটি $(x+5)$ দ্বারা বিভাজ্য হলে $p$ এর মান কত?",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "$4x^2+px+9$ রাশিটি পূর্ণবর্গ হলে $p$ এর ধনাত্মক মান কত?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  }
+]

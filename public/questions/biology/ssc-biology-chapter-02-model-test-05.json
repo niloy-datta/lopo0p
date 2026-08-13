@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "ইউক্যারিয়োটিক কোষের বৈশিষ্ট্য কী?",
+    "options": [
+      "ঝিল্লিবদ্ধ নিউক্লিয়াস",
+      "কোষপ্রাচীর নেই",
+      "নিউক্লিয়াস নেই",
+      "DNA নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "উদ্ভিদ কোষে থাকে কিন্তু প্রাণী কোষে সাধারণত নেই?",
+    "options": [
+      "রাইবোসোম",
+      "মাইটোকন্ড্রিয়া",
+      "কোষপ্রাচীর",
+      "নিউক্লিয়াস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "গ্রীষ্মের দুপুরে একটি বিশাল বটগাছের নিচে দাঁড়ালে বেশ শীতল অনুভব হয়। শিক্ষক জানালেন, উদ্ভিদের পাতায় অবস্থিত একটি বিশেষ ছিদ্রপথের মাধ্যমে অতিরিক্ত পানি বাষ্পাকারে বের হয়ে যাওয়ার কারণেই এমনটা ঘটে। উক্ত শারীরবৃত্তীয় প্রক্রিয়াটির (প্রস্বেদন) গুরুত্ব হলো— i. উদ্ভিদ দেহকে শীতল রাখে ii. কোষরসের ঘনত্ব বৃদ্ধি করে মূল দ্বারা পানি শোষণে সাহায্য করে iii. এটি বায়ুমণ্ডলে প্রচুর মিথেন গ্যাস ছড়ায় নিচের কোনটি সঠিক?",
+    "options": [
+      "i, ii ও iii",
+      "ii ও iii",
+      "i ও iii",
+      "i ও ii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "ব্যাকটেরিয়ার কোষপ্রাচীরের প্রধান উপাদান কোনটি?",
+    "options": [
+      "কাইটিন",
+      "পেপটিডোগ্লাইকান",
+      "সেলুলোজ",
+      "লিপিড"
+    ],
+    "image": "/images/quiz/cell-wall.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "নিচের কোন টিস্যুটির কোষপ্রাচীর লিগনিনযুক্ত এবং কোষগুলো মৃত ও শক্ত হয়?",
+    "options": [
+      "কোলেনকাইমা",
+      "প্যারেনকাইমা",
+      "স্ক্লেরেনকাইমা",
+      "ক্লোরেনকাইমা"
+    ],
+    "image": "/images/quiz/cell-wall.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "কোষ ঝিল্লির প্রধান কাজ কী?",
+    "options": [
+      "প্রোটিন তৈরি",
+      "পদার্থের আদান-প্রদান নিয়ন্ত্রণ",
+      "DNA প্রতিলিপি",
+      "শক্তি উৎপাদন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "উদ্ভিদ কোষে কোষপ্রাচীর তৈরির প্রধান কাঁচামাল কোনটি?",
+    "options": [
+      "প্রোটিন",
+      "সেলুলোজ",
+      "কাইটিন",
+      "লিপিড"
+    ],
+    "image": "/images/quiz/cell-wall.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "সালোকসংশ্লেষণ ঘটে কোথায়?",
+    "options": [
+      "নিউক্লিয়াসে",
+      "রাইবোসোমে",
+      "মাইটোকন্ড্রিয়ায়",
+      "ক্লোরোপ্লাস্টে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "উদ্ভিদ কোষে চর্বি ও তেল জাতীয় খাদ্য সঞ্চয়কারী প্লাস্টিডকে কী বলে?",
+    "options": [
+      "ইলাইওপ্লাস্ট",
+      "অ্যালগ্রোপ্লাস্ট",
+      "ক্রোমোপ্লাস্ট",
+      "অ্যামাইলোপ্লাস্ট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "সাইটোপ্লাজমে থাকে কী?",
+    "options": [
+      "শুধু RNA",
+      "শুধু প্রোটিন",
+      "শুধু DNA",
+      "অঙ্গাণু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "কোষপ্রাচীরের উপাদান কী?",
+    "options": [
+      "সেলুলোজ",
+      "ইউরিয়া",
+      "হিমোগ্লোবিন",
+      "কাইটিন"
+    ],
+    "image": "/images/quiz/cell-wall.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "শক্তি উৎপাদনের কেন্দ্র?",
+    "options": [
+      "নিউক্লিয়াস",
+      "মাইটোকন্ড্রিয়া",
+      "রাইবোসোম",
+      "গলজি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "গলজি বডির কাজ কী?",
+    "options": [
+      "শ্বসন",
+      "কোষ বিভাজন",
+      "সালোকসংশ্লেষণ",
+      "উৎপাদিত পদার্থ পরিবহন ও নিঃসরণ"
+    ],
+    "image": "/images/quiz/bio-golgi.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "উদ্ভিদে বড় ভ্যাকুয়োলের কাজ কী?",
+    "options": [
+      "প্রোটিন তৈরি",
+      "কোষ বিভাজন",
+      "শ্বাস",
+      "তাপমাত্রা ও চাপ বজায় রাখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "মাইটোসিস কোষ বিভাজনের পর্যায়গুলোর সঠিক ক্রম কোনটি?",
+    "options": [
+      "প্রোফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → মেটাফেজ → টেলোফেজ",
+      "মেটাফেজ → প্রোফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → টেলোফেজ",
+      "প্রোফেজ → প্রো-মেটাফেজ → মেটাফেজ → অ্যানাফেজ → টেলোফেজ",
+      "প্রোফেজ → মেটাফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → টেলোফেজ"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "উদ্ভিদ কোষে প্রোটিন সংশ্লেষণের প্রধান স্থান কোনটি?",
+    "options": [
+      "মাইটোকন্ড্রিয়া",
+      "রাইবোজোম",
+      "লাইসোজোম",
+      "গলগি বডি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "প্লাসমোডেসমata কোথায়?",
+    "options": [
+      "উদ্ভিদ কোষে",
+      "প্রাণী কোষে",
+      "ভাইরাসে",
+      "ব্যাকটেরিয়ায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "কোষ বিভাজনের কোন ধাপে নিউক্লিওলাসের পুনরাবির্ভাব ঘটে?",
+    "options": [
+      "মেটাফেজ",
+      "টেলোফেজ",
+      "প্রোফেজ",
+      "অ্যানাফেজ"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "উদ্দীপক: শিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্তি উৎপাদন করে এবং অপরটি (B) উদ্ভিদ কোষে খাদ্য তৈরিতে সাহায্য করে। অঙ্গাণু 'A' এর নাম কী?",
+    "options": [
+      "গলজি বডি",
+      "লাইসোজোম",
+      "রাইবোজোম",
+      "মাইটোকন্ড্রিয়া"
+    ],
+    "image": "/images/quiz/premium/ssc-biology-chapter-02-model-test-05-q19.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "নিচের কোনটি ফ্লোয়েম টিস্যুর মৃত কোষ উপাদান?",
+    "options": [
+      "ফ্লোয়েম প্যারেনকাইমা",
+      "সীভনল",
+      "ফ্লোয়েম ফাইবার (বাস্ট ফাইবার)",
+      "সংগী কোষ"
+    ],
+    "image": "/images/quiz/bio-xylem-phloem.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "সংযোজক টিস্যুর উদাহরণ কোনটি?",
+    "options": [
+      "নিউরন",
+      "রক্ত",
+      "পেশি",
+      "ত্বক আবরণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "জাইলেম টিস্যুর কাজ সম্পর্কে নিচের কোনটি সঠিক? i. মূল থেকে পানি ও খনিজ লবণ পাতায় পরিবহন করে ii. পাতায় তৈরি খাদ্য উদ্ভিদের বিভিন্ন অংশে পৌঁছে দেয় iii. উদ্ভিদকে যান্ত্রিক দৃঢ়তা প্রদান করে নিচের কোনটি সঠিক?",
+    "options": [
+      "i, ii ও iii",
+      "ii ও iii",
+      "i ও iii",
+      "i ও ii"
+    ],
+    "image": "/images/quiz/bio-xylem-phloem.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "বহুকোষী জীবের উদাহরণ কোনটি?",
+    "options": [
+      "অ্যামিবা",
+      "ইস্ট",
+      "মানুষ",
+      "ব্যাকটেরিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "ব্যাকটেরিয়ার কোষ বিভাজন প্রধানত কোন পদ্ধতিতে ঘটে?",
+    "options": [
+      "মিওসিস",
+      "বহুবিভাজন",
+      "মাইটোসিস",
+      "অ্যামাইটোসিস (দ্বি-বিভাজন)"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-02-model-test-05-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-02-model-test-05",
+    "text": "হৃদপিণ্ডের কোন প্রকোষ্ঠটি সারা শরীর থেকে কার্বন ডাই অক্সাইডযুক্ত রক্ত গ্রহণ করে?",
+    "options": [
+      "ডান অলিন্দ",
+      "বাম অলিন্দ",
+      "বাম নিলয়",
+      "ডান নিলয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

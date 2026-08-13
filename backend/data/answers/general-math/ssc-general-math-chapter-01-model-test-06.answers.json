@@ -1,0 +1,212 @@
+{
+  "ssc-general-math-chapter-01-model-test-06-q01": {
+    "answer": "০",
+    "answerIndex": 2,
+    "explanation": "০ স্বাভাবিক সংখ্যা নয়।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q02": {
+    "answer": "অমূলদ",
+    "answerIndex": 1,
+    "explanation": "√৫ অমূলদ।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q03": {
+    "answer": "৩/৪",
+    "answerIndex": 0,
+    "explanation": "০.৭৫ = ৩/৪।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q04": {
+    "answer": "০.১২৫",
+    "answerIndex": 0,
+    "explanation": "১/৮ = ০.১২৫।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q05": {
+    "answer": "২/৩",
+    "answerIndex": 1,
+    "explanation": "২/৩ > ৩/৫।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q06": {
+    "answer": "৩",
+    "answerIndex": 1,
+    "explanation": "√৯ = ৩।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q07": {
+    "answer": "৩/৮",
+    "answerIndex": 2,
+    "explanation": "৩/৮ = ০.৩৭৫।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q08": {
+    "answer": "২/৩",
+    "answerIndex": 1,
+    "explanation": "০.৬৬৬... = ২/৩।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q09": {
+    "answer": "৬",
+    "answerIndex": 1,
+    "explanation": "−৪,−৩,−২,−১,০,১ = ৬টি।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q10": {
+    "answer": "০.২",
+    "answerIndex": 0,
+    "explanation": "√০.০৪ = ০.২।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q11": {
+    "answer": "১",
+    "answerIndex": 0,
+    "explanation": "৭ − ৬ = ১।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q12": {
+    "answer": "০.২২",
+    "answerIndex": 1,
+    "explanation": "যোগফল ০.২২।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q13": {
+    "answer": "৮/৯",
+    "answerIndex": 0,
+    "explanation": "৮/৯ < ১ < ৫/৪।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q14": {
+    "answer": "সমান",
+    "answerIndex": 0,
+    "explanation": "উভয়ই ১/৩।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q15": {
+    "answer": "২√৩",
+    "answerIndex": 0,
+    "explanation": "√১২ = ২√৩।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q16": {
+    "answer": "১/২৫০",
+    "answerIndex": 0,
+    "explanation": "০.০০৪ = ১/২৫০।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q17": {
+    "answer": "৯/৪",
+    "answerIndex": 0,
+    "explanation": "২.২৫ = ৯/৪।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q18": {
+    "answer": "০.৩৫",
+    "answerIndex": 0,
+    "explanation": "৭/২০ = ০.৩৫।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q19": {
+    "answer": "১.১",
+    "answerIndex": 1,
+    "explanation": "০.৯ + ০.২ = ১.১।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q20": {
+    "answer": "৩/২",
+    "answerIndex": 1,
+    "explanation": "গুণাত্মক বিপরীত ৩/২।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q21": {
+    "answer": "১",
+    "answerIndex": 1,
+    "explanation": "০.৯৯৯... = ১।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q22": {
+    "answer": "৪",
+    "answerIndex": 1,
+    "explanation": "√১৬ = ৪।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q23": {
+    "answer": "৫/৪",
+    "answerIndex": 0,
+    "explanation": "১.২৫ = ৫/৪।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q24": {
+    "answer": "১",
+    "answerIndex": 1,
+    "explanation": "১/৮ × ৮ = ১।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q25": {
+    "answer": "৭৫%",
+    "answerIndex": 2,
+    "explanation": "৩/৪ = ৭৫%।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q26": {
+    "answer": "১/৮",
+    "answerIndex": 1,
+    "explanation": "১২.৫% = ১/৮।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q27": {
+    "answer": "৩√২",
+    "answerIndex": 1,
+    "explanation": "৫√২ − ২√২ = ৩√২।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q28": {
+    "answer": "০.২৫",
+    "answerIndex": 0,
+    "explanation": "০.৫² = ০.২৫।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q29": {
+    "answer": "সমান",
+    "answerIndex": 0,
+    "explanation": "−১/২ = −০.৫।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  },
+  "ssc-general-math-chapter-01-model-test-06-q30": {
+    "answer": "কোনোটিই নয়",
+    "answerIndex": 3,
+    "explanation": "সবই বাস্তব সংখ্যা।",
+    "topic": "বাস্তব সংখ্যা",
+    "difficulty": 1200
+  }
+}

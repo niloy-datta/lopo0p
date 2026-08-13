@@ -1,0 +1,86 @@
+{
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q01": {
+    "correctOption": "1.414 (√2)",
+    "explanation": "μ = sin((A+δm)/2) / sin(A/2) = sin45°/sin30° = (1/√2)/(1/2) = √2 = 1.414"
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q02": {
+    "correctOption": "−0.2 m",
+    "explanation": "P = 1/f ⇒ f = 1/P = 1/(−5) = −0.2 m = −20 cm। ঋণাত্মক চিহ্ন নির্দেশ করে এটি অবতল লেন্স।"
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q03": {
+    "correctOption": "আইনস্টাইন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q04": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q05": {
+    "correctOption": "ক্যালসাইট",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q06": {
+    "correctOption": "মাইকেলসন-মর্লি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q07": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q08": {
+    "correctOption": "-১.৬ × ১০⁻¹৯ C",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q09": {
+    "correctOption": "ব্যতিচার",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q10": {
+    "correctOption": "চারগুণ হবে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q11": {
+    "correctOption": "চারগুণ",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q12": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q13": {
+    "correctOption": "ইলেকট্রন নির্গত হবে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q14": {
+    "correctOption": "5 \\times 10^{14} Hz",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q15": {
+    "correctOption": "1 \\mu F",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q16": {
+    "correctOption": "লোহার ব্লকের অন্তঃস্থ শক্তি বৃদ্ধি পাবে।",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q17": {
+    "correctOption": "তাপমাত্রার পার্থক্যের উপর",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q18": {
+    "correctOption": "240 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q19": {
+    "correctOption": "630 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q20": {
+    "correctOption": "90 J",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-06-model-test-03-q21": {
+    "correctOption": "144 J",
+    "explanation": ""
+  }
+}

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q01",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "১ গ্রাম বিশুদ্ধ পানির তাপমাত্রা ১°C বৃদ্ধি করতে প্রয়োজনীয় তাপকে কী বলা হয়?",
+    "options": [
+      "আপেক্ষিক তাপ ক্ষমতা (Specific Heat)",
+      "দহন তাপ",
+      "প্রশমন তাপ",
+      "সুপ্ত তাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q02",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "গ্যালভানিক কোষে রাসায়নিক বিক্রিয়ার মাধ্যমে নিচের কোনটি উৎপন্ন হয়?",
+    "options": [
+      "তড়িৎ বা বিদ্যুৎ প্রবাহ",
+      "চাপ সৃষ্টি হয়",
+      "আলো ও শব্দ",
+      "ইউরেনিয়াম কণা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q03",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "সোডিয়াম ক্লোরাইডের (NaCl) জলীয় দ্রবণে ক্লোরাইড আয়নের চেয়ে হাইড্রোক্সিল আয়নের সক্রিয়তা বেশি হওয়া সত্ত্বেও অ্যানোডে কেন ক্লোরিন গ্যাস মুক্ত হয়?",
+    "options": [
+      "Cl⁻ আয়নের ঘনমাত্রা OH⁻ অপেক্ষা অনেক বেশি হওয়ায়",
+      "Cl⁻ আয়নের আকার ছোট হওয়ায়",
+      "Cl⁻ আয়ন ধনাত্মক হওয়ায়",
+      "OH⁻ আয়ন দুর্বল হওয়ায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q04",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "বিক্রিয়কসমূহের মোট বন্ধন ভাঙার শক্তি E₁ এবং উৎপাদসমূহের মোট বন্ধন গড়ার শক্তি E₂ হলে বিক্রিয়া তাপ (ΔH) হিসাবের সূত্রটি কী?",
+    "options": [
+      "ΔH = E₁ - E₂",
+      "ΔH = E₂ - E₁",
+      "ΔH = E₁ + E₂",
+      "ΔH = -(E₁ + E₂)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q05",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "১ মোল কার্বনের সম্পূর্ণ দহনে কত তাপশক্তি নির্গত হয়?",
+    "options": [
+      "৩৯৩.৫ kJ",
+      "৮৯০ kJ",
+      "৫৭.৩৪ kJ",
+      "২৪২ kJ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q06",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "তড়িৎ বিশ্লেষণ (Electrolysis) প্রক্রিয়ায় অ্যানোডের দিকে কোন আয়ন আকৃষ্ট হয়?",
+    "options": [
+      "ঋণাত্মক চার্জযুক্ত অ্যানায়ন",
+      "ধনাত্মক চার্জযুক্ত ক্যাটায়ন",
+      "নিরপেক্ষ অণু",
+      "মুক্ত ইলেকট্রন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q07",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "H-H একক সমযোজী বন্ধনের বন্ধন শক্তি ৪৩৬ kJ/mol হলে ১ মোল হাইড্রোজেন গ্যাস অণু তৈরি হতে কী পরিমাণ শক্তি পরিবেশে নির্গত হয়?",
+    "options": [
+      "৪৩৬ kJ",
+      "২১৮ kJ",
+      "৮৭২ kJ",
+      "০ kJ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q08",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "শুষ্ক কোষে (Dry Cell) অ্যানোড হিসেবে কাজ করার সময় জিঙ্কের পাত্রটি কেন ছিদ্র হয়ে যায়?",
+    "options": [
+      "জিঙ্ক জারিত হয়ে Zn²⁺ হিসেবে দ্রবণে চলে যায় বলে",
+      "অ্যামোনিয়া গ্যাস পাত্র ফুটো করে দেয় বলে",
+      "পাত্রটি অত্যন্ত পাতলা হয় বলে",
+      "বিভব পার্থক্য খুব বেশি হয় বলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q09",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "কপার সালফেট (CuSO₄) এর জলীয় দ্রবণে নিষ্ক্রিয় প্লাটিনাম (Pt) ইলেকট্রোড ব্যবহার করে তড়িৎ বিশ্লেষণ করলে অ্যানোডে কী উৎপন্ন হয়?",
+    "options": [
+      "অক্সিজেন গ্যাস (O₂)",
+      "ক্লোরিন গ্যাস (Cl₂)",
+      "কপার ধাতু (Cu)",
+      "সালফার ডাই অক্সাইড (SO₂)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q10",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "ড্যানিয়েল কোষে অ্যানোড অর্ধকোষে সংঘটিত জারণ অর্ধ-বিক্রিয়াটি কোনটি?",
+    "options": [
+      "Zn → Zn²⁺ + 2e⁻",
+      "Zn²⁺ + 2e⁻ → Zn",
+      "Cu → Cu²⁺ + 2e⁻",
+      "Cu²⁺ + 2e⁻ → Cu"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q11",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "রাসায়নিক বিক্রিয়ার শুরুতে বিক্রিয়ক অণুগুলোর জন্য ন্যূনতম শক্তির বাধা অতিক্রম করতে যে শক্তির প্রয়োজন হয় তাকে কী বলে?",
+    "options": [
+      "সক্রিয়ণ শক্তি (Activation Energy)",
+      "বন্ধন শক্তি",
+      "ল্যাটিস শক্তি",
+      "হাইড্রেশন শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q12",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "তীব্র ক্ষারের সাথে দুর্বল অম্লের প্রশমন তাপ তীব্র অম্ল ও তীব্র ক্ষারের প্রশমন তাপের চেয়ে কম হয় কেন?",
+    "options": [
+      "দুর্বল অম্লের বিয়োজনে কিছু তাপ শোষিত হয় বলে",
+      "দুর্বল অম্লের বিক্রিয়া ধীরগতির বলে",
+      "উৎপন্ন লবণের পরিমাণ কম হয় বলে",
+      "পানি বাষ্পীভূত হয়ে যায় বলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q13",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "নিচের কোনটি কঠিন অবস্থায় বিদ্যুৎ পরিবহন করে না কিন্তু গলিত বা জলীয় দ্রবণে বিদ্যুৎ পরিবহন করে?",
+    "options": [
+      "সোডিয়াম ক্লোরাইড (NaCl)",
+      "গ্রাফাইট",
+      "তামা",
+      "চিনি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q14",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "লেড স্টোরেজ ব্যাটারি চার্জ করার সময় কোন শক্তি কোন শক্তিতে রূপান্তরিত হয়?",
+    "options": [
+      "তড়িৎ শক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়",
+      "রাসায়নিক শক্তি তড়িৎ শক্তিতে রূপান্তরিত হয়",
+      "যান্ত্রিক শক্তি বিদ্যুৎ শক্তিতে রূপান্তরিত হয়",
+      "আলোক শক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "CH₄ + Cl₂ → CH₃Cl + HCl বিক্রিয়ায় বিক্রিয়কের বন্ধন শক্তি উৎপাদের চেয়ে বেশি হলে এটি কোন ধরনের বিক্রিয়া?",
+    "options": [
+      "তাপোৎপাদী বিক্রিয়া",
+      "তাপহারী বিক্রিয়া",
+      "প্রশমন বিক্রিয়া",
+      "তড়িৎ রাসায়নিক বিক্রিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "শুষ্ক কোষে কার্বন দণ্ডের চারপাশে ম্যাঙ্গানিজ ডাই অক্সাইড (MnO₂) ও চারকোল পাউডার ব্যবহারের প্রধান কারণ কী?",
+    "options": [
+      "কোষের অভ্যন্তরীণ রোধ কমানো ও মেরুকরণ রোধ করা",
+      "জিঙ্কের ক্ষয় রোধ করা",
+      "স্টার্চের ঘনত্ব বৃদ্ধি করা",
+      "কোষের ভোল্টেজ দ্বিগুণ করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q17",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "রসায়নে 'ব্রাইন' (Brine) বলতে নিচের কোনটিকে বোঝায়?",
+    "options": [
+      "সোডিয়াম ক্লোরাইডের সম্পৃক্ত জলীয় দ্রবণ",
+      "জিঙ্ক সালফেটের অম্লীয় দ্রবণ",
+      "সোডিয়াম কার্বনেটের লঘু দ্রবণ",
+      "ক্যালসিয়াম ক্লোরাইডের গলিত রূপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q18",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "শিল্পক্ষেত্রে লোহার তৈরি জিনিসপত্রে জিংকের প্রলেপ দেওয়া বা গ্যালভানাইজিং করার মূল উদ্দেশ্য কী?",
+    "options": [
+      "লোহাকে মরিচা ধরা থেকে রক্ষা করা",
+      "লোহার ভর কমানো",
+      "লোহার গলনাঙ্ক বৃদ্ধি করা",
+      "লোহাকে চুম্বকে পরিণত করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q19",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "ড্যানিয়েল কোষে ক্যাথোড অর্ধকোষে সংঘটিত বিজারণ অর্ধ-বিক্রিয়াটি কোনটি?",
+    "options": [
+      "Cu²⁺ + 2e⁻ → Cu",
+      "Cu → Cu²⁺ + 2e⁻",
+      "Zn → Zn²⁺ + 2e⁻",
+      "Zn²⁺ + 2e⁻ → Zn"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q20",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "সল্ট ব্রিজে ব্যবহৃত পটাশিয়াম ক্লোরাইড (KCl) এর জলীয় দ্রবণের প্রধান বৈশিষ্ট্য কী?",
+    "options": [
+      "K⁺ এবং Cl⁻ আয়নের গতিবেগ প্রায় সমান",
+      "এটি একটি অম্লীয় লবণ",
+      "এটি তীব্র জারণ ক্রিয়া সম্পন্ন করে",
+      "এটি পানিতে অদ্রবণীয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q21",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "প্রমাণ এনথালপি পরিবর্তন পরিমাপের সময় প্রমাণ তাপমাত্রা কত কেলভিন (K) ধরা হয়?",
+    "options": [
+      "২৯৮.১৫ K",
+      "২৭৩.১৫ K",
+      "৩৭৩.১৫ K",
+      "০ K"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q22",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "তড়িৎ বিশ্লেষ্য কোষে (Electrolytic Cell) ক্যাথোড কী আধানযুক্ত থাকে?",
+    "options": [
+      "ঋণাত্মক",
+      "ধনাত্মক",
+      "নিরপেক্ষ",
+      "স্থির নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q23",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "১ জুল (J) কাজ বা শক্তি সমান কত ক্যালরি (cal)?",
+    "options": [
+      "০.২৩৯ cal",
+      "৪.১৮৪ cal",
+      "১০০০ cal",
+      "০ cal"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q24",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "প্রশমন বিক্রিয়ায় অম্ল ও ক্ষারের বিক্রিয়ার ফলে প্রধানত কোনটি উৎপন্ন হয়?",
+    "options": [
+      "লবণ ও পানি",
+      "এসিড ও গ্যাস",
+      "অক্সিজেন ও হাইড্রোজেন",
+      "ধাতু ও অধাতু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-08-model-test-04-q25",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-04",
+    "text": "ক্লোরিন অণুতে (Cl-Cl) সমযোজী বন্ধনের বন্ধন শক্তি কত?",
+    "options": [
+      "২৪২ kJ/mol",
+      "৪৩৬ kJ/mol",
+      "৯৪৫ kJ/mol",
+      "৪১৪ kJ/mol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

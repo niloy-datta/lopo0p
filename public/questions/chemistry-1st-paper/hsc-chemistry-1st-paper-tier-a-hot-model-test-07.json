@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q01",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "হাতে শক্তিশালী এসিড লাগলে পানি দিয়ে ধোয়ার পর কোন দ্রবণ ব্যবহার করা নিরাপদ?",
+    "options": [
+      "গাঢ় NaOH",
+      "5% NaHCO₃ দ্রবণ",
+      "গাঢ় HCl",
+      "ইথানল"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q02",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "জাল নোট ও গুরুত্বপূর্ণ নথি পরীক্ষা করতে কোন বিকিরণ বেশি ব্যবহৃত হয়?",
+    "options": [
+      "UV রশ্মি",
+      "IR রশ্মি",
+      "রেডিও তরঙ্গ",
+      "মাইক্রোওয়েভ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q03",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "বোর মডেল কোন ধরনের কণার বর্ণালী ব্যাখ্যায় সবচেয়ে সফল?",
+    "options": [
+      "এক-ইলেকট্রনযুক্ত পরমাণু/আয়ন",
+      "বহু-ইলেকট্রনযুক্ত পরমাণু",
+      "কঠিন ধাতু",
+      "জৈব যৌগ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q04",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "হ্যালোজেনদের electron affinity-এর ব্যতিক্রমী সঠিক ক্রম কোনটি?",
+    "options": [
+      "F > Cl > Br > I",
+      "Cl > F > Br > I",
+      "Br > Cl > F > I",
+      "I > Br > F > Cl"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q05",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "BF₃ অণুর সমতলীয় ত্রিকোণাকার আকৃতির কারণ কী?",
+    "options": [
+      "sp সংকরায়ণ",
+      "sp² সংকরায়ণ",
+      "sp³ সংকরায়ণ",
+      "sp³d সংকরায়ণ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q06",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "কোনো বিক্রিয়ার activation energy বেশি হলে সাধারণত বিক্রিয়ার গতি—",
+    "options": [
+      "কমে যায়",
+      "বেড়ে যায়",
+      "অপরিবর্তিত থাকে",
+      "অসীম হয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q07",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "ক্ষারীয় বাফারে ক্ষারীয় অংশের ঘনমাত্রা বাড়ালে pH—",
+    "options": [
+      "বৃদ্ধি পায়",
+      "কমে যায়",
+      "৭ হয়ে যায়",
+      "শূন্য হয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q08",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "ইথানলকে জারিত করে এসিটিক এসিড তৈরি করতে কোন ব্যাকটেরিয়া ব্যবহৃত হয়?",
+    "options": [
+      "Acetobacter aceti",
+      "E. coli",
+      "Streptococcus",
+      "Salmonella"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q09",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "l=2 হলে সংশ্লিষ্ট উপশক্তিস্তর কোনটি?",
+    "options": [
+      "s",
+      "p",
+      "d",
+      "f"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q10",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "নিচের কোন অণুর bond angle সবচেয়ে ছোট?",
+    "options": [
+      "CH₄",
+      "NH₃",
+      "H₂O",
+      "H₂S"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q11",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "নিচের কোন যৌগে সমযোজী চরিত্র সবচেয়ে বেশি হওয়ায় গলনাঙ্ক তুলনামূলক কম?",
+    "options": [
+      "NaCl",
+      "MgCl₂",
+      "AlCl₃",
+      "KCl"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q12",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "Cu²⁺ আয়নের d-অরবিটালে মোট কতটি ইলেকট্রন থাকে?",
+    "options": [
+      "১০টি",
+      "৯টি",
+      "৮টি",
+      "৭টি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q13",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "সম্পৃক্ত BaSO₄ দ্রবণে সামান্য Na₂SO₄ যোগ করলে দ্রাব্যতা কী হবে?",
+    "options": [
+      "বৃদ্ধি পাবে",
+      "হ্রাস পাবে",
+      "অপরিবর্তিত থাকবে",
+      "সম্পূর্ণ দ্রবীভূত হবে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q14",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "CO₂ অণু রৈখিক হওয়ায় এর dipole moment কত?",
+    "options": [
+      "0 D",
+      "1 D",
+      "1.85 D",
+      "2.5 D"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q15",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "লা-শাতেলিয়ের নীতি কোন ক্ষেত্রে প্রযোজ্য নয়?",
+    "options": [
+      "রাসায়নিক সাম্যাবস্থা",
+      "ভৌত সাম্যাবস্থা",
+      "একমুখী সম্পূর্ণ বিক্রিয়া",
+      "গ্যাসীয় সাম্যাবস্থা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q16",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "আফটার শেভ লোশনে শীতল অনুভূতি ও সুগন্ধ তৈরিতে কোন উপাদান ব্যবহৃত হয়?",
+    "options": [
+      "ইথানল ও মেনথল",
+      "মিথানল ও HCl",
+      "সোডিয়াম হাইড্রোক্সাইড",
+      "পেট্রোল"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q17",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "0.01 M HCl দ্রবণের pH কত?",
+    "options": [
+      "1",
+      "2",
+      "7",
+      "12"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q18",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "পাতনের মৌলিক ধাপ কোনটি?",
+    "options": [
+      "বাষ্পীভবন ও ঘনীভবন",
+      "পরিস্রাবণ ও স্ফটিকীকরণ",
+      "নিষ্কাশন ও শোষণ",
+      "অবক্ষেপণ ও শুকানো"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q19",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "স্থির চাপে কোনো বিক্রিয়ার তাপ পরিবর্তন কোন রাশির পরিবর্তনের সমান?",
+    "options": [
+      "এন্ট্রপি",
+      "এনথালপি",
+      "চাপ",
+      "আয়তন"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q20",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "নিচের কোন মৌলটি অপধাতু হিসেবে পরিচিত?",
+    "options": [
+      "Na",
+      "Si",
+      "Cl",
+      "Ar"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q21",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "[উদ্দীপক ১]\nউদ্দীপক: হাইড্রোজেন পরমাণুর একটি ইলেকট্রন n=3 স্তর থেকে n=2 স্তরে ফিরে আসে।\nRH = 1.097 × 10⁷ m⁻¹\n\nনির্গত বিকিরণের তরঙ্গ সংখ্যা প্রায় কত?",
+    "options": [
+      "1.52 × 10⁶ m⁻¹",
+      "6.56 × 10⁻⁷ m⁻¹",
+      "3.0 × 10⁸ m⁻¹",
+      "9.11 × 10⁻³¹ m⁻¹"
+    ],
+    "image": "/images/quiz/wave-transverse.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q22",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "এই transition কোন series-এর অন্তর্ভুক্ত?",
+    "options": [
+      "লাইম্যান সিরিজ",
+      "বামার সিরিজ",
+      "প্যাশেন সিরিজ",
+      "ব্র্যাকেট সিরিজ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q23",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "Planck constant-এর SI এককসহ সঠিক মান কোনটি?",
+    "options": [
+      "6.626 × 10⁻³⁴ J·s",
+      "3.00 × 10⁸ m/s",
+      "9.11 × 10⁻³¹ kg",
+      "1.6 × 10⁻¹⁹ C"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q24",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "খাদ্যে ব্যবহার সম্পূর্ণ নিষিদ্ধ ক্ষতিকর সংরক্ষক কোনটি?",
+    "options": [
+      "ভিনেগার",
+      "সাইট্রিক এসিড",
+      "ফরমালিন",
+      "সোডিয়াম বেনজোয়েট"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07-q25",
+    "subject": "chemistry-1st-paper",
+    "chapter": "hsc-chemistry-1st-paper-tier-a-hot-model-test-07",
+    "text": "H₂O অণুতে অক্সিজেন পরমাণুর hybridization কী?",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "dsp²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

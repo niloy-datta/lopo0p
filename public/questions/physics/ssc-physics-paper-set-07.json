@@ -1,0 +1,382 @@
+[
+  {
+    "id": "ssc-physics-paper-set-07-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "তড়িৎ পরিবাহিতা ধর্ম বৃদ্ধি করতে নিচের কোন পরমাণুর সাথে ত্রিযোজী মৌল মেলাতে হবে?",
+    "options": [
+      "অ্যান্টিমনি",
+      "আর্সেনিক",
+      "অ্যালুমিনিয়াম",
+      "জার্মেনিয়াম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "স্থির অবস্থান হতে $0.2\\text{ ms}^{-2}$ ত্বরণে গতিশীল বস্তুর 2000 cm দূরত্ব অতিক্রমের পর বেগ কত হবে?",
+    "options": [
+      "$2.82\\text{ ms}^{-1}$",
+      "$8\\text{ ms}^{-1}$",
+      "$28.28\\text{ ms}^{-1}$",
+      "$800\\text{ ms}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "আধুনিক বিজ্ঞানের জনক কাকে বলা হয়?",
+    "options": [
+      "গ্যালিলিও",
+      "নিউটন",
+      "আইনস্টাইন",
+      "আর্কিমিডিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "প্রথম কে দেখান যে, তাপ এক ধরনের শক্তি এবং যান্ত্রিক শক্তিকে তাপ শক্তিতে রূপান্তর করা যায়?",
+    "options": [
+      "লর্ড কেলভিন",
+      "কাউন্ট রামফোর্ড",
+      "লিবনিজ",
+      "কোপার্নিকাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "বস্তু ওজন তরলের প্লবতার চেয়ে বেশি হলে কোনটি ঘটবে?",
+    "options": [
+      "বস্তুটি তরলে সম্পূর্ণভাবে তুলে যাবে",
+      "বস্তুটি তরলে আংশিক ডুবে যাবে",
+      "বস্তুটি তরলে ওজনহীন মনে হবে",
+      "বস্তুটি তরলে ভেসে উঠবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "ত্রিমাত্রিক সিসমিক সার্ভেতে প্রতিফলিত তরঙ্গকে কিসের সাহায্যে ধারণ করা হয়?",
+    "options": [
+      "গ্রিড",
+      "ট্রান্সডিউসার",
+      "জিওফোন",
+      "মনিটর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "নিচের কোনটি বাস্তব প্রতিবিম্ব তৈরি করতে পারে?",
+    "options": [
+      "উত্তল লেন্স এবং অবতল দর্পণ",
+      "উত্তল দর্পণ এবং সমতল দর্পণ",
+      "অবতল দর্পণ এবং অবতল লেন্স",
+      "অবতল দর্পণ এবং উত্তল দর্পণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "যেকোনো চার্জ q তার চারপাশে একটি তড়িৎক্ষেত্র তৈরি করে, সে তড়িৎক্ষেত্রের সমীকরণ কোনটি?",
+    "options": [
+      "$E = K\\frac{q}{r^2}$",
+      "$E = K\\frac{q}{r}$",
+      "$E = K\\frac{q^2}{r}$",
+      "$E = K\\frac{q^2}{r^2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "ক্ষমতার মাত্রা কোনটি? মাত্রার সমীকরণ: $[P] = \\frac{\\text{M} \\times \\text{LT}^{-2} \\times \\text{L}}{\\text{T}} = \\text{ML}^2\\text{T}^{-3}$।",
+    "options": [
+      "$\\text{ML}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-1}$",
+      "$\\text{ML}^{-1}\\text{T}^{-2}$",
+      "$\\text{ML}^2\\text{T}^{-3}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "নিচের কোন প্রতীকটি n-p-n ট্রানজিস্টরকে নির্দেশ করে?",
+    "options": [
+      "চিত্র ক",
+      "চিত্র খ",
+      "চিত্র গ",
+      "চিত্র ঘ"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-07-q10.svg",
+    "optionImages": [
+      "/images/quiz/premium/ssc-physics-paper-set-07-q10-option-1.svg",
+      "/images/quiz/premium/ssc-physics-paper-set-07-q10-option-2.svg",
+      "/images/quiz/premium/ssc-physics-paper-set-07-q10-option-3.svg",
+      "/images/quiz/premium/ssc-physics-paper-set-07-q10-option-4.svg"
+    ],
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "কোয়ান্টাম তত্ত্ব আবিষ্কার করেন কে?",
+    "options": [
+      "ম্যাক্স প্লাঙ্ক",
+      "রাদারফোর্ড",
+      "রন্টজেন",
+      "বেকেরেল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "সবল নিউক্লিয় বল কত দ–রত্বে কাজ করে? “৫০ g ভরের একটি বস্তুকে ১০J গতিশক্তিতে খাড়া উপরের দিকে নিক্ষেপ করা হয়।” “৫০ g ভরের একটি বস্তুকে ১০J গতিশক্তিতে খাড়া উপরের দিকে নিক্ষেপ করা হয়।”)",
+    "options": [
+      "10^{১৮}স",
+      "10^{১৫}স",
+      "১০–১৮স",
+      "১০–১৫স"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "খেলার মাঠে একটি ক্রিকেট বল গড়িয়ে গড়িয়ে সীমানা পার হয়ে গেল। এর উপর ক্রিয়াশীল ঘর্ষণ বল কীরূপ?",
+    "options": [
+      "স্থিতি ঘর্ষণ",
+      "গতি ঘর্ষণ",
+      "আবর্ত ঘর্ষণ",
+      "প্রবাহী ঘর্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "কোনো বস্তুর অবস্থা বা অবস্থানের জন্য তৈরি হয় কোন শক্তি?",
+    "options": [
+      "বিভব শক্তি",
+      "গতি শক্তি",
+      "সৌর শক্তি",
+      "ভূ-তাপীয় শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "10m গভীরতাবিশিষ্ট একটি পানিপূর্ণ পুকুরের তলায় পানির চাপ কত?",
+    "options": [
+      "980 Pa",
+      "9800 Pa",
+      "98000 Pa",
+      "980000 Pa"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "নিচের কোন মাধ্যমে শব্দ সবচেয়ে দ্রুত চলে?",
+    "options": [
+      "হাইড্রোজেন",
+      "লোহা",
+      "পারদ",
+      "পানি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "বিবর্ধন সবসময় $m = 1$ হয় কোন দর্পণের ক্ষেত্রে?",
+    "options": [
+      "উত্তল দর্পণ",
+      "অবতল দর্পণ",
+      "সমতল দর্পণ",
+      "উত্তল লেন্স"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-07-q17.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 14 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "84 A",
+      "0.43 A",
+      "{(v+r)} A",
+      "2.3 A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "বর্তনীতে ব্যবহৃত রোধক কত প্রকার?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "নিচের কোন যন্ত্রে ট্রান্সডিউসার দেখা যায়?",
+    "options": [
+      "এক্স-রে",
+      "আলট্রাসনোগ্রাফি",
+      "এম আর আই",
+      "এন্ডোসকপি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "একটি 29 m/s বেগে চলমান 3 kg ভরের বস্তুর গতিশক্তি কত?",
+    "options": [
+      "m*v*v J",
+      "87 J",
+      "0.5*m*v J",
+      "1262 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "(উদ্দীপকভিত্তিক) বন্দুকের পশ্চাৎ বেগ কত?",
+    "options": [
+      "2 ms⁻¹",
+      "5 ms⁻¹",
+      "50 ms⁻¹",
+      "5000 ms⁻¹"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-07-q22.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "একটি বল নির্দিষ্ট বেগে একটি দেয়ালে ছুড়ে দেওয়ার পর বলটি একই বেগে ফিরে এলো। উপরের ঘটনাটি কোনটিকে সমর্থন করে?",
+    "options": [
+      "মহাকর্ষীয় সূত্র",
+      "নিউটনের গতির ৩য় সূত্র",
+      "ভরবেগের সংরক্ষণ সূত্র",
+      "শক্তির নিত্যতার সূত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "একটি গাড়ির আদিবেগ 5 m/s এবং ত্বরণ 5 m/s²। 8 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "options": [
+      "{u + a*t} m/s",
+      "40 m/s",
+      "{u - a*t} m/s",
+      "{u + 2*a*t} m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-07-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-07",
+    "text": "একটি শব্দতরঙ্গ বাতাসে 5s এ 1750m পথ অতিক্রম করে। তরঙ্গটির তরঙ্গ দৈর্ঘ্য 0.5m হলে কম্পাঙ্ক কত?",
+    "options": [
+      "0.00143 Hz",
+      "175 Hz",
+      "700 Hz",
+      "3500 Hz"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

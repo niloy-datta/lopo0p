@@ -1,0 +1,1533 @@
+{
+  "subject": "general-math",
+  "chapterName": "বীজগাণিতিক রাশি",
+  "scope": "বর্গ ও ঘন সম্পর্কিত সূত্র, সূত্র প্রয়োগে মান নির্ণয়, সরলীকরণ এবং উৎপাদকে বিশ্লেষণ।",
+  "sets": [
+    {
+      "setName": "Model Test-01",
+      "questions": [
+        {
+          "text": "(a + b)² এর বিস্তৃত রূপ কোনটি?",
+          "options": [
+            "a² + b²",
+            "a² + 2ab + b²",
+            "a² − 2ab + b²",
+            "2a² + 2b²"
+          ],
+          "answer": "a² + 2ab + b²",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q01"
+        },
+        {
+          "text": "(a − b)² এর সঠিক রূপ কোনটি?",
+          "options": [
+            "a² − b²",
+            "a² + b²",
+            "a² − 2ab + b²",
+            "a² + 2ab + b²"
+          ],
+          "answer": "a² − 2ab + b²",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-01-q02"
+        },
+        {
+          "text": "a² − b² এর উৎপাদক কোনটি?",
+          "options": [
+            "(a − b)²",
+            "(a + b)²",
+            "(a + b)(a − b)",
+            "(a − b)(b − a)"
+          ],
+          "answer": "(a + b)(a − b)",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-01-q03"
+        },
+        {
+          "text": "(x + 3)² এর মান কোনটি?",
+          "options": [
+            "x² + 3x + 9",
+            "x² + 6x + 9",
+            "x² + 9x + 6",
+            "x² + 6x + 3"
+          ],
+          "answer": "x² + 6x + 9",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q04"
+        },
+        {
+          "text": "(2a + 3b)² এর বিস্তৃত রূপ কোনটি?",
+          "options": [
+            "4a² + 6ab + 9b²",
+            "4a² + 12ab + 9b²",
+            "2a² + 12ab + 3b²",
+            "4a² − 12ab + 9b²"
+          ],
+          "answer": "4a² + 12ab + 9b²",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q05"
+        },
+        {
+          "text": "(3x − 2y)² এর মান কোনটি?",
+          "options": [
+            "9x² − 12xy + 4y²",
+            "9x² − 6xy + 4y²",
+            "3x² − 12xy + 2y²",
+            "9x² + 12xy + 4y²"
+          ],
+          "answer": "9x² − 12xy + 4y²",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-01-q06"
+        },
+        {
+          "text": "x² + 8x + 16 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 4)²",
+            "(x − 4)²",
+            "(x + 8)²",
+            "(x + 2)²"
+          ],
+          "answer": "(x + 4)²",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-01-q07"
+        },
+        {
+          "text": "x² − 10x + 25 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 5)²",
+            "(x − 5)²",
+            "(x − 10)²",
+            "(x + 25)²"
+          ],
+          "answer": "(x − 5)²",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q08"
+        },
+        {
+          "text": "4x² − 9y² এর উৎপাদক কোনটি?",
+          "options": [
+            "(2x − 3y)²",
+            "(4x − 9y)(x + y)",
+            "(2x + 3y)(2x − 3y)",
+            "(4x + 9y)(4x − 9y)"
+          ],
+          "answer": "(2x + 3y)(2x − 3y)",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-01-q09"
+        },
+        {
+          "text": "a = 5, b = 3 হলে a² − b² এর মান কত?",
+          "options": [
+            "৮",
+            "১৬",
+            "২৫",
+            "৩৪"
+          ],
+          "answer": "১৬",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q10"
+        },
+        {
+          "text": "x = 2 হলে x² + 4x + 4 এর মান কত?",
+          "options": [
+            "৮",
+            "১২",
+            "১৬",
+            "২০"
+          ],
+          "answer": "১৬",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-01-q11"
+        },
+        {
+          "text": "(a + b)² − (a − b)² এর সরল রূপ কোনটি?",
+          "options": [
+            "2ab",
+            "4ab",
+            "a² + b²",
+            "2a² + 2b²"
+          ],
+          "answer": "4ab",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q12"
+        },
+        {
+          "text": "(x + 2)(x + 5) এর বিস্তৃত রূপ কোনটি?",
+          "options": [
+            "x² + 7x + 10",
+            "x² + 10x + 7",
+            "x² + 3x + 10",
+            "x² − 7x + 10"
+          ],
+          "answer": "x² + 7x + 10",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-01-q13"
+        },
+        {
+          "text": "(x − 3)(x + 4) এর মান কোনটি?",
+          "options": [
+            "x² + x − 12",
+            "x² − x − 12",
+            "x² + 7x − 12",
+            "x² − 7x + 12"
+          ],
+          "answer": "x² + x − 12",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-01-q14"
+        },
+        {
+          "text": "x² + 7x + 10 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 1)(x + 10)",
+            "(x + 2)(x + 5)",
+            "(x − 2)(x − 5)",
+            "(x + 7)(x + 10)"
+          ],
+          "answer": "(x + 2)(x + 5)",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q15"
+        },
+        {
+          "text": "x² − x − 12 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − 3)(x + 4)",
+            "(x + 3)(x − 4)",
+            "(x − 2)(x + 6)",
+            "(x + 1)(x − 12)"
+          ],
+          "answer": "(x − 3)(x + 4)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-01-q16"
+        },
+        {
+          "text": "ab + ac এর উৎপাদক কোনটি?",
+          "options": [
+            "a(b + c)",
+            "b(a + c)",
+            "c(a + b)",
+            "abc"
+          ],
+          "answer": "a(b + c)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-01-q17"
+        },
+        {
+          "text": "3x² + 6x এর উৎপাদক কোনটি?",
+          "options": [
+            "3x(x + 2)",
+            "3(x + 2)",
+            "x(3x + 6x)",
+            "6x(x + 1)"
+          ],
+          "answer": "3x(x + 2)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-01-q18"
+        },
+        {
+          "text": "x² − 16 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − 4)²",
+            "(x + 4)²",
+            "(x + 4)(x − 4)",
+            "(x − 8)(x + 2)"
+          ],
+          "answer": "(x + 4)(x − 4)",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-01-q19"
+        },
+        {
+          "text": "9a² − 25b² এর উৎপাদক কোনটি?",
+          "options": [
+            "(3a − 5b)²",
+            "(9a − 25b)(a + b)",
+            "(3a + 5b)(3a − 5b)",
+            "(a + b)(9a − 25b)"
+          ],
+          "answer": "(3a + 5b)(3a − 5b)",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-01-q20"
+        },
+        {
+          "text": "(a + b + c)² এর বিস্তৃত রূপ কোনটি?",
+          "options": [
+            "a² + b² + c² + ab + bc + ca",
+            "a² + b² + c² + 2ab + 2bc + 2ca",
+            "a² + b² + c² − 2ab − 2bc − 2ca",
+            "a² + b² + c² + 3abc"
+          ],
+          "answer": "a² + b² + c² + 2ab + 2bc + 2ca",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q21"
+        },
+        {
+          "text": "a² + 2ab + b² এর উৎপাদক কোনটি?",
+          "options": [
+            "(a − b)²",
+            "(a + b)²",
+            "(a + b)(a − b)",
+            "a(a + 2b)"
+          ],
+          "answer": "(a + b)²",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q22"
+        },
+        {
+          "text": "a² − 2ab + b² এর উৎপাদক কোনটি?",
+          "options": [
+            "(a + b)²",
+            "(a − b)²",
+            "(a + b)(a − b)",
+            "b(a − b)"
+          ],
+          "answer": "(a − b)²",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-01-q23"
+        },
+        {
+          "text": "x² + 2xy + y² − z² এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + y + z)(x + y − z)",
+            "(x − y + z)(x + y − z)",
+            "(x + y)² + z²",
+            "(x − y − z)(x + y + z)"
+          ],
+          "answer": "(x + y + z)(x + y − z)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-01-q24"
+        },
+        {
+          "text": "25x² − 1 এর উৎপাদক কোনটি?",
+          "options": [
+            "(5x + 1)(5x − 1)",
+            "(25x + 1)(x − 1)",
+            "(5x − 1)²",
+            "(25x − 1)(x + 1)"
+          ],
+          "answer": "(5x + 1)(5x − 1)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-01-q25"
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-02",
+      "questions": [
+        {
+          "text": "(a + b)³ এর বিস্তৃত রূপ কোনটি?",
+          "options": [
+            "a³ + b³",
+            "a³ + 3a²b + 3ab² + b³",
+            "a³ − 3a²b + 3ab² − b³",
+            "a³ + 3ab + b³"
+          ],
+          "answer": "a³ + 3a²b + 3ab² + b³",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q01"
+        },
+        {
+          "text": "(a − b)³ এর বিস্তৃত রূপ কোনটি?",
+          "options": [
+            "a³ − b³",
+            "a³ − 3a²b + 3ab² − b³",
+            "a³ + 3a²b + 3ab² + b³",
+            "a³ − 3ab − b³"
+          ],
+          "answer": "a³ − 3a²b + 3ab² − b³",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q02"
+        },
+        {
+          "text": "a³ + b³ এর উৎপাদক কোনটি?",
+          "options": [
+            "(a + b)(a² − ab + b²)",
+            "(a − b)(a² + ab + b²)",
+            "(a + b)(a² + ab + b²)",
+            "(a − b)(a² − ab + b²)"
+          ],
+          "answer": "(a + b)(a² − ab + b²)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q03"
+        },
+        {
+          "text": "a³ − b³ এর উৎপাদক কোনটি?",
+          "options": [
+            "(a + b)(a² − ab + b²)",
+            "(a − b)(a² + ab + b²)",
+            "(a − b)(a² − ab + b²)",
+            "(a + b)(a² + ab + b²)"
+          ],
+          "answer": "(a − b)(a² + ab + b²)",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q04"
+        },
+        {
+          "text": "(x + 2)³ এর বিস্তৃত রূপ কোনটি?",
+          "options": [
+            "x³ + 6x² + 12x + 8",
+            "x³ + 2x² + 4x + 8",
+            "x³ + 8",
+            "x³ + 3x² + 6x + 8"
+          ],
+          "answer": "x³ + 6x² + 12x + 8",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q05"
+        },
+        {
+          "text": "(x − 3)³ এর বিস্তৃত রূপ কোনটি?",
+          "options": [
+            "x³ − 9x² + 27x − 27",
+            "x³ − 6x² + 9x − 27",
+            "x³ − 9x² + 9x − 27",
+            "x³ − 3x² + 9x − 27"
+          ],
+          "answer": "x³ − 9x² + 27x − 27",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q06"
+        },
+        {
+          "text": "8a³ + 27b³ এর উৎপাদক কোনটি?",
+          "options": [
+            "(2a + 3b)(4a² − 6ab + 9b²)",
+            "(2a − 3b)(4a² + 6ab + 9b²)",
+            "(8a + 27b)(a² − ab + b²)",
+            "(2a + 3b)(4a² + 6ab + 9b²)"
+          ],
+          "answer": "(2a + 3b)(4a² − 6ab + 9b²)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q07"
+        },
+        {
+          "text": "27x³ − 8y³ এর উৎপাদক কোনটি?",
+          "options": [
+            "(3x − 2y)(9x² + 6xy + 4y²)",
+            "(3x + 2y)(9x² − 6xy + 4y²)",
+            "(27x − 8y)(x² + xy + y²)",
+            "(3x − 2y)(9x² − 6xy + 4y²)"
+          ],
+          "answer": "(3x − 2y)(9x² + 6xy + 4y²)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q08"
+        },
+        {
+          "text": "x³ + 125 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 5)(x² − 5x + 25)",
+            "(x − 5)(x² + 5x + 25)",
+            "(x + 5)(x² + 5x + 25)",
+            "(x − 5)(x² − 5x + 25)"
+          ],
+          "answer": "(x + 5)(x² − 5x + 25)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q09"
+        },
+        {
+          "text": "x³ − 64 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − 4)(x² + 4x + 16)",
+            "(x + 4)(x² − 4x + 16)",
+            "(x − 4)(x² − 4x + 16)",
+            "(x − 8)(x² + 8x + 64)"
+          ],
+          "answer": "(x − 4)(x² + 4x + 16)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q10"
+        },
+        {
+          "text": "a = 2, b = 1 হলে (a + b)³ এর মান কত?",
+          "options": [
+            "৯",
+            "১৮",
+            "২৭",
+            "৩৬"
+          ],
+          "answer": "২৭",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-02-q11"
+        },
+        {
+          "text": "x = 3 হলে x³ − 6x² + 12x − 8 এর মান কত?",
+          "options": [
+            "১",
+            "৮",
+            "২৭",
+            "৬৪"
+          ],
+          "answer": "১",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q12"
+        },
+        {
+          "text": "a³ + 3a²b + 3ab² + b³ এর উৎপাদক কোনটি?",
+          "options": [
+            "(a − b)³",
+            "(a + b)³",
+            "(a + b)(a − b)",
+            "a³ + b³"
+          ],
+          "answer": "(a + b)³",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q13"
+        },
+        {
+          "text": "x³ − 3x²y + 3xy² − y³ এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + y)³",
+            "(x − y)³",
+            "(x − y)(x + y)",
+            "x³ − y³"
+          ],
+          "answer": "(x − y)³",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q14"
+        },
+        {
+          "text": "(2x − y)³ এর x²y পদটি কোনটি?",
+          "options": [
+            "−6x²y",
+            "−12x²y",
+            "6x²y",
+            "12x²y"
+          ],
+          "answer": "−12x²y",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q15"
+        },
+        {
+          "text": "(3a + b)³ এর a²b পদটি কোনটি?",
+          "options": [
+            "9a²b",
+            "18a²b",
+            "27a²b",
+            "3a²b"
+          ],
+          "answer": "27a²b",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-02-q16"
+        },
+        {
+          "text": "a³ + b³ = 35 এবং a + b = 5 হলে ab কত?",
+          "options": [
+            "১",
+            "২",
+            "৩",
+            "৪"
+          ],
+          "answer": "২",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q17"
+        },
+        {
+          "text": "a + b = 6, ab = 8 হলে a² + b² কত?",
+          "options": [
+            "২০",
+            "২৮",
+            "৩৬",
+            "৪৪"
+          ],
+          "answer": "২০",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q18"
+        },
+        {
+          "text": "a − b = 5, ab = 6 হলে a² + b² কত?",
+          "options": [
+            "২৫",
+            "৩১",
+            "৩৭",
+            "৪১"
+          ],
+          "answer": "৩৭",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-02-q19"
+        },
+        {
+          "text": "x + 1/x = 3 হলে x² + 1/x² কত?",
+          "options": [
+            "৫",
+            "৭",
+            "৯",
+            "১১"
+          ],
+          "answer": "৭",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q20"
+        },
+        {
+          "text": "x − 1/x = 4 হলে x² + 1/x² কত?",
+          "options": [
+            "১৪",
+            "১৬",
+            "১৮",
+            "২০"
+          ],
+          "answer": "১৮",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-02-q21"
+        },
+        {
+          "text": "a + b = 7, ab = 10 হলে a³ + b³ কত?",
+          "options": [
+            "১৩৩",
+            "১৪৩",
+            "১৫৩",
+            "১৬৩"
+          ],
+          "answer": "১৩৩",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-02-q22"
+        },
+        {
+          "text": "a − b = 2, ab = 15 হলে a³ − b³ কত?",
+          "options": [
+            "৬৮",
+            "৭৮",
+            "৮৮",
+            "৯৮"
+          ],
+          "answer": "৭৮",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q23"
+        },
+        {
+          "text": "x² + 6x + 9 যদি (x + a)² হয়, তবে a কত?",
+          "options": [
+            "২",
+            "৩",
+            "৬",
+            "৯"
+          ],
+          "answer": "৩",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q24"
+        },
+        {
+          "text": "4x² − 12xy + 9y² এর উৎপাদক কোনটি?",
+          "options": [
+            "(2x + 3y)²",
+            "(2x − 3y)²",
+            "(4x − 9y)²",
+            "(x − 3y)²"
+          ],
+          "answer": "(2x − 3y)²",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-02-q25"
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-03",
+      "questions": [
+        {
+          "text": "x² + 5x + 6 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 1)(x + 6)",
+            "(x + 2)(x + 3)",
+            "(x − 2)(x − 3)",
+            "(x + 5)(x + 6)"
+          ],
+          "answer": "(x + 2)(x + 3)",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-03-q01"
+        },
+        {
+          "text": "x² − 7x + 12 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − 3)(x − 4)",
+            "(x + 3)(x + 4)",
+            "(x − 2)(x − 6)",
+            "(x + 1)(x − 12)"
+          ],
+          "answer": "(x − 3)(x − 4)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q02"
+        },
+        {
+          "text": "x² + x − 12 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 3)(x − 4)",
+            "(x − 3)(x + 4)",
+            "(x + 2)(x − 6)",
+            "(x − 1)(x + 12)"
+          ],
+          "answer": "(x − 3)(x + 4)",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-03-q03"
+        },
+        {
+          "text": "x² − 5x − 24 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − 8)(x + 3)",
+            "(x + 8)(x − 3)",
+            "(x − 6)(x + 4)",
+            "(x + 12)(x − 2)"
+          ],
+          "answer": "(x − 8)(x + 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q04"
+        },
+        {
+          "text": "2x² + 7x + 3 এর উৎপাদক কোনটি?",
+          "options": [
+            "(2x + 1)(x + 3)",
+            "(2x + 3)(x + 1)",
+            "(x + 1)(x + 3)",
+            "(2x − 1)(x − 3)"
+          ],
+          "answer": "(2x + 1)(x + 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q05"
+        },
+        {
+          "text": "3x² + 10x + 8 এর উৎপাদক কোনটি?",
+          "options": [
+            "(3x + 4)(x + 2)",
+            "(3x + 2)(x + 4)",
+            "(x + 4)(x + 2)",
+            "(3x − 4)(x − 2)"
+          ],
+          "answer": "(3x + 4)(x + 2)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q06"
+        },
+        {
+          "text": "2x² − 5x − 3 এর উৎপাদক কোনটি?",
+          "options": [
+            "(2x + 1)(x − 3)",
+            "(2x − 1)(x + 3)",
+            "(x − 1)(2x + 3)",
+            "(2x − 3)(x + 1)"
+          ],
+          "answer": "(2x + 1)(x − 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q07"
+        },
+        {
+          "text": "6x² − x − 2 এর উৎপাদক কোনটি?",
+          "options": [
+            "(3x − 2)(2x + 1)",
+            "(3x + 2)(2x − 1)",
+            "(6x + 2)(x − 1)",
+            "(2x − 3)(3x + 1)"
+          ],
+          "answer": "(3x − 2)(2x + 1)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q08"
+        },
+        {
+          "text": "ax + ay + bx + by এর উৎপাদক কোনটি?",
+          "options": [
+            "(a + b)(x + y)",
+            "(a + x)(b + y)",
+            "(a + y)(b + x)",
+            "ab(x + y)"
+          ],
+          "answer": "(a + b)(x + y)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q09"
+        },
+        {
+          "text": "x² − xy + 3x − 3y এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − y)(x + 3)",
+            "(x + y)(x − 3)",
+            "(x − 3)(x + y)",
+            "(x + 3)(x + y)"
+          ],
+          "answer": "(x − y)(x + 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q10"
+        },
+        {
+          "text": "2a² + 6ab + a + 3b এর উৎপাদক কোনটি?",
+          "options": [
+            "(2a + 1)(a + 3b)",
+            "(2a + 3b)(a + 1)",
+            "(a + 1)(2a + 3b)",
+            "a(2a + 6b + 1)"
+          ],
+          "answer": "(2a + 1)(a + 3b)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q11"
+        },
+        {
+          "text": "xy − 2x + 3y − 6 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 3)(y − 2)",
+            "(x − 3)(y + 2)",
+            "(x − 2)(y + 3)",
+            "(x + y)(3 − 2)"
+          ],
+          "answer": "(x + 3)(y − 2)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q12"
+        },
+        {
+          "text": "a² + 2ab + b² − c² এর উৎপাদক কোনটি?",
+          "options": [
+            "(a + b + c)(a + b − c)",
+            "(a − b + c)(a + b − c)",
+            "(a + b)² + c²",
+            "(a − b − c)(a + b + c)"
+          ],
+          "answer": "(a + b + c)(a + b − c)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q13"
+        },
+        {
+          "text": "x² − y² + 2x + 1 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 1 + y)(x + 1 − y)",
+            "(x − 1 + y)(x − 1 − y)",
+            "(x + y)(x − y + 1)",
+            "(x + 1)² + y²"
+          ],
+          "answer": "(x + 1 + y)(x + 1 − y)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q14"
+        },
+        {
+          "text": "4a² + 12ab + 9b² − 16c² এর উৎপাদক কোনটি?",
+          "options": [
+            "(2a + 3b + 4c)(2a + 3b − 4c)",
+            "(2a − 3b + 4c)(2a + 3b − 4c)",
+            "(4a + 9b + 16c)(a − b)",
+            "(2a + 3b)² + 16c²"
+          ],
+          "answer": "(2a + 3b + 4c)(2a + 3b − 4c)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q15"
+        },
+        {
+          "text": "a² + b² + c² + 2ab + 2bc + 2ca এর উৎপাদক কোনটি?",
+          "options": [
+            "(a + b + c)²",
+            "(a − b + c)²",
+            "(a + b − c)²",
+            "a² + (b + c)²"
+          ],
+          "answer": "(a + b + c)²",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q16"
+        },
+        {
+          "text": "a² + b² + c² − 2ab + 2bc − 2ca এর উৎপাদক কোনটি?",
+          "options": [
+            "(a + b + c)²",
+            "(a − b − c)²",
+            "(a − b + c)²",
+            "(a + b − c)²"
+          ],
+          "answer": "(a − b + c)²",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-03-q17"
+        },
+        {
+          "text": "x² + 1/x² = 7 হলে x + 1/x এর সম্ভাব্য ধনাত্মক মান কত?",
+          "options": [
+            "২",
+            "৩",
+            "৪",
+            "৫"
+          ],
+          "answer": "৩",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-03-q18"
+        },
+        {
+          "text": "x² + 1/x² = 14 হলে x − 1/x এর ধনাত্মক মান কত?",
+          "options": [
+            "২",
+            "৩",
+            "৪",
+            "৫"
+          ],
+          "answer": "২",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q19"
+        },
+        {
+          "text": "a + b = 9, ab = 20 হলে a² + b² কত?",
+          "options": [
+            "৩১",
+            "৪১",
+            "৫১",
+            "৬১"
+          ],
+          "answer": "৪১",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-03-q20"
+        },
+        {
+          "text": "a − b = 4, ab = 12 হলে a² + b² কত?",
+          "options": [
+            "১৬",
+            "২৪",
+            "৪০",
+            "৪৮"
+          ],
+          "answer": "৪০",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-03-q21"
+        },
+        {
+          "text": "x + y = 5, xy = 6 হলে x³ + y³ কত?",
+          "options": [
+            "৩৫",
+            "৪৫",
+            "৫৫",
+            "৬৫"
+          ],
+          "answer": "৪৫",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-03-q22"
+        },
+        {
+          "text": "x − y = 3, xy = 10 হলে x³ − y³ কত?",
+          "options": [
+            "৮৭",
+            "৯৭",
+            "১০৭",
+            "১১৭"
+          ],
+          "answer": "১১৭",
+          "answerIndex": 3,
+          "id": "ssc-general-math-chapter-03-model-test-03-q23"
+        },
+        {
+          "text": "x² + 6x + 8 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 2)(x + 4)",
+            "(x − 2)(x − 4)",
+            "(x + 1)(x + 8)",
+            "(x + 6)(x + 8)"
+          ],
+          "answer": "(x + 2)(x + 4)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q24"
+        },
+        {
+          "text": "x² − 9x + 20 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − 4)(x − 5)",
+            "(x + 4)(x + 5)",
+            "(x − 2)(x − 10)",
+            "(x + 1)(x − 20)"
+          ],
+          "answer": "(x − 4)(x − 5)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-03-q25"
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-04",
+      "questions": [
+        {
+          "text": "101² নির্ণয়ের জন্য সবচেয়ে উপযুক্ত রূপ কোনটি?",
+          "options": [
+            "(100 + 1)²",
+            "(100 − 1)²",
+            "(10 + 1)²",
+            "(101 − 1)²"
+          ],
+          "answer": "(100 + 1)²",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q01"
+        },
+        {
+          "text": "99² এর মান কত?",
+          "options": [
+            "৯৮০১",
+            "৯৯০১",
+            "৯৯৯৯",
+            "১০০০১"
+          ],
+          "answer": "৯৮০১",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q02"
+        },
+        {
+          "text": "103² এর মান কত?",
+          "options": [
+            "১০৬০৯",
+            "১০৬০৬",
+            "১০০০৯",
+            "১০৯০৬"
+          ],
+          "answer": "১০৬০৯",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q03"
+        },
+        {
+          "text": "97² এর মান কত?",
+          "options": [
+            "৯৩০৯",
+            "৯৪০৯",
+            "৯৪০৭",
+            "৯৫০৯"
+          ],
+          "answer": "৯৪০৯",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-04-q04"
+        },
+        {
+          "text": "52 × 48 এর মান কত?",
+          "options": [
+            "২৪৯৬",
+            "২৪৯৮",
+            "২৫০০",
+            "২৫০৪"
+          ],
+          "answer": "২৪৯৬",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q05"
+        },
+        {
+          "text": "65² − 35² এর মান কত?",
+          "options": [
+            "৩০০০",
+            "৩২০০",
+            "৩৫০০",
+            "৪০০০"
+          ],
+          "answer": "৩০০০",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q06"
+        },
+        {
+          "text": "202² − 198² এর মান কত?",
+          "options": [
+            "১২০০",
+            "১৪০০",
+            "১৬০০",
+            "১৮০০"
+          ],
+          "answer": "১৬০০",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-04-q07"
+        },
+        {
+          "text": "1001² − 999² এর মান কত?",
+          "options": [
+            "২০০০",
+            "৩০০০",
+            "৪০০০",
+            "৫০০০"
+          ],
+          "answer": "৪০০০",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-04-q08"
+        },
+        {
+          "text": "51² + 49² + 2 × 51 × 49 এর মান কত?",
+          "options": [
+            "৯৮০১",
+            "১০০০০",
+            "১০২০১",
+            "১০৪০৪"
+          ],
+          "answer": "১০০০০",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-04-q09"
+        },
+        {
+          "text": "75² + 25² − 2 × 75 × 25 এর মান কত?",
+          "options": [
+            "২৫০০",
+            "৫০০০",
+            "১০০০০",
+            "১২৫০"
+          ],
+          "answer": "২৫০০",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q10"
+        },
+        {
+          "text": "a + b = 11, ab = 30 হলে a² + b² কত?",
+          "options": [
+            "৫১",
+            "৬১",
+            "৭১",
+            "৮১"
+          ],
+          "answer": "৬১",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-04-q11"
+        },
+        {
+          "text": "a − b = 7, ab = 18 হলে a² + b² কত?",
+          "options": [
+            "৪৯",
+            "৬৭",
+            "৮৫",
+            "৯৭"
+          ],
+          "answer": "৮৫",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-04-q12"
+        },
+        {
+          "text": "x + y = 8, x² + y² = 34 হলে xy কত?",
+          "options": [
+            "১০",
+            "১২",
+            "১৫",
+            "১৭"
+          ],
+          "answer": "১৫",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-04-q13"
+        },
+        {
+          "text": "x − y = 6, x² + y² = 58 হলে xy কত?",
+          "options": [
+            "৮",
+            "১০",
+            "১১",
+            "১২"
+          ],
+          "answer": "১১",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-04-q14"
+        },
+        {
+          "text": "a + b + c = 10, ab + bc + ca = 25 হলে a² + b² + c² কত?",
+          "options": [
+            "২৫",
+            "৪০",
+            "৫০",
+            "৭৫"
+          ],
+          "answer": "৫০",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-04-q15"
+        },
+        {
+          "text": "x + 1/x = 5 হলে x³ + 1/x³ কত?",
+          "options": [
+            "৯৫",
+            "১০৫",
+            "১১০",
+            "১২৫"
+          ],
+          "answer": "৯৫",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q16"
+        },
+        {
+          "text": "x − 1/x = 3 হলে x³ − 1/x³ কত?",
+          "options": [
+            "১৮",
+            "২৭",
+            "৩৬",
+            "৪৫"
+          ],
+          "answer": "৩৬",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-04-q17"
+        },
+        {
+          "text": "a³ + b³ = 72, a + b = 6 হলে ab কত?",
+          "options": [
+            "২",
+            "৪",
+            "৬",
+            "৮"
+          ],
+          "answer": "২",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q18"
+        },
+        {
+          "text": "a³ − b³ = 98, a − b = 2 হলে ab কত?",
+          "options": [
+            "১২",
+            "১৪",
+            "১৬",
+            "১৮"
+          ],
+          "answer": "১৮",
+          "answerIndex": 3,
+          "id": "ssc-general-math-chapter-03-model-test-04-q19"
+        },
+        {
+          "text": "27a³ + 1 এর উৎপাদক কোনটি?",
+          "options": [
+            "(3a + 1)(9a² − 3a + 1)",
+            "(3a − 1)(9a² + 3a + 1)",
+            "(27a + 1)(a² − a + 1)",
+            "(3a + 1)(9a² + 3a + 1)"
+          ],
+          "answer": "(3a + 1)(9a² − 3a + 1)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q20"
+        },
+        {
+          "text": "64x³ − 125y³ এর উৎপাদক কোনটি?",
+          "options": [
+            "(4x − 5y)(16x² + 20xy + 25y²)",
+            "(4x + 5y)(16x² − 20xy + 25y²)",
+            "(8x − 5y)(8x² + 10xy + 25y²)",
+            "(4x − 5y)(16x² − 20xy + 25y²)"
+          ],
+          "answer": "(4x − 5y)(16x² + 20xy + 25y²)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q21"
+        },
+        {
+          "text": "x² − 2xy + y² − 9 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − y + 3)(x − y − 3)",
+            "(x + y + 3)(x + y − 3)",
+            "(x − y)² + 9",
+            "(x + y)² − 9"
+          ],
+          "answer": "(x − y + 3)(x − y − 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q22"
+        },
+        {
+          "text": "x² + 4x + 4 − y² এর উৎপাদক কোনটি?",
+          "options": [
+            "(x + 2 + y)(x + 2 − y)",
+            "(x − 2 + y)(x − 2 − y)",
+            "(x + y + 4)(x − y + 4)",
+            "(x + 2)² + y²"
+          ],
+          "answer": "(x + 2 + y)(x + 2 − y)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q23"
+        },
+        {
+          "text": "2x² + 11x + 15 এর উৎপাদক কোনটি?",
+          "options": [
+            "(2x + 5)(x + 3)",
+            "(2x + 3)(x + 5)",
+            "(x + 5)(x + 3)",
+            "(2x − 5)(x − 3)"
+          ],
+          "answer": "(2x + 5)(x + 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q24"
+        },
+        {
+          "text": "6x² + 11x + 3 এর উৎপাদক কোনটি?",
+          "options": [
+            "(3x + 1)(2x + 3)",
+            "(6x + 1)(x + 3)",
+            "(2x + 1)(3x + 3)",
+            "(3x − 1)(2x − 3)"
+          ],
+          "answer": "(3x + 1)(2x + 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-04-q25"
+        }
+      ]
+    },
+    {
+      "setName": "Model Test-05",
+      "questions": [
+        {
+          "text": "999² এর মান কত?",
+          "options": [
+            "৯৯৮০০১",
+            "৯৯৯০০১",
+            "৯৯৮৯৯৯",
+            "৯৯৯৯৯৯"
+          ],
+          "answer": "৯৯৮০০১",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q01"
+        },
+        {
+          "text": "1002² − 998² এর মান কত?",
+          "options": [
+            "৪০০০",
+            "৬০০০",
+            "৮০০০",
+            "১০০০০"
+          ],
+          "answer": "৮০০০",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-05-q02"
+        },
+        {
+          "text": "1005 × 995 এর মান কত?",
+          "options": [
+            "৯৯৯৯৭৫",
+            "১০০০০২৫",
+            "৯৯৯৯২৫",
+            "১০০০০০০"
+          ],
+          "answer": "৯৯৯৯৭৫",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q03"
+        },
+        {
+          "text": "497² − 3² এর মান কত?",
+          "options": [
+            "২৪৬৯৯১",
+            "২৪৭০০০",
+            "২৪৭০০৯",
+            "২৪৭৯৯১"
+          ],
+          "answer": "২৪৭০০০",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-05-q04"
+        },
+        {
+          "text": "63² − 2 × 63 × 37 + 37² এর মান কত?",
+          "options": [
+            "২৬²",
+            "১০০²",
+            "৩৭²",
+            "৬৩²"
+          ],
+          "answer": "২৬²",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q05"
+        },
+        {
+          "text": "2a² + 2b² − 4ab এর উৎপাদক কোনটি?",
+          "options": [
+            "2(a − b)²",
+            "2(a + b)²",
+            "4(a − b)²",
+            "(2a − 2b)²"
+          ],
+          "answer": "2(a − b)²",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q06"
+        },
+        {
+          "text": "3x² − 12xy + 12y² এর উৎপাদক কোনটি?",
+          "options": [
+            "3(x − 2y)²",
+            "3(x + 2y)²",
+            "(3x − 2y)²",
+            "12(x − y)²"
+          ],
+          "answer": "3(x − 2y)²",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q07"
+        },
+        {
+          "text": "5a² − 20b² এর উৎপাদক কোনটি?",
+          "options": [
+            "5(a + 2b)(a − 2b)",
+            "(5a + 20b)(a − b)",
+            "5(a − 2b)²",
+            "20(a + b)(a − b)"
+          ],
+          "answer": "5(a + 2b)(a − 2b)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q08"
+        },
+        {
+          "text": "x⁴ − y⁴ এর উৎপাদক কোনটি?",
+          "options": [
+            "(x² + y²)(x + y)(x − y)",
+            "(x² − y²)²",
+            "(x + y)⁴",
+            "(x² + y²)²"
+          ],
+          "answer": "(x² + y²)(x + y)(x − y)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q09"
+        },
+        {
+          "text": "x⁴ − 16 এর পূর্ণ উৎপাদক কোনটি?",
+          "options": [
+            "(x − 2)(x + 2)(x² + 4)",
+            "(x² − 4)²",
+            "(x − 4)(x + 4)",
+            "(x² + 4)(x² + 4)"
+          ],
+          "answer": "(x − 2)(x + 2)(x² + 4)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q10"
+        },
+        {
+          "text": "a⁴ − b⁴ এর উৎপাদক কোনটি?",
+          "options": [
+            "(a − b)(a + b)(a² + b²)",
+            "(a² − b²)²",
+            "(a − b)²(a + b)²",
+            "(a + b)(a² − ab + b²)"
+          ],
+          "answer": "(a − b)(a + b)(a² + b²)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q11"
+        },
+        {
+          "text": "x² + y² + z² − 2xy − 2yz + 2xz এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − y + z)²",
+            "(x + y − z)²",
+            "(x − y − z)²",
+            "(x + y + z)²"
+          ],
+          "answer": "(x − y + z)²",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q12"
+        },
+        {
+          "text": "a² + b² + c² − 2ab − 2bc + 2ca এর উৎপাদক কোনটি?",
+          "options": [
+            "(a − b + c)²",
+            "(a + b − c)²",
+            "(a − b − c)²",
+            "(a + b + c)²"
+          ],
+          "answer": "(a − b − c)²",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-05-q13"
+        },
+        {
+          "text": "x² − 11x + 30 এর উৎপাদক কোনটি?",
+          "options": [
+            "(x − 5)(x − 6)",
+            "(x + 5)(x + 6)",
+            "(x − 3)(x − 10)",
+            "(x − 2)(x − 15)"
+          ],
+          "answer": "(x − 5)(x − 6)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q14"
+        },
+        {
+          "text": "3x² − 14x − 5 এর উৎপাদক কোনটি?",
+          "options": [
+            "(3x + 1)(x − 5)",
+            "(3x − 1)(x + 5)",
+            "(x − 1)(3x + 5)",
+            "(3x − 5)(x + 1)"
+          ],
+          "answer": "(3x + 1)(x − 5)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q15"
+        },
+        {
+          "text": "4x² − 4x − 15 এর উৎপাদক কোনটি?",
+          "options": [
+            "(2x − 5)(2x + 3)",
+            "(2x + 5)(2x − 3)",
+            "(4x − 5)(x + 3)",
+            "(2x − 3)(2x + 5)"
+          ],
+          "answer": "(2x − 5)(2x + 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q16"
+        },
+        {
+          "text": "6x² − 17x + 12 এর উৎপাদক কোনটি?",
+          "options": [
+            "(3x − 4)(2x − 3)",
+            "(3x − 2)(2x − 6)",
+            "(6x − 3)(x − 4)",
+            "(2x − 4)(3x − 3)"
+          ],
+          "answer": "(3x − 4)(2x − 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q17"
+        },
+        {
+          "text": "10x² + 17x + 3 এর উৎপাদক কোনটি?",
+          "options": [
+            "(5x + 1)(2x + 3)",
+            "(10x + 1)(x + 3)",
+            "(5x + 3)(2x + 1)",
+            "(x + 1)(10x + 3)"
+          ],
+          "answer": "(5x + 1)(2x + 3)",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q18"
+        },
+        {
+          "text": "a + b + c = 0 হলে a³ + b³ + c³ এর মান কোনটির সমান?",
+          "options": [
+            "abc",
+            "2abc",
+            "3abc",
+            "0"
+          ],
+          "answer": "3abc",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-05-q19"
+        },
+        {
+          "text": "x + y + z = 0 হলে x² + y² + z² কোনটির সমান?",
+          "options": [
+            "xy + yz + zx",
+            "−2(xy + yz + zx)",
+            "2(xy + yz + zx)",
+            "−(xy + yz + zx)"
+          ],
+          "answer": "−2(xy + yz + zx)",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-05-q20"
+        },
+        {
+          "text": "a + b = 10 এবং a² + b² = 58 হলে a³ + b³ কত?",
+          "options": [
+            "৪২০",
+            "৪৬০",
+            "৫২০",
+            "৫৮০"
+          ],
+          "answer": "৪৬০",
+          "answerIndex": 1,
+          "id": "ssc-general-math-chapter-03-model-test-05-q21"
+        },
+        {
+          "text": "a − b = 5 এবং a² + b² = 65 হলে a³ − b³ কত?",
+          "options": [
+            "৪২৫",
+            "৪৭৫",
+            "৫২৫",
+            "৫৭৫"
+          ],
+          "answer": "৪২৫",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q22"
+        },
+        {
+          "text": "x + 1/x = 4 হলে x⁴ + 1/x⁴ কত?",
+          "options": [
+            "১৭২",
+            "১৮২",
+            "১৯৪",
+            "২০৬"
+          ],
+          "answer": "১৯৪",
+          "answerIndex": 2,
+          "id": "ssc-general-math-chapter-03-model-test-05-q23"
+        },
+        {
+          "text": "x − 1/x = 2 হলে x⁴ + 1/x⁴ কত?",
+          "options": [
+            "১৪",
+            "১৮",
+            "২২",
+            "২৬"
+          ],
+          "answer": "১৪",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q24"
+        },
+        {
+          "text": "a³ − 27b³ + 9ab(a − 3b) এর উৎপাদক কোনটি?",
+          "options": [
+            "(a − 3b)³",
+            "(a + 3b)³",
+            "(a − 3b)(a² + 3ab + 9b²)",
+            "(a + 3b)(a² − 3ab + 9b²)"
+          ],
+          "answer": "(a − 3b)³",
+          "answerIndex": 0,
+          "id": "ssc-general-math-chapter-03-model-test-05-q25"
+        }
+      ]
+    }
+  ],
+  "chapterSlug": "ssc-general-math-chapter-03"
+}

@@ -1,0 +1,78 @@
+{
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q01": {
+    "correctOption": "\\frac{1}{8}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q02": {
+    "correctOption": "[লেখচিত্র ১]",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q03": {
+    "correctOption": "\\sqrt{3}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q04": {
+    "correctOption": "5",
+    "explanation": "উত্তর: B) 5"
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q05": {
+    "correctOption": "১ অপেক্ষা বড় বা ১ এর সমান হয়",
+    "explanation": "পরম প্রতিসরাঙ্ক μ = c/v, যেহেতু v ≤ c, তাই μ ≥ 1।"
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q06": {
+    "correctOption": "২টি",
+    "explanation": "সেন্টার ট্যাপড ফুল-ওয়েভ রেকটিফায়ারে ২টি ডায়োড প্রয়োজন। ব্রিজ রেকটিফায়ারে ৪টি ডায়োড লাগে।"
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q07": {
+    "correctOption": "\\frac{14}{3} m^3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q08": {
+    "correctOption": "\\frac{\\lambda}{4}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q09": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q10": {
+    "correctOption": "ii ও iii",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q11": {
+    "correctOption": "3",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q12": {
+    "correctOption": "33.33%",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q13": {
+    "correctOption": "10^{-10} m",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q14": {
+    "correctOption": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q15": {
+    "correctOption": "এনট্রপি",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q16": {
+    "correctOption": "ম্যাক্স প্লাঙ্ক",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q17": {
+    "correctOption": "প্রোটন (সঠিক উত্তর নেই)",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q18": {
+    "correctOption": "আয়রন",
+    "explanation": ""
+  },
+  "hsc-physics-2nd-paper-chapter-05-model-test-07-q19": {
+    "correctOption": "আলফা কণা",
+    "explanation": ""
+  }
+}

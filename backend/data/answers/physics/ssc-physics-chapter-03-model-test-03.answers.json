@@ -1,0 +1,102 @@
+{
+  "ssc-physics-chapter-03-model-test-03-q01": {
+    "correctOption": "তামা",
+    "explanation": "সঠিক উত্তর: গ।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q02": {
+    "correctOption": "মহাকর্ষীয় সূত্র",
+    "explanation": "সঠিক উত্তর: খ।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q03": {
+    "correctOption": "স্থিতি ঘর্ষণ",
+    "explanation": "সঠিক উত্তর: গ।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q04": {
+    "correctOption": "মহাকর্ষ বল",
+    "explanation": "সঠিক উত্তর: ঘ।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q05": {
+    "correctOption": "ব্যস্তানুপাতিক",
+    "explanation": "সঠিক উত্তর: গ।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q06": {
+    "correctOption": "মহাকর্ষ বল",
+    "explanation": "সঠিক উত্তর: ঘ।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q07": {
+    "correctOption": "মহাকর্ষ বল",
+    "explanation": "সঠিক উত্তর: ক।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q08": {
+    "correctOption": "স্থিতিজড়তা",
+    "explanation": "সঠিক উত্তর: খ।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q09": {
+    "correctOption": "আলো",
+    "explanation": "সঠিক উত্তর: খ।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q10": {
+    "correctOption": "i ও ii",
+    "explanation": "হাঁটার জন্য ঘর্ষণ প্রয়োজন এবং ঘর্ষণে তাপের অপচয় হয়। তবে ঘর্ষণ সর্বদা উপকারী নয়, যেমন যন্ত্রপাতির ক্ষয়ের জন্য এটি ক্ষতিকর। i ও ii সঠিক।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q11": {
+    "correctOption": "i ও ii",
+    "explanation": "নিউটনের ৩য় সূত্র অনুযায়ী ক্রিয়া ও প্রতিক্রিয়া সর্বদা দুটি ভিন্ন বস্তুর ওপর বিপরীতমুখে ক্রিয়া করে, একই বস্তুর ওপর নয়। i ও ii সঠিক।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q12": {
+    "correctOption": "i ও ii",
+    "explanation": "i ও iii সঠিক; ঘর্ষণ সবসময় ক্ষতিকর নয়, যেমন হাঁটার জন্য ঘর্ষণ প্রয়োজন।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q13": {
+    "correctOption": "i ও ii",
+    "explanation": "ক্রিয়া-প্রতিক্রিয়া ভিন্ন বস্তুর উপর ক্রিয়া করে; তাই iii ভুল।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q14": {
+    "correctOption": "56 J",
+    "explanation": "কাজ W = Fs = ৫০ × ৬ = ৩০০ J।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q15": {
+    "correctOption": "F₁₂=-F₂₁",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-03-model-test-03-q16": {
+    "correctOption": "kg·m/s",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-03-model-test-03-q17": {
+    "correctOption": "তাড়িৎচৌম্বক বল",
+    "explanation": "সঠিক উত্তর: ক।"
+  },
+  "ssc-physics-chapter-03-model-test-03-q18": {
+    "correctOption": "প্রবাহী",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-03-model-test-03-q19": {
+    "correctOption": "পীড়ন",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-03-model-test-03-q20": {
+    "correctOption": "5.98 × 10²⁴",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-03-model-test-03-q21": {
+    "correctOption": "বক্রতার ব্যাসার্ধ",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-03-model-test-03-q22": {
+    "correctOption": "স্থিতি ঘর্ষণ",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-03-model-test-03-q23": {
+    "correctOption": "আল্ট্রাভায়োলেট",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-03-model-test-03-q24": {
+    "correctOption": "স্থিতি ঘর্ষণ",
+    "explanation": ""
+  },
+  "ssc-physics-chapter-03-model-test-03-q25": {
+    "correctOption": "i ও ii",
+    "explanation": ""
+  }
+}

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q01",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "S দশায় কোষে কী ঘটে?",
+    "options": [
+      "DNA প্রতিলিপি",
+      "কোষ বিভাজন",
+      "রেচন",
+      "প্রোটিন সংশ্লেষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q02",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মিয়োসিস কোষ বিভাজনের প্রোফেজ-১ ধাপে সমসংস্থ ক্রোমোজোমের জোড় বাঁধার প্রক্রিয়াকে কী বলে?",
+    "options": [
+      "সিন্যাপসিস",
+      "ক্রসিং ওভার",
+      "বাইভ্যালেন্ট",
+      "কায়াজমা"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q03",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "গ্যামেটে ক্রোমোজোম সংখ্যা কত?",
+    "options": [
+      "৪৪",
+      "৯২",
+      "৪৬",
+      "২৩"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q04",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "উদ্দীপক: শিক্ষক বললেন, আমাদের দেহে দুই ধরনের কোষ বিভাজন ঘটে। 'P' বিভাজনের মাধ্যমে জীবদেহের বৃদ্ধি ঘটে এবং ক্ষতস্থান পূরণ হয়, আর 'Q' বিভাজনের মাধ্যমে জননকোষ উৎপন্ন হয়। 'Q' বিভাজনের (মিয়োসিস) ক্ষেত্রে নিচের কোন তথ্যটি সঠিক? i. ক্রোমোজোম সংখ্যা মাতৃকোষের অর্ধেক হয়ে যায় ii. এই বিভাজনে ক্রসিং ওভার ঘটে iii. এটি এককোষী জীবে বংশবৃদ্ধির প্রধান উপায় নিচের কোনটি সঠিক?",
+    "options": [
+      "ii ও iii",
+      "i, ii ও iii",
+      "i ও iii",
+      "i ও ii"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q05",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মিয়োসিসে কোষ বিভাজন কতবার ঘটে?",
+    "options": [
+      "দুইবার",
+      "চারবার",
+      "তিনবার",
+      "একবার"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q06",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "টেলোফেজে কী গঠিত হয়?",
+    "options": [
+      "আট কেন্দ্রিকা",
+      "কোনো কেন্দ্রিকা নয়",
+      "দুটি কেন্দ্রিকা",
+      "চার কেন্দ্রিকা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q07",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "জীবের জিনগত বৈচিত্র্য বা ভ্যারিয়েশন (Variation) সৃষ্টিতে নিচের কোনটির ভূমিকা সবচেয়ে বেশি?",
+    "options": [
+      "মাইটোসিস",
+      "ক্রসিং ওভার",
+      "সাইটোকাইনেসিস",
+      "অ্যামাইটোসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q08",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "ক্রোমোজোমের ক্ষুদ্রতম কাঠামোর একক কী?",
+    "options": [
+      "নিউক্লিয়াস",
+      "ক্রোমাটিড",
+      "জিন",
+      "রাইবোসোম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q09",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মাইটোসিস কোষ বিভাজনের পর্যায়গুলোর সঠিক ক্রম কোনটি?",
+    "options": [
+      "প্রোফেজ → প্রো-মেটাফেজ → মেটাফেজ → অ্যানাফেজ → টেলোফেজ",
+      "প্রোফেজ → মেটাফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → টেলোফেজ",
+      "মেটাফেজ → প্রোফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → টেলোফেজ",
+      "প্রোফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → মেটাফেজ → টেলোফেজ"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q10",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "কোষ বিভাজনের কোন ধাপে নিউক্লিওলাসের সম্পূর্ণ বিলুপ্তি ঘটে?",
+    "options": [
+      "অ্যানাফেজ",
+      "টেলোফেজ",
+      "প্রোফেজ",
+      "মেটাফেজ"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q11",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "কোষ বিভাজনের কোন ধাপে নিউক্লিওলাসের পুনরাবির্ভাব ঘটে?",
+    "options": [
+      "অ্যানাফেজ",
+      "প্রোফেজ",
+      "টেলোফেজ",
+      "মেটাফেজ"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q12",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মিয়োসিস-১-এ প্রধানত কী ঘটে?",
+    "options": [
+      "কোষ বৃদ্ধি",
+      "DNA প্রতিলিপি",
+      "সাইটোকাইনেসিস",
+      "ক্রসিং ওভার"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q13",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "উদ্দীপক: একটি উদ্ভিদের মূল কোষে ক্রোমোজোম সংখ্যা ২৪। মাইটোসিস বিভাজনের পর প্রতিটি কণিকায় ক্রোমোজোম সংখ্যা কত হবে?",
+    "options": [
+      "৪৮",
+      "১২",
+      "২৪",
+      "৬"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q14",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "ইন্টারফেজে কোষে প্রধানত কী ঘটে?",
+    "options": [
+      "ক্রসিং ওভার",
+      "DNA প্রতিলিপি ও বৃদ্ধি",
+      "ক্রোমোজোম বিভাজন",
+      "সাইটোকাইনেসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q15",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মাইটোসিসের প্রধান কাজ কী?",
+    "options": [
+      "গ্যামেট তৈরি",
+      "জনন",
+      "ক্রসিং ওভার",
+      "ক্ষত নিরাময় ও বৃদ্ধি"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q16",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "দেহ বৃদ্ধির জন্য প্রধানত কোন কোষ বিভাজন ঘটে?",
+    "options": [
+      "মিয়োসিস",
+      "বাইনারি ফিশন",
+      "মাইটোসিস",
+      "অ্যামাইটোসিস"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q17",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মাকুতন্ত্র গঠন হয় কোন পর্যায়ে?",
+    "options": [
+      "অ্যানাফেজে",
+      "প্রোফেজে",
+      "টেলোফেজে",
+      "মেটাফেজে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q18",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "প্রো-মেটাফেজে কোন গঠন স্পষ্ট হয়?",
+    "options": [
+      "রাইবোসোম",
+      "স্পিন্ডল যন্ত্র",
+      "ক্লোরোপ্লাস্ট",
+      "গলজি বডি"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q19",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মিয়োসিস বিভাজনের ফলে কয়টি হ্যাপ্লয়েড কণিকা উৎপন্ন হয় কী?",
+    "options": [
+      "৮",
+      "১",
+      "২",
+      "৪"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q20",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "কোষ বিভাজনের কোন ধাপে স্পিন্ডল যন্ত্রের (Spindle Apparatus) সৃষ্টি হয়?",
+    "options": [
+      "ইন্টারফেজ",
+      "মেটাফেজ",
+      "প্রোফেজ",
+      "অ্যানাফেজ"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q21",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "কোষ বিভাজনের কোন ধাপে ক্রোমোজোমগুলো সবচেয়ে বেশি খাটো ও মোটা দেখায়?",
+    "options": [
+      "মেটাফেজ",
+      "টেলোফেজ",
+      "অ্যানাফেজ",
+      "প্রোফেজ"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q22",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মিয়োসিস-১ ও মিয়োসিস-২-এর মধ্যে প্রধান পার্থক্য কী?",
+    "options": [
+      "মিয়োসিস-২-এ কোষ বিভাজন হয় না",
+      "মিয়োসিস-১-এ ক্রসিং ওভার ঘটে",
+      "মিয়োসিস-১-এ ক্রোমোজোম সংখ্যা অর্ধেক হয় না",
+      "মিয়োসিস-২-এ ক্রসিং ওভার ঘটে"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q23",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মাইটোসিসে ক্রোমোজোম সংখ্যা কীরূপ থাকে?",
+    "options": [
+      "দ্বিগুণ",
+      "অর্ধেক",
+      "শূন্য",
+      "অপরিবর্তিত"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q24",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "মিয়োসিস বিভাজনের ফলে কয়টি হ্যাপ্লয়েড কণিকা উৎপন্ন হয়?",
+    "options": [
+      "৮",
+      "৪",
+      "২",
+      "১"
+    ],
+    "image": "/images/quiz/cell-division.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-biology-chapter-03-model-test-03-q25",
+    "subject": "biology",
+    "chapter": "ssc-biology-chapter-03-model-test-03",
+    "text": "ক্রসিং ওভার (Crossing Over) মিয়োসিস-১ এর কোন উপধাপে ঘটে?",
+    "options": [
+      "প্যাকাইটিন",
+      "জাইগোটিন",
+      "লেপটোটিন",
+      "ডিপ্লোটিন"
+    ],
+    "image": "/images/quiz/bio-crossing-over.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

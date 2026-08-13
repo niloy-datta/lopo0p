@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-physics-paper-set-12-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "বাতাসের প্রবাহ দিয়ে তৈরি বাদ্যযন্ত্র কোনটি?",
+    "options": [
+      "হারমোনিয়াম",
+      "সেতার",
+      "বেহালা",
+      "তবলা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 23 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+    "options": [
+      "11.5 সেমি",
+      "23 সেমি",
+      "46 সেমি",
+      "92 সেমি"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-12-q02.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "কোন ঘর্ষণ কাজে লাগিয়ে একজন মানুষ পানিতে সাঁতার কাটতে পারে?",
+    "options": [
+      "স্থিতি ঘর্ষণ",
+      "গতি ঘর্ষণ",
+      "আবর্ত ঘর্ষণ",
+      "প্রবাহী ঘর্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "একটি 75 μF এর ক্যাপাসিটর 220V বিভব পার্থক্যে যুক্ত করা হলে তাতে কতটুকু চার্জ সঞ্চিত হবে?",
+    "options": [
+      "2.93 × 10⁵ C",
+      "1.65 × 10⁴ C",
+      "1.65 × 10⁻² C",
+      "3.40 × 10⁻⁶ C"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "একটি ট্রান্সফরমারের প্রাইমারি কয়েলের প্যাঁচ সংখ্যা 100, সেকেন্ডারি কয়েলের প্যাঁচ সংখ্যা 1000, প্রাইমারি কয়েল দিয়ে 10V DC দেওয়া হলে সেকেন্ডারি কয়েলে ভোল্টেজ কত?",
+    "options": [
+      "$0\\text{ V}$",
+      "$1\\text{ V}$",
+      "$1000\\text{ V}$",
+      "$10,000\\text{ V}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "আপেক্ষিক তাপের একক কোনটি?",
+    "options": [
+      "ext{JK}^{-1}",
+      "J\text{\text{kg}} K-1",
+      "ext{\text{kg} J}^{-1}\text{K}^{-1}",
+      "ext{J\text{kg}}^{-1}\text{K}^{-1}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "একটি 10 m/s বেগে চলমান 2 kg ভরের বস্তুর গতিশক্তি কত?",
+    "options": [
+      "20 J",
+      "m*v*v J",
+      "0.5*m*v J",
+      "100 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "দৃশ্যমান আলোর সবচেয়ে ছোট তরঙ্গদৈর্ঘে্যর থেকেও ছোট তরঙ্গদৈর্ঘ্যকে কী বলে?",
+    "options": [
+      "ইনফ্রারেড",
+      "আল্ট্রা ভায়োলেট",
+      "মাইক্রোওয়েভ",
+      "রেডিও ওয়েভ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 10 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "5.0 A",
+      "{(v+r)} A",
+      "20 A",
+      "0.20 A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "নিচের কোনটি উচ্চ ক্ষমতার এক্স-রে ব্যবহার করে ক্যান্সার কোষকে ধ্বংস করতে পারে?",
+    "options": [
+      "সিটি স্ক্যান",
+      "এমআরআই",
+      "এনজিওগ্রাফি",
+      "রেডিওথেরাপি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "শব্দের তীব্রতার একক কোনটি?",
+    "options": [
+      "Hz",
+      "$\\text{Wm}^{-2}$",
+      "m",
+      "$\\text{ms}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "নিচের কোনটি ক্ল্যাসিক্যাল পদার্থবিজ্ঞানের অন্তর্ভুক্ত?",
+    "options": [
+      "তাপ ও তাপগতি বিজ্ঞান",
+      "নিউক্লীয় পদার্থবিজ্ঞান",
+      "কঠিন অবস্থার পদার্থবিজ্ঞান",
+      "পারমাণবিক পদার্থবিজ্ঞান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "কোয়ান্টাম তত্ত্ব আবিষ্কার করেন কোন বিজ্ঞানী?",
+    "options": [
+      "রাদারফোর্ড",
+      "আইনস্টাইন",
+      "ম্যাক্স প্লাঙ্ক",
+      "কোপারনিকাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "সমবেগে চলমান সাইকেলের চাকার গতি কোন ধরনের?",
+    "options": [
+      "রৈখিক",
+      "পর্যায়বৃত্ত",
+      "স্পন্দন",
+      "চলন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "একটি বস্তু সোজা পথে 20 m অতিক্রম করে এবং একই পথে 8 m ফিরে আসে তাহলে দূরত্ব ও সরণের মধ্যে পার্থক্য কত হবে?",
+    "options": [
+      "8 m",
+      "12 m",
+      "16 m",
+      "28 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "নিচের কোন পদার্থটি সর্বাধিক বিদ্যুৎ পরিবাহী?",
+    "options": [
+      "সোনা",
+      "তামা",
+      "রূপা",
+      "গ্রাফাইট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "ছুড়ির একপাশ তীক্ষ্ণ হওয়ার কারণ কী?",
+    "options": [
+      "বল বৃদ্ধি",
+      "ঘর্ষণ বৃদ্ধি",
+      "চাপ বৃদ্ধি",
+      "ত্বরণ বৃদ্ধি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "একটি 1 kg ভরের বস্তুর ওপর 5 m/s² ত্বরণ সৃষ্টি করতে কত বল প্রয়োগ করতে হবে?",
+    "options": [
+      "a/m N",
+      "m/a N",
+      "{(m+a)} N",
+      "5 N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "স্বাভাবিক উচ্চতার একজন মানুষের মাটি থেকে পেট পর্যন্ত দূরত্ব কত মিটার?",
+    "options": [
+      "0.75m",
+      "1.0m",
+      "1.5m",
+      "1.75m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "কে প্রথম ইউরেনিয়াম থেকে তেজস্ক্রিয় রশ্মির অস্তিত্ব প্রমাণ করেন?",
+    "options": [
+      "আর্নেস্ট রাদারফোর্ড",
+      "পিয়েরে কুরি",
+      "হেনরি বেকেরেল",
+      "মেরি কুরি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "নিচের কোনটিতে আল্ট্রাসনোগ্রাফি ব্যবহৃত হয়?",
+    "options": [
+      "ভ্রƒণের আকার জানতে",
+      "রেডিওথেরাপিতে চিকিৎসার জন্য",
+      "ফুসফুসের ক্যান্সার নির্ণয়",
+      "কিডনিতে পাথরের অি¯@ত্ব নির্ণয়ে"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "কোনটির পরিবাহকতা সবচেয়ে বেশি?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-12-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-12",
+    "text": "নিচের কোনটি খাড়া উপরের দিকে নিক্ষিপ্ত বস্তুর লেখচিত্র?",
+    "options": [
+      "ক",
+      "খ",
+      "গ",
+      "ঘ"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": [
+      "/images/quiz/premium/ssc-physics-paper-set-12-q25-option-1.svg",
+      "/images/quiz/premium/ssc-physics-paper-set-12-q25-option-2.svg",
+      "/images/quiz/premium/ssc-physics-paper-set-12-q25-option-3.svg",
+      "/images/quiz/premium/ssc-physics-paper-set-12-q25-option-4.svg"
+    ],
+    "timeLimit": 45
+  }
+]

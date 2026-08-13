@@ -1,0 +1,377 @@
+[
+  {
+    "id": "model-test-12-nightmare-q01",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "পটাসিয়াম (১৯) বনাম স্ক্যান্ডিয়াম (২১)—প্রধান নতুন কক্ষপথ কোনটি?",
+    "options": [
+      "3s",
+      "4p",
+      "3d",
+      "5s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q02",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "২ L দ্রবণে ২০ g NaOH থাকলে মোলারিটি কত?",
+    "options": [
+      "0.1 M",
+      "0.25 M",
+      "1 M",
+      "0.025 M"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q03",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "কোন গৃহস্থালি পদার্থে হাইপোক্লোরাইট থাকে?",
+    "options": [
+      "Baking powder",
+      "Alum",
+      "Bleaching powder",
+      "Dettol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q04",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "সমীকরণে অধঃক্ষেপের চিহ্ন কী?",
+    "options": [
+      "↑",
+      "Δ",
+      "↓",
+      "→"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q05",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "একই গ্রুপে নিচে নামলে আয়নীকরণ শক্তি সাধারণত কেমন হয়?",
+    "options": [
+      "Increases",
+      "একই",
+      "Decreases",
+      "May vary"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q06",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "Cr পরমাণুর 3d ইলেকট্রন সংখ্যা (ব্যতিক্রম)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q07",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "p-ব্লক গ্রুপ সংখ্যা নির্ধারণের নিয়ম কী?",
+    "options": [
+      "Sum ns+np only",
+      "Add 10 due to d-block crossing",
+      "Add 1",
+      "কোনোটিই নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q08",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "৫ g গ্যাস STP-তে ১১.২ L আয়তন দখল করলে মোলার ভর কত?",
+    "options": [
+      "2.5 g/mol",
+      "10 g/mol",
+      "20 g/mol",
+      "22.4 g/mol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q09",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "সমজাতীয় শ্রেণির সন্নিবেশী সদস্যের পার্থক্য কী?",
+    "options": [
+      "OH",
+      "COOH",
+      "-CH2-",
+      "H2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q10",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "সাবান মাইসেলের হাইড্রোকার্বন লেজ কী?",
+    "options": [
+      "Hydrophilic",
+      "Hydrophobic",
+      "অম্লীয়",
+      "ক্ষারীয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q11",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "ইথেন দহনে কী উৎপন্ন হয়?",
+    "options": [
+      "CO2 & H2O",
+      "H2 & ash",
+      "Graphite & heat",
+      "Methane & alcohol"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q12",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "গলিত লবণ ইলেক্ট্রোলাইসিসে ক্যাথোডে কী জমা হয়?",
+    "options": [
+      "Fluoride ion",
+      "ঋণাত্মক আয়ন",
+      "Metal cation",
+      "Neutral atom"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q13",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "পলিথিন কোন মনোমার থেকে তৈরি?",
+    "options": [
+      "Ethene",
+      "Ethane",
+      "Methane",
+      "Cyclopentene"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q14",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "কার্বক্সিলিক অ্যাসিডের কার্যকরী মূলক কী?",
+    "options": [
+      "-CHO",
+      "-OH",
+      "-COOH",
+      "-COOR"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q15",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "AgNO₃ + NaCl প্রতিক্রিয়ায় কোন অধঃক্ষেপ পাওয়া যায়?",
+    "options": [
+      "AgCl (সাদা অধঃক্ষেপ)",
+      "গন্ধক",
+      "অ্যালকোহল",
+      "আয়োডিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q16",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "কোনটি অবস্থানান্তর মৌল?",
+    "options": [
+      "K",
+      "Mg",
+      "Mn",
+      "Ne"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q17",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "ডাইপোল-সৃষ্ট ধ্রুব আচরণের উদাহরণ কোনটি?",
+    "options": [
+      "H2",
+      "Methane",
+      "HF/Water",
+      "All"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q18",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "ভিনেগারের প্রধান জৈব অ্যাসিড কোনটি?",
+    "options": [
+      "Formic",
+      "Lactic",
+      "Ethanoic/Acetic",
+      "Nitric"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q19",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "হ্যালোজেন গ্রুপে নিচে নামলে অবস্থা কেমন হয়?",
+    "options": [
+      "Gas remains",
+      "More solid",
+      "Vaporizes",
+      "Becomes colorless"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q20",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "Ca²⁺-এর ইলেকট্রন বিন্যাস কোনটির মতো?",
+    "options": [
+      "Ne",
+      "Ar",
+      "Kr",
+      "He"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q21",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "ইথানল ফারমেন্টেশনে কী ব্যবহৃত হয়?",
+    "options": [
+      "Pepsin",
+      "Yeast",
+      "Bacillus",
+      "Virus"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q22",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "৩য় পর্যায় গ্রুপ ১৩-এর উচ্চ ভরবিশিষ্ট মৌল কোনটি?",
+    "options": [
+      "Mg",
+      "Al",
+      "Si",
+      "B"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q23",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "সমতুল্য: H₂ + O₂ → 2H₂O-তে H₂-এর গুণাঙ্ক কত?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q24",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "গ্যালভানিক অ্যানোডের ধ্রুবকতা সাধারণত কী?",
+    "options": [
+      "Always positive",
+      "Negative",
+      "নিরপেক্ষ",
+      "Positive ion rich"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "model-test-12-nightmare-q25",
+    "subject": "chemistry-1st-paper",
+    "chapter": "model-test-12-nightmare",
+    "text": "শুদ্ধ কার্বনের সবচেয়ে কঠিন রূপ কোনটি?",
+    "options": [
+      "Charcoal",
+      "Coke",
+      "Diamond",
+      "Fullerene"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

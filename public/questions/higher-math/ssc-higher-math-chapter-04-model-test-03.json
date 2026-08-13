@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "জ্যামিতিক অঙ্কনে ‘প্রদত্ত’ অংশে কী লেখা হয়?",
+    "options": [
+      "যে তথ্যগুলো প্রশ্নে দেওয়া থাকে",
+      "শুধু উত্তর",
+      "শুধু চিত্র",
+      "শুধু সূত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "জ্যামিতিক অঙ্কনে ‘অঙ্কন’ অংশের কাজ কী?",
+    "options": [
+      "ধাপে ধাপে চিত্র নির্মাণ করা",
+      "ফলাফল মুখস্থ করা",
+      "ক্ষেত্রফল হিসাব করা",
+      "সারণি তৈরি করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "জ্যামিতিক অঙ্কনে ‘প্রমাণ’ অংশের উদ্দেশ্য কী?",
+    "options": [
+      "চিত্রটি প্রদত্ত শর্ত পূরণ করেছে তা দেখানো",
+      "চিত্র রং করা",
+      "পরিসীমা বাদ দেওয়া",
+      "শুধু নাম দেওয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "একটি রেখাংশের লম্বদ্বিখণ্ডক আঁকতে কম্পাসের ব্যাসার্ধ সাধারণত কত হওয়া দরকার?",
+    "options": [
+      "রেখাংশের অর্ধেকের চেয়ে বেশি",
+      "রেখাংশের অর্ধেকের চেয়ে কম",
+      "শূন্য",
+      "যেকোনো খুব ছোট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "একটি কোণসমদ্বিখণ্ডক আঁকতে কোণের দুই বাহুতে কাটা বিন্দুগুলো থেকে কী করা হয়?",
+    "options": [
+      "সমান ব্যাসার্ধে দুই চাপ কাটা হয়",
+      "ক্ষেত্রফল হিসাব করা হয়",
+      "রেখাংশ মুছে দেওয়া হয়",
+      "বৃত্তের ব্যাস বের করা হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 75
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "দুইটি সম্পূরক কোণের একটির মান $65^\\circ$ হলে অন্যটি কত?",
+    "options": [
+      "$105^\\circ$",
+      "$115^\\circ$",
+      "$125^\\circ$",
+      "$135^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "দুইটি সম্পূরক কোণের অনুপাত $2:3$ হলে বড় কোণ কত?",
+    "options": [
+      "$72^\\circ$",
+      "$90^\\circ$",
+      "$108^\\circ$",
+      "$120^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "একটি ত্রিভুজের বাহুগুলো 7 cm, 8 cm ও 9 cm হলে ত্রিভুজ আঁকা সম্ভব কি?",
+    "options": [
+      "সম্ভব",
+      "অসম্ভব",
+      "শুধু সমকোণী হলে সম্ভব",
+      "শুধু সমবাহু হলে সম্ভব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "ত্রিভুজ আঁকার জন্য বাহুগুলো 5 cm, 5 cm ও 5 cm হলে ত্রিভুজটি কী ধরনের হবে?",
+    "options": [
+      "সমবাহু",
+      "সমদ্বিবাহু কিন্তু সমবাহু নয়",
+      "বিষমবাহু",
+      "অসম্ভব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "ত্রিভুজ আঁকার জন্য বাহুগুলো 6 cm, 6 cm ও 9 cm হলে ত্রিভুজটি কী ধরনের হবে?",
+    "options": [
+      "সমদ্বিবাহু",
+      "সমবাহু",
+      "অসম্ভব",
+      "বৃত্ত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "একটি ত্রিভুজে ভূমি 8 cm এবং ভূমির দুই প্রান্তের কোণ $50^\\circ$ ও $70^\\circ$ হলে অঙ্কন পদ্ধতি কী?",
+    "options": [
+      "ASA",
+      "SSS",
+      "SAS",
+      "RHS"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "একটি ত্রিভুজে দুই বাহু 7 cm ও 9 cm এবং অন্তর্ভুক্ত কোণ $60^\\circ$ হলে অঙ্কন পদ্ধতি কী?",
+    "options": [
+      "SAS",
+      "SSS",
+      "ASA",
+      "AAA"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "একটি সমকোণী ত্রিভুজে অতিভুজ 13 cm এবং এক বাহু 5 cm দেওয়া থাকলে অঙ্কন পদ্ধতি কী?",
+    "options": [
+      "RHS",
+      "SSS",
+      "ASA",
+      "SAS"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "ত্রিভুজের পরিকেন্দ্র নির্ণয়ে কয়টি বাহুর লম্বদ্বিখণ্ডক আঁকলেই যথেষ্ট?",
+    "options": [
+      "দুইটি",
+      "একটি",
+      "তিনটি অবশ্যই",
+      "চারটি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "ত্রিভুজের অন্তঃকেন্দ্র নির্ণয়ে কয়টি কোণসমদ্বিখণ্ডক আঁকলেই যথেষ্ট?",
+    "options": [
+      "দুইটি",
+      "একটি",
+      "তিনটি অবশ্যই",
+      "চারটি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "পরিবৃত্তের কেন্দ্র ত্রিভুজের কোন বিন্দু?",
+    "options": [
+      "পরিকেন্দ্র",
+      "অন্তঃকেন্দ্র",
+      "ভরকেন্দ্র",
+      "লম্ববিন্দু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "অন্তঃবৃত্তের কেন্দ্র ত্রিভুজের কোন বিন্দু?",
+    "options": [
+      "অন্তঃকেন্দ্র",
+      "পরিকেন্দ্র",
+      "লম্ববিন্দু",
+      "ভরকেন্দ্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "একটি বৃত্তের কেন্দ্র O এবং স্পর্শবিন্দু P হলে OP-এর উপর কোন রেখা আঁকলে স্পর্শক পাওয়া যায়?",
+    "options": [
+      "P বিন্দুতে OP-এর উপর লম্ব রেখা",
+      "OP-এর সমান্তরাল রেখা",
+      "O দিয়ে যেকোনো রেখা",
+      "P দিয়ে বৃত্তের ব্যাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "কোনো বহিঃস্থ বিন্দু A থেকে কেন্দ্র O বিশিষ্ট বৃত্তে স্পর্শক আঁকতে AO-কে কী হিসেবে ধরে সহায়ক বৃত্ত আঁকা হয়?",
+    "options": [
+      "ব্যাস",
+      "ব্যাসার্ধ",
+      "জ্যা",
+      "স্পর্শক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "ব্যাসার্ধ 6 cm ও 2 cm বিশিষ্ট দুই বৃত্ত বহিঃস্পর্শী হলে কেন্দ্রদূরত্ব কত?",
+    "options": [
+      "8 cm",
+      "6 cm",
+      "4 cm",
+      "2 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "ব্যাসার্ধ 12 cm ও 5 cm বিশিষ্ট দুই বৃত্ত অন্তঃস্পর্শী হলে কেন্দ্রদূরত্ব কত?",
+    "options": [
+      "7 cm",
+      "12 cm",
+      "17 cm",
+      "5 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "যদি দুই বৃত্তের কেন্দ্রদূরত্ব 14 cm এবং ব্যাসার্ধদ্বয় 8 cm ও 6 cm হয়, তবে বৃত্তদ্বয় কেমন?",
+    "options": [
+      "বহিঃস্পর্শী",
+      "অন্তঃস্পর্শী",
+      "ছেদ করে",
+      "আলাদা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "যদি দুই বৃত্তের কেন্দ্রদূরত্ব 3 cm এবং ব্যাসার্ধদ্বয় 10 cm ও 7 cm হয়, তবে বৃত্তদ্বয় কেমন?",
+    "options": [
+      "অন্তঃস্পর্শী",
+      "বহিঃস্পর্শী",
+      "বিচ্ছিন্ন",
+      "বাইরে ছেদকারী"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 60
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "বহিঃস্পর্শী দুই বৃত্তের সাধারণ স্পর্শকের সংখ্যা সাধারণত কত?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-03-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-03",
+    "text": "অন্তঃস্পর্শী দুই বৃত্তের সাধারণ স্পর্শকের সংখ্যা সাধারণত কত?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

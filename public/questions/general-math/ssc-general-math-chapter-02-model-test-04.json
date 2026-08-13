@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {x : x হলো “MATH” শব্দের বর্ণ} হলে A কোনটি?",
+    "options": [
+      "{M, A, T, H}",
+      "{M, A, T, H, H}",
+      "{MATH}",
+      "{৪}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {x : x হলো “BANGLADESH” শব্দের স্বরবর্ণ} হলে A কোনটি?",
+    "options": [
+      "{A, A, E}",
+      "{A, E}",
+      "{B, N, G, L, D, S, H}",
+      "{A, N, E}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {x : x হলো ১ থেকে ১০ পর্যন্ত ৩-এর গুণিতক} হলে A কোনটি?",
+    "options": [
+      "{৩, ৬, ৯}",
+      "{১, ৩, ৬, ৯}",
+      "{৩, ৬, ৯, ১২}",
+      "{৩, ৫, ৭}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {x : x ∈ N এবং x ≤ ৫} হলে A কোনটি?",
+    "options": [
+      "{০, ১, ২, ৩, ৪, ৫}",
+      "{১, ২, ৩, ৪, ৫}",
+      "{১, ২, ৩, ৪}",
+      "{০, ১, ২, ৩, ৪}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {১, ২, ৩}, B = {১, ২, ৩, ৪}, C = {২, ৩} হলে নিচের কোনটি সত্য?",
+    "options": [
+      "B ⊂ A",
+      "A ⊂ C",
+      "C ⊂ A",
+      "৪ ∈ A"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {১, ২, ৩} হলে নিচের কোনটি A-এর উপসেট নয়?",
+    "options": [
+      "{১}",
+      "{১, ৩}",
+      "{২, ৩}",
+      "{১, ৪}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {a, b, c} হলে নিচের কোনটি A-এর প্রকৃত উপসেট নয়?",
+    "options": [
+      "{a}",
+      "{b, c}",
+      "∅",
+      "{a, b, c}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = ∅ হলে A-এর উপসেট সংখ্যা কত?",
+    "options": [
+      "০",
+      "১",
+      "২",
+      "অসীম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {∅} হলে n(A) কত?",
+    "options": [
+      "০",
+      "১",
+      "২",
+      "অসীম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "∅ ও {∅} সম্পর্কে সঠিকটি কোনটি?",
+    "options": [
+      "∅ = {∅}",
+      "∅ ∈ {∅}",
+      "{∅} ⊂ ∅",
+      "n(∅) = ১"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {১, ২, ৩}, B = {২, ৩, ৪}, C = {৩, ৪, ৫} হলে A ∩ B ∩ C কোনটি?",
+    "options": [
+      "{২}",
+      "{৩}",
+      "{৪}",
+      "∅"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {১, ২, ৩}, B = {৩, ৪}, C = {৪, ৫} হলে A ∪ B ∪ C কোনটি?",
+    "options": [
+      "{১, ২, ৩, ৪, ৫}",
+      "{৩, ৪}",
+      "{১, ২, ৫}",
+      "{১, ২, ৩}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "U = {১, ২, ৩, ৪, ৫, ৬}, A = {১, ২, ৩}, B = {৩, ৪} হলে (A ∪ B)′ কোনটি?",
+    "options": [
+      "{৫, ৬}",
+      "{১, ২, ৩, ৪}",
+      "{৩}",
+      "{১, ২, ৫, ৬}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "U = {১, ২, ৩, ৪, ৫, ৬}, A = {১, ২, ৩}, B = {৩, ৪} হলে (A ∩ B)′ কোনটি?",
+    "options": [
+      "{৩}",
+      "{১, ২, ৪, ৫, ৬}",
+      "{৫, ৬}",
+      "{১, ২, ৩, ৪}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {১, ২, ৩}, B = {৩, ৪, ৫} হলে A − (A ∩ B) কোনটি?",
+    "options": [
+      "{১, ২}",
+      "{৩}",
+      "{৪, ৫}",
+      "{১, ২, ৪, ৫}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "n(A) = ১৬, n(B) = ১৪, n(A ∪ B) = ২৪ হলে n(A ∩ B) কত?",
+    "options": [
+      "৪",
+      "৬",
+      "৮",
+      "১০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "৫০ জনের মধ্যে ৩০ জন বাংলা, ২৫ জন ইংরেজি এবং ১২ জন উভয় বিষয় পছন্দ করে। কোনোটি পছন্দ করে না কতজন?",
+    "options": [
+      "৫",
+      "৭",
+      "৮",
+      "১০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "একটি পরীক্ষায় ৪৫ জনের মধ্যে ২৮ জন গণিতে, ২২ জন বিজ্ঞানে পাস করেছে এবং ১০ জন উভয় বিষয়ে পাস করেছে। অন্তত এক বিষয়ে পাস করেছে কতজন?",
+    "options": [
+      "৩০",
+      "৩৫",
+      "৪০",
+      "৪৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {১, ২, ৩}, B = {৪, ৫} হলে A × B-এর কোনটি উপাদান নয়?",
+    "options": [
+      "(১, ৪)",
+      "(২, ৫)",
+      "(৩, ৪)",
+      "(৪, ১)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "(x, ৩) = (৫, y) হলে x + y কত?",
+    "options": [
+      "৩",
+      "৫",
+      "৮",
+      "১৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "(x + ১, ৪) = (৩, y − ২) হলে x ও y যথাক্রমে—",
+    "options": [
+      "২, ৬",
+      "৩, ৪",
+      "১, ৬",
+      "২, ২"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "f(x) = ৩x + ২ এবং f(a) = ১৭ হলে a কত?",
+    "options": [
+      "৩",
+      "৪",
+      "৫",
+      "৬"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "f(x) = x² − ৪ এবং f(a) = ৫, a ∈ N হলে a কত?",
+    "options": [
+      "২",
+      "৩",
+      "৪",
+      "৫"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {১, ২, ৩}, B = {২, ৪, ৬, ৮}, f = {(১, ২), (২, ৪), (৩, ৬)} হলে রেঞ্জ কোনটি?",
+    "options": [
+      "{১, ২, ৩}",
+      "{২, ৪, ৬, ৮}",
+      "{২, ৪, ৬}",
+      "{৮}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-chapter-02-model-test-04-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-04",
+    "text": "A = {১, ২, ৩}, B = {a, b}, নিচের কোন সম্পর্কটি A থেকে B-তে ফাংশন?",
+    "options": [
+      "{(১, a), (২, b)}",
+      "{(১, a), (২, b), (৩, a)}",
+      "{(১, a), (১, b), (২, a)}",
+      "{(১, a), (২, a), (২, b), (৩, b)}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]
