@@ -462,12 +462,13 @@ export function detectPlaceholderQuestion(text: string): boolean {
 export function normalizeStatementList(text: string): string {
   let cleaned = text;
 
-  // Imported statement questions often start with a compact header such as
-  // `[i, ii, iii]`. Remove the brackets before marker normalization so the
-  // closing `]` is not mistaken for punctuation after `iii` and split apart.
+  // Imported statement questions often start with a compact source marker such
+  // as `[i, ii, iii]`. It is metadata, not question text, so remove it before
+  // marker normalization; otherwise the closing `]` is mistaken for
+  // punctuation after `iii` and split apart.
   cleaned = cleaned.replace(
     /^\s*\[\s*(i\s*,\s*ii(?:\s*,\s*iii)?(?:\s*,\s*iv)?)\s*\]\s*/i,
-    "$1\n",
+    "",
   );
 
   // 1. Standardize roman markers (i., ii., iii., iv.)

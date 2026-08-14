@@ -217,12 +217,12 @@ describe("Quiz Sanitization Pipeline", () => {
   });
 
   describe("Statement headers", () => {
-    it("keeps compact roman statement headers on one line", () => {
+    it("removes compact source markers without removing statements", () => {
       const sanitized = sanitizeQuestionText(
         "[i, ii, iii] বাস্তব সংখ্যা (a,b,c)-এর জন্য- i. a+b=b+a ii. a(b+c)=ab+ac iii. a+0=0 সঠিক কোনটি?",
       );
-      expect(sanitized).toContain("i, ii, iii\n");
-      expect(sanitized).not.toContain("i, ii,\n");
+      expect(sanitized).not.toContain("i, ii, iii");
+      expect(sanitized).toContain("বাস্তব সংখ্যা (a,b,c)-এর জন্য-");
       expect(sanitized).toContain("iii. a+0=0");
     });
   });
