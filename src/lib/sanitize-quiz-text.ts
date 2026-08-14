@@ -211,7 +211,9 @@ export function normalizeBrokenLatex(text: string): string {
   let out = text;
   // Broken fraction (\frac corrupted to \f or rac)
   out = out.replace(/\\f\{/g, "\\frac{");
-  out = out.replace(/\\?rac\{/g, "\\frac{");
+  // Repair OCR that dropped the leading backslash from `rac{...}` without
+  // matching the `rac{...}` suffix inside an already-valid `\\frac{...}`.
+  out = out.replace(/(^|[^a-zA-Z\\])\\?rac\{/g, "$1\\frac{");
   // Double text wrapper or extra closing brace
   out = out.replace(/\\text\{\\text\{/g, "\\text{");
   out = out.replace(/\\text\{([a-zA-Z0-9\s\^\{\}-]+)\}\}/g, "\\text{$1}");

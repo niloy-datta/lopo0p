@@ -182,6 +182,12 @@ describe("Quiz Sanitization Pipeline", () => {
   });
 
   describe("normalizeBrokenLatex", () => {
+    it("preserves valid frac commands and repairs only missing backslashes", () => {
+      expect(normalizeBrokenLatex("\\frac{7}{11}")).toBe("\\frac{7}{11}");
+      expect(normalizeBrokenLatex("rac{7}{11}")).toBe("\\frac{7}{11}");
+      expect(sanitizeOptionText("\\(\\frac{7}{11}\\)")).toBe("\\(\\frac{7}{11}\\)");
+    });
+
     it("repairs broken \\t unit into \\text{}", () => {
       expect(normalizeBrokenLatex("$200\\t cm$")).toContain("\\text{ cm }");
     });
