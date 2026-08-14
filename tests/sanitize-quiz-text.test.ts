@@ -216,6 +216,17 @@ describe("Quiz Sanitization Pipeline", () => {
     });
   });
 
+  describe("Statement headers", () => {
+    it("keeps compact roman statement headers on one line", () => {
+      const sanitized = sanitizeQuestionText(
+        "[i, ii, iii] বাস্তব সংখ্যা (a,b,c)-এর জন্য- i. a+b=b+a ii. a(b+c)=ab+ac iii. a+0=0 সঠিক কোনটি?",
+      );
+      expect(sanitized).toContain("i, ii, iii\n");
+      expect(sanitized).not.toContain("i, ii,\n");
+      expect(sanitized).toContain("iii. a+0=0");
+    });
+  });
+
   describe("Leaked solution stripping", () => {
     it("should not strip valid question statements that follow the prompt", () => {
       const question = "উদ্দীপকের আলোকে নিচের কোনটি সঠিক?\ni. Statement 1\nii. Statement 2";
