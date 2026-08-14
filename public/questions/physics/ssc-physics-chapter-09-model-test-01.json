@@ -3,375 +3,550 @@
     "id": "ssc-physics-chapter-09-model-test-01-q01",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "চোখ দূরের বস্তু দেখতে পায় না কারণ— i. চক্ষু লেন্সের অভিসারী ক্ষমতা বৃদ্ধি পেলে ii. অক্ষি গোলকের ব্যাসার্ধ বৃদ্ধি পেলে iii. চক্ষু লেন্সের ফোকাস দূরত্ব বৃদ্ধি পেলে নিচের কোনটি সঠিক?",
+    "text": "আলো বায়ু থেকে পানিতে 50° কোণে আপতিত হয়। পানির প্রতিসরাঙ্ক 4/3 হলে প্রতিসরণ কোণ প্রায় কত?",
     "options": [
-      "i ও ii",
-      "ii ও iii",
-      "i ও iii",
-      "i, ii ও iii"
+      "25°",
+      "35°",
+      "40°",
+      "45°"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q01.svg",
+    "correctOption": 1,
+    "answerLabel": "B",
+    "answer": "35°",
+    "topic": "প্রতিসরণ ও স্নেলের সূত্র",
+    "difficulty": "easy",
+    "explanation": "sin r = sin50° / (4/3) = 0.7660 × 0.75 ≈ 0.5745; r ≈ 35°।",
+    "imageRequired": false,
+    "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q02",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "কোনো স্বচ্ছ মাধ্যমে আলোর বেগ 2.0×10^8 m/s। শূন্যস্থানে আলোর বেগ 3.0×10^8 m/s হলে মাধ্যমটির প্রতিসরাঙ্ক কত?",
+    "text": "কোনো স্বচ্ছ মাধ্যমে আলোর দ্রুতি 2.4×10^8 m/s। বায়ুতে আলোর দ্রুতি 3×10^8 m/s হলে মাধ্যমটির প্রতিসরাঙ্ক কত?",
     "options": [
-      "1.20",
-      "1.33",
-      "1.50",
-      "2.00"
+      "0.8",
+      "1.5",
+      "2.0",
+      "1.25"
     ],
+    "correctOption": 3,
+    "answerLabel": "D",
+    "answer": "1.25",
+    "topic": "প্রতিসরাঙ্ক ও আলোর দ্রুতি",
+    "difficulty": "easy",
+    "explanation": "n = c/v = (3×10^8)/(2.4×10^8) = 1.25।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q03",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "-4D ক্ষমতাসম্পন্ন লেন্সের ফোকাস দূরত্ব কত?",
+    "text": "একটি স্বচ্ছ তরলের তলায় একটি বিন্দুর প্রকৃত গভীরতা 32 cm। তরলের প্রতিসরাঙ্ক 1.6 হলে আপাত গভীরতা কত?",
     "options": [
-      "-25cm",
-      "-4cm",
-      "-0.25cm",
-      "25cm"
+      "16 cm",
+      "24 cm",
+      "20 cm",
+      "28 cm"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q03.svg",
+    "correctOption": 2,
+    "answerLabel": "C",
+    "answer": "20 cm",
+    "topic": "আপাত গভীরতা",
+    "difficulty": "medium",
+    "explanation": "আপাত গভীরতা = প্রকৃত গভীরতা / n = 32 / 1.6 = 20 cm।",
+    "imageRequired": false,
+    "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q04",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "সরু লেন্সের মাঝখানের যে বিন্দু দিয়ে আলোকরশ্মি যাওয়ার সময় বেঁকে যায় না তাকে বলে—",
+    "text": "কোনো মাধ্যমের প্রতিসরাঙ্ক 1.8 হলে মাধ্যম-বায়ু বিভেদতলের সংকট কোণ প্রায় কত?",
     "options": [
-      "বক্রতার ব্যাসার্ধ",
-      "লেন্সের আলোকীয় কেন্দ্র",
-      "ফোকাস বিন্দু",
-      "মেরু"
+      "30°",
+      "38.7°",
+      "33.7°",
+      "42°"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q04.svg",
+    "correctOption": 2,
+    "answerLabel": "C",
+    "answer": "33.7°",
+    "topic": "সংকট কোণ",
+    "difficulty": "medium",
+    "explanation": "sin C = 1/n = 1/1.8 ≈ 0.5556; C ≈ 33.7°।",
+    "imageRequired": false,
+    "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q05",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "নিচের কোন আলোকীয় ঘটনা এন্ডোস্কোপিতে পর্যবেক্ষণ করা যায়?",
+    "text": "দুটি স্বচ্ছ মাধ্যমের বিভেদতলে পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটতে আলো কোন মাধ্যম থেকে কোন মাধ্যমে যেতে হবে?",
     "options": [
-      "প্রতিসরণ",
-      "শোষণ",
-      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-      "প্রতিফলন"
+      "উচ্চ প্রতিসরাঙ্ক থেকে নিম্ন প্রতিসরাঙ্ক",
+      "নিম্ন প্রতিসরাঙ্ক থেকে উচ্চ প্রতিসরাঙ্ক",
+      "সমান প্রতিসরাঙ্ক বিশিষ্ট এক মাধ্যম থেকে অন্য মাধ্যমে",
+      "যেকোনো মাধ্যমে"
     ],
+    "correctOption": 0,
+    "answerLabel": "A",
+    "answer": "উচ্চ প্রতিসরাঙ্ক থেকে নিম্ন প্রতিসরাঙ্ক",
+    "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলনের শর্ত",
+    "difficulty": "easy",
+    "explanation": "পূর্ণ অভ্যন্তরীণ প্রতিফলনের জন্য আলো ঘনতর মাধ্যম (উচ্চ প্রতিসরাঙ্ক) থেকে হালকা মাধ্যমে (নিম্ন প্রতিসরাঙ্ক) প্রবেশ করতে হয়।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "আলোকবিজ্ঞানের স্থপতি হিসেবে নিচের কোন নামটি বিবেচনা করা হয়?",
+    "text": "অপটিক্যাল ফাইবারে আলো সঞ্চালনের মূল কৌশল কোনটি?",
     "options": [
-      "ইবনে আল হাইথাম",
-      "থেলিস",
-      "আল খোয়ারিজমি",
-      "আল মাসুদী"
+      "আলোর প্রতিসরণ",
+      "আলোর প্রতিফলন",
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "আলোর বিচ্ছুরণ"
     ],
+    "correctOption": 2,
+    "answerLabel": "C",
+    "answer": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "topic": "অপটিক্যাল ফাইবার",
+    "difficulty": "easy",
+    "explanation": "অপটিক্যাল ফাইবারে কোর ও ক্ল্যাডিংয়ের প্রতিসরাঙ্কের পার্থক্যের কারণে আলো বারবার পূর্ণ অভ্যন্তরীণ প্রতিফলিত হয়ে সঞ্চালিত হয়।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q07",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "চোখের ভেতরে আলো প্রবেশ নিয়ন্ত্রণ করে নিচের কোনটি?",
+    "text": "একটি উত্তল লেন্সের সামনে বস্তু 15 cm দূরে রাখায় অপর পাশে 60 cm দূরে সদবিম্ব গঠিত হয়। লেন্সের ফোকাস দূরত্ব কত?",
     "options": [
-      "আইরিস",
-      "চক্ষু লেন্স",
-      "রেটিনা",
-      "কর্নিয়া"
+      "10 cm",
+      "15 cm",
+      "20 cm",
+      "12 cm"
     ],
+    "correctOption": 3,
+    "answerLabel": "D",
+    "answer": "12 cm",
+    "topic": "উত্তল লেন্সের ফোকাস দূরত্ব",
+    "difficulty": "medium",
+    "explanation": "1/f = 1/v + 1/u = 1/60 + 1/15 = 5/60 = 1/12; f = 12 cm।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "চোখের আলোকসংবেদী অংশ কোনটি?",
+    "text": "একটি উত্তল লেন্সের ফোকাস দূরত্ব 50 cm। লেন্সটির ক্ষমতা কত?",
     "options": [
-      "রেটিনা",
-      "পিউপিল",
-      "কর্নিয়া",
-      "আইরিশ"
+      "+5D",
+      "+0.5D",
+      "-2D",
+      "+2D"
     ],
+    "correctOption": 3,
+    "answerLabel": "D",
+    "answer": "+2D",
+    "topic": "লেন্সের ক্ষমতা",
+    "difficulty": "easy",
+    "explanation": "f = 50 cm = 0.5 m; P = 1/0.5 = +2D।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q09",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "কাচের সংকট কোণ 42°। কাচ থেকে বায়ুতে 50° আপতন কোণে আলো গেলে কী ঘটবে?",
+    "text": "উত্তল লেন্সের প্রথম প্রধান ফোকাস থেকে আগত আলোক রশ্মি লেন্সে প্রতিসরণের পর কীভাবে যায়?",
     "options": [
-      "সাধারণ প্রতিসরণ",
-      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-      "শুধু বিচ্ছুরণ",
-      "আলো সম্পূর্ণ শোষিত হবে"
+      "প্রধান অক্ষের সমান্তরালে",
+      "দ্বিতীয় ফোকাসে মিলিত হয়",
+      "আলোককেন্দ্রে মিলিত হয়",
+      "অপসারিত হয়"
     ],
+    "correctOption": 0,
+    "answerLabel": "A",
+    "answer": "প্রধান অক্ষের সমান্তরালে",
+    "topic": "লেন্সের রশ্মি চিত্র",
+    "difficulty": "medium",
+    "explanation": "প্রথম ফোকাস থেকে আসা রশ্মি উত্তল লেন্সে প্রতিসরণের পর প্রধান অক্ষের সমান্তরাল হয়ে বের হয়।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "একটি উত্তল লেন্সের ফোকাস দূরত্ব 20 cm হলে এর ক্ষমতা কত?",
+    "text": "পুকুরের পানি পরিষ্কার থাকলে তলদেশ কাছের মনে হয়। এর কারণ কোনটি?",
     "options": [
-      "+2 D",
-      "+5 D",
-      "−2 D",
-      "−5 D"
+      "আলোর প্রতিফলন",
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "আলোর বিচ্ছুরণ",
+      "আলোর প্রতিসরণ"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q10.svg",
+    "correctOption": 3,
+    "answerLabel": "D",
+    "answer": "আলোর প্রতিসরণ",
+    "topic": "প্রতিসরণের ব্যবহারিক প্রভাব",
+    "difficulty": "medium",
+    "explanation": "পানি থেকে বায়ুতে আসার সময় আলো প্রতিসরিত হয়, ফলে তলদেশ আপাত উঁচুতে দেখা যায়।",
+    "imageRequired": false,
+    "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q11",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "একটি উত্তল লেন্সের ক্ষমতা +2.5 D হলে ফোকাস দূরত্ব কত?",
+    "text": "চোখের ত্রুটি সংশোধনে—\ni. মায়োপিয়ায় অবতল লেন্স ব্যবহৃত হয়\nii. হাইপারমেট্রোপিয়ায় উত্তল লেন্স ব্যবহৃত হয়\niii. প্রেসবায়োপিয়ায় সিলিন্ড্রিক্যাল লেন্স ব্যবহৃত হয়\nনিচের কোনটি সঠিক?",
     "options": [
-      "+40 cm",
-      "-40 cm",
-      "+25 cm",
-      "-25 cm"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
+    "correctOption": 0,
+    "answerLabel": "A",
+    "answer": "i ও ii",
+    "topic": "চোখের ত্রুটি ও সংশোধন",
+    "difficulty": "medium-hard",
+    "explanation": "মায়োপিয়ায় অবতল ও হাইপারমেট্রোপিয়ায় উত্তল লেন্স ব্যবহৃত হয়। iii ভুল; প্রেসবায়োপিয়ায় সাধারণত বাইফোকাল লেন্স ব্যবহৃত হয়।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "বায়ু থেকে n = 1.7 প্রতিসরাঙ্কের মাধ্যমে 42° আপতন কোণে আলো প্রবেশ করলে প্রতিসরণ কোণ প্রায় কত?",
+    "text": "এক ব্যক্তির দূরবিন্দু 25 cm। তার চোখের ত্রুটি সংশোধনের জন্য প্রয়োজনীয় লেন্সের ক্ষমতা কত?",
     "options": [
-      "18°",
-      "23°",
-      "32°",
-      "42°"
+      "-2D",
+      "+2D",
+      "-4D",
+      "-0.25D"
     ],
+    "correctOption": 2,
+    "answerLabel": "C",
+    "answer": "-4D",
+    "topic": "মায়োপিয়া সংশোধনে লেন্সের ক্ষমতা",
+    "difficulty": "medium-hard",
+    "explanation": "মায়োপিয়ায় দূরবিন্দু সসীম; অবতল লেন্স প্রয়োজন। f = -25 cm = -0.25 m; P = 1/f = -4D।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "লেন্সের ক্ষমতার একক—",
+    "text": "এক ব্যক্তির নিকটবিন্দু 40 cm। তিনি 25 cm দূরত্বের বস্তু পড়তে চাইলে কোন ক্ষমতার লেন্স প্রয়োজন?",
     "options": [
-      "ডায়োপ্টার",
-      "মিটার",
-      "জুল",
-      "ওয়াট"
+      "+2D",
+      "+2.5D",
+      "+1.5D",
+      "+3D"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q13.svg",
+    "correctOption": 2,
+    "answerLabel": "C",
+    "answer": "+1.5D",
+    "topic": "হাইপারমেট্রোপিয়া সংশোধন",
+    "difficulty": "medium-hard",
+    "explanation": "u = -25 cm, v = -40 cm (অসদ); 1/f = 1/v - 1/u = -1/40 + 1/25 = 3/200; f = 66.7 cm = 0.667 m; P ≈ +1.5D।",
+    "imageRequired": false,
+    "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q14",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "আলো শূন্য মাধ্যমে গেলে বেগ—",
+    "text": "বায়ুতে একটি আলোর তরঙ্গদৈর্ঘ্য 700 nm। আলোটি প্রতিসরাঙ্ক 1.4 এমন একটি মাধ্যমে প্রবেশ করলে তরঙ্গদৈর্ঘ্য কত হবে?",
     "options": [
-      "সর্বোচ্চ",
-      "সর্বনিম্ন",
-      "শূন্য",
-      "অপরিবর্তিত"
+      "400 nm",
+      "600 nm",
+      "500 nm",
+      "700 nm"
     ],
+    "correctOption": 2,
+    "answerLabel": "C",
+    "answer": "500 nm",
+    "topic": "প্রতিসরণে তরঙ্গদৈর্ঘ্যের পরিবর্তন",
+    "difficulty": "medium",
+    "explanation": "λ_medium = λ_air / n = 700 / 1.4 = 500 nm।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q15",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "n₁sinθ₁=n₂sinθ₂ কোন সূত্র?",
+    "text": "দুটি অভিন্ন উত্তল লেন্সের প্রতিটির ফোকাস দূরত্ব 10 cm। লেন্স দুটিকে সংস্পর্শে রাখলে তুল্য ফোকাস দূরত্ব কত?",
     "options": [
-      "Snell",
-      "Newton",
-      "Ohm",
-      "Coulomb"
+      "20 cm",
+      "5 cm",
+      "10 cm",
+      "2.5 cm"
     ],
+    "correctOption": 1,
+    "answerLabel": "B",
+    "answer": "5 cm",
+    "topic": "লেন্সের সংযোগ",
+    "difficulty": "medium",
+    "explanation": "প্রতিটির ক্ষমতা P = 1/0.1 = 10D; তুল্য ক্ষমতা = 10+10 = 20D; তুল্য f = 1/20 = 0.05 m = 5 cm।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "ক্ষীণদৃষ্টি (myopia) সংশোধনের জন্য কোন লেন্স ব্যবহার করা হয়?",
+    "text": "একটি উত্তল লেন্সে বস্তু 20 cm দূরে রাখলে প্রতিবিম্বের উচ্চতা বস্তুর ৩ গুণ হয়। প্রতিবিম্বের দূরত্ব কত?",
     "options": [
-      "উত্তল লেন্স",
-      "অবতল লেন্স",
-      "সমতল কাচ",
-      "শুধু প্রিজম"
+      "20 cm",
+      "40 cm",
+      "80 cm",
+      "60 cm"
     ],
+    "correctOption": 3,
+    "answerLabel": "D",
+    "answer": "60 cm",
+    "topic": "লেন্সের বিবর্ধন",
+    "difficulty": "medium",
+    "explanation": "বিবর্ধন m = v/u = 3; u = 20 cm হলে v = 3 × 20 = 60 cm।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "নিচের কোনটিতে আলোর প্রতিসরাঙ্কের মান সবচেয়ে বেশি?",
+    "text": "একটি অবতল লেন্সের ফোকাস দূরত্ব 15 cm। বস্তু লেন্স থেকে 30 cm দূরে রাখলে প্রতিবিম্ব কোথায় গঠিত হবে?",
     "options": [
-      "শূন্য মাধ্যম",
-      "পানি",
-      "বায়ু",
-      "কাচ"
+      "লেন্সের পেছনে 10 cm দূরে",
+      "লেন্সের সামনে 10 cm দূরে",
+      "লেন্সের সামনে 15 cm দূরে",
+      "লেন্সের পেছনে 15 cm দূরে"
     ],
+    "correctOption": 1,
+    "answerLabel": "B",
+    "answer": "লেন্সের সামনে 10 cm দূরে",
+    "topic": "অবতল লেন্সে প্রতিবিম্বের দূরত্ব",
+    "difficulty": "medium",
+    "explanation": "1/v = 1/f + 1/u = -1/15 + (-1/30) = -1/10; v = -10 cm; অর্থাৎ লেন্সের সামনে 10 cm দূরে অসদবিম্ব।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "কোনটি পানির প্রতিসরাঙ্ক?",
+    "text": "প্রিজমে সাদা আলোর বিচ্ছুরণে কোন বর্ণের প্রতিসরাঙ্ক সবচেয়ে বেশি?",
     "options": [
-      "1.00",
-      "1.33",
-      "1.52",
-      "2.42"
+      "লাল",
+      "সবুজ",
+      "হলুদ",
+      "বেগুনি"
     ],
+    "correctOption": 3,
+    "answerLabel": "D",
+    "answer": "বেগুনি",
+    "topic": "আলোর বিচ্ছুরণ",
+    "difficulty": "medium",
+    "explanation": "বেগুনি বর্ণের আলোর প্রতিসরাঙ্ক সবচেয়ে বেশি, তাই এর বিচ্যুতিও সবচেয়ে বেশি।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q19",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "অপটিক্যাল ফাইবারে আলো ধরে রাখে কোন নীতিতে?",
+    "text": "কাচ থেকে পানিতে আলো 30° কোণে আপতিত হয়। কাচের প্রতিসরাঙ্ক 1.5 এবং পানির প্রতিসরাঙ্ক 4/3 হলে প্রতিসরণ কোণ প্রায় কত?",
     "options": [
-      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-      "প্রতিসরণ",
-      "প্রতিফলন",
-      "বিচ্ছুরণ"
+      "25°",
+      "30°",
+      "41.8°",
+      "34.2°"
     ],
+    "correctOption": 3,
+    "answerLabel": "D",
+    "answer": "34.2°",
+    "topic": "আপেক্ষিক প্রতিসরাঙ্ক",
+    "difficulty": "medium-hard",
+    "explanation": "n₁ sin i = n₂ sin r; 1.5 × sin30° = (4/3) × sin r; sin r = 0.75/(1.333) ≈ 0.5625; r ≈ 34.2°।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q20",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "বায়ু থেকে কাচে আলো যাওয়ার সময় আপতন কোণ 0° হলে প্রতিসরণ কোণ—",
+    "text": "উত্তল লেন্স সম্পর্কে নিচের বক্তব্যগুলো বিবেচনা করো:\ni. এটি আলোক রশ্মি অভিসারী করে\nii. এর ফোকাস দূরত্ব ধনাত্মক\niii. এটি সবসময় অসদ প্রতিবিম্ব গঠন করে\nনিচের কোনটি সঠিক?",
     "options": [
-      "0°",
-      "90°",
-      "45°",
-      "অসীম"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
+    "correctOption": 0,
+    "answerLabel": "A",
+    "answer": "i ও ii",
+    "topic": "উত্তল লেন্সের বৈশিষ্ট্য",
+    "difficulty": "medium",
+    "explanation": "উত্তল লেন্স আলোক রশ্মি অভিসারী করে এবং এর ফোকাস দূরত্ব ধনাত্মক। iii ভুল; এটি বস্তুর অবস্থানভেদে সদ বা অসদ প্রতিবিম্ব গঠন করে।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "একটি উত্তল লেন্সে বস্তু F ও 2F-এর মাঝখানে রাখা হলো। প্রতিচ্ছবির প্রকৃতি কী হবে?",
+    "text": "একটি অবতল লেন্সের ফোকাস দূরত্ব 10 cm। বস্তু লেন্স থেকে 5 cm দূরে রাখলে প্রতিবিম্বের বিবর্ধন প্রায় কত?",
     "options": [
-      "কাল্পনিক, সোজা ও ছোট",
-      "বাস্তব, উল্টো ও বড়",
-      "বাস্তব, সোজা ও সমান",
-      "কাল্পনিক, উল্টো ও বড়"
+      "0.5",
+      "1.5",
+      "0.67",
+      "2.0"
     ],
+    "correctOption": 2,
+    "answerLabel": "C",
+    "answer": "0.67",
+    "topic": "অবতল লেন্সে বিবর্ধন",
+    "difficulty": "medium",
+    "explanation": "1/v = -1/10 - 1/5 = -3/10; v = -3.33 cm; m = v/u = (-3.33)/(-5) ≈ 0.67।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q22",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "অবতল লেন্স দ্বারা সৃষ্ট প্রতিবিম্ব সাধারণত—",
+    "text": "+5D এবং -2D ক্ষমতার দুটি লেন্স সংস্পর্শে রাখা হলো। তুল্য লেন্সের ফোকাস দূরত্ব কত?",
     "options": [
-      "ভার্চুয়াল ও সোজা",
-      "বাস্তব ও উল্টো",
-      "বাস্তব ও সোজা",
-      "অসীম"
+      "25 cm",
+      "50 cm",
+      "33.3 cm",
+      "100 cm"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q22.svg",
+    "correctOption": 2,
+    "answerLabel": "C",
+    "answer": "33.3 cm",
+    "topic": "লেন্সের সংযোগ ও তুল্য ক্ষমতা",
+    "difficulty": "medium",
+    "explanation": "তুল্য ক্ষমতা P = +5D + (-2D) = +3D; f = 1/3 m = 33.3 cm।",
+    "imageRequired": false,
+    "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "একটি পাত্রে তরলের প্রকৃত গভীরতা 12 cm এবং উপর থেকে দেখলে আপাত গভীরতা 8 cm। তরলটির প্রতিসরাঙ্ক কত?",
+    "text": "উদ্দীপক: একটি উত্তল লেন্সের ফোকাস দূরত্ব 20 cm। বস্তুকে লেন্স থেকে 30 cm দূরে রাখা হলো। প্রতিবিম্বের দূরত্ব কত?",
     "options": [
-      "1.25",
-      "1.33",
-      "1.50",
-      "1.75"
+      "30 cm",
+      "40 cm",
+      "120 cm",
+      "60 cm"
     ],
+    "correctOption": 3,
+    "answerLabel": "D",
+    "answer": "60 cm",
+    "topic": "উত্তল লেন্সে প্রতিবিম্বের দূরত্ব",
+    "difficulty": "medium",
+    "explanation": "1/f = 1/v + 1/u; 1/20 = 1/v + 1/30; 1/v = 1/20 - 1/30 = 1/60; v = 60 cm।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "পানির প্রতিসরাঙ্ক প্রায় 4/3 হলে শূন্য মাধ্যমে আলোর বেগ 3×10⁸ m/s হলে পানিতে বেগ প্রায়—",
+    "text": "উপরের উদ্দীপকের আলোকে প্রতিবিম্বের প্রকৃতি কী হবে?",
     "options": [
-      "2.25×10⁸ m/s",
-      "3×10⁸ m/s",
-      "4×10⁸ m/s",
-      "1.5×10⁸ m/s"
+      "সদ, উল্টা, খর্বিত",
+      "অসদ, সোজা, বর্ধিত",
+      "সদ, উল্টা, বর্ধিত",
+      "অসদ, উল্টা, খর্বিত"
     ],
+    "correctOption": 2,
+    "answerLabel": "C",
+    "answer": "সদ, উল্টা, বর্ধিত",
+    "topic": "উত্তল লেন্সে প্রতিবিম্বের প্রকৃতি",
+    "difficulty": "medium",
+    "explanation": "বস্তু F (20 cm) ও 2F (40 cm) এর মধ্যে থাকায় প্রতিবিম্ব 2F-এর বাইরে সদ, উল্টা ও বর্ধিত হয়।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   },
   {
     "id": "ssc-physics-chapter-09-model-test-01-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "আলো এক স্বচ্ছ মাধ্যম থেকে অন্য স্বচ্ছ মাধ্যমে প্রতিসরিত হলে কোন রাশি অপরিবর্তিত থাকে?",
+    "text": "প্রিজমে সাদা আলোর বিচ্ছুরণ ঘটার কারণ বিভিন্ন বর্ণের আলোর—",
     "options": [
-      "বেগ",
-      "তরঙ্গদৈর্ঘ্য",
-      "কম্পাঙ্ক",
-      "দিক"
+      "শুধু দ্রুতি ভিন্ন",
+      "শুধু কম্পাঙ্ক ভিন্ন",
+      "শুধু তরঙ্গদৈর্ঘ্য ভিন্ন",
+      "দ্রুতি, কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্য ভিন্ন"
     ],
+    "correctOption": 3,
+    "answerLabel": "D",
+    "answer": "দ্রুতি, কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্য ভিন্ন",
+    "topic": "আলোর বিচ্ছুরণ",
+    "difficulty": "medium",
+    "explanation": "বিভিন্ন বর্ণের আলোর দ্রুতি, কম্পাঙ্ক ও তরঙ্গদৈর্ঘ্য ভিন্ন; প্রতিসরাঙ্ক দ্রুতির ওপর নির্ভর করায় বিচ্ছুরণ ঘটে।",
+    "imageRequired": false,
     "image": null,
     "optionImages": null,
-    "timeLimit": 45
+    "timeLimit": 60
   }
 ]
