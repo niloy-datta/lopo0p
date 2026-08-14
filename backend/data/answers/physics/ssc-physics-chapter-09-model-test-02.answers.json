@@ -1,102 +1,102 @@
 {
   "ssc-physics-chapter-09-model-test-02-q01": {
-    "correctOption": "বক্রতার ব্যাসার্ধ",
-    "explanation": "refraction"
+    "correctOption": "19.5°",
+    "explanation": "sin r = sin i / n = sin30° / 1.5 = (0.5)/(1.5) = 1/3; r ≈ 19.5°।"
   },
   "ssc-physics-chapter-09-model-test-02-q02": {
-    "correctOption": "প্রতিসরণ",
-    "explanation": ""
+    "correctOption": "1.5",
+    "explanation": "n = c/v = (3×10^8)/(2×10^8) = 1.5।"
   },
   "ssc-physics-chapter-09-model-test-02-q03": {
-    "correctOption": "ইবনে আল হাইথাম",
-    "explanation": ""
+    "correctOption": "9 cm",
+    "explanation": "আপাত গভীরতা = প্রকৃত গভীরতা / n = 12 / (4/3) = 9 cm।"
   },
   "ssc-physics-chapter-09-model-test-02-q04": {
-    "correctOption": "আইরিস",
-    "explanation": ""
+    "correctOption": "41.8°",
+    "explanation": "sin C = 1/n = 1/1.5 = 0.6667; C ≈ 41.8°।"
   },
   "ssc-physics-chapter-09-model-test-02-q05": {
-    "correctOption": "রেটিনা",
-    "explanation": ""
+    "correctOption": "i ও ii",
+    "explanation": "অভ্যন্তরীণ পূর্ণ প্রতিফলনের জন্য ঘন থেকে হালকা মাধ্যমে যেতে হয় এবং আপতন কোণ সংকট কোণের চেয়ে বড় হতে হয়। iii ভুল; সংকট কোণ প্রতিসরাঙ্কের ওপর নির্ভর করে।"
   },
   "ssc-physics-chapter-09-model-test-02-q06": {
-    "correctOption": "সংকট কোণ",
-    "explanation": "সঠিক উত্তর: সংকট কোণ। প্রতিসরণ কোণ 90° হলে সংশ্লিষ্ট আপতন কোণই সংকট কোণ।"
+    "correctOption": "কোরের প্রতিসরাঙ্ক ক্ল্যাডিংয়ের চেয়ে বেশি",
+    "explanation": "কোরের প্রতিসরাঙ্ক ক্ল্যাডিংয়ের চেয়ে বেশি হলে আলো কোর-ক্ল্যাডিং বিভেদে অভ্যন্তরীণ পূর্ণ প্রতিফলনের মাধ্যমে কোরের ভেতরে চলতে পারে।"
   },
   "ssc-physics-chapter-09-model-test-02-q07": {
-    "correctOption": "+2 D",
-    "explanation": ""
+    "correctOption": "10 cm",
+    "explanation": "1/f = 1/v + 1/u = 1/20 + 1/20 = 1/10; f = 10 cm।"
   },
   "ssc-physics-chapter-09-model-test-02-q08": {
-    "correctOption": "−25 cm",
-    "explanation": ""
+    "correctOption": "-4D",
+    "explanation": "অবতল লেন্সের f = -25 cm = -0.25 m; ক্ষমতা P = 1/f = 1/(-0.25) = -4D।"
   },
   "ssc-physics-chapter-09-model-test-02-q09": {
-    "correctOption": "+2D",
-    "explanation": ""
+    "correctOption": "সদ, উল্টা, বর্ধিত",
+    "explanation": "বস্তু F ও 2F-এর মধ্যে থাকলে প্রতিবিম্ব 2F-এর বাইরে সদ, উল্টা ও বর্ধিত হয়।"
   },
   "ssc-physics-chapter-09-model-test-02-q10": {
-    "correctOption": "প্রতিসরণ",
-    "explanation": "সঠিক উত্তর: প্রতিসরণ। পানি থেকে বায়ুতে আলো প্রতিসরিত হয়ে অভিলম্ব থেকে দূরে বেঁকে যায়, তাই বস্তুটি কম গভীরে মনে হয়।"
+    "correctOption": "অসদ, সোজা ও খর্বিত",
+    "explanation": "অবতল লেন্স সবসময় অসদ, সোজা ও খর্বিত প্রতিবিম্ব গঠন করে।"
   },
   "ssc-physics-chapter-09-model-test-02-q11": {
-    "correctOption": "প্রতিফলিত হয়",
-    "explanation": ""
+    "correctOption": "i ও ii",
+    "explanation": "মায়োপিয়ায় প্রতিবিম্ব রেটিনার সামনে পড়ে এবং দূরবিন্দু অসীমের চেয়ে কম থাকে। iii ভুল; সংশোধনে অবতল লেন্স ব্যবহৃত হয়।"
   },
   "ssc-physics-chapter-09-model-test-02-q12": {
-    "correctOption": "i ও ii",
-    "explanation": ""
+    "correctOption": "উত্তল লেন্স",
+    "explanation": "দীর্ঘদৃষ্টিতে প্রতিবিম্ব রেটিনার পেছনে পড়ে; উত্তল লেন্স আলোকে আগে অভিসারী করে সংশোধন করে।"
   },
   "ssc-physics-chapter-09-model-test-02-q13": {
-    "correctOption": "2.0×10^8 m/s",
-    "explanation": "সঠিক উত্তর: 2.0×10^8 m/s। v = c/n = 3.0×10^8/1.5 = 2.0×10^8 m/s।"
+    "correctOption": "-2D",
+    "explanation": "মায়োপিয়া সংশোধনে অবতল লেন্স লাগে; f = -50 cm = -0.5 m, P = 1/f = -2D।"
   },
   "ssc-physics-chapter-09-model-test-02-q14": {
-    "correctOption": "Snell",
-    "explanation": "refraction"
+    "correctOption": "2.0",
+    "explanation": "sin C = 1/n; n = 1/sin30° = 1/0.5 = 2.0।"
   },
   "ssc-physics-chapter-09-model-test-02-q15": {
-    "correctOption": "সর্বোচ্চ",
-    "explanation": "light"
+    "correctOption": "কম্পাঙ্ক",
+    "explanation": "প্রতিসরণে আলোর কম্পাঙ্ক অপরিবর্তিত থাকে; দ্রুতি ও তরঙ্গদৈর্ঘ্য পরিবর্তিত হয়।"
   },
   "ssc-physics-chapter-09-model-test-02-q16": {
-    "correctOption": "22°",
-    "explanation": "সঠিক উত্তর: 22°। sin r = sin32°/1.4; তাই r ≈ 22.2°।"
+    "correctOption": "28°",
+    "explanation": "sin r = sin45°/1.5 = 0.7071/1.5 ≈ 0.4714; r ≈ 28.1°।"
   },
   "ssc-physics-chapter-09-model-test-02-q17": {
-    "correctOption": "ডায়োপ্টার",
-    "explanation": "lens"
+    "correctOption": "45°",
+    "explanation": "সমান্তরাল দুই তলবিশিষ্ট স্ল্যাবে নির্গত রশ্মি আপতিত রশ্মির সমান্তরাল হয়; নির্গমন কোণ = আপতন কোণ = 45°।"
   },
   "ssc-physics-chapter-09-model-test-02-q18": {
-    "correctOption": "উত্তল",
-    "explanation": "সঠিক উত্তর: উত্তল। Hypermetropia-তে নিকট বস্তুর প্রতিচ্ছবি retina-র পেছনে পড়তে চায়; উত্তল লেন্স এটি সংশোধনে সাহায্য করে।"
+    "correctOption": "5 cm",
+    "explanation": "সমান আকারের প্রতিবিম্ব পেতে বস্তুকে 2f দূরে রাখতে হয়; সুতরাং 2f = 10 cm, f = 5 cm।"
   },
   "ssc-physics-chapter-09-model-test-02-q19": {
-    "correctOption": "শূন্য মাধ্যম",
-    "explanation": ""
+    "correctOption": "ফোকাসের মধ্যে, অসদ ও সোজা",
+    "explanation": "অবতল লেন্সে সর্বদা অসদ, সোজা ও খর্বিত প্রতিবিম্ব ফোকাসের মধ্যে গঠিত হয়।"
   },
   "ssc-physics-chapter-09-model-test-02-q20": {
-    "correctOption": "ভার্চুয়াল ও সোজা",
-    "explanation": ""
+    "correctOption": "সদ, উল্টা ও খর্বিত",
+    "explanation": "রেটিনায় সদ, উল্টা ও খর্বিত প্রতিবিম্ব গঠিত হয়; মস্তিষ্ক পরে সোজা অনুভব করে।"
   },
   "ssc-physics-chapter-09-model-test-02-q21": {
-    "correctOption": "42°",
-    "explanation": "সঠিক উত্তর: 42°। sin C = 1/1.5 = 0.6667; তাই C ≈ 41.8° ≈ 42°।"
+    "correctOption": "সম্পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটবে",
+    "explanation": "আপতন কোণ 50° সংকট কোণ 48.6° অপেক্ষা বেশি; তাই আলো বায়ুতে প্রতিসরিত না হয়ে পূর্ণ অভ্যন্তরীণ প্রতিফলিত হয়।"
   },
   "ssc-physics-chapter-09-model-test-02-q22": {
-    "correctOption": "2.25×10⁸ m/s",
-    "explanation": ""
+    "correctOption": "ঘনতর মাধ্যমে প্রবেশ করেছে",
+    "explanation": "ঘনতর মাধ্যমে আলোর দ্রুতি কমে এবং কম্পাঙ্ক স্থির থাকায় তরঙ্গদৈর্ঘ্যও হ্রাস পায়।"
   },
   "ssc-physics-chapter-09-model-test-02-q23": {
-    "correctOption": "1.00",
-    "explanation": ""
+    "correctOption": "অসদ, সোজা ও বর্ধিত",
+    "explanation": "বস্তু ফোকাস দূরত্বের (5 cm) ভেতরে থাকায় উত্তল লেন্স অসদ, সোজা ও বর্ধিত প্রতিবিম্ব গঠন করে।"
   },
   "ssc-physics-chapter-09-model-test-02-q24": {
-    "correctOption": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-    "explanation": ""
+    "correctOption": "বাড়বে",
+    "explanation": "পানিতে কাচের আপেক্ষিক প্রতিসরাঙ্ক কমে যায়, ফলে লেন্সের আলোক বিচ্যুতি কমে এবং ফোকাস দূরত্ব বেড়ে যায়।"
   },
   "ssc-physics-chapter-09-model-test-02-q25": {
-    "correctOption": "0°",
-    "explanation": ""
+    "correctOption": "আলোর প্রতিসরণ",
+    "explanation": "পানি-বায়ু বিভেদতলে সংকট কোণের ভেতরের রশ্মি প্রতিসরিত হয়ে ডুবুরির কাছে উজ্জ্বল বৃত্তাকার Snell’s window তৈরি করে; এর বাইরের অংশে পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে।"
   }
 }
