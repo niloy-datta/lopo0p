@@ -78,12 +78,12 @@
     "id": "ssc-physics-chapter-09-model-test-04-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-04",
-    "text": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
+    "text": "Optical fiber-এ আলো পরিবাহিত হওয়ার মূল নীতি কোনটি?",
     "options": [
-      "আল মাসুদি",
-      "ইবনে আল হাইয়াম",
-      "ওমর খৈয়াম",
-      "আল খোয়ারিজমি"
+      "প্রতিসরণ",
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "ব্যতিচার",
+      "অপবর্তন"
     ],
     "image": null,
     "optionImages": null,
@@ -138,14 +138,14 @@
     "id": "ssc-physics-chapter-09-model-test-04-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-04",
-    "text": "ফোকাস দূরত্ব 25 cm বিশিষ্ট উত্তল লেন্সের ক্ষমতা কত?",
+    "text": "+5 D ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
     "options": [
-      "+2D",
-      "+4D",
-      "-2D",
-      "-4D"
+      "+20 cm",
+      "−20 cm",
+      "+5 cm",
+      "−5 cm"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q10.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -258,14 +258,14 @@
     "id": "ssc-physics-chapter-09-model-test-04-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-04",
-    "text": "লেন্সের ক্ষমতার একক কোনটি?",
+    "text": "1 diopter ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
     "options": [
-      "ডায়োপ্টার",
-      "মিটার",
-      "জুল",
-      "ওয়াট"
+      "1 m",
+      "1 cm",
+      "10 m",
+      "100 m"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q18.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },

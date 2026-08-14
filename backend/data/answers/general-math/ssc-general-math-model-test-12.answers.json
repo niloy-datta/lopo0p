@@ -94,5 +94,9 @@
   "ssc-general-math-model-test-12-q24": {
     "correctOption": "৭:৪",
     "explanation": "a=3k, b=4k হলে a+b=7k; তাই (a+b):b = 7:4। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+  },
+  "ssc-general-math-model-test-12-q25": {
+    "correctOption": "{4,6}",
+    "explanation": "সঠিক উত্তর: {4,6}"
   }
 }

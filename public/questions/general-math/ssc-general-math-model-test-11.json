@@ -108,7 +108,7 @@
     "id": "ssc-general-math-model-test-11-q08",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-11",
-    "text": "সমকোণী ত্রিভুজের अतिভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
+    "text": "সমকোণী ত্রিভুজের অতিভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
     "options": [
       "সূক্ষ্মকোণ",
       "সমকোণ",
@@ -243,7 +243,7 @@
     "id": "ssc-general-math-model-test-11-q17",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-11",
-    "text": "১২৫ ভগ্নাংশে প্রকাশ করলে কত হয়?",
+    "text": "0.125 ভগ্নাংশে প্রকাশ করলে কত হয়?",
     "options": [
       "১/৪",
       "১/৫",
@@ -273,7 +273,7 @@
     "id": "ssc-general-math-model-test-11-q19",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-11",
-    "text": "৬৬৬৬... ভগ্নাংশে প্রকাশ করলে কত হয়?",
+    "text": "0.6666... ভগ্নাংশে প্রকাশ করলে কত হয়?",
     "options": [
       "১/৬",
       "২/৩",
@@ -324,6 +324,51 @@
       "২/১০",
       "৩/১০",
       "৫/১০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-model-test-11-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-model-test-11",
+    "text": "A = {1, 2, 3} হলে power set \\(P(A)\\)-এর উপাদান সংখ্যা কত?",
+    "options": [
+      "3",
+      "6",
+      "8",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-model-test-11-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-model-test-11",
+    "text": "\\(x^2-7x+12=0\\) সমীকরণের মূলদ্বয় কোনটি?",
+    "options": [
+      "2, 6",
+      "3, 4",
+      "−3, −4",
+      "1, 12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-model-test-11-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-model-test-11",
+    "text": "5, 7, 8, 10, 10 সংখ্যাগুলোর গাণিতিক গড় কত?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
     ],
     "image": null,
     "optionImages": null,

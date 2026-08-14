@@ -33,12 +33,12 @@
     "id": "ssc-general-math-model-test-15-q03",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "cosecθ এর মান নিচের কোনটি?",
+    "text": "\\(\\sin\\theta=\\frac12\\) এবং θ একটি সূক্ষ্মকোণ হলে cosecθ কত?",
     "options": [
-      "1/4",
       "1/2",
-      "√3",
-      "2"
+      "1",
+      "2",
+      "√3"
     ],
     "image": null,
     "optionImages": null,
@@ -324,6 +324,51 @@
       "60°",
       "120°",
       "180°"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-model-test-15-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-model-test-15",
+    "text": "\\(2^x=32\\) হলে x কত?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-model-test-15-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-model-test-15",
+    "text": "একটি বৃত্তের ব্যাস 14 cm হলে ব্যাসার্ধ কত?",
+    "options": [
+      "28 cm",
+      "14 cm",
+      "7 cm",
+      "3.5 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-model-test-15-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-model-test-15",
+    "text": "\\(3x-7=11\\) হলে x কত?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
     ],
     "image": null,
     "optionImages": null,

@@ -108,12 +108,12 @@
     "id": "ssc-physics-chapter-09-model-test-05-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
+    "text": "হীরা বেশি ঝলমলে দেখায় প্রধানত কোন কারণে?",
     "options": [
-      "আল মাসুদি",
-      "ইবনে আল হাইয়াম",
-      "ওমর খৈয়াম",
-      "আল খোয়ারিজমি"
+      "প্রতিসরণ",
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "ব্যতিচার",
+      "অপবর্তন"
     ],
     "image": null,
     "optionImages": null,
@@ -138,14 +138,14 @@
     "id": "ssc-physics-chapter-09-model-test-05-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "একটি লেন্সের ক্ষমতা −4D হলে ফোকাস দূরত্ব কত?",
+    "text": "পানিতে রাখা মুদ্রা ওপরে উঠে এসেছে বলে মনে হওয়ার কারণ—",
     "options": [
-      "−25 cm",
-      "−4 cm",
-      "+25 cm",
-      "+4 cm"
+      "প্রতিফলন",
+      "প্রতিসরণ",
+      "বিচ্ছুরণ",
+      "শোষণ"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q10.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -168,14 +168,14 @@
     "id": "ssc-physics-chapter-09-model-test-05-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "ফোকাস দূরত্ব 25 cm বিশিষ্ট উত্তল লেন্সের ক্ষমতা কত?",
+    "text": "অবতল লেন্সের ক্ষমতার চিহ্ন কী?",
     "options": [
-      "+2D",
-      "+4D",
-      "-2D",
-      "-4D"
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "শূন্য",
+      "অসীম"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q12.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -183,12 +183,12 @@
     "id": "ssc-physics-chapter-09-model-test-05-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "n₁sinθ₁=n₂sinθ₂ কোন সূত্র?",
+    "text": "−2 D ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
     "options": [
-      "Snell",
-      "Newton",
-      "Ohm",
-      "Coulomb"
+      "−50 cm",
+      "−20 cm",
+      "+50 cm",
+      "+20 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -243,14 +243,14 @@
     "id": "ssc-physics-chapter-09-model-test-05-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "লেন্সের ক্ষমতার একক কোনটি?",
+    "text": "আলোর প্রতিসরণের সময় কোনটি অপরিবর্তিত থাকে?",
     "options": [
-      "ডায়োপ্টার",
-      "মিটার",
-      "জুল",
-      "ওয়াট"
+      "বেগ",
+      "তরঙ্গদৈর্ঘ্য",
+      "কম্পাঙ্ক",
+      "দিক"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q17.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },

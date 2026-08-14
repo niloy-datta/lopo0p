@@ -3801,7 +3801,9 @@
         "difficulty": "Medium",
         "questionNo": 1,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q02",
@@ -3817,7 +3819,9 @@
         "difficulty": "Easy",
         "questionNo": 2,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q03",
@@ -3833,7 +3837,9 @@
         "difficulty": "Application",
         "questionNo": 3,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q04",
@@ -3849,7 +3855,9 @@
         "difficulty": "Easy",
         "questionNo": 4,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q05",
@@ -3865,7 +3873,9 @@
         "difficulty": "Medium",
         "questionNo": 5,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q06",
@@ -3881,7 +3891,9 @@
         "difficulty": "Easy",
         "questionNo": 6,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q07",
@@ -3897,11 +3909,13 @@
         "difficulty": "Medium",
         "questionNo": 7,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q08",
-        "questionText": "সমকোণী ত্রিভুজের अतिভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
+        "questionText": "সমকোণী ত্রিভুজের অতিভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
         "optionA": "সূক্ষ্মকোণ",
         "optionB": "সমকোণ",
         "optionC": "সরলকোণ",
@@ -3913,7 +3927,9 @@
         "difficulty": "Medium",
         "questionNo": 8,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q09",
@@ -3929,7 +3945,9 @@
         "difficulty": "Application",
         "questionNo": 9,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q10",
@@ -3945,7 +3963,9 @@
         "difficulty": "Easy",
         "questionNo": 10,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q11",
@@ -3961,7 +3981,9 @@
         "difficulty": "Medium",
         "questionNo": 11,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q12",
@@ -3977,7 +3999,9 @@
         "difficulty": "Easy",
         "questionNo": 12,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q13",
@@ -3993,7 +4017,9 @@
         "difficulty": "Medium",
         "questionNo": 13,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q14",
@@ -4009,7 +4035,9 @@
         "difficulty": "Easy",
         "questionNo": 14,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q15",
@@ -4025,7 +4053,9 @@
         "difficulty": "Medium",
         "questionNo": 15,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q16",
@@ -4041,11 +4071,13 @@
         "difficulty": "Easy",
         "questionNo": 16,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q17",
-        "questionText": "১২৫ ভগ্নাংশে প্রকাশ করলে কত হয়?",
+        "questionText": "0.125 ভগ্নাংশে প্রকাশ করলে কত হয়?",
         "optionA": "১/৪",
         "optionB": "১/৫",
         "optionC": "১/৮",
@@ -4057,7 +4089,9 @@
         "difficulty": "Medium",
         "questionNo": 17,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q18",
@@ -4073,11 +4107,13 @@
         "difficulty": "Medium",
         "questionNo": 18,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q19",
-        "questionText": "৬৬৬৬... ভগ্নাংশে প্রকাশ করলে কত হয়?",
+        "questionText": "0.6666... ভগ্নাংশে প্রকাশ করলে কত হয়?",
         "optionA": "১/৬",
         "optionB": "২/৩",
         "optionC": "৩/৫",
@@ -4089,7 +4125,9 @@
         "difficulty": "Easy",
         "questionNo": 19,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q20",
@@ -4105,7 +4143,9 @@
         "difficulty": "Medium",
         "questionNo": 20,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q21",
@@ -4121,7 +4161,9 @@
         "difficulty": "Easy",
         "questionNo": 21,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-11-q22",
@@ -4136,6 +4178,47 @@
         "topic": "Set / Function / Algebra / Equation",
         "difficulty": "Calculation",
         "questionNo": 22,
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
+      },
+      {
+        "id": "ssc-general-math-model-test-11-q23",
+        "questionText": "A = {1, 2, 3} হলে power set \\(P(A)\\)-এর উপাদান সংখ্যা কত?",
+        "optionA": "3",
+        "optionB": "6",
+        "optionC": "8",
+        "optionD": "9",
+        "questionNo": 23,
+        "visualRequired": false,
+        "imageStatus": "not_required",
+        "image": null,
+        "optionImages": null
+      },
+      {
+        "id": "ssc-general-math-model-test-11-q24",
+        "questionText": "\\(x^2-7x+12=0\\) সমীকরণের মূলদ্বয় কোনটি?",
+        "optionA": "2, 6",
+        "optionB": "3, 4",
+        "optionC": "−3, −4",
+        "optionD": "1, 12",
+        "questionNo": 24,
+        "visualRequired": false,
+        "imageStatus": "not_required",
+        "image": null,
+        "optionImages": null
+      },
+      {
+        "id": "ssc-general-math-model-test-11-q25",
+        "questionText": "5, 7, 8, 10, 10 সংখ্যাগুলোর গাণিতিক গড় কত?",
+        "optionA": "7",
+        "optionB": "8",
+        "optionC": "9",
+        "optionD": "10",
+        "questionNo": 25,
+        "visualRequired": false,
+        "imageStatus": "not_required",
         "image": null,
         "optionImages": null
       }
@@ -4155,7 +4238,9 @@
         "difficulty": "Medium",
         "questionNo": 1,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q02",
@@ -4171,7 +4256,9 @@
         "difficulty": "Easy",
         "questionNo": 2,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q03",
@@ -4187,7 +4274,9 @@
         "difficulty": "Application",
         "questionNo": 3,
         "image": "/images/quiz/geo-triangle-right.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-general-math-model-test-12-q04",
@@ -4203,7 +4292,9 @@
         "difficulty": "Easy",
         "questionNo": 4,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q05",
@@ -4219,7 +4310,9 @@
         "difficulty": "Medium",
         "questionNo": 5,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q06",
@@ -4235,7 +4328,9 @@
         "difficulty": "Easy",
         "questionNo": 6,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q07",
@@ -4251,7 +4346,9 @@
         "difficulty": "Medium",
         "questionNo": 7,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q08",
@@ -4267,7 +4364,9 @@
         "difficulty": "Medium",
         "questionNo": 8,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q09",
@@ -4282,8 +4381,8 @@
         "topic": "Trigonometry / Height-Distance",
         "difficulty": "Application",
         "questionNo": 9,
-        "visualRequired": true,
-        "imageStatus": "needs_original_figure",
+        "visualRequired": false,
+        "imageStatus": "available",
         "image": "/images/quiz/premium/ssc-general-math-model-test-12-q09.svg",
         "optionImages": null
       },
@@ -4301,7 +4400,9 @@
         "difficulty": "Easy",
         "questionNo": 10,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q11",
@@ -4317,7 +4418,9 @@
         "difficulty": "Medium",
         "questionNo": 11,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q12",
@@ -4333,7 +4436,9 @@
         "difficulty": "Easy",
         "questionNo": 12,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q13",
@@ -4349,7 +4454,9 @@
         "difficulty": "Medium",
         "questionNo": 13,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q14",
@@ -4365,7 +4472,9 @@
         "difficulty": "Easy",
         "questionNo": 14,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q15",
@@ -4381,8 +4490,8 @@
         "difficulty": "Application",
         "questionNo": 15,
         "image": "/images/quiz/premium/ssc-general-math-model-test-12-q15.svg",
-        "visualRequired": true,
-        "imageStatus": "generated_svg",
+        "visualRequired": false,
+        "imageStatus": "available",
         "optionImages": null
       },
       {
@@ -4399,7 +4508,9 @@
         "difficulty": "Easy",
         "questionNo": 16,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q17",
@@ -4415,7 +4526,9 @@
         "difficulty": "Medium",
         "questionNo": 17,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q18",
@@ -4431,7 +4544,9 @@
         "difficulty": "Easy",
         "questionNo": 18,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q19",
@@ -4447,7 +4562,9 @@
         "difficulty": "Medium",
         "questionNo": 19,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q20",
@@ -4463,7 +4580,9 @@
         "difficulty": "Application",
         "questionNo": 20,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q21",
@@ -4479,7 +4598,9 @@
         "difficulty": "Easy",
         "questionNo": 21,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q22",
@@ -4495,7 +4616,9 @@
         "difficulty": "Medium",
         "questionNo": 22,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q23",
@@ -4511,7 +4634,9 @@
         "difficulty": "Easy",
         "questionNo": 23,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-12-q24",
@@ -4526,6 +4651,21 @@
         "topic": "Set / Function / Algebra / Equation",
         "difficulty": "Calculation",
         "questionNo": 24,
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
+      },
+      {
+        "id": "ssc-general-math-model-test-12-q25",
+        "questionText": "A={2,4,6} এবং B={4,6,8} হলে \\(A\\cap B\\) কত?",
+        "optionA": "{2,8}",
+        "optionB": "{4,6}",
+        "optionC": "{2,4,6}",
+        "optionD": "{4,6,8}",
+        "questionNo": 25,
+        "visualRequired": false,
+        "imageStatus": "not_required",
         "image": null,
         "optionImages": null
       }
@@ -4949,7 +5089,9 @@
         "difficulty": "Medium",
         "questionNo": 1,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q02",
@@ -4965,15 +5107,17 @@
         "difficulty": "Easy",
         "questionNo": 2,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q03",
-        "questionText": "cosecθ এর মান নিচের কোনটি?",
-        "optionA": "1/4",
-        "optionB": "1/2",
-        "optionC": "√3",
-        "optionD": "2",
+        "questionText": "\\(\\sin\\theta=\\frac12\\) এবং θ একটি সূক্ষ্মকোণ হলে cosecθ কত?",
+        "optionA": "1/2",
+        "optionB": "1",
+        "optionC": "2",
+        "optionD": "√3",
         "correctOption": "D",
         "explanation": "ছবিতে চিহ্নিত উত্তর ঘ। — ত্রিকোণমিতিক মান ও height-distance calculation board exam-এর গুরুত্বপূর্ণ অংশ।",
         "chapter": "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
@@ -4981,7 +5125,9 @@
         "difficulty": "Application",
         "questionNo": 3,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q04",
@@ -4997,7 +5143,9 @@
         "difficulty": "Easy",
         "questionNo": 4,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q05",
@@ -5013,7 +5161,9 @@
         "difficulty": "Medium",
         "questionNo": 5,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q06",
@@ -5029,7 +5179,9 @@
         "difficulty": "Easy",
         "questionNo": 6,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q07",
@@ -5045,7 +5197,9 @@
         "difficulty": "Medium",
         "questionNo": 7,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q08",
@@ -5079,7 +5233,9 @@
         "difficulty": "Application",
         "questionNo": 9,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q10",
@@ -5095,7 +5251,9 @@
         "difficulty": "Easy",
         "questionNo": 10,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q11",
@@ -5111,7 +5269,9 @@
         "difficulty": "Medium",
         "questionNo": 11,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q12",
@@ -5127,7 +5287,9 @@
         "difficulty": "Easy",
         "questionNo": 12,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q13",
@@ -5143,7 +5305,9 @@
         "difficulty": "Medium",
         "questionNo": 13,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q14",
@@ -5159,7 +5323,9 @@
         "difficulty": "Easy",
         "questionNo": 14,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q15",
@@ -5175,7 +5341,9 @@
         "difficulty": "Application",
         "questionNo": 15,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q16",
@@ -5191,7 +5359,9 @@
         "difficulty": "Easy",
         "questionNo": 16,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q17",
@@ -5207,7 +5377,9 @@
         "difficulty": "Medium",
         "questionNo": 17,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q18",
@@ -5223,7 +5395,9 @@
         "difficulty": "Easy",
         "questionNo": 18,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q19",
@@ -5239,7 +5413,9 @@
         "difficulty": "Medium",
         "questionNo": 19,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q20",
@@ -5255,7 +5431,9 @@
         "difficulty": "Application",
         "questionNo": 20,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-15-q21",
@@ -5289,17 +5467,58 @@
         "difficulty": "Medium",
         "questionNo": 22,
         "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
+      },
+      {
+        "id": "ssc-general-math-model-test-15-q23",
+        "questionText": "\\(2^x=32\\) হলে x কত?",
+        "optionA": "4",
+        "optionB": "5",
+        "optionC": "6",
+        "optionD": "8",
+        "questionNo": 23,
+        "visualRequired": false,
+        "imageStatus": "not_required",
+        "image": null,
+        "optionImages": null
+      },
+      {
+        "id": "ssc-general-math-model-test-15-q24",
+        "questionText": "একটি বৃত্তের ব্যাস 14 cm হলে ব্যাসার্ধ কত?",
+        "optionA": "28 cm",
+        "optionB": "14 cm",
+        "optionC": "7 cm",
+        "optionD": "3.5 cm",
+        "questionNo": 24,
+        "visualRequired": false,
+        "imageStatus": "not_required",
+        "image": null,
+        "optionImages": null
+      },
+      {
+        "id": "ssc-general-math-model-test-15-q25",
+        "questionText": "\\(3x-7=11\\) হলে x কত?",
+        "optionA": "4",
+        "optionB": "5",
+        "optionC": "6",
+        "optionD": "7",
+        "questionNo": 25,
+        "visualRequired": false,
+        "imageStatus": "not_required",
+        "image": null,
         "optionImages": null
       }
     ],
     "ssc-general-math-model-test-16": [
       {
         "id": "ssc-general-math-model-test-16-q01",
-        "questionText": "১ থেকে ১০ পর্যন্ত মৌলিক সংখ্যা কয়টি?",
-        "optionA": "৪টি",
-        "optionB": "৬টি",
-        "optionC": "৫টি",
-        "optionD": "৩টি",
+        "questionText": "84-এর মৌলিক উৎপাদকগুলো কোনটি?",
+        "optionA": "2,3,7",
+        "optionB": "2,5,7",
+        "optionC": "3,5,7",
+        "optionD": "2,3,5",
         "correctOption": "A",
         "explanation": "মৌলিক সংখ্যাগুলো হলো ২, ৩, ৫, ৭। মোট ৪টি। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।",
         "chapter": "সেট-ফাংশন / বীজগণিত / সমীকরণ",
@@ -5307,7 +5526,9 @@
         "difficulty": "Medium",
         "questionNo": 1,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q02",
@@ -5323,7 +5544,9 @@
         "difficulty": "Easy",
         "questionNo": 2,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q03",
@@ -5339,7 +5562,9 @@
         "difficulty": "Application",
         "questionNo": 3,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q04",
@@ -5355,7 +5580,9 @@
         "difficulty": "Easy",
         "questionNo": 4,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q05",
@@ -5371,15 +5598,17 @@
         "difficulty": "Medium",
         "questionNo": 5,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q06",
-        "questionText": "log₂ 8 এর মান কত?",
-        "optionA": "২",
-        "optionB": "৪",
-        "optionC": "৩",
-        "optionD": "৮",
+        "questionText": "\\(\\log_{10}1000\\) কত?",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "10",
         "correctOption": "C",
         "explanation": "log₂ 8 = log₂ 2³ = 3 — ধারা, অনুপাত, সূচক ও লগারিদম formula-based high-priority topic।",
         "chapter": "সসীম ধারা / অনুপাত / সূচক-লগারিদম",
@@ -5387,15 +5616,17 @@
         "difficulty": "Easy",
         "questionNo": 6,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q07",
-        "questionText": "ত্রিভুজের তিন কোণের সমষ্টি কত?",
-        "optionA": "২৭০°",
-        "optionB": "৩৬০°",
-        "optionC": "১৮০°",
-        "optionD": "৯০°",
+        "questionText": "একটি ত্রিভুজের দুই কোণ 55° ও 65° হলে তৃতীয় কোণ কত?",
+        "optionA": "50°",
+        "optionB": "60°",
+        "optionC": "70°",
+        "optionD": "80°",
         "correctOption": "C",
         "explanation": "ইউক্লিডীয় জ্যামিতি অনুযায়ী ত্রিভুজের তিন কোণের সমষ্টি ১৮০° বা দুই সমকোণ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।",
         "chapter": "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
@@ -5403,15 +5634,17 @@
         "difficulty": "Medium",
         "questionNo": 7,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q08",
-        "questionText": "sin²θ + cos²θ = কত?",
-        "optionA": "০",
-        "optionB": "-১",
-        "optionC": "১",
-        "optionD": "২",
+        "questionText": "\\(1+\\tan^2\\theta\\) = ?",
+        "optionA": "cosec²θ",
+        "optionB": "sec²θ",
+        "optionC": "cot²θ",
+        "optionD": "sin²θ",
         "correctOption": "C",
         "explanation": "এটি ত্রিকোণমিতির মৌলিক অভেদ। — ত্রিকোণমিতিক মান ও height-distance calculation board exam-এর গুরুত্বপূর্ণ অংশ।",
         "chapter": "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
@@ -5419,7 +5652,9 @@
         "difficulty": "Application",
         "questionNo": 8,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q09",
@@ -5435,7 +5670,9 @@
         "difficulty": "Easy",
         "questionNo": 9,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q10",
@@ -5451,15 +5688,17 @@
         "difficulty": "Medium",
         "questionNo": 10,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q11",
-        "questionText": "2, 4, 6, 8... সমান্তর ধারাটির ১০ম পদ কোনটি?",
-        "optionA": "২০",
-        "optionB": "১০",
-        "optionC": "১৮",
-        "optionD": "২২",
+        "questionText": "3, 7, 11, 15,... ধারাটির 12তম পদ কত?",
+        "optionA": "43",
+        "optionB": "47",
+        "optionC": "51",
+        "optionD": "55",
         "correctOption": "A",
         "explanation": "a_10 = a + (10-1)d = 2 + 9*2 = 20 — ধারা, অনুপাত, সূচক ও লগারিদম formula-based high-priority topic।",
         "chapter": "সসীম ধারা / অনুপাত / সূচক-লগারিদম",
@@ -5467,15 +5706,17 @@
         "difficulty": "Easy",
         "questionNo": 11,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q12",
-        "questionText": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
-        "optionA": "-২, -৩",
-        "optionB": "২, ৩",
-        "optionC": "১, ৫",
-        "optionD": "০, ৬",
+        "questionText": "\\(x^2-9x+20=0\\) সমীকরণের মূলদ্বয়—",
+        "optionA": "2,10",
+        "optionB": "4,5",
+        "optionC": "−4,−5",
+        "optionD": "1,20",
         "correctOption": "B",
         "explanation": "x²-3x-2x+6 = (x-2)(x-3) = 0 — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।",
         "chapter": "সেট-ফাংশন / বীজগণিত / সমীকরণ",
@@ -5489,11 +5730,11 @@
       },
       {
         "id": "ssc-general-math-model-test-16-q13",
-        "questionText": "বৃত্তের কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের কত গুণ?",
-        "optionA": "দ্বিগুণ",
-        "optionB": "তিনগুণ",
-        "optionC": "অর্ধেক",
-        "optionD": "সমান",
+        "questionText": "একই চাপের উপর কেন্দ্রস্থ কোণ 100° হলে বৃত্তস্থ কোণ কত?",
+        "optionA": "25°",
+        "optionB": "50°",
+        "optionC": "100°",
+        "optionD": "200°",
         "correctOption": "A",
         "explanation": "বৃত্তের একই চাপের ওপর দণ্ডায়মান কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের দ্বিগুণ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।",
         "chapter": "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
@@ -5501,7 +5742,9 @@
         "difficulty": "Easy",
         "questionNo": 13,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q14",
@@ -5517,7 +5760,9 @@
         "difficulty": "Application",
         "questionNo": 14,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q15",
@@ -5533,7 +5778,9 @@
         "difficulty": "Easy",
         "questionNo": 15,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q16",
@@ -5549,7 +5796,9 @@
         "difficulty": "Medium",
         "questionNo": 16,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q17",
@@ -5565,7 +5814,9 @@
         "difficulty": "Easy",
         "questionNo": 17,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q18",
@@ -5581,7 +5832,9 @@
         "difficulty": "Medium",
         "questionNo": 18,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q19",
@@ -5597,8 +5850,8 @@
         "difficulty": "Application",
         "questionNo": 19,
         "image": "/images/quiz/premium/ssc-general-math-model-test-16-q19.svg",
-        "visualRequired": true,
-        "imageStatus": "generated_svg",
+        "visualRequired": false,
+        "imageStatus": "available",
         "optionImages": null
       },
       {
@@ -5615,8 +5868,8 @@
         "difficulty": "Easy",
         "questionNo": 20,
         "image": "/images/quiz/premium/ssc-general-math-model-test-16-q20.svg",
-        "visualRequired": true,
-        "imageStatus": "generated_svg",
+        "visualRequired": false,
+        "imageStatus": "available",
         "optionImages": null
       },
       {
@@ -5633,7 +5886,9 @@
         "difficulty": "Medium",
         "questionNo": 21,
         "image": "/images/quiz/geo-circle-center-o.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-general-math-model-test-16-q22",
@@ -5649,7 +5904,9 @@
         "difficulty": "Easy",
         "questionNo": 22,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-general-math-model-test-16-q23",
@@ -5664,6 +5921,34 @@
         "topic": "Set / Function / Algebra / Equation",
         "difficulty": "Calculation",
         "questionNo": 23,
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
+      },
+      {
+        "id": "ssc-general-math-model-test-16-q24",
+        "questionText": "\\((a+b)^2\\)-এর বিস্তৃতি কোনটি?",
+        "optionA": "\\(a^2+b^2\\)",
+        "optionB": "\\(a^2+2ab+b^2\\)",
+        "optionC": "\\(a^2-2ab+b^2\\)",
+        "optionD": "\\(2a^2+2b^2\\)",
+        "questionNo": 24,
+        "visualRequired": false,
+        "imageStatus": "not_required",
+        "image": null,
+        "optionImages": null
+      },
+      {
+        "id": "ssc-general-math-model-test-16-q25",
+        "questionText": "\\(2x+5=17\\) হলে x কত?",
+        "optionA": "5",
+        "optionB": "6",
+        "optionC": "7",
+        "optionD": "11",
+        "questionNo": 25,
+        "visualRequired": false,
+        "imageStatus": "not_required",
         "image": null,
         "optionImages": null
       }

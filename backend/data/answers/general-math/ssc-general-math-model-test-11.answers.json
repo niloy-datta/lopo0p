@@ -29,7 +29,7 @@
   },
   "ssc-general-math-model-test-11-q08": {
     "correctOption": "সূক্ষ্মকোণ",
-    "explanation": "সমকোণ বাদে বাকি দুটি কোণের সমষ্টি ৯০°, তাই এরা প্রত্যেকে সূক্ষ্মকোণ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
+    "explanation": "সঠিক উত্তর: সূক্ষ্মকোণ"
   },
   "ssc-general-math-model-test-11-q09": {
     "correctOption": "১",
@@ -65,7 +65,7 @@
   },
   "ssc-general-math-model-test-11-q17": {
     "correctOption": "১/৮",
-    "explanation": "০.১২৫ = ১২৫/১০০০ = ১/৮। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+    "explanation": "সঠিক উত্তর: ১/৮"
   },
   "ssc-general-math-model-test-11-q18": {
     "correctOption": "১৮০°",
@@ -73,7 +73,7 @@
   },
   "ssc-general-math-model-test-11-q19": {
     "correctOption": "২/৩",
-    "explanation": "০.৬৬৬... = ৬/৯ = ২/৩। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+    "explanation": "সঠিক উত্তর: ২/৩"
   },
   "ssc-general-math-model-test-11-q20": {
     "correctOption": "দ্বিগুণ",
@@ -86,5 +86,17 @@
   "ssc-general-math-model-test-11-q22": {
     "correctOption": "৩/১০",
     "explanation": "৭/১০ - ৪/১০ = ৩/১০। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+  },
+  "ssc-general-math-model-test-11-q23": {
+    "correctOption": "8",
+    "explanation": "সঠিক উত্তর: 8"
+  },
+  "ssc-general-math-model-test-11-q24": {
+    "correctOption": "3, 4",
+    "explanation": "সঠিক উত্তর: 3, 4"
+  },
+  "ssc-general-math-model-test-11-q25": {
+    "correctOption": "8",
+    "explanation": "সঠিক উত্তর: 8"
   }
 }

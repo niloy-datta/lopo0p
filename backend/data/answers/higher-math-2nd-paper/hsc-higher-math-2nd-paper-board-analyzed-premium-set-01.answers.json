@@ -1,102 +1,102 @@
 {
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q01": {
-    "correctOption": "-১",
-    "explanation": "---------------------------------------- === Board Exam: 2023 - Barishal Board ==="
+    "correctOption": "11",
+    "explanation": "সঠিক উত্তর: 11"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q02": {
-    "correctOption": "π/2",
-    "explanation": "---------------------------------------- === Board Exam: 2022 - Chattogram Board ==="
+    "correctOption": "\\(A^{-1}=A\\)",
+    "explanation": "সঠিক উত্তর: \\(A^{-1}=A\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q03": {
-    "correctOption": "উপবৃত্ত",
-    "explanation": "সঠিক উত্তর: ঘ। উপবৃত্ত"
+    "correctOption": "32",
+    "explanation": "সঠিক উত্তর: 32"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q04": {
-    "correctOption": "পরাবৃত্ত",
-    "explanation": "সঠিক উত্তর: ঘ। পরাবৃত্ত"
+    "correctOption": "\\(60^\\circ\\)",
+    "explanation": "সঠিক উত্তর: \\(60^\\circ\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q05": {
-    "correctOption": "√(x² + y²)",
-    "explanation": "সঠিক উত্তর: ঘ। √(x² + y²)"
+    "correctOption": "\\(\\frac83\\)",
+    "explanation": "সঠিক উত্তর: \\(\\frac83\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q06": {
-    "correctOption": "b² - 4ac",
-    "explanation": "সঠিক উত্তর: খ। b² - 4ac"
+    "correctOption": "\\(3x-2y+1=0\\)",
+    "explanation": "সঠিক উত্তর: \\(3x-2y+1=0\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q07": {
-    "correctOption": "Idempotent",
-    "explanation": "সঠিক উত্তর: খ। সংজ্ঞা অনুসারে idempotent।"
+    "correctOption": "3",
+    "explanation": "সঠিক উত্তর: 3"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q08": {
-    "correctOption": "$\\frac12$",
-    "explanation": "সঠিক উত্তর: ক। নির্দিষ্ট যোগজের মান $1/2$।"
+    "correctOption": "6",
+    "explanation": "সঠিক উত্তর: 6"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q09": {
-    "correctOption": "$\\sin A\\cos B+\\cos A\\sin B$",
-    "explanation": "সঠিক উত্তর: গ। যোগকোণের sine সূত্র।"
+    "correctOption": "\\(3x+4y=25\\)",
+    "explanation": "সঠিক উত্তর: \\(3x+4y=25\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q10": {
-    "correctOption": "1",
-    "explanation": "সঠিক উত্তর: ক। মৌলিক ত্রিকোণমিতিক identity।"
+    "correctOption": "360",
+    "explanation": "সঠিক উত্তর: 360"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q11": {
-    "correctOption": "লম্ব",
-    "explanation": "সঠিক উত্তর: খ। Dot product zero হলে vectors perpendicular।"
+    "correctOption": "74",
+    "explanation": "সঠিক উত্তর: 74"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q12": {
-    "correctOption": "Even",
-    "explanation": "সঠিক উত্তর: ঘ। $f(-x)=f(x)$।"
+    "correctOption": "1",
+    "explanation": "সঠিক উত্তর: 1"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q13": {
-    "correctOption": "$10x^9$",
-    "explanation": "সঠিক উত্তর: ঘ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "\\(\\frac{33}{65}\\)",
+    "explanation": "সঠিক উত্তর: \\(\\frac{33}{65}\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q14": {
-    "correctOption": "$11x^10$",
-    "explanation": "সঠিক উত্তর: খ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "\\(\\frac34\\)",
+    "explanation": "সঠিক উত্তর: \\(\\frac34\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q15": {
-    "correctOption": "$12x^11$",
-    "explanation": "সঠিক উত্তর: ক। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "\\(\\frac34\\)",
+    "explanation": "সঠিক উত্তর: \\(\\frac34\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q16": {
-    "correctOption": "$13x^12$",
-    "explanation": "সঠিক উত্তর: খ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "\\(-\\frac1x\\)",
+    "explanation": "সঠিক উত্তর: \\(-\\frac1x\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q17": {
-    "correctOption": "$14x^13$",
-    "explanation": "সঠিক উত্তর: ঘ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "4",
+    "explanation": "সঠিক উত্তর: 4"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q18": {
-    "correctOption": "$15x^14$",
-    "explanation": "সঠিক উত্তর: গ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "6",
+    "explanation": "সঠিক উত্তর: 6"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q19": {
-    "correctOption": "$16x^15$",
-    "explanation": "সঠিক উত্তর: গ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "\\(e^x(x^2+2x)\\)",
+    "explanation": "সঠিক উত্তর: \\(e^x(x^2+2x)\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q20": {
-    "correctOption": "90",
-    "explanation": "সঠিক উত্তর: গ। $nP_2=n(n-1)$।"
+    "correctOption": "\\(\\cot x\\)",
+    "explanation": "সঠিক উত্তর: \\(\\cot x\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q21": {
-    "correctOption": "55",
-    "explanation": "সঠিক উত্তর: ঘ। $nC_2=n(n-1)/2$।"
+    "correctOption": "\\(9x-y-16=0\\)",
+    "explanation": "সঠিক উত্তর: \\(9x-y-16=0\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q22": {
-    "correctOption": "110",
-    "explanation": "সঠিক উত্তর: ঘ। $nP_2=n(n-1)$।"
+    "correctOption": "−1",
+    "explanation": "সঠিক উত্তর: −1"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q23": {
-    "correctOption": "66",
-    "explanation": "সঠিক উত্তর: গ। $nC_2=n(n-1)/2$।"
+    "correctOption": "\\(\\ln(x^2+x+1)+C\\)",
+    "explanation": "সঠিক উত্তর: \\(\\ln(x^2+x+1)+C\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q24": {
-    "correctOption": "132",
-    "explanation": "সঠিক উত্তর: খ। $nP_2=n(n-1)$।"
+    "correctOption": "\\(\\frac12\\ln2\\)",
+    "explanation": "সঠিক উত্তর: \\(\\frac12\\ln2\\)"
   },
   "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q25": {
-    "correctOption": "78",
-    "explanation": "সঠিক উত্তর: ঘ। $nC_2=n(n-1)/2$।"
+    "correctOption": "\\(e^x(x-1)+C\\)",
+    "explanation": "সঠিক উত্তর: \\(e^x(x-1)+C\\)"
   }
 }

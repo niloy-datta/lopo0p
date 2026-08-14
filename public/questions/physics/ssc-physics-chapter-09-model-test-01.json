@@ -123,12 +123,12 @@
     "id": "ssc-physics-chapter-09-model-test-01-q09",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
+    "text": "কাচের সংকট কোণ 42°। কাচ থেকে বায়ুতে 50° আপতন কোণে আলো গেলে কী ঘটবে?",
     "options": [
-      "আল মাসুদি",
-      "ইবনে আল হাইয়াম",
-      "ওমর খৈয়াম",
-      "আল খোয়ারিজমি"
+      "প্রতিসরণ",
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "বিচ্ছুরণ",
+      "ব্যতিচার"
     ],
     "image": null,
     "optionImages": null,
@@ -153,14 +153,14 @@
     "id": "ssc-physics-chapter-09-model-test-01-q11",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "একটি লেন্সের ক্ষমতা −4D হলে ফোকাস দূরত্ব কত?",
+    "text": "+2.5 D ক্ষমতার একটি লেন্সের ফোকাস দূরত্ব কত?",
     "options": [
-      "−25 cm",
-      "−4 cm",
+      "+40 cm",
+      "−40 cm",
       "+25 cm",
-      "+4 cm"
+      "−25 cm"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q11.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -168,12 +168,12 @@
     "id": "ssc-physics-chapter-09-model-test-01-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "প্রতিসরণাঙ্ক 1.7 মাধ্যমে আপতন কোণ 42° হলে প্রতিসরণ কোণ—",
+    "text": "বায়ু থেকে \\(n=1.7\\) প্রতিসরাঙ্কের মাধ্যমে 42° আপতন কোণে আলো প্রবেশ করলে প্রতিসরণ কোণ প্রায় কত?",
     "options": [
-      "48",
-      "42",
-      "21",
-      "138"
+      "23°",
+      "42°",
+      "48°",
+      "68°"
     ],
     "image": null,
     "optionImages": null,
@@ -228,14 +228,14 @@
     "id": "ssc-physics-chapter-09-model-test-01-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "লেন্সের ক্ষমতার একক কোনটি?",
+    "text": "ক্ষীণদৃষ্টি বা Myopia সংশোধনের জন্য কোন লেন্স ব্যবহার করা হয়?",
     "options": [
-      "ডায়োপ্টার",
-      "মিটার",
-      "জুল",
-      "ওয়াট"
+      "উত্তল লেন্স",
+      "অবতল লেন্স",
+      "সমতল লেন্স",
+      "দ্বি-উত্তল লেন্স"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q16.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -333,14 +333,14 @@
     "id": "ssc-physics-chapter-09-model-test-01-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "P=1/f হলে f=20 cm লেন্সের ক্ষমতা কত?",
+    "text": "কোনো মাধ্যমে আলোর বেগ \\(2\\times10^8\\) m/s হলে মাধ্যমটির প্রতিসরাঙ্ক কত?",
     "options": [
-      "5 D",
-      "20 D",
-      "0.05 D",
-      "2 D"
+      "1.0",
+      "1.33",
+      "1.5",
+      "2.0"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q23.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -354,6 +354,21 @@
       "3×10⁸ m/s",
       "4×10⁸ m/s",
       "1.5×10⁸ m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-01-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-01",
+    "text": "আলো ঘন মাধ্যম থেকে হালকা মাধ্যমে প্রবেশ করলে সাধারণত—",
+    "options": [
+      "অভিলম্বের দিকে বেঁকে যায়",
+      "অভিলম্ব থেকে দূরে বেঁকে যায়",
+      "কোনো বিচ্যুতি হয় না",
+      "আলো থেমে যায়"
     ],
     "image": null,
     "optionImages": null,

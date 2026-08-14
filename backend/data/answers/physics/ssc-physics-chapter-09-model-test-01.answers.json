@@ -32,20 +32,20 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-01-q09": {
-    "correctOption": "আল মাসুদি",
-    "explanation": ""
+    "correctOption": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "explanation": "সঠিক উত্তর: পূর্ণ অভ্যন্তরীণ প্রতিফলন"
   },
   "ssc-physics-chapter-09-model-test-01-q10": {
     "correctOption": "+2 D",
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-01-q11": {
-    "correctOption": "−25 cm",
-    "explanation": ""
+    "correctOption": "+40 cm",
+    "explanation": "সঠিক উত্তর: +40 cm"
   },
   "ssc-physics-chapter-09-model-test-01-q12": {
-    "correctOption": "48",
-    "explanation": "Snell"
+    "correctOption": "23°",
+    "explanation": "সঠিক উত্তর: 23°"
   },
   "ssc-physics-chapter-09-model-test-01-q13": {
     "correctOption": "ডায়োপ্টার",
@@ -60,8 +60,8 @@
     "explanation": "refraction"
   },
   "ssc-physics-chapter-09-model-test-01-q16": {
-    "correctOption": "ডায়োপ্টার",
-    "explanation": ""
+    "correctOption": "অবতল লেন্স",
+    "explanation": "সঠিক উত্তর: অবতল লেন্স"
   },
   "ssc-physics-chapter-09-model-test-01-q17": {
     "correctOption": "শূন্য মাধ্যম",
@@ -88,11 +88,15 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-01-q23": {
-    "correctOption": "5 D",
-    "explanation": ""
+    "correctOption": "1.5",
+    "explanation": "সঠিক উত্তর: 1.5"
   },
   "ssc-physics-chapter-09-model-test-01-q24": {
     "correctOption": "2.25×10⁸ m/s",
     "explanation": ""
+  },
+  "ssc-physics-chapter-09-model-test-01-q25": {
+    "correctOption": "অভিলম্ব থেকে দূরে বেঁকে যায়",
+    "explanation": "সঠিক উত্তর: অভিলম্ব থেকে দূরে বেঁকে যায়"
   }
 }

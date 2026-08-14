@@ -358,5 +358,20 @@
     "image": null,
     "optionImages": null,
     "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-model-test-12-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-model-test-12",
+    "text": "A={2,4,6} এবং B={4,6,8} হলে \\(A\\cap B\\) কত?",
+    "options": [
+      "{2,8}",
+      "{4,6}",
+      "{2,4,6}",
+      "{4,6,8}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
   }
 ]

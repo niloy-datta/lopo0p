@@ -1,7 +1,7 @@
 {
   "ssc-general-math-model-test-16-q01": {
-    "correctOption": "৪টি",
-    "explanation": "মৌলিক সংখ্যাগুলো হলো ২, ৩, ৫, ৭। মোট ৪টি। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+    "correctOption": "2,3,7",
+    "explanation": "সঠিক উত্তর: 2,3,7"
   },
   "ssc-general-math-model-test-16-q02": {
     "correctOption": "স্থূলকোণ",
@@ -20,16 +20,16 @@
     "explanation": "মৌলিক সংখ্যাগুলো 2,3,5,7,11,13,17,19 (মোট 8টি)। যোগফল 77। গড় 77/8 = 9.625 — গড়, মধ্যক, প্রচুরক ও সম্ভাবনা থেকে প্রতি বছর MCQ আসার সম্ভাবনা বেশি।"
   },
   "ssc-general-math-model-test-16-q06": {
-    "correctOption": "৩",
-    "explanation": "log₂ 8 = log₂ 2³ = 3 — ধারা, অনুপাত, সূচক ও লগারিদম formula-based high-priority topic।"
+    "correctOption": "3",
+    "explanation": "সঠিক উত্তর: 3"
   },
   "ssc-general-math-model-test-16-q07": {
-    "correctOption": "১৮০°",
-    "explanation": "ইউক্লিডীয় জ্যামিতি অনুযায়ী ত্রিভুজের তিন কোণের সমষ্টি ১৮০° বা দুই সমকোণ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
+    "correctOption": "60°",
+    "explanation": "সঠিক উত্তর: 60°"
   },
   "ssc-general-math-model-test-16-q08": {
-    "correctOption": "১",
-    "explanation": "এটি ত্রিকোণমিতির মৌলিক অভেদ। — ত্রিকোণমিতিক মান ও height-distance calculation board exam-এর গুরুত্বপূর্ণ অংশ।"
+    "correctOption": "sec²θ",
+    "explanation": "সঠিক উত্তর: sec²θ"
   },
   "ssc-general-math-model-test-16-q09": {
     "correctOption": "৫ সেমি",
@@ -40,16 +40,16 @@
     "explanation": "ছবিতে চিহ্নিত উত্তর গ। — গড়, মধ্যক, প্রচুরক ও সম্ভাবনা থেকে প্রতি বছর MCQ আসার সম্ভাবনা বেশি।"
   },
   "ssc-general-math-model-test-16-q11": {
-    "correctOption": "২০",
-    "explanation": "a_10 = a + (10-1)d = 2 + 9*2 = 20 — ধারা, অনুপাত, সূচক ও লগারিদম formula-based high-priority topic।"
+    "correctOption": "47",
+    "explanation": "সঠিক উত্তর: 47"
   },
   "ssc-general-math-model-test-16-q12": {
-    "correctOption": "২, ৩",
-    "explanation": "x²-3x-2x+6 = (x-2)(x-3) = 0 — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+    "correctOption": "4,5",
+    "explanation": "সঠিক উত্তর: 4,5"
   },
   "ssc-general-math-model-test-16-q13": {
-    "correctOption": "দ্বিগুণ",
-    "explanation": "বৃত্তের একই চাপের ওপর দণ্ডায়মান কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের দ্বিগুণ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
+    "correctOption": "50°",
+    "explanation": "সঠিক উত্তর: 50°"
   },
   "ssc-general-math-model-test-16-q14": {
     "correctOption": "5/4",
@@ -90,5 +90,13 @@
   "ssc-general-math-model-test-16-q23": {
     "correctOption": "{7}",
     "explanation": "Q \\ P means the elements in Q that are not in P, so the result is {7}. — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+  },
+  "ssc-general-math-model-test-16-q24": {
+    "correctOption": "\\(a^2+2ab+b^2\\)",
+    "explanation": "সঠিক উত্তর: \\(a^2+2ab+b^2\\)"
+  },
+  "ssc-general-math-model-test-16-q25": {
+    "correctOption": "6",
+    "explanation": "সঠিক উত্তর: 6"
   }
 }

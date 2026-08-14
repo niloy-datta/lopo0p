@@ -3,12 +3,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q01",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "i² এর মান কত?",
+    "text": "যদি \\(A=\\begin{pmatrix}2&-1\\\\3&4\\end{pmatrix}\\) হয়, তবে |A|-এর মান কত?",
     "options": [
-      "i",
-      "-i",
-      "১",
-      "-১"
+      "5",
+      "8",
+      "11",
+      "13"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q02",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "sin⁻¹ x + cos⁻¹ x এর মান কত?",
+    "text": "\\(A^2=I\\) হলে কোনটি সঠিক?",
     "options": [
-      "π/2",
-      "কোনোটিই নয়",
-      "π",
-      "০"
+      "\\(A^{-1}=I\\)",
+      "\\(A^{-1}=A\\)",
+      "\\(A^{-1}=-A\\)",
+      "A=O"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q03",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "কনিকের উৎকেন্দ্রিকতা e < 1 হলে তা কী নির্দেশ করে?",
+    "text": "\\(|A|=4\\) হলে |2A|-এর মান কত?",
     "options": [
-      "অধিবৃত্ত",
-      "পরাবৃত্ত",
-      "বৃত্ত",
-      "উপবৃত্ত"
+      "8",
+      "16",
+      "24",
+      "32"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q04",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "কনিকের উৎকেন্দ্রিকতা e = 1 হলে তা কী নির্দেশ করে?",
+    "text": "\\(|\\vec a|=5,\\quad |\\vec b|=4,\\quad \\vec a\\cdot\\vec b=10\\) হলে তাদের মধ্যবর্তী কোণ কত?",
     "options": [
-      "অধিবৃত্ত",
-      "উপবৃত্ত",
-      "বৃত্ত",
-      "পরাবৃত্ত"
+      "\\(30^\\circ\\)",
+      "\\(45^\\circ\\)",
+      "\\(60^\\circ\\)",
+      "\\(90^\\circ\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q05",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "জটিল সংখ্যা z = x + iy এর মডুলাস কত?",
+    "text": "যদি \\(\\vec a=2\\hat i+\\hat j+2\\hat k\\) এবং \\(\\vec b=\\hat i+2\\hat j+2\\hat k\\) হয়, তবে \\(\\vec b\\)-এর উপর \\(\\vec a\\)-এর scalar projection কত?",
     "options": [
-      "x² + y²",
-      "√(x² - y²)",
-      "x + y",
-      "√(x² + y²)"
+      "\\(\\frac43\\)",
+      "\\(\\frac53\\)",
+      "\\(\\frac83\\)",
+      "3"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q06",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "দ্বিপদী সমীকরণ ax² + bx + c = 0 এর নিশ্চয়ক কত?",
+    "text": "(1,2) বিন্দুগামী এবং \\(2x+3y-5=0\\) রেখার উপর লম্ব রেখার সমীকরণ কোনটি?",
     "options": [
-      "√b² - 4ac",
-      "b² - 4ac",
-      "4ac - b²",
-      "b² + 4ac"
+      "\\(2x+3y-8=0\\)",
+      "\\(3x-2y+1=0\\)",
+      "\\(3x+2y-7=0\\)",
+      "\\(2x-3y+4=0\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q07",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$A^2=A$ হলে matrix কী?",
+    "text": "সমান্তরাল রেখা \\(3x+4y+5=0\\) এবং \\(3x+4y-10=0\\)-এর মধ্যবর্তী দূরত্ব কত?",
     "options": [
-      "Orthogonal",
-      "Idempotent",
-      "Nilpotent",
-      "Scalar"
+      "2",
+      "3",
+      "4",
+      "5"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q08",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\int_0^1 xdx$ কত?",
+    "text": "বৃত্ত \\(x^2+y^2-6x+8y-11=0\\) এর ব্যাসার্ধ কত?",
     "options": [
-      "$\\frac12$",
-      "0",
-      "1",
-      "$\\frac13$"
+      "4",
+      "5",
+      "6",
+      "7"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q09",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "text": "বৃত্ত \\(x^2+y^2=25\\) এর (3,4) বিন্দুতে অঙ্কিত tangent-এর সমীকরণ কোনটি?",
     "options": [
-      "$\\sin A\\cos B-\\cos A\\sin B$",
-      "$\\tan A+\\tan B$",
-      "$\\sin A\\cos B+\\cos A\\sin B$",
-      "$\\cos A\\cos B-\\sin A\\sin B$"
+      "\\(3x-4y=25\\)",
+      "\\(3x+4y=25\\)",
+      "\\(4x+3y=25\\)",
+      "\\(x+y=7\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q10",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "text": "BANGLA শব্দটির অক্ষরগুলো দিয়ে সব অক্ষর ব্যবহার করে কতটি ভিন্ন arrangement করা যায়?",
     "options": [
-      "1",
-      "0",
-      "$\\tan\\theta$",
-      "$\\sec^2\\theta$"
+      "120",
+      "180",
+      "360",
+      "720"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q11",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "text": "5 জন পুরুষ এবং 4 জন নারী থেকে 3 সদস্যের একটি committee গঠন করতে হবে। Committee-তে অন্তত একজন নারী থাকতে হবে। কতভাবে committee গঠন করা সম্ভব?",
     "options": [
-      "একক",
-      "লম্ব",
-      "সমান্তরাল",
-      "সমান"
+      "64",
+      "70",
+      "74",
+      "84"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q12",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "text": "যদি \\(\\tan A=\\frac12,\\qquad \\tan B=\\frac13\\) হয়, তবে \\(\\tan(A+B)\\)-এর মান কত?",
     "options": [
-      "Odd",
-      "Constant",
-      "Periodic",
-      "Even"
+      "\\(\\frac12\\)",
+      "1",
+      "\\(\\frac32\\)",
+      "2"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q13",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\frac{d}{dx}x^10$ কত?",
+    "text": "A ও B দুটি সূক্ষ্মকোণ এবং \\(\\sin A=\\frac35,\\qquad \\cos B=\\frac{12}{13}\\) হলে \\(\\cos(A+B)\\)-এর মান কত?",
     "options": [
-      "$9x^10$",
-      "$x^10$",
-      "$x^9$",
-      "$10x^9$"
+      "\\(\\frac{23}{65}\\)",
+      "\\(\\frac{33}{65}\\)",
+      "\\(\\frac{48}{65}\\)",
+      "\\(\\frac{56}{65}\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q14",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\frac{d}{dx}x^11$ কত?",
+    "text": "যদি \\(\\sec\\theta+\\tan\\theta=2\\) হয়, তবে \\(\\tan\\theta\\)-এর মান কত?",
     "options": [
-      "$x^11$",
-      "$11x^10$",
-      "$10x^11$",
-      "$x^10$"
+      "\\(\\frac12\\)",
+      "\\(\\frac23\\)",
+      "\\(\\frac34\\)",
+      "\\(\\frac43\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q15",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\frac{d}{dx}x^12$ কত?",
+    "text": "যদি \\(\\tan\\theta+\\cot\\theta=4\\) হয়, তবে \\(\\cos^2 2\\theta\\)-এর মান কত?",
     "options": [
-      "$12x^11$",
-      "$x^12$",
-      "$11x^12$",
-      "$x^11$"
+      "\\(\\frac14\\)",
+      "\\(\\frac12\\)",
+      "\\(\\frac34\\)",
+      "1"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q16",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\frac{d}{dx}x^13$ কত?",
+    "text": "যদি \\(f(x)=\\frac{x-1}{x+1}\\) হয়, তবে যেখানে সংজ্ঞায়িত, \\(f(f(x))\\) কত?",
     "options": [
-      "$x^12$",
-      "$13x^12$",
-      "$12x^13$",
-      "$x^13$"
+      "x",
+      "−x",
+      "\\(\\frac1x\\)",
+      "\\(-\\frac1x\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q17",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\frac{d}{dx}x^14$ কত?",
+    "text": "যদি \\(f(x)=\\frac{2x-3}{x+1}\\) হয়, তবে \\(f^{-1}(1)\\) এর মান কত?",
     "options": [
-      "$x^13$",
-      "$13x^14$",
-      "$x^14$",
-      "$14x^13$"
+      "2",
+      "3",
+      "4",
+      "5"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q18",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\frac{d}{dx}x^15$ কত?",
+    "text": "\\(\\lim_{x\\to3}\\frac{x^2-9}{x-3}\\) এর মান কত?",
     "options": [
-      "$x^15$",
-      "$14x^15$",
-      "$15x^14$",
-      "$x^14$"
+      "3",
+      "6",
+      "9",
+      "অস্তিত্ব নেই"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q19",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$\\frac{d}{dx}x^16$ কত?",
+    "text": "যদি \\(y=x^2e^x\\) হয়, তবে \\(\\frac{dy}{dx}\\) কত?",
     "options": [
-      "$x^15$",
-      "$15x^16$",
-      "$16x^15$",
-      "$x^16$"
+      "\\(x^2e^x\\)",
+      "\\(2xe^x\\)",
+      "\\(e^x(x^2+2x)\\)",
+      "\\(e^x(x^2-2x)\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q20",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$10P_2$ এর মান কত?",
+    "text": "যদি \\(y=\\ln(\\sin x)\\) হয়, তবে \\(\\frac{dy}{dx}\\) কত?",
     "options": [
-      "50",
-      "45",
-      "90",
-      "12"
+      "\\(\\tan x\\)",
+      "\\(\\cot x\\)",
+      "\\(\\sec x\\)",
+      "\\(\\csc x\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q21",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$11C_2$ এর মান কত?",
+    "text": "বক্ররেখা \\(y=x^3-3x\\) এর x=2 বিন্দুতে tangent-এর সমীকরণ কোনটি?",
     "options": [
-      "110",
-      "121",
-      "12",
-      "55"
+      "\\(9x-y-16=0\\)",
+      "\\(9x+y-20=0\\)",
+      "\\(3x-y-4=0\\)",
+      "\\(6x-y-10=0\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q22",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$11P_2$ এর মান কত?",
+    "text": "ফাংশন \\(f(x)=x^3-3x\\) এর local maximum কোন x-এর জন্য ঘটে?",
     "options": [
-      "13",
-      "110 + 1",
-      "55",
-      "110"
+      "−1",
+      "0",
+      "1",
+      "3"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q23",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$12C_2$ এর মান কত?",
+    "text": "\\(\\int\\frac{2x+1}{x^2+x+1}\\,dx\\) এর মান কোনটি?",
     "options": [
-      "132",
-      "144",
-      "66",
-      "13"
+      "\\(\\ln|x+1|+C\\)",
+      "\\(\\ln(x^2+x+1)+C\\)",
+      "\\(\\frac12\\ln(x^2+x+1)+C\\)",
+      "\\(x^2+x+1+C\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q24",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$12P_2$ এর মান কত?",
+    "text": "\\(\\int_0^1\\frac{x}{1+x^2}\\,dx\\) এর মান কত?",
     "options": [
-      "60",
-      "132",
-      "66",
-      "14"
+      "\\(\\ln2\\)",
+      "\\(\\frac12\\ln2\\)",
+      "\\(2\\ln2\\)",
+      "\\(\\frac14\\ln2\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01-q25",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-board-analyzed-premium-set-01",
-    "text": "$13C_2$ এর মান কত?",
+    "text": "\\(\\int xe^x\\,dx\\) এর মান কোনটি?",
     "options": [
-      "14",
-      "169",
-      "156",
-      "78"
+      "\\(xe^x+C\\)",
+      "\\(e^x(x+1)+C\\)",
+      "\\(e^x(x-1)+C\\)",
+      "\\(x^2e^x+C\\)"
     ],
     "image": null,
     "optionImages": null,

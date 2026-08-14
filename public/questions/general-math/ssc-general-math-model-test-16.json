@@ -3,12 +3,12 @@
     "id": "ssc-general-math-model-test-16-q01",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "১ থেকে ১০ পর্যন্ত মৌলিক সংখ্যা কয়টি?",
+    "text": "84-এর মৌলিক উৎপাদকগুলো কোনটি?",
     "options": [
-      "৪টি",
-      "৬টি",
-      "৫টি",
-      "৩টি"
+      "2,3,7",
+      "2,5,7",
+      "3,5,7",
+      "2,3,5"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-general-math-model-test-16-q06",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "log₂ 8 এর মান কত?",
+    "text": "\\(\\log_{10}1000\\) কত?",
     "options": [
-      "২",
-      "৪",
-      "৩",
-      "৮"
+      "1",
+      "2",
+      "3",
+      "10"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-general-math-model-test-16-q07",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "ত্রিভুজের তিন কোণের সমষ্টি কত?",
+    "text": "একটি ত্রিভুজের দুই কোণ 55° ও 65° হলে তৃতীয় কোণ কত?",
     "options": [
-      "২৭০°",
-      "৩৬০°",
-      "১৮০°",
-      "৯০°"
+      "50°",
+      "60°",
+      "70°",
+      "80°"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-general-math-model-test-16-q08",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "sin²θ + cos²θ = কত?",
+    "text": "\\(1+\\tan^2\\theta\\) = ?",
     "options": [
-      "০",
-      "-১",
-      "১",
-      "২"
+      "cosec²θ",
+      "sec²θ",
+      "cot²θ",
+      "sin²θ"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-general-math-model-test-16-q11",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "2, 4, 6, 8... সমান্তর ধারাটির ১০ম পদ কোনটি?",
+    "text": "3, 7, 11, 15,... ধারাটির 12তম পদ কত?",
     "options": [
-      "২০",
-      "১০",
-      "১৮",
-      "২২"
+      "43",
+      "47",
+      "51",
+      "55"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-general-math-model-test-16-q12",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
+    "text": "\\(x^2-9x+20=0\\) সমীকরণের মূলদ্বয়—",
     "options": [
-      "-২, -৩",
-      "২, ৩",
-      "১, ৫",
-      "০, ৬"
+      "2,10",
+      "4,5",
+      "−4,−5",
+      "1,20"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-general-math-model-test-16-q13",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "বৃত্তের কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের কত গুণ?",
+    "text": "একই চাপের উপর কেন্দ্রস্থ কোণ 100° হলে বৃত্তস্থ কোণ কত?",
     "options": [
-      "দ্বিগুণ",
-      "তিনগুণ",
-      "অর্ধেক",
-      "সমান"
+      "25°",
+      "50°",
+      "100°",
+      "200°"
     ],
     "image": null,
     "optionImages": null,
@@ -339,6 +339,36 @@
       "{7}",
       "{3, 4}",
       "{2, 7}"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-model-test-16-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-model-test-16",
+    "text": "\\((a+b)^2\\)-এর বিস্তৃতি কোনটি?",
+    "options": [
+      "\\(a^2+b^2\\)",
+      "\\(a^2+2ab+b^2\\)",
+      "\\(a^2-2ab+b^2\\)",
+      "\\(2a^2+2b^2\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-model-test-16-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-model-test-16",
+    "text": "\\(2x+5=17\\) হলে x কত?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "11"
     ],
     "image": null,
     "optionImages": null,

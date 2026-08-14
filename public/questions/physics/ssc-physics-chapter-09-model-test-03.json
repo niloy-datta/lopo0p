@@ -108,12 +108,12 @@
     "id": "ssc-physics-chapter-09-model-test-03-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
+    "text": "আধুনিক আলোকবিজ্ঞানের ভিত্তি নির্মাণে ইবনে আল-হাইথামের প্রধান অবদান কোন ক্ষেত্রে?",
     "options": [
-      "আল মাসুদি",
-      "ইবনে আল হাইয়াম",
-      "ওমর খৈয়াম",
-      "আল খোয়ারিজমি"
+      "জ্যোতির্বিদ্যা",
+      "আলো ও দৃষ্টি বিষয়ক পরীক্ষামূলক গবেষণা",
+      "তাপগতিবিদ্যা",
+      "বিদ্যুৎ"
     ],
     "image": null,
     "optionImages": null,
@@ -138,14 +138,14 @@
     "id": "ssc-physics-chapter-09-model-test-03-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "একটি লেন্সের ক্ষমতা −4D হলে ফোকাস দূরত্ব কত?",
+    "text": "−2 D ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
     "options": [
-      "−25 cm",
-      "−4 cm",
-      "+25 cm",
-      "+4 cm"
+      "−50 cm",
+      "+50 cm",
+      "−20 cm",
+      "+20 cm"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q10.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -228,14 +228,14 @@
     "id": "ssc-physics-chapter-09-model-test-03-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "লেন্সের ক্ষমতার একক কোনটি?",
+    "text": "লেন্সের ক্ষমতা বৃদ্ধি পেলে তার ফোকাস দূরত্ব—",
     "options": [
-      "ডায়োপ্টার",
-      "মিটার",
-      "জুল",
-      "ওয়াট"
+      "বৃদ্ধি পায়",
+      "হ্রাস পায়",
+      "অপরিবর্তিত থাকে",
+      "শূন্য হয়"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q16.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -333,14 +333,14 @@
     "id": "ssc-physics-chapter-09-model-test-03-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "P=1/f হলে f=20 cm লেন্সের ক্ষমতা কত?",
+    "text": "একটি অবতল লেন্সের ফোকাস দূরত্ব −20 cm হলে ক্ষমতা কত?",
     "options": [
-      "5 D",
-      "20 D",
-      "0.05 D",
-      "2 D"
+      "+5 D",
+      "−5 D",
+      "+2 D",
+      "−2 D"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q23.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -354,6 +354,21 @@
       "3×10⁸ m/s",
       "4×10⁸ m/s",
       "1.5×10⁸ m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-09-model-test-03-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-09-model-test-03",
+    "text": "আলো এক স্বচ্ছ মাধ্যম থেকে অন্য স্বচ্ছ মাধ্যমে গেলে কোন রাশি অপরিবর্তিত থাকে?",
+    "options": [
+      "বেগ",
+      "তরঙ্গদৈর্ঘ্য",
+      "কম্পাঙ্ক",
+      "দিক"
     ],
     "image": null,
     "optionImages": null,

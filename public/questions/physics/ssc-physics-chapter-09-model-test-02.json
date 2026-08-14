@@ -78,12 +78,12 @@
     "id": "ssc-physics-chapter-09-model-test-02-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
+    "text": "যে আপতন কোণের জন্য প্রতিসরণ কোণ 90° হয় তাকে কী বলে?",
     "options": [
-      "আল মাসুদি",
-      "ইবনে আল হাইয়াম",
-      "ওমর খৈয়াম",
-      "আল খোয়ারিজমি"
+      "প্রতিফলন কোণ",
+      "সংকট কোণ",
+      "বিচ্যুতি কোণ",
+      "মেরু কোণ"
     ],
     "image": null,
     "optionImages": null,
@@ -138,14 +138,14 @@
     "id": "ssc-physics-chapter-09-model-test-02-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "ফোকাস দূরত্ব 25 cm বিশিষ্ট উত্তল লেন্সের ক্ষমতা কত?",
+    "text": "পানিতে থাকা একটি বস্তু প্রকৃত গভীরতার তুলনায় কম গভীরে দেখা যায় কেন?",
     "options": [
-      "+2D",
-      "+4D",
-      "-2D",
-      "-4D"
+      "প্রতিফলনের জন্য",
+      "প্রতিসরণের জন্য",
+      "বিচ্ছুরণের জন্য",
+      "ব্যতিচারের জন্য"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q10.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -258,14 +258,14 @@
     "id": "ssc-physics-chapter-09-model-test-02-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "লেন্সের ক্ষমতার একক কোনটি?",
+    "text": "Hypermetropia বা দূরদৃষ্টি সংশোধনে কোন লেন্স ব্যবহার করা হয়?",
     "options": [
-      "ডায়োপ্টার",
-      "মিটার",
-      "জুল",
-      "ওয়াট"
+      "অবতল লেন্স",
+      "উত্তল লেন্স",
+      "সমতল লেন্স",
+      "প্রিজম"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q18.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -303,14 +303,14 @@
     "id": "ssc-physics-chapter-09-model-test-02-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "P=1/f হলে f=20 cm লেন্সের ক্ষমতা কত?",
+    "text": "কোনো মাধ্যমে আলোর বেগ \\(2.4\\times10^8\\) m/s হলে প্রতিসরাঙ্ক কত?",
     "options": [
-      "5 D",
-      "20 D",
-      "0.05 D",
-      "2 D"
+      "1.25",
+      "1.50",
+      "2.40",
+      "3.00"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q21.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },

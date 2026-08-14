@@ -17285,7 +17285,9 @@
         "difficulty": "Board Standard",
         "questionNo": 1,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q01.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q02",
@@ -17301,7 +17303,9 @@
         "difficulty": "Board Standard",
         "questionNo": 2,
         "image": "/images/quiz/geo-triangle-altitudes.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q03",
@@ -17317,7 +17321,9 @@
         "difficulty": "Board Standard",
         "questionNo": 3,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q03.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q04",
@@ -17333,7 +17339,9 @@
         "difficulty": "Board Standard",
         "questionNo": 4,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q04.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q05",
@@ -17349,7 +17357,9 @@
         "difficulty": "Board Standard",
         "questionNo": 5,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q06",
@@ -17365,7 +17375,9 @@
         "difficulty": "Board Standard",
         "questionNo": 6,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q07",
@@ -17381,7 +17393,9 @@
         "difficulty": "Board Standard",
         "questionNo": 7,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q08",
@@ -17397,15 +17411,17 @@
         "difficulty": "Board Standard",
         "questionNo": 8,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q09",
-        "questionText": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
-        "optionA": "আল মাসুদি",
-        "optionB": "ইবনে আল হাইয়াম",
-        "optionC": "ওমর খৈয়াম",
-        "optionD": "আল খোয়ারিজমি",
+        "questionText": "কাচের সংকট কোণ 42°। কাচ থেকে বায়ুতে 50° আপতন কোণে আলো গেলে কী ঘটবে?",
+        "optionA": "প্রতিসরণ",
+        "optionB": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+        "optionC": "বিচ্ছুরণ",
+        "optionD": "ব্যতিচার",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
@@ -17413,7 +17429,9 @@
         "difficulty": "Board Standard",
         "questionNo": 9,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q10",
@@ -17429,31 +17447,35 @@
         "difficulty": "Board Standard",
         "questionNo": 10,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q10.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q11",
-        "questionText": "একটি লেন্সের ক্ষমতা −4D হলে ফোকাস দূরত্ব কত?",
-        "optionA": "−25 cm",
-        "optionB": "−4 cm",
+        "questionText": "+2.5 D ক্ষমতার একটি লেন্সের ফোকাস দূরত্ব কত?",
+        "optionA": "+40 cm",
+        "optionB": "−40 cm",
         "optionC": "+25 cm",
-        "optionD": "+4 cm",
+        "optionD": "−25 cm",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 11,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q11.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q12",
-        "questionText": "প্রতিসরণাঙ্ক 1.7 মাধ্যমে আপতন কোণ 42° হলে প্রতিসরণ কোণ—",
-        "optionA": "48",
-        "optionB": "42",
-        "optionC": "21",
-        "optionD": "138",
+        "questionText": "বায়ু থেকে \\(n=1.7\\) প্রতিসরাঙ্কের মাধ্যমে 42° আপতন কোণে আলো প্রবেশ করলে প্রতিসরণ কোণ প্রায় কত?",
+        "optionA": "23°",
+        "optionB": "42°",
+        "optionC": "48°",
+        "optionD": "68°",
         "correctOption": "A",
         "explanation": "Snell",
         "chapter": "09",
@@ -17461,7 +17483,9 @@
         "difficulty": "Board Standard",
         "questionNo": 12,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q13",
@@ -17477,7 +17501,9 @@
         "difficulty": "Board Standard",
         "questionNo": 13,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q13.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q14",
@@ -17493,7 +17519,9 @@
         "difficulty": "Board Standard",
         "questionNo": 14,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q15",
@@ -17509,23 +17537,27 @@
         "difficulty": "Board Standard",
         "questionNo": 15,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q16",
-        "questionText": "লেন্সের ক্ষমতার একক কোনটি?",
-        "optionA": "ডায়োপ্টার",
-        "optionB": "মিটার",
-        "optionC": "জুল",
-        "optionD": "ওয়াট",
+        "questionText": "ক্ষীণদৃষ্টি বা Myopia সংশোধনের জন্য কোন লেন্স ব্যবহার করা হয়?",
+        "optionA": "উত্তল লেন্স",
+        "optionB": "অবতল লেন্স",
+        "optionC": "সমতল লেন্স",
+        "optionD": "দ্বি-উত্তল লেন্স",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 16,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q16.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q17",
@@ -17541,7 +17573,9 @@
         "difficulty": "Board Standard",
         "questionNo": 17,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q18",
@@ -17557,7 +17591,9 @@
         "difficulty": "Board Standard",
         "questionNo": 18,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q19",
@@ -17573,7 +17609,9 @@
         "difficulty": "Board Standard",
         "questionNo": 19,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q20",
@@ -17589,7 +17627,9 @@
         "difficulty": "Board Standard",
         "questionNo": 20,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q21",
@@ -17605,7 +17645,9 @@
         "difficulty": "Board Standard",
         "questionNo": 21,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q21.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q22",
@@ -17621,23 +17663,27 @@
         "difficulty": "Board Standard",
         "questionNo": 22,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q22.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q23",
-        "questionText": "P=1/f হলে f=20 cm লেন্সের ক্ষমতা কত?",
-        "optionA": "5 D",
-        "optionB": "20 D",
-        "optionC": "0.05 D",
-        "optionD": "2 D",
+        "questionText": "কোনো মাধ্যমে আলোর বেগ \\(2\\times10^8\\) m/s হলে মাধ্যমটির প্রতিসরাঙ্ক কত?",
+        "optionA": "1.0",
+        "optionB": "1.33",
+        "optionC": "1.5",
+        "optionD": "2.0",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 23,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q23.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-01-q24",
@@ -17652,6 +17698,21 @@
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 24,
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
+      },
+      {
+        "id": "ssc-physics-chapter-09-model-test-01-q25",
+        "questionText": "আলো ঘন মাধ্যম থেকে হালকা মাধ্যমে প্রবেশ করলে সাধারণত—",
+        "optionA": "অভিলম্বের দিকে বেঁকে যায়",
+        "optionB": "অভিলম্ব থেকে দূরে বেঁকে যায়",
+        "optionC": "কোনো বিচ্যুতি হয় না",
+        "optionD": "আলো থেমে যায়",
+        "questionNo": 25,
+        "visualRequired": false,
+        "imageStatus": "not_required",
         "image": null,
         "optionImages": null
       }
@@ -17671,7 +17732,9 @@
         "difficulty": "Board Standard",
         "questionNo": 1,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q01.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q02",
@@ -17687,7 +17750,9 @@
         "difficulty": "Board Standard",
         "questionNo": 2,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q03",
@@ -17703,7 +17768,9 @@
         "difficulty": "Board Standard",
         "questionNo": 3,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q04",
@@ -17719,7 +17786,9 @@
         "difficulty": "Board Standard",
         "questionNo": 4,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q05",
@@ -17735,15 +17804,17 @@
         "difficulty": "Board Standard",
         "questionNo": 5,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q06",
-        "questionText": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
-        "optionA": "আল মাসুদি",
-        "optionB": "ইবনে আল হাইয়াম",
-        "optionC": "ওমর খৈয়াম",
-        "optionD": "আল খোয়ারিজমি",
+        "questionText": "যে আপতন কোণের জন্য প্রতিসরণ কোণ 90° হয় তাকে কী বলে?",
+        "optionA": "প্রতিফলন কোণ",
+        "optionB": "সংকট কোণ",
+        "optionC": "বিচ্যুতি কোণ",
+        "optionD": "মেরু কোণ",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
@@ -17751,7 +17822,9 @@
         "difficulty": "Board Standard",
         "questionNo": 6,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q07",
@@ -17767,7 +17840,9 @@
         "difficulty": "Board Standard",
         "questionNo": 7,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q07.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q08",
@@ -17783,7 +17858,9 @@
         "difficulty": "Board Standard",
         "questionNo": 8,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q08.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q09",
@@ -17799,23 +17876,27 @@
         "difficulty": "Board Standard",
         "questionNo": 9,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q09.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q10",
-        "questionText": "ফোকাস দূরত্ব 25 cm বিশিষ্ট উত্তল লেন্সের ক্ষমতা কত?",
-        "optionA": "+2D",
-        "optionB": "+4D",
-        "optionC": "-2D",
-        "optionD": "-4D",
+        "questionText": "পানিতে থাকা একটি বস্তু প্রকৃত গভীরতার তুলনায় কম গভীরে দেখা যায় কেন?",
+        "optionA": "প্রতিফলনের জন্য",
+        "optionB": "প্রতিসরণের জন্য",
+        "optionC": "বিচ্ছুরণের জন্য",
+        "optionD": "ব্যতিচারের জন্য",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 10,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q10.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q11",
@@ -17831,7 +17912,9 @@
         "difficulty": "Board Standard",
         "questionNo": 11,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q11.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q12",
@@ -17847,7 +17930,9 @@
         "difficulty": "Board Standard",
         "questionNo": 12,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q12.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q13",
@@ -17863,7 +17948,9 @@
         "difficulty": "Board Standard",
         "questionNo": 13,
         "image": "/images/quiz/geo-triangle-altitudes.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q14",
@@ -17879,7 +17966,9 @@
         "difficulty": "Board Standard",
         "questionNo": 14,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q15",
@@ -17895,7 +17984,9 @@
         "difficulty": "Board Standard",
         "questionNo": 15,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q16",
@@ -17911,7 +18002,9 @@
         "difficulty": "Board Standard",
         "questionNo": 16,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q17",
@@ -17927,23 +18020,27 @@
         "difficulty": "Board Standard",
         "questionNo": 17,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q17.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q18",
-        "questionText": "লেন্সের ক্ষমতার একক কোনটি?",
-        "optionA": "ডায়োপ্টার",
-        "optionB": "মিটার",
-        "optionC": "জুল",
-        "optionD": "ওয়াট",
+        "questionText": "Hypermetropia বা দূরদৃষ্টি সংশোধনে কোন লেন্স ব্যবহার করা হয়?",
+        "optionA": "অবতল লেন্স",
+        "optionB": "উত্তল লেন্স",
+        "optionC": "সমতল লেন্স",
+        "optionD": "প্রিজম",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 18,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q18.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q19",
@@ -17959,7 +18056,9 @@
         "difficulty": "Board Standard",
         "questionNo": 19,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q20",
@@ -17975,23 +18074,27 @@
         "difficulty": "Board Standard",
         "questionNo": 20,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q20.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q21",
-        "questionText": "P=1/f হলে f=20 cm লেন্সের ক্ষমতা কত?",
-        "optionA": "5 D",
-        "optionB": "20 D",
-        "optionC": "0.05 D",
-        "optionD": "2 D",
+        "questionText": "কোনো মাধ্যমে আলোর বেগ \\(2.4\\times10^8\\) m/s হলে প্রতিসরাঙ্ক কত?",
+        "optionA": "1.25",
+        "optionB": "1.50",
+        "optionC": "2.40",
+        "optionD": "3.00",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 21,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-02-q21.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q22",
@@ -18007,7 +18110,9 @@
         "difficulty": "Board Standard",
         "questionNo": 22,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q23",
@@ -18023,7 +18128,9 @@
         "difficulty": "Board Standard",
         "questionNo": 23,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q24",
@@ -18039,7 +18146,9 @@
         "difficulty": "Board Standard",
         "questionNo": 24,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-02-q25",
@@ -18055,7 +18164,9 @@
         "difficulty": "Board Standard",
         "questionNo": 25,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       }
     ],
     "ssc-physics-chapter-09-model-test-03": [
@@ -18073,7 +18184,9 @@
         "difficulty": "Board Standard",
         "questionNo": 1,
         "image": "/images/quiz/geo-triangle-altitudes.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q02",
@@ -18089,7 +18202,9 @@
         "difficulty": "Board Standard",
         "questionNo": 2,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q02.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q03",
@@ -18105,7 +18220,9 @@
         "difficulty": "Board Standard",
         "questionNo": 3,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q03.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q04",
@@ -18121,7 +18238,9 @@
         "difficulty": "Board Standard",
         "questionNo": 4,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q05",
@@ -18137,7 +18256,9 @@
         "difficulty": "Board Standard",
         "questionNo": 5,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q06",
@@ -18153,7 +18274,9 @@
         "difficulty": "Board Standard",
         "questionNo": 6,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q07",
@@ -18169,15 +18292,17 @@
         "difficulty": "Board Standard",
         "questionNo": 7,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q08",
-        "questionText": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
-        "optionA": "আল মাসুদি",
-        "optionB": "ইবনে আল হাইয়াম",
-        "optionC": "ওমর খৈয়াম",
-        "optionD": "আল খোয়ারিজমি",
+        "questionText": "আধুনিক আলোকবিজ্ঞানের ভিত্তি নির্মাণে ইবনে আল-হাইথামের প্রধান অবদান কোন ক্ষেত্রে?",
+        "optionA": "জ্যোতির্বিদ্যা",
+        "optionB": "আলো ও দৃষ্টি বিষয়ক পরীক্ষামূলক গবেষণা",
+        "optionC": "তাপগতিবিদ্যা",
+        "optionD": "বিদ্যুৎ",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
@@ -18185,7 +18310,9 @@
         "difficulty": "Board Standard",
         "questionNo": 8,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q09",
@@ -18201,23 +18328,27 @@
         "difficulty": "Board Standard",
         "questionNo": 9,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q09.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q10",
-        "questionText": "একটি লেন্সের ক্ষমতা −4D হলে ফোকাস দূরত্ব কত?",
-        "optionA": "−25 cm",
-        "optionB": "−4 cm",
-        "optionC": "+25 cm",
-        "optionD": "+4 cm",
+        "questionText": "−2 D ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
+        "optionA": "−50 cm",
+        "optionB": "+50 cm",
+        "optionC": "−20 cm",
+        "optionD": "+20 cm",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 10,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q10.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q11",
@@ -18233,7 +18364,9 @@
         "difficulty": "Board Standard",
         "questionNo": 11,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q11.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q12",
@@ -18249,7 +18382,9 @@
         "difficulty": "Board Standard",
         "questionNo": 12,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q13",
@@ -18265,7 +18400,9 @@
         "difficulty": "Board Standard",
         "questionNo": 13,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q14",
@@ -18281,7 +18418,9 @@
         "difficulty": "Board Standard",
         "questionNo": 14,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q15",
@@ -18297,23 +18436,27 @@
         "difficulty": "Board Standard",
         "questionNo": 15,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q15.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q16",
-        "questionText": "লেন্সের ক্ষমতার একক কোনটি?",
-        "optionA": "ডায়োপ্টার",
-        "optionB": "মিটার",
-        "optionC": "জুল",
-        "optionD": "ওয়াট",
+        "questionText": "লেন্সের ক্ষমতা বৃদ্ধি পেলে তার ফোকাস দূরত্ব—",
+        "optionA": "বৃদ্ধি পায়",
+        "optionB": "হ্রাস পায়",
+        "optionC": "অপরিবর্তিত থাকে",
+        "optionD": "শূন্য হয়",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 16,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q16.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q17",
@@ -18329,7 +18472,9 @@
         "difficulty": "Board Standard",
         "questionNo": 17,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q18",
@@ -18345,7 +18490,9 @@
         "difficulty": "Board Standard",
         "questionNo": 18,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q19",
@@ -18361,7 +18508,9 @@
         "difficulty": "Board Standard",
         "questionNo": 19,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q20",
@@ -18377,7 +18526,9 @@
         "difficulty": "Board Standard",
         "questionNo": 20,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q21",
@@ -18393,7 +18544,9 @@
         "difficulty": "Board Standard",
         "questionNo": 21,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q21.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q22",
@@ -18409,23 +18562,27 @@
         "difficulty": "Board Standard",
         "questionNo": 22,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q22.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q23",
-        "questionText": "P=1/f হলে f=20 cm লেন্সের ক্ষমতা কত?",
-        "optionA": "5 D",
-        "optionB": "20 D",
-        "optionC": "0.05 D",
-        "optionD": "2 D",
+        "questionText": "একটি অবতল লেন্সের ফোকাস দূরত্ব −20 cm হলে ক্ষমতা কত?",
+        "optionA": "+5 D",
+        "optionB": "−5 D",
+        "optionC": "+2 D",
+        "optionD": "−2 D",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 23,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-03-q23.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-03-q24",
@@ -18440,6 +18597,21 @@
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 24,
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
+      },
+      {
+        "id": "ssc-physics-chapter-09-model-test-03-q25",
+        "questionText": "আলো এক স্বচ্ছ মাধ্যম থেকে অন্য স্বচ্ছ মাধ্যমে গেলে কোন রাশি অপরিবর্তিত থাকে?",
+        "optionA": "বেগ",
+        "optionB": "তরঙ্গদৈর্ঘ্য",
+        "optionC": "কম্পাঙ্ক",
+        "optionD": "দিক",
+        "questionNo": 25,
+        "visualRequired": false,
+        "imageStatus": "not_required",
         "image": null,
         "optionImages": null
       }
@@ -18459,7 +18631,9 @@
         "difficulty": "Board Standard",
         "questionNo": 1,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q01.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q02",
@@ -18475,7 +18649,9 @@
         "difficulty": "Board Standard",
         "questionNo": 2,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q03",
@@ -18491,7 +18667,9 @@
         "difficulty": "Board Standard",
         "questionNo": 3,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q04",
@@ -18507,7 +18685,9 @@
         "difficulty": "Board Standard",
         "questionNo": 4,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q05",
@@ -18523,15 +18703,17 @@
         "difficulty": "Board Standard",
         "questionNo": 5,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q06",
-        "questionText": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
-        "optionA": "আল মাসুদি",
-        "optionB": "ইবনে আল হাইয়াম",
-        "optionC": "ওমর খৈয়াম",
-        "optionD": "আল খোয়ারিজমি",
+        "questionText": "Optical fiber-এ আলো পরিবাহিত হওয়ার মূল নীতি কোনটি?",
+        "optionA": "প্রতিসরণ",
+        "optionB": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+        "optionC": "ব্যতিচার",
+        "optionD": "অপবর্তন",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
@@ -18539,7 +18721,9 @@
         "difficulty": "Board Standard",
         "questionNo": 6,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q07",
@@ -18555,7 +18739,9 @@
         "difficulty": "Board Standard",
         "questionNo": 7,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q07.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q08",
@@ -18571,7 +18757,9 @@
         "difficulty": "Board Standard",
         "questionNo": 8,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q08.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q09",
@@ -18587,23 +18775,27 @@
         "difficulty": "Board Standard",
         "questionNo": 9,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q09.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q10",
-        "questionText": "ফোকাস দূরত্ব 25 cm বিশিষ্ট উত্তল লেন্সের ক্ষমতা কত?",
-        "optionA": "+2D",
-        "optionB": "+4D",
-        "optionC": "-2D",
-        "optionD": "-4D",
+        "questionText": "+5 D ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
+        "optionA": "+20 cm",
+        "optionB": "−20 cm",
+        "optionC": "+5 cm",
+        "optionD": "−5 cm",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 10,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q10.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q11",
@@ -18619,7 +18811,9 @@
         "difficulty": "Board Standard",
         "questionNo": 11,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q11.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q12",
@@ -18635,7 +18829,9 @@
         "difficulty": "Board Standard",
         "questionNo": 12,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q12.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q13",
@@ -18651,7 +18847,9 @@
         "difficulty": "Board Standard",
         "questionNo": 13,
         "image": "/images/quiz/geo-triangle-altitudes.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q14",
@@ -18667,7 +18865,9 @@
         "difficulty": "Board Standard",
         "questionNo": 14,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q14.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q15",
@@ -18683,7 +18883,9 @@
         "difficulty": "Board Standard",
         "questionNo": 15,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q16",
@@ -18699,7 +18901,9 @@
         "difficulty": "Board Standard",
         "questionNo": 16,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q17",
@@ -18715,23 +18919,27 @@
         "difficulty": "Board Standard",
         "questionNo": 17,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q18",
-        "questionText": "লেন্সের ক্ষমতার একক কোনটি?",
-        "optionA": "ডায়োপ্টার",
-        "optionB": "মিটার",
-        "optionC": "জুল",
-        "optionD": "ওয়াট",
+        "questionText": "1 diopter ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
+        "optionA": "1 m",
+        "optionB": "1 cm",
+        "optionC": "10 m",
+        "optionD": "100 m",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 18,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q18.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q19",
@@ -18747,7 +18955,9 @@
         "difficulty": "Board Standard",
         "questionNo": 19,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q20",
@@ -18763,7 +18973,9 @@
         "difficulty": "Board Standard",
         "questionNo": 20,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q21",
@@ -18779,7 +18991,9 @@
         "difficulty": "Board Standard",
         "questionNo": 21,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q22",
@@ -18795,7 +19009,9 @@
         "difficulty": "Board Standard",
         "questionNo": 22,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q23",
@@ -18811,7 +19027,9 @@
         "difficulty": "Board Standard",
         "questionNo": 23,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q24",
@@ -18827,7 +19045,9 @@
         "difficulty": "Board Standard",
         "questionNo": 24,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q24.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-04-q25",
@@ -18843,7 +19063,9 @@
         "difficulty": "Board Standard",
         "questionNo": 25,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-04-q25.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       }
     ],
     "ssc-physics-chapter-09-model-test-05": [
@@ -18861,7 +19083,9 @@
         "difficulty": "Board Standard",
         "questionNo": 1,
         "image": "/images/quiz/geo-triangle-altitudes.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q02",
@@ -18877,7 +19101,9 @@
         "difficulty": "Board Standard",
         "questionNo": 2,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q02.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q03",
@@ -18893,7 +19119,9 @@
         "difficulty": "Board Standard",
         "questionNo": 3,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q03.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q04",
@@ -18909,7 +19137,9 @@
         "difficulty": "Board Standard",
         "questionNo": 4,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q05",
@@ -18925,7 +19155,9 @@
         "difficulty": "Board Standard",
         "questionNo": 5,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q06",
@@ -18941,7 +19173,9 @@
         "difficulty": "Board Standard",
         "questionNo": 6,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q07",
@@ -18957,15 +19191,17 @@
         "difficulty": "Board Standard",
         "questionNo": 7,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q08",
-        "questionText": "কোন বিজ্ঞানীকে আলোকবিজ্ঞানের স্থপতি হিসেবে বিবেচনা করা হয়?",
-        "optionA": "আল মাসুদি",
-        "optionB": "ইবনে আল হাইয়াম",
-        "optionC": "ওমর খৈয়াম",
-        "optionD": "আল খোয়ারিজমি",
+        "questionText": "হীরা বেশি ঝলমলে দেখায় প্রধানত কোন কারণে?",
+        "optionA": "প্রতিসরণ",
+        "optionB": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+        "optionC": "ব্যতিচার",
+        "optionD": "অপবর্তন",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
@@ -18973,7 +19209,9 @@
         "difficulty": "Board Standard",
         "questionNo": 8,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q09",
@@ -18989,23 +19227,27 @@
         "difficulty": "Board Standard",
         "questionNo": 9,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q09.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q10",
-        "questionText": "একটি লেন্সের ক্ষমতা −4D হলে ফোকাস দূরত্ব কত?",
-        "optionA": "−25 cm",
-        "optionB": "−4 cm",
-        "optionC": "+25 cm",
-        "optionD": "+4 cm",
+        "questionText": "পানিতে রাখা মুদ্রা ওপরে উঠে এসেছে বলে মনে হওয়ার কারণ—",
+        "optionA": "প্রতিফলন",
+        "optionB": "প্রতিসরণ",
+        "optionC": "বিচ্ছুরণ",
+        "optionD": "শোষণ",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 10,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q10.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q11",
@@ -19021,31 +19263,35 @@
         "difficulty": "Board Standard",
         "questionNo": 11,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q11.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q12",
-        "questionText": "ফোকাস দূরত্ব 25 cm বিশিষ্ট উত্তল লেন্সের ক্ষমতা কত?",
-        "optionA": "+2D",
-        "optionB": "+4D",
-        "optionC": "-2D",
-        "optionD": "-4D",
+        "questionText": "অবতল লেন্সের ক্ষমতার চিহ্ন কী?",
+        "optionA": "ধনাত্মক",
+        "optionB": "ঋণাত্মক",
+        "optionC": "শূন্য",
+        "optionD": "অসীম",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 12,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q12.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q13",
-        "questionText": "n₁sinθ₁=n₂sinθ₂ কোন সূত্র?",
-        "optionA": "Snell",
-        "optionB": "Newton",
-        "optionC": "Ohm",
-        "optionD": "Coulomb",
+        "questionText": "−2 D ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
+        "optionA": "−50 cm",
+        "optionB": "−20 cm",
+        "optionC": "+50 cm",
+        "optionD": "+20 cm",
         "correctOption": "A",
         "explanation": "refraction",
         "chapter": "09",
@@ -19053,7 +19299,9 @@
         "difficulty": "Board Standard",
         "questionNo": 13,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q14",
@@ -19069,7 +19317,9 @@
         "difficulty": "Board Standard",
         "questionNo": 14,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q15",
@@ -19085,7 +19335,9 @@
         "difficulty": "Board Standard",
         "questionNo": 15,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q16",
@@ -19101,23 +19353,27 @@
         "difficulty": "Board Standard",
         "questionNo": 16,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q16.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q17",
-        "questionText": "লেন্সের ক্ষমতার একক কোনটি?",
-        "optionA": "ডায়োপ্টার",
-        "optionB": "মিটার",
-        "optionC": "জুল",
-        "optionD": "ওয়াট",
+        "questionText": "আলোর প্রতিসরণের সময় কোনটি অপরিবর্তিত থাকে?",
+        "optionA": "বেগ",
+        "optionB": "তরঙ্গদৈর্ঘ্য",
+        "optionC": "কম্পাঙ্ক",
+        "optionD": "দিক",
         "correctOption": "A",
         "explanation": "",
         "chapter": "09",
         "topic": "আলোর প্রতিসরণ",
         "difficulty": "Board Standard",
         "questionNo": 17,
-        "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q17.svg",
-        "optionImages": null
+        "image": null,
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q18",
@@ -19133,7 +19389,9 @@
         "difficulty": "Board Standard",
         "questionNo": 18,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q19",
@@ -19149,7 +19407,9 @@
         "difficulty": "Board Standard",
         "questionNo": 19,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q20",
@@ -19165,7 +19425,9 @@
         "difficulty": "Board Standard",
         "questionNo": 20,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q21",
@@ -19181,7 +19443,9 @@
         "difficulty": "Board Standard",
         "questionNo": 21,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q22",
@@ -19197,7 +19461,9 @@
         "difficulty": "Board Standard",
         "questionNo": 22,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q22.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q23",
@@ -19213,7 +19479,9 @@
         "difficulty": "Board Standard",
         "questionNo": 23,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q23.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q24",
@@ -19229,7 +19497,9 @@
         "difficulty": "Board Standard",
         "questionNo": 24,
         "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q24.svg",
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "available"
       },
       {
         "id": "ssc-physics-chapter-09-model-test-05-q25",
@@ -19245,7 +19515,9 @@
         "difficulty": "Board Standard",
         "questionNo": 25,
         "image": null,
-        "optionImages": null
+        "optionImages": null,
+        "visualRequired": false,
+        "imageStatus": "not_required"
       }
     ],
     "ssc-physics-chapter-11-model-test-02": [

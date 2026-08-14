@@ -28,16 +28,16 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-03-q08": {
-    "correctOption": "আল মাসুদি",
-    "explanation": ""
+    "correctOption": "আলো ও দৃষ্টি বিষয়ক পরীক্ষামূলক গবেষণা",
+    "explanation": "সঠিক উত্তর: আলো ও দৃষ্টি বিষয়ক পরীক্ষামূলক গবেষণা"
   },
   "ssc-physics-chapter-09-model-test-03-q09": {
     "correctOption": "+2 D",
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-03-q10": {
-    "correctOption": "−25 cm",
-    "explanation": ""
+    "correctOption": "−50 cm",
+    "explanation": "সঠিক উত্তর: −50 cm"
   },
   "ssc-physics-chapter-09-model-test-03-q11": {
     "correctOption": "+2D",
@@ -60,8 +60,8 @@
     "explanation": "lens"
   },
   "ssc-physics-chapter-09-model-test-03-q16": {
-    "correctOption": "ডায়োপ্টার",
-    "explanation": ""
+    "correctOption": "হ্রাস পায়",
+    "explanation": "সঠিক উত্তর: হ্রাস পায়"
   },
   "ssc-physics-chapter-09-model-test-03-q17": {
     "correctOption": "শূন্য মাধ্যম",
@@ -88,11 +88,15 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-03-q23": {
-    "correctOption": "5 D",
-    "explanation": ""
+    "correctOption": "−5 D",
+    "explanation": "সঠিক উত্তর: −5 D"
   },
   "ssc-physics-chapter-09-model-test-03-q24": {
     "correctOption": "2.25×10⁸ m/s",
     "explanation": ""
+  },
+  "ssc-physics-chapter-09-model-test-03-q25": {
+    "correctOption": "কম্পাঙ্ক",
+    "explanation": "সঠিক উত্তর: কম্পাঙ্ক"
   }
 }
