@@ -109,7 +109,11 @@ function LoginPageContent() {
                   ব্যাকএন্ড সার্ভার সংযুক্ত নেই
                 </p>
                 <p className="mt-1 text-xs text-amber-400/70">
-                  FastAPI সার্ভার (port 8000) চালু নেই। আলাদা টার্মিনালে <code className="rounded bg-slate-800 px-1 py-0.5">pnpm dev:backend</code> চালান।
+                  {process.env.NODE_ENV === "development" ? (
+                    <>FastAPI server (port 8000) is not running. Start <code className="rounded bg-slate-800 px-1 py-0.5">pnpm dev:backend</code>.</>
+                  ) : (
+                    "Server connection is temporarily unavailable. Please try again shortly."
+                  )}
                 </p>
                 <button
                   type="button"

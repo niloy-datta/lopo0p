@@ -116,12 +116,8 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   const checkBackend = async () => {
     setBackendStatus("checking");
-    try {
-      await api.get<{ user: UserProfile | null }>("/api/auth/me");
-      setBackendStatus("up");
-    } catch {
-      setBackendStatus("down");
-    }
+    const isAvailable = await api.checkBackend();
+    setBackendStatus(isAvailable ? "up" : "down");
   };
 
   const retryBackend = async () => {

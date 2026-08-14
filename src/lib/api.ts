@@ -83,7 +83,9 @@ export async function apiRequest<T = unknown>(
   // backend restarts don't immediately surface as errors to the user.
   const maxAttempts = 3; // 1 initial + 2 retries
   const UNAVAILABLE_MSG =
-    "Backend API unavailable — start FastAPI on port 8000 (`pnpm dev:backend`)";
+    process.env.NODE_ENV === "development"
+      ? "Backend API unavailable — start FastAPI on port 8000 (`pnpm dev:backend`)"
+      : "Backend API is temporarily unavailable. Please try again.";
   let res!: Response;
 
   for (let attempt = 0; attempt < maxAttempts; attempt++) {
@@ -134,8 +136,8 @@ export const api = {
    */
   async checkBackend(): Promise<boolean> {
     try {
-      await apiRequest<unknown>('/api/auth/me');
-      return true;
+      const health = await apiRequest<{ ok?: boolean }>("/api/health");
+      return health.ok === true;
     } catch {
       return false;
     }
