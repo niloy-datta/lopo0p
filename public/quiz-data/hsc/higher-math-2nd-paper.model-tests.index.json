@@ -284,6 +284,101 @@
         "high-priority"
       ],
       "name": "Board Standard Model Test 07"
+    },
+    "hsc-higher-math-2nd-paper-chapter-01-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০1",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০1"
+    },
+    "hsc-higher-math-2nd-paper-chapter-01-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০2",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০2"
+    },
+    "hsc-higher-math-2nd-paper-chapter-01-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০3",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০3"
+    },
+    "hsc-higher-math-2nd-paper-chapter-01-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০4",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০4"
+    },
+    "hsc-higher-math-2nd-paper-chapter-01-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০5",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ],
+      "name": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০5"
     }
   }
 }

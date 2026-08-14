@@ -277,6 +277,96 @@
         "paper-wise",
         "hyper-exclusive"
       ]
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+      "title": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০1",
+      "questionCount": 25,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ]
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-02",
+      "title": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০2",
+      "questionCount": 25,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ]
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-03",
+      "title": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০3",
+      "questionCount": 25,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ]
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-04",
+      "title": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০4",
+      "questionCount": 25,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ]
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+      "title": "অধ্যায় ০১ · বাস্তব সংখ্যা ও অসমতা · টেস্ট ০5",
+      "questionCount": 25,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা ও অসমতা"
+        }
+      ]
     }
   ],
   "boards": [

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q01",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "নিচের কোনটি অমূলদ সংখ্যা?",
+    "options": [
+      "\\(\\frac{7}{11}\\)",
+      "\\(0.125\\)",
+      "\\(\\sqrt3\\)",
+      "\\(0.\\overline3\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q02",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "বাস্তব সংখ্যায় যোগের অভেদক কোনটি?",
+    "options": [
+      "\\(0\\)",
+      "\\(1\\)",
+      "\\(-1\\)",
+      "\\(a\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q03",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(-2<x\\le5\\)-এর interval notation কোনটি?",
+    "options": [
+      "([-2,5])",
+      "((-2,5])",
+      "([-2,5))",
+      "\\((-2,5)\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q04",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(|x-3|=5\\) হলে \\(x=\\)",
+    "options": [
+      "(8,-2)",
+      "(8,2)",
+      "(5,-5)",
+      "(3,-3)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q05",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(2x-3<7\\) হলে—",
+    "options": [
+      "\\(x<2\\)",
+      "\\(x<5\\)",
+      "\\(x>5\\)",
+      "\\(x\\le5\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q06",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "[i, ii, iii] বাস্তব সংখ্যা (a,b,c)-এর জন্য— i. \\(a+b=b+a\\) ii. \\(a(b+c)=ab+ac\\) iii. \\(a+0=0\\) সঠিক কোনটি?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q07",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(|2x-3|<5\\)-এর সমাধান—",
+    "options": [
+      "\\(-1<x<4\\)",
+      "\\(-4<x<1\\)",
+      "\\(x<-1\\) অথবা \\(x>4\\)",
+      "\\(-1\\le x\\le4\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q08",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(|x+1|\\ge3\\) হলে—",
+    "options": [
+      "\\(-4\\le x\\le2\\)",
+      "\\(x\\le-4\\) অথবা \\(x\\ge2\\)",
+      "\\(x<-3\\) অথবা \\(x>3\\)",
+      "\\(-2\\le x\\le4\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q09",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\((x-2)(x+1)<0\\)-এর সমাধান—",
+    "options": [
+      "\\(x<-1\\)",
+      "\\(-1<x<2\\)",
+      "\\(x>2\\)",
+      "\\(x<-1\\) অথবা \\(x>2\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q10",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(x^2-5x+6\\ge0\\) হলে—",
+    "options": [
+      "\\(2\\le x\\le3\\)",
+      "\\(x\\le2\\) অথবা \\(x\\ge3\\)",
+      "\\(2<x<3\\)",
+      "\\(x<2\\) অথবা \\(x>3\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q11",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(\\frac{x-1}{x+2}>0\\)-এর সমাধান—",
+    "options": [
+      "\\(-2<x<1\\)",
+      "\\(x<-2\\) অথবা \\(x>1\\)",
+      "\\(x>-2\\)",
+      "\\(x<1\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q12",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(x<0\\) হলে \\(|x|=\\)",
+    "options": [
+      "\\(x\\)",
+      "\\(-x\\)",
+      "\\(0\\)",
+      "\\(x^2\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q13",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\((-2,4]\\cap[1,6)=\\)",
+    "options": [
+      "\\((-2,6)\\)",
+      "([1,4])",
+      "\\((1,4)\\)",
+      "([-2,6])"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q14",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "[i, ii, iii] যদি \\(a>b\\), তবে— i. \\(a+c>b+c\\) ii. \\(c<0\\) হলে \\(ac<bc\\) iii. (a,b>0) হলে \\(\\frac1a>\\frac1b\\) সঠিক কোনটি?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q15",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(x>0\\) হলে \\(x+\\frac4x\\)-এর সর্বনিম্ন মান—",
+    "options": [
+      "\\(2\\)",
+      "\\(4\\)",
+      "\\(6\\)",
+      "\\(8\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q16",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(|x-2|\\le4\\)-এর সমাধান—",
+    "options": [
+      "([-2,6])",
+      "\\((-2,6)\\)",
+      "\\(x\\le-2\\) অথবা \\(x\\ge6\\)",
+      "([-6,2])"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q17",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(|x-1|<|x+3|\\) হলে—",
+    "options": [
+      "\\(x<-1\\)",
+      "\\(x>-1\\)",
+      "\\(x>1\\)",
+      "\\(x<-3\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q18",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(2<3x+1\\le10\\) হলে—",
+    "options": [
+      "\\(\\frac13<x\\le3\\)",
+      "\\(1<x\\le3\\)",
+      "\\(\\frac13\\le x<3\\)",
+      "\\(x>3\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q19",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "(S=(2,7]) হলে \\((\\inf S,\\sup S)=\\)",
+    "options": [
+      "\\((2,7)\\)",
+      "\\((7,2)\\)",
+      "\\((2,2)\\)",
+      "\\((7,7)\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(|x|=x\\) হওয়ার প্রয়োজনীয় ও যথেষ্ট শর্ত—",
+    "options": [
+      "\\(x<0\\)",
+      "\\(x\\ge0\\)",
+      "\\(x>0\\)",
+      "\\(x\\ne0\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(\\sqrt{(x+2)^2}=\\)",
+    "options": [
+      "\\(x+2\\)",
+      "\\(-x-2\\)",
+      "\\(|x+2|\\)",
+      "\\(x^2+4\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "[i, ii, iii] নিচের বিবৃতিগুলো বিবেচনা করো— i. \\(\\sqrt2\\) অমূলদ ii. দুটি অমূলদ সংখ্যার যোগফল সর্বদা অমূলদ iii. মূলদ ও অমূলদ সংখ্যার যোগফল অমূলদ সঠিক কোনটি?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(\\frac{x^2-4}{x-1}\\le0\\)-এর সমাধান—",
+    "options": [
+      "((-\\infty,-2]\\cup(1,2])",
+      "([-2,1))",
+      "\\((-2,2)\\)",
+      "\\((-\\infty,-2)\\cup[1,2]\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "\\(|2x+1|>3\\) হলে—",
+    "options": [
+      "\\(-2<x<1\\)",
+      "\\(x<-2\\) অথবা \\(x>1\\)",
+      "\\(x<-1\\) অথবা \\(x>2\\)",
+      "\\(-2\\le x\\le1\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-01-q25",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-01",
+    "text": "🔥 \\(|x-1|+|x+1|<4\\)-এর সমাধান—",
+    "options": [
+      "\\(-1<x<1\\)",
+      "\\(-2<x<2\\)",
+      "\\(x<-2\\) অথবা \\(x>2\\)",
+      "\\(-2\\le x\\le2\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

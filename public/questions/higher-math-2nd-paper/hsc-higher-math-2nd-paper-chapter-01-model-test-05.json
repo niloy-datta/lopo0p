@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q01",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\((\\sqrt3)^2\\) হলো—",
+    "options": [
+      "অমূলদ",
+      "মূলদ",
+      "কাল্পনিক",
+      "অসংজ্ঞায়িত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q02",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(a+(-a)=0\\) কোন ধর্ম নির্দেশ করে?",
+    "options": [
+      "যোগের বিপরীত",
+      "যোগের অভেদক",
+      "গুণের বিপরীত",
+      "বণ্টন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q03",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\((-3,2]\\cap[-1,5)=\\)",
+    "options": [
+      "([-1,2])",
+      "\\((-3,5)\\)",
+      "\\((-1,2)\\)",
+      "([-3,5])"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q04",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(|x+3|=|2x-1|\\) হলে—",
+    "options": [
+      "(x=4,-\\frac23)",
+      "(x=-4,\\frac23)",
+      "(x=4,\\frac23)",
+      "(x=-4,-\\frac23)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q05",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(||x|-1|=2\\)-এর সমাধান—",
+    "options": [
+      "\\(x=\\pm1\\)",
+      "\\(x=\\pm2\\)",
+      "\\(x=\\pm3\\)",
+      "\\(x=3\\) শুধু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q06",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "[i, ii, iii] যেকোনো বাস্তব (x,y)-এর জন্য— i. \\(|x+y|\\le|x|+|y|\\) ii. \\(||x|-|y||\\le|x-y|\\) iii. \\(|xy|=|x|+|y|\\) সঠিক কোনটি?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q07",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(|3x+1|>8\\)-এর solution—",
+    "options": [
+      "\\(-3<x<\\frac73\\)",
+      "\\(x<-3\\) অথবা \\(x>\\frac73\\)",
+      "\\(x<-\\frac73\\) অথবা \\(x>3\\)",
+      "\\(x>-3\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q08",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(|x-2|\\le3\\) এবং \\(|x+1|>1\\) হলে—",
+    "options": [
+      "((0,5])",
+      "([-1,5])",
+      "((-2,5])",
+      "([0,5])"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q09",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(x^2-2x-8<0\\)-এর solution—",
+    "options": [
+      "\\((-2,4)\\)",
+      "\\((-\\infty,-2)\\cup(4,\\infty)\\)",
+      "([-2,4])",
+      "\\((-4,2)\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q10",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\((x^2-9)(x-1)\\ge0\\)-এর solution—",
+    "options": [
+      "([-3,1]\\cup[3,\\infty))",
+      "((-\\infty,-3]\\cup[1,3])",
+      "([-3,3])",
+      "\\((1,\\infty)\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q11",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(\\frac{x^2-4}{x^2-1}\\le0\\)-এর solution—",
+    "options": [
+      "([-2,-1)\\cup(1,2])",
+      "\\((-1,1)\\)",
+      "\\((-\\infty,-2]\\cup[2,\\infty)\\)",
+      "([-2,2])"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q12",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(\\frac1{x-1}+\\frac1{x+1}>0\\)-এর solution—",
+    "options": [
+      "\\((-1,0)\\cup(1,\\infty)\\)",
+      "\\((-\\infty,-1)\\cup(0,1)\\)",
+      "\\((-1,1)\\)",
+      "\\((0,\\infty)\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q13",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(\\frac{x+1}{x-2}\\ge\\frac{x-1}{x+2}\\)-এর solution—",
+    "options": [
+      "\\((-2,0]\\cup(2,\\infty)\\)",
+      "((-\\infty,-2)\\cup[0,2))",
+      "([-2,0]\\cup[2,\\infty))",
+      "\\((-2,2)\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q14",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "[i, ii, iii] \\(S={x\\in\\mathbb R:x^2<4}\\)-এর জন্য— i. \\(\\inf S=-2\\) ii. \\(\\sup S=2\\) iii. \\(\\max S=2\\) সঠিক কোনটি?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q15",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(T={1-\\frac1n:n\\in\\mathbb N}\\)-এর maximum—",
+    "options": [
+      "\\(0\\)",
+      "\\(1\\)",
+      "\\(-1\\)",
+      "অস্তিত্ব নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q16",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(x>0\\) হলে \\(x+\\frac{36}{x}\\)-এর সর্বনিম্ন মান—",
+    "options": [
+      "\\(6\\)",
+      "\\(12\\)",
+      "\\(18\\)",
+      "\\(36\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q17",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "(a,b>0,\\ ab=25) হলে \\(a+b\\)-এর সর্বনিম্ন মান—",
+    "options": [
+      "\\(5\\)",
+      "\\(10\\)",
+      "\\(25\\)",
+      "\\(50\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q18",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "(a,b>0) হলে \\(\\frac{a+b}{\\sqrt{ab}}\\)-এর সর্বনিম্ন মান—",
+    "options": [
+      "\\(1\\)",
+      "\\(2\\)",
+      "\\(4\\)",
+      "\\(\\sqrt2\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q19",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(|x-1|\\le|x+3|\\) এবং \\(|x-4|<|x|\\) হলে—",
+    "options": [
+      "\\(x>2\\)",
+      "\\(x\\ge-1\\)",
+      "\\(-1\\le x\\le2\\)",
+      "\\(x<2\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(|x+2|+|x-2|<6\\)-এর solution—",
+    "options": [
+      "\\((-2,2)\\)",
+      "\\((-3,3)\\)",
+      "([-3,3])",
+      "\\(x<-3\\) অথবা \\(x>3\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(||x-2|-1|>2\\)-এর solution—",
+    "options": [
+      "\\(x<-1\\) অথবা \\(x>5\\)",
+      "\\(-1<x<5\\)",
+      "\\(x<1\\) অথবা \\(x>3\\)",
+      "\\(x\\le-1\\) অথবা \\(x\\ge5\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "[i, ii, iii] নিচের বিবৃতিগুলো বিবেচনা করো— i. মূলদ + অমূলদ = অমূলদ ii. অশূন্য মূলদ × অমূলদ = অমূলদ iii. দুটি অমূলদ সংখ্যার ভাগফল সর্বদা অমূলদ সঠিক কোনটি?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(\\left|\\frac{x-1}{x+2}\\right|>2\\)-এর solution—",
+    "options": [
+      "\\((-5,-2)\\cup(-2,-1)\\)",
+      "\\((-5,-1)\\)",
+      "\\((-\\infty,-5)\\cup(-1,\\infty)\\)",
+      "\\((-2,-1)\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "\\(\\frac{x^2-4x+3}{x^2-5x+6}\\ge0\\)-এর solution—",
+    "options": [
+      "\\((-\\infty,1]\\cup(2,3)\\cup(3,\\infty)\\)",
+      "([1,2]\\cup[3,\\infty))",
+      "\\((1,2)\\cup(3,\\infty)\\)",
+      "\\((-\\infty,1]\\cup[2,\\infty)\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q25",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+    "text": "🔥 FINAL CHALLENGE \\(|x-1|+|x+2|\\le5\\) এর solution set—",
+    "options": [
+      "([-3,2])",
+      "([-2,1])",
+      "\\((-3,2)\\)",
+      "\\((-\\infty,-3]\\cup[2,\\infty)\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]
