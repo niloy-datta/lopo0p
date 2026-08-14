@@ -3,12 +3,12 @@
     "id": "ssc-general-math-model-test-16-q01",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "84-এর মৌলিক উৎপাদকগুলো কোনটি?",
+    "text": "84-এর মৌলিক উৎপাদক বিশ্লেষণ কোনটি?",
     "options": [
-      "2,3,7",
-      "2,5,7",
-      "3,5,7",
-      "2,3,5"
+      "2×3×7",
+      "2²×3×7",
+      "2×3²×7",
+      "2²×3²"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-general-math-model-test-16-q06",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "\\(\\log_{10}1000\\) কত?",
+    "text": "log₁₀1000-এর মান কত?",
     "options": [
-      "1",
       "2",
       "3",
-      "10"
+      "10",
+      "100"
     ],
     "image": null,
     "optionImages": null,
@@ -108,9 +108,9 @@
     "id": "ssc-general-math-model-test-16-q08",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "\\(1+\\tan^2\\theta\\) = ?",
+    "text": "1 + tan²θ কোনটির সমান?",
     "options": [
-      "cosec²θ",
+      "csc²θ",
       "sec²θ",
       "cot²θ",
       "sin²θ"
@@ -138,12 +138,12 @@
     "id": "ssc-general-math-model-test-16-q10",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "L = 61, f₁ = 4, f₂ = 3 এবং h = 10 হলে প্রচুরক কত?",
+    "text": "গড় (Mean), মধ্যক (Median) ও প্রচুরক (Mode)-এর empirical সম্পর্ক কোনটি?",
     "options": [
-      "71.57",
-      "71.43",
-      "66.71",
-      "65.29"
+      "Mode = Mean + Median",
+      "Mode = 2Mean − Median",
+      "Mode = 3Median − 2Mean",
+      "Mode = 3Mean − 2Median"
     ],
     "image": null,
     "optionImages": null,
@@ -153,7 +153,7 @@
     "id": "ssc-general-math-model-test-16-q11",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "3, 7, 11, 15,... ধারাটির 12তম পদ কত?",
+    "text": "3, 7, 11, 15, … ধারাটির 12তম পদ কত?",
     "options": [
       "43",
       "47",
@@ -168,12 +168,12 @@
     "id": "ssc-general-math-model-test-16-q12",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "\\(x^2-9x+20=0\\) সমীকরণের মূলদ্বয়—",
+    "text": "x² − 9x + 20 = 0 সমীকরণের মূলদ্বয় কোনটি?",
     "options": [
-      "2,10",
-      "4,5",
-      "−4,−5",
-      "1,20"
+      "2 ও 10",
+      "4 ও 5",
+      "−4 ও −5",
+      "1 ও 20"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-general-math-model-test-16-q17",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "0000235 সংখ্যাটির সাধারণ লগের পূর্ণক কত?",
+    "text": "log₁₀(0.000235)-এর characteristic (পূর্ণক) কোনটি?",
     "options": [
-      "5̅",
-      "4",
-      "4̅",
-      "5"
+      "bar 2",
+      "bar 3",
+      "bar 4",
+      "4"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-general-math-model-test-16-q22",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "If A = {2, 3, 7, 9}, how many proper subsets does A have?",
+    "text": "একটি থলেতে 3টি লাল ও 2টি নীল বল আছে। এলোমেলোভাবে একটি বল তুললে লাল হওয়ার সম্ভাবনা কত?",
     "options": [
-      "7",
-      "8",
-      "15",
-      "16"
+      "2/5",
+      "3/5",
+      "1/2",
+      "3/2"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-general-math-model-test-16-q23",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "If P = {2, 3, 4} and Q = {3, 4, 7}, then Q \\ P = ?",
+    "text": "3, 5, 7, 9, 11 সংখ্যাগুলোর মধ্যক কত?",
     "options": [
-      "{2}",
-      "{7}",
-      "{3, 4}",
-      "{2, 7}"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-general-math-model-test-16-q24",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "\\((a+b)^2\\)-এর বিস্তৃতি কোনটি?",
+    "text": "x + 1/x = 3 হলে x² + 1/x²-এর মান কত?",
     "options": [
-      "\\(a^2+b^2\\)",
-      "\\(a^2+2ab+b^2\\)",
-      "\\(a^2-2ab+b^2\\)",
-      "\\(2a^2+2b^2\\)"
+      "5",
+      "7",
+      "9",
+      "11"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-general-math-model-test-16-q25",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "\\(2x+5=17\\) হলে x কত?",
+    "text": "(1,2) ও (4,6) বিন্দুর মধ্যবর্তী দূরত্ব কত?",
     "options": [
+      "4",
       "5",
       "6",
-      "7",
-      "11"
+      "7"
     ],
     "image": null,
     "optionImages": null,

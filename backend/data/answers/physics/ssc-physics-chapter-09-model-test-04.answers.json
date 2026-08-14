@@ -20,8 +20,8 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-04-q06": {
-    "correctOption": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-    "explanation": "সঠিক উত্তর: পূর্ণ অভ্যন্তরীণ প্রতিফলন"
+    "correctOption": "1.24×10^8 m/s",
+    "explanation": "সঠিক উত্তর: 1.24×10^8 m/s। v = c/n ≈ 3.0×10^8/2.42 ≈ 1.24×10^8 m/s।"
   },
   "ssc-physics-chapter-09-model-test-04-q07": {
     "correctOption": "+2 D",
@@ -36,8 +36,8 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-04-q10": {
-    "correctOption": "+20 cm",
-    "explanation": "সঠিক উত্তর: +20 cm"
+    "correctOption": "অবতল লেন্স",
+    "explanation": "সঠিক উত্তর: অবতল লেন্স। অবতল লেন্স বাস্তব বস্তুর জন্য সবসময় কাল্পনিক, সোজা ও ক্ষুদ্র প্রতিচ্ছবি দেয়।"
   },
   "ssc-physics-chapter-09-model-test-04-q11": {
     "correctOption": "প্রতিফলিত হয়",
@@ -48,8 +48,8 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-04-q13": {
-    "correctOption": "\\(\\frac{1}{2\\sqrt{2}}\\)",
-    "explanation": ""
+    "correctOption": "1.33",
+    "explanation": "সঠিক উত্তর: 1.33। n = 10/7.5 = 1.333... ≈ 1.33।"
   },
   "ssc-physics-chapter-09-model-test-04-q14": {
     "correctOption": "ডায়োপ্টার",
@@ -64,12 +64,12 @@
     "explanation": "refraction"
   },
   "ssc-physics-chapter-09-model-test-04-q17": {
-    "correctOption": "42",
-    "explanation": "Snell"
+    "correctOption": "24°",
+    "explanation": "সঠিক উত্তর: 24°। sin r = sin48°/1.8; তাই r ≈ 24.4°।"
   },
   "ssc-physics-chapter-09-model-test-04-q18": {
-    "correctOption": "1 m",
-    "explanation": "সঠিক উত্তর: 1 m"
+    "correctOption": "বাইফোকাল লেন্স",
+    "explanation": "সঠিক উত্তর: বাইফোকাল লেন্স। Presbyopia-তে প্রয়োজন অনুসারে দূর ও নিকটের জন্য ভিন্ন ক্ষমতা থাকা bifocal lens ব্যবহৃত হতে পারে।"
   },
   "ssc-physics-chapter-09-model-test-04-q19": {
     "correctOption": "শূন্য মাধ্যম",

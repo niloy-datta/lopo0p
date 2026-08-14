@@ -8,8 +8,8 @@
     "explanation": "ছবিতে চিহ্নিত উত্তর ক। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
   },
   "ssc-general-math-model-test-15-q03": {
-    "correctOption": "2",
-    "explanation": "সঠিক উত্তর: 2"
+    "correctOption": "5/3",
+    "explanation": "সঠিক উত্তর: 5/3। cscθ=1/sinθ=5/3।"
   },
   "ssc-general-math-model-test-15-q04": {
     "correctOption": "দ্বিগুণ",
@@ -44,16 +44,16 @@
     "explanation": "ছবিতে চিহ্নিত উত্তর ক। — গড়, মধ্যক, প্রচুরক ও সম্ভাবনা থেকে প্রতি বছর MCQ আসার সম্ভাবনা বেশি।"
   },
   "ssc-general-math-model-test-15-q12": {
-    "correctOption": "৩",
-    "explanation": "log₂ 8 = log₂ 2³ = 3 — ধারা, অনুপাত, সূচক ও লগারিদম formula-based high-priority topic।"
+    "correctOption": "7",
+    "explanation": "সঠিক উত্তর: 7। log₂32=5 এবং log₃9=2; যোগফল 7।"
   },
   "ssc-general-math-model-test-15-q13": {
-    "correctOption": "৪টি",
-    "explanation": "মৌলিক সংখ্যাগুলো হলো ২, ৩, ৫, ৭। মোট ৪টি। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+    "correctOption": "42",
+    "explanation": "সঠিক উত্তর: 42। 84=2²×3×7, 126=2×3²×7; গ.সা.গু=2×3×7=42।"
   },
   "ssc-general-math-model-test-15-q14": {
-    "correctOption": "∠DOC",
-    "explanation": "ছবিতে চিহ্নিত উত্তর খ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
+    "correctOption": "10 m",
+    "explanation": "সঠিক উত্তর: 10 m। tan30°=h/(10√3)=1/√3 ⇒ h=10 m।"
   },
   "ssc-general-math-model-test-15-q15": {
     "correctOption": "1/√3",
@@ -68,20 +68,20 @@
     "explanation": "বোর্ড-স্ট্যান্ডার্ড সূত্র/ধারণা প্রয়োগ করে উত্তর নির্ণয় করতে হবে। — গড়, মধ্যক, প্রচুরক ও সম্ভাবনা থেকে প্রতি বছর MCQ আসার সম্ভাবনা বেশি।"
   },
   "ssc-general-math-model-test-15-q18": {
-    "correctOption": "২০",
-    "explanation": "a_10 = a + (10-1)d = 2 + 9*2 = 20 — ধারা, অনুপাত, সূচক ও লগারিদম formula-based high-priority topic।"
+    "correctOption": "210",
+    "explanation": "সঠিক উত্তর: 210। a=3,d=4,n=10; S=10/2[2×3+9×4]=5×42=210।"
   },
   "ssc-general-math-model-test-15-q19": {
-    "correctOption": "5 সেমি., 12 সেমি., 13 সেমি.",
-    "explanation": "ছবিতে চিহ্নিত উত্তর গ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
+    "correctOption": "24 cm",
+    "explanation": "সঠিক উত্তর: 24 cm। অর্ধজ্যা=√(13²−5²)=12 cm, তাই পূর্ণ জ্যা=24 cm।"
   },
   "ssc-general-math-model-test-15-q20": {
-    "correctOption": "√3",
-    "explanation": "ছবিতে চিহ্নিত উত্তর ঘ। — ত্রিকোণমিতিক মান ও height-distance calculation board exam-এর গুরুত্বপূর্ণ অংশ।"
+    "correctOption": "(5,1)",
+    "explanation": "সঠিক উত্তর: (5,1)। মধ্যবিন্দু=((2+8)/2,(−3+5)/2)=(5,1)।"
   },
   "ssc-general-math-model-test-15-q21": {
-    "correctOption": "২, ৩",
-    "explanation": "x²-3x-2x+6 = (x-2)(x-3) = 0 — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+    "correctOption": "9",
+    "explanation": "সঠিক উত্তর: 9। D=b²−4ac=25−16=9।"
   },
   "ssc-general-math-model-test-15-q22": {
     "correctOption": "120°",
@@ -89,14 +89,14 @@
   },
   "ssc-general-math-model-test-15-q23": {
     "correctOption": "5",
-    "explanation": "সঠিক উত্তর: 5"
+    "explanation": "সঠিক উত্তর: 5। 32=2^5, তাই x=5।"
   },
   "ssc-general-math-model-test-15-q24": {
-    "correctOption": "7 cm",
-    "explanation": "সঠিক উত্তর: 7 cm"
+    "correctOption": "154 cm²",
+    "explanation": "সঠিক উত্তর: 154 cm²। r=7 cm, ক্ষেত্রফল=(22/7)×7²=154 cm²।"
   },
   "ssc-general-math-model-test-15-q25": {
-    "correctOption": "6",
-    "explanation": "সঠিক উত্তর: 6"
+    "correctOption": "1/2",
+    "explanation": "সঠিক উত্তর: 1/2। অনুকূল ফল {2,4,6}=3টি; মোট 6টি, তাই 3/6=1/2।"
   }
 }

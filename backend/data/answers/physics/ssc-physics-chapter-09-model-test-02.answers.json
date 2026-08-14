@@ -21,7 +21,7 @@
   },
   "ssc-physics-chapter-09-model-test-02-q06": {
     "correctOption": "সংকট কোণ",
-    "explanation": "সঠিক উত্তর: সংকট কোণ"
+    "explanation": "সঠিক উত্তর: সংকট কোণ। প্রতিসরণ কোণ 90° হলে সংশ্লিষ্ট আপতন কোণই সংকট কোণ।"
   },
   "ssc-physics-chapter-09-model-test-02-q07": {
     "correctOption": "+2 D",
@@ -36,8 +36,8 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-02-q10": {
-    "correctOption": "প্রতিসরণের জন্য",
-    "explanation": "সঠিক উত্তর: প্রতিসরণের জন্য"
+    "correctOption": "প্রতিসরণ",
+    "explanation": "সঠিক উত্তর: প্রতিসরণ। পানি থেকে বায়ুতে আলো প্রতিসরিত হয়ে অভিলম্ব থেকে দূরে বেঁকে যায়, তাই বস্তুটি কম গভীরে মনে হয়।"
   },
   "ssc-physics-chapter-09-model-test-02-q11": {
     "correctOption": "প্রতিফলিত হয়",
@@ -48,8 +48,8 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-02-q13": {
-    "correctOption": "\\(\\frac{1}{2\\sqrt{2}}\\)",
-    "explanation": ""
+    "correctOption": "2.0×10^8 m/s",
+    "explanation": "সঠিক উত্তর: 2.0×10^8 m/s। v = c/n = 3.0×10^8/1.5 = 2.0×10^8 m/s।"
   },
   "ssc-physics-chapter-09-model-test-02-q14": {
     "correctOption": "Snell",
@@ -60,16 +60,16 @@
     "explanation": "light"
   },
   "ssc-physics-chapter-09-model-test-02-q16": {
-    "correctOption": "32",
-    "explanation": "Snell"
+    "correctOption": "22°",
+    "explanation": "সঠিক উত্তর: 22°। sin r = sin32°/1.4; তাই r ≈ 22.2°।"
   },
   "ssc-physics-chapter-09-model-test-02-q17": {
     "correctOption": "ডায়োপ্টার",
     "explanation": "lens"
   },
   "ssc-physics-chapter-09-model-test-02-q18": {
-    "correctOption": "উত্তল লেন্স",
-    "explanation": "সঠিক উত্তর: উত্তল লেন্স"
+    "correctOption": "উত্তল",
+    "explanation": "সঠিক উত্তর: উত্তল। Hypermetropia-তে নিকট বস্তুর প্রতিচ্ছবি retina-র পেছনে পড়তে চায়; উত্তল লেন্স এটি সংশোধনে সাহায্য করে।"
   },
   "ssc-physics-chapter-09-model-test-02-q19": {
     "correctOption": "শূন্য মাধ্যম",
@@ -80,8 +80,8 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-02-q21": {
-    "correctOption": "1.25",
-    "explanation": "সঠিক উত্তর: 1.25"
+    "correctOption": "42°",
+    "explanation": "সঠিক উত্তর: 42°। sin C = 1/1.5 = 0.6667; তাই C ≈ 41.8° ≈ 42°।"
   },
   "ssc-physics-chapter-09-model-test-02-q22": {
     "correctOption": "2.25×10⁸ m/s",

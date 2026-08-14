@@ -4,8 +4,8 @@
     "explanation": "√৪৯ = ৭, আর ৭ মূলদ সংখ্যা। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
   },
   "ssc-general-math-model-test-12-q02": {
-    "correctOption": "১৮০°",
-    "explanation": "ইউক্লিডীয় জ্যামিতি অনুযায়ী ত্রিভুজের তিন কোণের সমষ্টি ১৮০° বা দুই সমকোণ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
+    "correctOption": "80°",
+    "explanation": "সঠিক উত্তর: 80°। মোট 9 অংশ=180°, প্রতি অংশ 20°; বৃহত্তম কোণ=4×20°=80°।"
   },
   "ssc-general-math-model-test-12-q03": {
     "correctOption": "√3/2",
@@ -28,8 +28,8 @@
     "explanation": "a/b = c/d হলে ক্রস গুণে ad = bc। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
   },
   "ssc-general-math-model-test-12-q08": {
-    "correctOption": "দ্বিগুণ",
-    "explanation": "বৃত্তের একই চাপের ওপর দণ্ডায়মান কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের দ্বিগুণ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
+    "correctOption": "90°",
+    "explanation": "সঠিক উত্তর: 90°। স্পর্শবিন্দুতে ব্যাসার্ধ স্পর্শকের উপর লম্ব।"
   },
   "ssc-general-math-model-test-12-q09": {
     "correctOption": "27/20",
@@ -52,8 +52,8 @@
     "explanation": "x/5 = 6/10 = 3/5, তাই x = 3। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
   },
   "ssc-general-math-model-test-12-q14": {
-    "correctOption": "সূক্ষ্মকোণ",
-    "explanation": "সমকোণ বাদে বাকি দুটি কোণের সমষ্টি ৯০°, তাই এরা প্রত্যেকে সূক্ষ্মকোণ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
+    "correctOption": "12 cm",
+    "explanation": "সঠিক উত্তর: 12 cm। অপর বাহু=√(13²−5²)=√144=12 cm।"
   },
   "ssc-general-math-model-test-12-q15": {
     "correctOption": "i, ii ও iii",
@@ -76,16 +76,16 @@
     "explanation": "-৫ একটি পূর্ণসংখ্যা। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
   },
   "ssc-general-math-model-test-12-q20": {
-    "correctOption": "0°",
-    "explanation": "বোর্ড-স্ট্যান্ডার্ড সূত্র/ধারণা প্রয়োগ করে উত্তর নির্ণয় করতে হবে। — ত্রিকোণমিতিক মান ও height-distance calculation board exam-এর গুরুত্বপূর্ণ অংশ।"
+    "correctOption": "5/4",
+    "explanation": "সঠিক উত্তর: 5/4। 3-4-5 ত্রিভুজে cosθ=4/5, তাই secθ=5/4।"
   },
   "ssc-general-math-model-test-12-q21": {
     "correctOption": "৬",
     "explanation": "x² = 4×9 = 36, তাই x = 6। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
   },
   "ssc-general-math-model-test-12-q22": {
-    "correctOption": "180°",
-    "explanation": "বোর্ড-স্ট্যান্ডার্ড সূত্র/ধারণা প্রয়োগ করে উত্তর নির্ণয় করতে হবে। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
+    "correctOption": "44 cm",
+    "explanation": "সঠিক উত্তর: 44 cm। পরিধি=πd=(22/7)×14=44 cm।"
   },
   "ssc-general-math-model-test-12-q23": {
     "correctOption": "p/q, যেখানে q ≠ 0",
@@ -97,6 +97,6 @@
   },
   "ssc-general-math-model-test-12-q25": {
     "correctOption": "{4,6}",
-    "explanation": "সঠিক উত্তর: {4,6}"
+    "explanation": "সঠিক উত্তর: {4,6}। দুই সেটের সাধারণ উপাদান 4 ও 6।"
   }
 }

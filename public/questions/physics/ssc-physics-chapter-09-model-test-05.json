@@ -3,14 +3,14 @@
     "id": "ssc-physics-chapter-09-model-test-05-q01",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "উদ্দীপক: একটি আলোক রশ্মি হালকা মাধ্যম \\(a\\) থেকে ঘন মাধ্যম \\(b\\)-তে প্রবেশ করছে। আপতিত রশ্মিটি বিভেদ তলের সাথে \\(30^{\\circ}\\) কোণ তৈরি করে এবং প্রতিসৃত রশ্মিটি অভিলম্বের সাথে \\(45^{\\circ}\\) কোণ তৈরি করে। \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক কত? \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক \\(_a\\eta_b = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 60^{\\circ}}{\\sin 45^{\\circ}} = \\frac{\\sqrt{3}/2}{1/\\sqrt{2}} = \\frac{\\sqrt{3}}{\\sqrt{2}}\\)।",
+    "text": "দুটি স্বচ্ছ মাধ্যমের প্রতিসরাঙ্ক n₁ ও n₂ হলে তাদের সীমান্তে আলোর প্রতিসরণের জন্য Snell-এর সূত্র কোনটি?",
     "options": [
-      "\\(\\frac{1}{2\\sqrt{2}}\\)",
-      "\\(\\frac{1}{2}\\)",
-      "\\(\\frac{\\sqrt{3}}{\\sqrt{2}}\\)",
-      "\\(\\sqrt{2}\\)"
+      "n₁ cos i = n₂ cos r",
+      "n₁ sin i = n₂ sin r",
+      "n₁ tan i = n₂ tan r",
+      "n₁/i = n₂/r"
     ],
-    "image": "/images/quiz/geo-triangle-altitudes.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -93,7 +93,7 @@
     "id": "ssc-physics-chapter-09-model-test-05-q07",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "১৯। চোখের আলোক সংবেদী অংশ কোনটি?",
+    "text": "চোখের আলোকসংবেদী অংশ কোনটি?",
     "options": [
       "রেটিনা",
       "পিউপিল",
@@ -108,12 +108,12 @@
     "id": "ssc-physics-chapter-09-model-test-05-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "হীরা বেশি ঝলমলে দেখায় প্রধানত কোন কারণে?",
+    "text": "হীরা অধিক ঝলমলে দেখানোর প্রধান অপটিক্যাল কারণ কোনটি?",
     "options": [
-      "প্রতিসরণ",
       "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-      "ব্যতিচার",
-      "অপবর্তন"
+      "শুধু অপবর্তন",
+      "শুধু ব্যতিচার",
+      "শুধু শোষণ"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-physics-chapter-09-model-test-05-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "পানিতে রাখা মুদ্রা ওপরে উঠে এসেছে বলে মনে হওয়ার কারণ—",
+    "text": "15 cm ফোকাস দূরত্বের উত্তল লেন্সের সামনে 30 cm দূরে বস্তু রাখা হলে প্রতিচ্ছবির দূরত্ব কত?",
     "options": [
-      "প্রতিফলন",
-      "প্রতিসরণ",
-      "বিচ্ছুরণ",
-      "শোষণ"
+      "10 cm",
+      "15 cm",
+      "30 cm",
+      "60 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-physics-chapter-09-model-test-05-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "অবতল লেন্সের ক্ষমতার চিহ্ন কী?",
+    "text": "একটি লেন্সের ক্ষমতা −2.5 D। লেন্সটির ফোকাস দূরত্ব কত?",
     "options": [
-      "ধনাত্মক",
-      "ঋণাত্মক",
-      "শূন্য",
-      "অসীম"
+      "−40 cm",
+      "−25 cm",
+      "+40 cm",
+      "+25 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-physics-chapter-09-model-test-05-q15",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "প্রতিসরণাঙ্ক 1.4 মাধ্যমে আপতন কোণ 32° হলে প্রতিসরণ কোণ—",
+    "text": "বায়ু থেকে n = 1.4 প্রতিসরাঙ্কের মাধ্যমে 32° আপতন কোণে আলো গেলে প্রতিসরণ কোণ প্রায় কত?",
     "options": [
-      "32",
-      "148",
-      "16",
-      "58"
+      "16°",
+      "22°",
+      "32°",
+      "44°"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-physics-chapter-09-model-test-05-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "আলোর প্রতিসরণের সময় কোনটি অপরিবর্তিত থাকে?",
+    "text": "কোন লেন্সের ক্ষমতার চিহ্ন ঋণাত্মক?",
     "options": [
-      "বেগ",
-      "তরঙ্গদৈর্ঘ্য",
-      "কম্পাঙ্ক",
-      "দিক"
+      "উত্তল লেন্স",
+      "অবতল লেন্স",
+      "সমতল কাচ",
+      "দ্বি-উত্তল লেন্স"
     ],
     "image": null,
     "optionImages": null,
@@ -318,14 +318,14 @@
     "id": "ssc-physics-chapter-09-model-test-05-q22",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "উত্তল লেন্স দ্বারা সৃষ্ট প্রতিবিম্ব সাধারণত—",
+    "text": "উত্তল লেন্সের ফোকাসের ভেতরে বস্তু রাখলে প্রতিচ্ছবি কেমন হয়?",
     "options": [
-      "ভার্চুয়াল ও সোজা",
-      "বাস্তব ও উল্টো",
-      "বাস্তব ও সোজা",
-      "অসীম"
+      "বাস্তব, উল্টো ও ছোট",
+      "বাস্তব, উল্টো ও বড়",
+      "কাল্পনিক, সোজা ও বড়",
+      "কাল্পনিক, উল্টো ও ছোট"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q22.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -348,14 +348,14 @@
     "id": "ssc-physics-chapter-09-model-test-05-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-05",
-    "text": "P=1/f হলে f=20 cm লেন্সের ক্ষমতা কত?",
+    "text": "একটি সরল magnifying glass ব্যবহার করতে হলে উত্তল লেন্সের তুলনায় বস্তু কোথায় রাখতে হয়?",
     "options": [
-      "5 D",
-      "20 D",
-      "0.05 D",
-      "2 D"
+      "F-এর ভেতরে",
+      "F ও 2F-এর মাঝখানে",
+      "2F-এর বাইরে",
+      "ঠিক 2F-এ"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-05-q24.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },

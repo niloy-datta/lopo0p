@@ -1,102 +1,102 @@
 {
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q01": {
-    "correctOption": "5",
-    "explanation": "|A| = 2×4 - 1×3 = 5।"
+    "correctOption": "(2,1)",
+    "explanation": "সঠিক উত্তর: (2,1)। দ্বিতীয়টি প্রথমটি থেকে বিয়োগ করলে x=2; পরে y=1।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q02": {
-    "correctOption": "0",
-    "explanation": "প্রথম সারি ও দ্বিতীয় কলামের গুণফল: 2(-1)+1(2)=0।"
+    "correctOption": "±√6",
+    "explanation": "সঠিক উত্তর: ±√6। k²−6=0 ⇒ k=±√6।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q03": {
-    "correctOption": "1",
-    "explanation": "দূরত্ব = |5|/√(3²+(-4)²)=5/5=1।"
+    "correctOption": "−54",
+    "explanation": "সঠিক উত্তর: −54। 3×3 matrix-এর জন্য |3A|=3³|A|=27(−2)=−54।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q04": {
-    "correctOption": "(3,-2), 5",
-    "explanation": "x²+y²+2gx+2fy+c=0 থেকে কেন্দ্র (-g,-f)=(3,-2), r=√(9+4+12)=5।"
+    "correctOption": "i, ii ও iii",
+    "explanation": "সঠিক উত্তর: i, ii ও iii। তিনটিই determinant-এর মৌলিক ধর্ম।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q05": {
-    "correctOption": "±4",
-    "explanation": "singular হলে determinant = 0, তাই k²-16=0 ⇒ k=±4।"
+    "correctOption": "4/9",
+    "explanation": "সঠিক উত্তর: 4/9। a·b=4, |a|=|b|=3 ⇒ cosθ=4/9।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q06": {
-    "correctOption": "(3/5)i+(4/5)j",
-    "explanation": "মান = √(3²+4²)=5, তাই একক ভেক্টর = ভেক্টর/মান।"
+    "correctOption": "24/5",
+    "explanation": "সঠিক উত্তর: 24/5। a·b=24 এবং |b|=5; projection=24/5।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q07": {
-    "correctOption": "90°",
-    "explanation": "m1m2=-1 হলে সরলরেখা দুটি পরস্পর লম্ব।"
+    "correctOption": "5",
+    "explanation": "সঠিক উত্তর: 5। |2×3−1×1|=5।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q08": {
-    "correctOption": "4",
-    "explanation": "dy/dx=2x, তাই x=2 হলে ঢাল 4।"
+    "correctOption": "x+2y−7=0",
+    "explanation": "সঠিক উত্তর: x+2y−7=0। ছেদবিন্দু (3,2)। প্রদত্ত রেখার slope 2, perpendicular slope −1/2; তাই x+2y−7=0।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q09": {
-    "correctOption": "x³+x²+C",
-    "explanation": "প্রতিটি পদের আলাদা সমাকলন করলে x³+x²+C।"
+    "correctOption": "4",
+    "explanation": "সঠিক উত্তর: 4। |5−(−15)|/√(3²+4²)=20/5=4।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q10": {
-    "correctOption": "3",
-    "explanation": "2³=8, তাই log₂8=3।"
+    "correctOption": "x²+y²−4x+6y−12=0",
+    "explanation": "সঠিক উত্তর: x²+y²−4x+6y−12=0। (x−2)²+(y+3)²=25 প্রসারিত করলে প্রথমটি পাওয়া যায়।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q11": {
-    "correctOption": "10",
-    "explanation": "⁵C₂=5!/(2!3!)=10।"
+    "correctOption": "16",
+    "explanation": "সঠিক উত্তর: 16। অর্ধজ্যা=√(100−36)=8; পূর্ণ=16।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q12": {
-    "correctOption": "1",
-    "explanation": "এটি মৌলিক ত্রিকোণমিতিক অভেদ।"
+    "correctOption": "12",
+    "explanation": "সঠিক উত্তর: 12। PT=√(OP²−r²)=√(169−25)=12।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q13": {
-    "correctOption": "y-3=4(x-2)",
-    "explanation": "বিন্দু-ঢাল রূপ: y-y1=m(x-x1)।"
+    "correctOption": "215",
+    "explanation": "সঠিক উত্তর: 215। 5C2·6C2 + 5C3·6C1 + 5C4 =150+60+5=215।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q14": {
-    "correctOption": "3x+4y=25",
-    "explanation": "x²+y²=a² বৃত্তে (x1,y1)-এ স্পর্শক xx1+yy1=a²।"
+    "correctOption": "4,989,600",
+    "explanation": "সঠিক উত্তর: 4,989,600। 11!/(2!2!2!)=4,989,600; M,A,T প্রত্যেকটি 2 বার।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q15": {
-    "correctOption": "i, ii ও iii",
-    "explanation": "inverse থাকার প্রয়োজনীয় ও যথেষ্ট শর্ত determinant অশূন্য হওয়া।"
+    "correctOption": "2,880",
+    "explanation": "সঠিক উত্তর: 2,880। একমাত্র pattern BGBGBGBGB; 5!×4!=2,880।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q16": {
-    "correctOption": "i, ii ও iii",
-    "explanation": "dot product commutative এবং কোণের cosine নির্ভর।"
+    "correctOption": "1",
+    "explanation": "সঠিক উত্তর: 1। (1/2+1/3)/(1−1/6)=(5/6)/(5/6)=1।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q17": {
-    "correctOption": "i ও iii",
-    "explanation": "continuous হলেও কোণ/তীক্ষ্ণ বিন্দুতে differentiable নাও হতে পারে।"
+    "correctOption": "4/5",
+    "explanation": "সঠিক উত্তর: 4/5। sec−tan=1/3; তাই sec=5/3, tan=4/3; sin=tan/sec=4/5।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q18": {
-    "correctOption": "i, ii ও iii",
-    "explanation": "nPᵣ ও nCᵣ-এর মৌলিক সম্পর্ক nPᵣ=r!nCᵣ।"
+    "correctOption": "3",
+    "explanation": "সঠিক উত্তর: 3। (2cosx−1)(cosx−1)=0; cosx=1/2 gives 2, cosx=1 gives 1; মোট 3।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q19": {
-    "correctOption": "i, ii ও iii",
-    "explanation": "এগুলো সাধারণ সমাধানের board-favourite pattern।"
+    "correctOption": "3/4",
+    "explanation": "সঠিক উত্তর: 3/4। tan+cot=2/sin2θ=4 ⇒ sin2θ=1/2 ⇒ cos²2θ=1−1/4=3/4।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q20": {
-    "correctOption": "i ও ii",
-    "explanation": "তৃতীয়টি সাধারণভাবে সত্য নয়।"
+    "correctOption": "−1/x",
+    "explanation": "সঠিক উত্তর: −1/x। সরলীকরণে f(f(x))=−1/x।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q21": {
-    "correctOption": "চিহ্ন পরিবর্তন করে",
-    "explanation": "সারি/কলাম বিনিময়ে determinant-এর sign বদলায়।"
+    "correctOption": "3",
+    "explanation": "সঠিক উত্তর: 3। f(x)=1 ⇒ 3x−2=x+4 ⇒ x=3।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q22": {
-    "correctOption": "0",
-    "explanation": "Horizontal line-এর rise নেই, তাই slope=0।"
+    "correctOption": "x^x(1+ln x)",
+    "explanation": "সঠিক উত্তর: x^x(1+ln x)। ln y=x ln x ⇒ y′/y=1+lnx ⇒ y′=x^x(1+lnx)।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q23": {
-    "correctOption": "নির্ণয়যোগ্য নয়",
-    "explanation": "শূন্য ভেক্টরের মান 0 এবং দিক নির্দিষ্ট নয়।"
+    "correctOption": "−4/5",
+    "explanation": "সঠিক উত্তর: −4/5। 2x+y+(x+2y)y′=0; (1,2)-এ 4+5y′=0 ⇒ y′=−4/5।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q24": {
-    "correctOption": "সংজ্ঞায়িত নয়",
-    "explanation": "বাস্তব logarithm-এর argument ধনাত্মক হতে হয়।"
+    "correctOption": "9x−y−16=0",
+    "explanation": "সঠিক উত্তর: 9x−y−16=0। y(2)=2, y′=3x²−3=9; y−2=9(x−2)।"
   },
   "hsc-higher-math-1st-paper-tier-a-hot-model-test-01-q25": {
-    "correctOption": "√(g²+f²-c)",
-    "explanation": "সাধারণ বৃত্তের কেন্দ্র (-g,-f), ব্যাসার্ধ √(g²+f²-c)।"
+    "correctOption": "(x²/2)lnx−x²/4+C",
+    "explanation": "সঠিক উত্তর: (x²/2)lnx−x²/4+C। Integration by parts: u=lnx, dv=x dx ⇒ (x²/2)lnx−∫x/2 dx।"
   }
 }

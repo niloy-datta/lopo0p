@@ -108,12 +108,12 @@
     "id": "ssc-general-math-model-test-11-q08",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-11",
-    "text": "সমকোণী ত্রিভুজের অতিভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
+    "text": "একটি সমকোণী ত্রিভুজের লম্ব দুই বাহু 6 cm ও 8 cm। অতিভুজের দৈর্ঘ্য কত?",
     "options": [
-      "সূক্ষ্মকোণ",
-      "সমকোণ",
-      "সরলকোণ",
-      "স্থূলকোণ"
+      "9 cm",
+      "10 cm",
+      "12 cm",
+      "14 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-general-math-model-test-11-q17",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-11",
-    "text": "0.125 ভগ্নাংশে প্রকাশ করলে কত হয়?",
+    "text": "0.125-কে সাধারণ ভগ্নাংশে প্রকাশ করলে কত?",
     "options": [
-      "১/৪",
-      "১/৫",
-      "১/৮",
-      "৩/৮"
+      "1/4",
+      "1/8",
+      "1/10",
+      "1/12"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "ssc-general-math-model-test-11-q19",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-11",
-    "text": "0.6666... ভগ্নাংশে প্রকাশ করলে কত হয়?",
+    "text": "0.6666…-কে সাধারণ ভগ্নাংশে প্রকাশ করলে কত?",
     "options": [
-      "১/৬",
-      "২/৩",
-      "৩/৫",
-      "৫/৬"
+      "1/3",
+      "2/3",
+      "3/4",
+      "5/6"
     ],
     "image": null,
     "optionImages": null,
@@ -333,7 +333,7 @@
     "id": "ssc-general-math-model-test-11-q23",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-11",
-    "text": "A = {1, 2, 3} হলে power set \\(P(A)\\)-এর উপাদান সংখ্যা কত?",
+    "text": "A = {1,2,3} হলে P(A)-এর উপাদান সংখ্যা কত?",
     "options": [
       "3",
       "6",
@@ -348,12 +348,12 @@
     "id": "ssc-general-math-model-test-11-q24",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-11",
-    "text": "\\(x^2-7x+12=0\\) সমীকরণের মূলদ্বয় কোনটি?",
+    "text": "x² − 7x + 12 = 0 সমীকরণের মূলদ্বয় কোনটি?",
     "options": [
-      "2, 6",
-      "3, 4",
-      "−3, −4",
-      "1, 12"
+      "2 ও 6",
+      "3 ও 4",
+      "−3 ও −4",
+      "1 ও 12"
     ],
     "image": null,
     "optionImages": null,

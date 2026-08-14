@@ -4,8 +4,8 @@
     "explanation": "light"
   },
   "ssc-physics-chapter-09-model-test-01-q02": {
-    "correctOption": "\\(\\frac{1}{2\\sqrt{2}}\\)",
-    "explanation": ""
+    "correctOption": "1.50",
+    "explanation": "সঠিক উত্তর: 1.50। n = c/v = (3.0×10^8)/(2.0×10^8) = 1.50।"
   },
   "ssc-physics-chapter-09-model-test-01-q03": {
     "correctOption": "-25cm",
@@ -33,7 +33,7 @@
   },
   "ssc-physics-chapter-09-model-test-01-q09": {
     "correctOption": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-    "explanation": "সঠিক উত্তর: পূর্ণ অভ্যন্তরীণ প্রতিফলন"
+    "explanation": "সঠিক উত্তর: পূর্ণ অভ্যন্তরীণ প্রতিফলন। ঘন মাধ্যম থেকে হালকা মাধ্যমে আপতন কোণ সংকট কোণের চেয়ে বড় হলে পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে।"
   },
   "ssc-physics-chapter-09-model-test-01-q10": {
     "correctOption": "+2 D",
@@ -41,11 +41,11 @@
   },
   "ssc-physics-chapter-09-model-test-01-q11": {
     "correctOption": "+40 cm",
-    "explanation": "সঠিক উত্তর: +40 cm"
+    "explanation": "সঠিক উত্তর: +40 cm। f = 1/P = 1/2.5 m = 0.40 m = +40 cm।"
   },
   "ssc-physics-chapter-09-model-test-01-q12": {
     "correctOption": "23°",
-    "explanation": "সঠিক উত্তর: 23°"
+    "explanation": "সঠিক উত্তর: 23°। Snell-এর সূত্রে sin r = sin42°/1.7; তাই r ≈ 23.2°।"
   },
   "ssc-physics-chapter-09-model-test-01-q13": {
     "correctOption": "ডায়োপ্টার",
@@ -61,7 +61,7 @@
   },
   "ssc-physics-chapter-09-model-test-01-q16": {
     "correctOption": "অবতল লেন্স",
-    "explanation": "সঠিক উত্তর: অবতল লেন্স"
+    "explanation": "সঠিক উত্তর: অবতল লেন্স। Myopia-তে দূরের বস্তুর প্রতিচ্ছবি retina-র আগে গঠিত হয়; অবতল লেন্স রশ্মিকে অপসারী করে এটি সংশোধন করে।"
   },
   "ssc-physics-chapter-09-model-test-01-q17": {
     "correctOption": "শূন্য মাধ্যম",
@@ -80,23 +80,23 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-01-q21": {
-    "correctOption": "ভার্চুয়াল ও সোজা",
-    "explanation": ""
+    "correctOption": "বাস্তব, উল্টো ও বড়",
+    "explanation": "সঠিক উত্তর: বাস্তব, উল্টো ও বড়। উত্তল লেন্সে বস্তু F ও 2F-এর মধ্যে থাকলে প্রতিচ্ছবি 2F-এর বাইরে বাস্তব, উল্টো ও বিবর্ধিত হয়।"
   },
   "ssc-physics-chapter-09-model-test-01-q22": {
     "correctOption": "ভার্চুয়াল ও সোজা",
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-01-q23": {
-    "correctOption": "1.5",
-    "explanation": "সঠিক উত্তর: 1.5"
+    "correctOption": "1.50",
+    "explanation": "সঠিক উত্তর: 1.50। n = real depth/apparent depth = 12/8 = 1.50।"
   },
   "ssc-physics-chapter-09-model-test-01-q24": {
     "correctOption": "2.25×10⁸ m/s",
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-01-q25": {
-    "correctOption": "অভিলম্ব থেকে দূরে বেঁকে যায়",
-    "explanation": "সঠিক উত্তর: অভিলম্ব থেকে দূরে বেঁকে যায়"
+    "correctOption": "কম্পাঙ্ক",
+    "explanation": "সঠিক উত্তর: কম্পাঙ্ক। সীমান্ত অতিক্রমের সময় আলোর কম্পাঙ্ক উৎস দ্বারা নির্ধারিত থাকে; বেগ ও তরঙ্গদৈর্ঘ্য পরিবর্তিত হতে পারে।"
   }
 }

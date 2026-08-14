@@ -18,14 +18,14 @@
     "id": "ssc-physics-chapter-09-model-test-01-q02",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "উদ্দীপক: একটি আলোক রশ্মি হালকা মাধ্যম \\(a\\) থেকে ঘন মাধ্যম \\(b\\)-তে প্রবেশ করছে। আপতিত রশ্মিটি বিভেদ তলের সাথে \\(30^{\\circ}\\) কোণ তৈরি করে এবং প্রতিসৃত রশ্মিটি অভিলম্বের সাথে \\(45^{\\circ}\\) কোণ তৈরি করে। \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক কত? \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক \\(_a\\eta_b = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 60^{\\circ}}{\\sin 45^{\\circ}} = \\frac{\\sqrt{3}/2}{1/\\sqrt{2}} = \\frac{\\sqrt{3}}{\\sqrt{2}}\\)।",
+    "text": "কোনো স্বচ্ছ মাধ্যমে আলোর বেগ 2.0×10^8 m/s। শূন্যস্থানে আলোর বেগ 3.0×10^8 m/s হলে মাধ্যমটির প্রতিসরাঙ্ক কত?",
     "options": [
-      "\\(\\frac{1}{2\\sqrt{2}}\\)",
-      "\\(\\frac{1}{2}\\)",
-      "\\(\\frac{\\sqrt{3}}{\\sqrt{2}}\\)",
-      "\\(\\sqrt{2}\\)"
+      "1.20",
+      "1.33",
+      "1.50",
+      "2.00"
     ],
-    "image": "/images/quiz/geo-triangle-altitudes.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -108,7 +108,7 @@
     "id": "ssc-physics-chapter-09-model-test-01-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "১৯। চোখের আলোক সংবেদী অংশ কোনটি?",
+    "text": "চোখের আলোকসংবেদী অংশ কোনটি?",
     "options": [
       "রেটিনা",
       "পিউপিল",
@@ -125,10 +125,10 @@
     "chapter": "ssc-physics-chapter-09-model-test-01",
     "text": "কাচের সংকট কোণ 42°। কাচ থেকে বায়ুতে 50° আপতন কোণে আলো গেলে কী ঘটবে?",
     "options": [
-      "প্রতিসরণ",
+      "সাধারণ প্রতিসরণ",
       "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-      "বিচ্ছুরণ",
-      "ব্যতিচার"
+      "শুধু বিচ্ছুরণ",
+      "আলো সম্পূর্ণ শোষিত হবে"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-physics-chapter-09-model-test-01-q11",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "+2.5 D ক্ষমতার একটি লেন্সের ফোকাস দূরত্ব কত?",
+    "text": "একটি উত্তল লেন্সের ক্ষমতা +2.5 D হলে ফোকাস দূরত্ব কত?",
     "options": [
       "+40 cm",
-      "−40 cm",
+      "-40 cm",
       "+25 cm",
-      "−25 cm"
+      "-25 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-physics-chapter-09-model-test-01-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "বায়ু থেকে \\(n=1.7\\) প্রতিসরাঙ্কের মাধ্যমে 42° আপতন কোণে আলো প্রবেশ করলে প্রতিসরণ কোণ প্রায় কত?",
+    "text": "বায়ু থেকে n = 1.7 প্রতিসরাঙ্কের মাধ্যমে 42° আপতন কোণে আলো প্রবেশ করলে প্রতিসরণ কোণ প্রায় কত?",
     "options": [
+      "18°",
       "23°",
-      "42°",
-      "48°",
-      "68°"
+      "32°",
+      "42°"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-physics-chapter-09-model-test-01-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "ক্ষীণদৃষ্টি বা Myopia সংশোধনের জন্য কোন লেন্স ব্যবহার করা হয়?",
+    "text": "ক্ষীণদৃষ্টি (myopia) সংশোধনের জন্য কোন লেন্স ব্যবহার করা হয়?",
     "options": [
       "উত্তল লেন্স",
       "অবতল লেন্স",
-      "সমতল লেন্স",
-      "দ্বি-উত্তল লেন্স"
+      "সমতল কাচ",
+      "শুধু প্রিজম"
     ],
     "image": null,
     "optionImages": null,
@@ -303,14 +303,14 @@
     "id": "ssc-physics-chapter-09-model-test-01-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "উত্তল লেন্স দ্বারা সৃষ্ট প্রতিবিম্ব সাধারণত—",
+    "text": "একটি উত্তল লেন্সে বস্তু F ও 2F-এর মাঝখানে রাখা হলো। প্রতিচ্ছবির প্রকৃতি কী হবে?",
     "options": [
-      "ভার্চুয়াল ও সোজা",
-      "বাস্তব ও উল্টো",
-      "বাস্তব ও সোজা",
-      "অসীম"
+      "কাল্পনিক, সোজা ও ছোট",
+      "বাস্তব, উল্টো ও বড়",
+      "বাস্তব, সোজা ও সমান",
+      "কাল্পনিক, উল্টো ও বড়"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-09-model-test-01-q21.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -333,12 +333,12 @@
     "id": "ssc-physics-chapter-09-model-test-01-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "কোনো মাধ্যমে আলোর বেগ \\(2\\times10^8\\) m/s হলে মাধ্যমটির প্রতিসরাঙ্ক কত?",
+    "text": "একটি পাত্রে তরলের প্রকৃত গভীরতা 12 cm এবং উপর থেকে দেখলে আপাত গভীরতা 8 cm। তরলটির প্রতিসরাঙ্ক কত?",
     "options": [
-      "1.0",
+      "1.25",
       "1.33",
-      "1.5",
-      "2.0"
+      "1.50",
+      "1.75"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-physics-chapter-09-model-test-01-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-01",
-    "text": "আলো ঘন মাধ্যম থেকে হালকা মাধ্যমে প্রবেশ করলে সাধারণত—",
+    "text": "আলো এক স্বচ্ছ মাধ্যম থেকে অন্য স্বচ্ছ মাধ্যমে প্রতিসরিত হলে কোন রাশি অপরিবর্তিত থাকে?",
     "options": [
-      "অভিলম্বের দিকে বেঁকে যায়",
-      "অভিলম্ব থেকে দূরে বেঁকে যায়",
-      "কোনো বিচ্যুতি হয় না",
-      "আলো থেমে যায়"
+      "বেগ",
+      "তরঙ্গদৈর্ঘ্য",
+      "কম্পাঙ্ক",
+      "দিক"
     ],
     "image": null,
     "optionImages": null,

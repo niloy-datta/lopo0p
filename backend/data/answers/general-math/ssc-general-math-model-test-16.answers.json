@@ -1,7 +1,7 @@
 {
   "ssc-general-math-model-test-16-q01": {
-    "correctOption": "2,3,7",
-    "explanation": "সঠিক উত্তর: 2,3,7"
+    "correctOption": "2²×3×7",
+    "explanation": "সঠিক উত্তর: 2²×3×7। 84=4×21=2²×3×7।"
   },
   "ssc-general-math-model-test-16-q02": {
     "correctOption": "স্থূলকোণ",
@@ -21,35 +21,35 @@
   },
   "ssc-general-math-model-test-16-q06": {
     "correctOption": "3",
-    "explanation": "সঠিক উত্তর: 3"
+    "explanation": "সঠিক উত্তর: 3। 10³=1000, তাই log₁₀1000=3।"
   },
   "ssc-general-math-model-test-16-q07": {
     "correctOption": "60°",
-    "explanation": "সঠিক উত্তর: 60°"
+    "explanation": "সঠিক উত্তর: 60°। তৃতীয় কোণ=180°−55°−65°=60°।"
   },
   "ssc-general-math-model-test-16-q08": {
     "correctOption": "sec²θ",
-    "explanation": "সঠিক উত্তর: sec²θ"
+    "explanation": "সঠিক উত্তর: sec²θ। Pythagorean identity: 1+tan²θ=sec²θ।"
   },
   "ssc-general-math-model-test-16-q09": {
     "correctOption": "৫ সেমি",
     "explanation": "৪৫ = ৯ × উচ্চতা ⇒ উচ্চতা = ৫ সেমি। — ক্ষেত্রফল, পরিসীমা ও আয়তনভিত্তিক প্রশ্ন calculation-heavy এবং board-friendly।"
   },
   "ssc-general-math-model-test-16-q10": {
-    "correctOption": "66.71",
-    "explanation": "ছবিতে চিহ্নিত উত্তর গ। — গড়, মধ্যক, প্রচুরক ও সম্ভাবনা থেকে প্রতি বছর MCQ আসার সম্ভাবনা বেশি।"
+    "correctOption": "Mode = 3Median − 2Mean",
+    "explanation": "সঠিক উত্তর: Mode = 3Median − 2Mean। প্রচলিত empirical relation: Mode = 3Median − 2Mean।"
   },
   "ssc-general-math-model-test-16-q11": {
     "correctOption": "47",
-    "explanation": "সঠিক উত্তর: 47"
+    "explanation": "সঠিক উত্তর: 47। a₁₂=3+(12−1)×4=47।"
   },
   "ssc-general-math-model-test-16-q12": {
-    "correctOption": "4,5",
-    "explanation": "সঠিক উত্তর: 4,5"
+    "correctOption": "4 ও 5",
+    "explanation": "সঠিক উত্তর: 4 ও 5। x²−9x+20=(x−4)(x−5)।"
   },
   "ssc-general-math-model-test-16-q13": {
     "correctOption": "50°",
-    "explanation": "সঠিক উত্তর: 50°"
+    "explanation": "সঠিক উত্তর: 50°। একই চাপের উপর বৃত্তস্থ কোণ কেন্দ্রস্থ কোণের অর্ধেক।"
   },
   "ssc-general-math-model-test-16-q14": {
     "correctOption": "5/4",
@@ -64,8 +64,8 @@
     "explanation": "ছবিতে চিহ্নিত উত্তর ঘ। — গড়, মধ্যক, প্রচুরক ও সম্ভাবনা থেকে প্রতি বছর MCQ আসার সম্ভাবনা বেশি।"
   },
   "ssc-general-math-model-test-16-q17": {
-    "correctOption": "4̅",
-    "explanation": "দশমিকের পর ৪টি শূন্য আছে, তাই পূর্ণক 4̅। — ধারা, অনুপাত, সূচক ও লগারিদম formula-based high-priority topic।"
+    "correctOption": "bar 4",
+    "explanation": "সঠিক উত্তর: bar 4। 0.000235 = 2.35×10^-4, তাই characteristic = bar 4।"
   },
   "ssc-general-math-model-test-16-q18": {
     "correctOption": "রম্বস",
@@ -84,19 +84,19 @@
     "explanation": "ছবিতে চিহ্নিত উত্তর খ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
   },
   "ssc-general-math-model-test-16-q22": {
-    "correctOption": "15",
-    "explanation": "A set with 4 elements has 2^4 = 16 subsets, so proper subsets = 16 - 1 = 15. — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+    "correctOption": "3/5",
+    "explanation": "সঠিক উত্তর: 3/5। অনুকূল 3, মোট 5; সম্ভাবনা 3/5।"
   },
   "ssc-general-math-model-test-16-q23": {
-    "correctOption": "{7}",
-    "explanation": "Q \\ P means the elements in Q that are not in P, so the result is {7}. — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
+    "correctOption": "7",
+    "explanation": "সঠিক উত্তর: 7। সাজানো 5টি মানের মাঝের মান 7।"
   },
   "ssc-general-math-model-test-16-q24": {
-    "correctOption": "\\(a^2+2ab+b^2\\)",
-    "explanation": "সঠিক উত্তর: \\(a^2+2ab+b^2\\)"
+    "correctOption": "7",
+    "explanation": "সঠিক উত্তর: 7। (x+1/x)²=x²+2+1/x²=9 ⇒ x²+1/x²=7।"
   },
   "ssc-general-math-model-test-16-q25": {
-    "correctOption": "6",
-    "explanation": "সঠিক উত্তর: 6"
+    "correctOption": "5",
+    "explanation": "সঠিক উত্তর: 5। দূরত্ব=√[(4−1)²+(6−2)²]=√25=5।"
   }
 }

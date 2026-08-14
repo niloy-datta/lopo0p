@@ -3,12 +3,12 @@
     "id": "ssc-general-math-paper-set-15-q01",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$\\frac{d}{dx}x^17$ কত?",
+    "text": "A={1,2,3}, B={3,4,5} হলে A∪B কত?",
     "options": [
-      "$16x^17$",
-      "$x^16$",
-      "$17x^16$",
-      "$x^17$"
+      "{1,2,3}",
+      "{3}",
+      "{1,2,3,4,5}",
+      "{1,2,4,5}"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-general-math-paper-set-15-q02",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$\\int x^18dx$ কত?",
+    "text": "n(A)=18, n(B)=15 এবং n(A∩B)=7 হলে n(A∪B) কত?",
     "options": [
-      "$18x^17+C$",
-      "$x^19+C$",
-      "$\\frac{x^18}{18}+C$",
-      "$\\frac{x^19}{19}+C$"
+      "26",
+      "33",
+      "40",
+      "10"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-general-math-paper-set-15-q03",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$19P_2$ এর মান কত?",
+    "text": "x+y=10 এবং xy=21 হলে x²+y² কত?",
     "options": [
-      "171",
-      "342",
-      "21",
-      "95"
+      "42",
+      "58",
+      "79",
+      "100"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-general-math-paper-set-15-q04",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$20C_2$ এর মান কত?",
+    "text": "a+b=8 এবং ab=12 হলে a²+b² কত?",
     "options": [
-      "190",
-      "21",
-      "400",
-      "380"
+      "32",
+      "36",
+      "40",
+      "64"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "ssc-general-math-paper-set-15-q05",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "ঢাল 16 এবং বিন্দু $(7,16)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "x³−8-এর উৎপাদক রূপ কোনটি?",
     "options": [
-      "$y-16=16(x-7)$",
-      "$y+16=16(x-7)$",
-      "$y-16=7(x-16)$",
-      "$x-16=16(y-7)$"
+      "(x−2)(x²+2x+4)",
+      "(x−2)(x²−2x+4)",
+      "(x+2)(x²+2x+4)",
+      "(x−8)(x²+1)"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-general-math-paper-set-15-q06",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$x^2+y^2=289$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "|2x−3|=5 হলে x-এর মান কোন জোড়া?",
     "options": [
-      "34",
-      "17",
-      "289",
-      "18"
+      "4, −1",
+      "1, −4",
+      "4, 1",
+      "−4, −1"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-general-math-paper-set-15-q07",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "text": "x+y=7 এবং x−y=1 হলে x কত?",
     "options": [
-      "$\\sec^2\\theta$",
-      "0",
-      "1",
-      "$\\tan\\theta$"
+      "3",
+      "4",
+      "5",
+      "6"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-general-math-paper-set-15-q08",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "text": "দুটি সংখ্যার অনুপাত 3:5 এবং যোগফল 64। ছোট সংখ্যা কত?",
     "options": [
-      "$\\cos A\\cos B-\\sin A\\sin B$",
-      "$\\tan A+\\tan B$",
-      "$\\sin A\\cos B+\\cos A\\sin B$",
-      "$\\sin A\\cos B-\\cos A\\sin B$"
+      "18",
+      "24",
+      "32",
+      "40"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "ssc-general-math-paper-set-15-q09",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "text": "500 টাকার পণ্যে 20% লাভ করলে বিক্রয়মূল্য কত?",
     "options": [
-      "Constant",
-      "Odd",
-      "Periodic",
-      "Even"
+      "550",
+      "580",
+      "600",
+      "620"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-general-math-paper-set-15-q10",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "text": "log₂8 × log₃9-এর মান কত?",
     "options": [
-      "সমান",
-      "সমান্তরাল",
-      "লম্ব",
-      "একক"
+      "5",
+      "6",
+      "8",
+      "9"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-general-math-paper-set-15-q11",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$A^2=A$ হলে matrix কী?",
+    "text": "5, 8, 11, … ধারাটির 15তম পদ কত?",
     "options": [
-      "Orthogonal",
-      "Nilpotent",
-      "Scalar",
-      "Idempotent"
+      "44",
+      "47",
+      "50",
+      "53"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-general-math-paper-set-15-q12",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$\\int_0^1 xdx$ কত?",
+    "text": "প্রথম 20টি স্বাভাবিক সংখ্যার যোগফল কত?",
     "options": [
-      "$\\frac12$",
-      "$\\frac13$",
-      "0",
-      "1"
+      "190",
+      "200",
+      "210",
+      "220"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-general-math-paper-set-15-q13",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$\\frac{d}{dx}x^19$ কত?",
+    "text": "একটি সমকোণী ত্রিভুজের লম্ব বাহু 9 cm ও 12 cm। অতিভুজ কত?",
     "options": [
-      "$x^18$",
-      "$19x^18$",
-      "$18x^19$",
-      "$x^19$"
+      "13",
+      "15",
+      "18",
+      "21"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-general-math-paper-set-15-q14",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$\\int x^20dx$ কত?",
+    "text": "দুটি সদৃশ ত্রিভুজের অনুরূপ বাহুর অনুপাত 2:3 হলে ক্ষেত্রফলের অনুপাত কত?",
     "options": [
-      "$20x^19+C$",
-      "$x^21+C$",
-      "$\\frac{x^21}{21}+C$",
-      "$\\frac{x^20}{20}+C$"
+      "2:3",
+      "4:9",
+      "8:27",
+      "3:2"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-general-math-paper-set-15-q15",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$16P_2$ এর মান কত?",
+    "text": "একটি ত্রিভুজের একটি বহিঃস্থ কোণ কোনটির সমান?",
     "options": [
-      "120",
-      "240",
-      "18",
-      "48"
+      "দুটি বিপরীত অন্তঃস্থ কোণের যোগফল",
+      "তিন অন্তঃস্থ কোণের যোগফল",
+      "একটি সন্নিহিত কোণের সমান",
+      "সর্বদা 90°"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-general-math-paper-set-15-q16",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$17C_2$ এর মান কত?",
+    "text": "ব্যাসার্ধ 7 cm বৃত্তের পরিধি কত? (π=22/7)",
     "options": [
-      "272",
-      "18",
-      "136",
-      "289"
+      "22 cm",
+      "44 cm",
+      "77 cm",
+      "154 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-general-math-paper-set-15-q17",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "ঢাল 18 এবং বিন্দু $(5,18)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "10 cm ব্যাসার্ধের বৃত্তে কেন্দ্র থেকে জ্যা-এর দূরত্ব 6 cm হলে জ্যা-এর দৈর্ঘ্য কত?",
     "options": [
-      "$x-18=18(y-5)$",
-      "$y-18=18(x-5)$",
-      "$y+18=18(x-5)$",
-      "$y-18=5(x-18)$"
+      "8 cm",
+      "12 cm",
+      "16 cm",
+      "20 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-general-math-paper-set-15-q18",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$x^2+y^2=361$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "θ সূক্ষ্মকোণ এবং tanθ=5/12 হলে sinθ কত?",
     "options": [
-      "361",
-      "38",
-      "19",
-      "20"
+      "5/13",
+      "12/13",
+      "5/12",
+      "13/5"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,102 @@
     "id": "ssc-general-math-paper-set-15-q19",
     "subject": "general-math",
     "chapter": "ssc-general-math-paper-set-15",
-    "text": "$\\frac{d}{dx}x^16$ কত?",
+    "text": "sin(30°+45°)-এর মান কোনটি?",
     "options": [
-      "$15x^16$",
-      "$x^15$",
-      "$16x^15$",
-      "$x^16$"
+      "(√6+√2)/4",
+      "(√6−√2)/4",
+      "√3/2",
+      "1/2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "একটি আয়তক্ষেত্রের কর্ণ 13 cm এবং এক বাহু 5 cm। ক্ষেত্রফল কত?",
+    "options": [
+      "50 cm²",
+      "60 cm²",
+      "65 cm²",
+      "78 cm²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "ব্যাসার্ধ 3 cm ও উচ্চতা 7 cm একটি সিলিন্ডারের আয়তন কত?",
+    "options": [
+      "21π cm³",
+      "42π cm³",
+      "63π cm³",
+      "126π cm³"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "10, 12, 14, 16, 18 সংখ্যাগুলোর গাণিতিক গড় কত?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "2, 4, 6, 8, 10, 12-এর মধ্যক কত?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "দুটি সুষম মুদ্রা একসঙ্গে নিক্ষেপে ঠিক একটি Head পাওয়ার সম্ভাবনা কত?",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "যে দ্বিঘাত সমীকরণের মূল 2 ও 5, সেটি কোনটি?",
+    "options": [
+      "x²−7x+10=0",
+      "x²+7x+10=0",
+      "x²−3x+10=0",
+      "x²−10x+7=0"
     ],
     "image": null,
     "optionImages": null,

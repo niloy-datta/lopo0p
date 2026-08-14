@@ -33,12 +33,12 @@
     "id": "ssc-general-math-model-test-15-q03",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "\\(\\sin\\theta=\\frac12\\) এবং θ একটি সূক্ষ্মকোণ হলে cosecθ কত?",
+    "text": "sin θ = 3/5 এবং θ সূক্ষ্মকোণ হলে csc θ কত?",
     "options": [
-      "1/2",
-      "1",
-      "2",
-      "√3"
+      "3/5",
+      "4/5",
+      "5/3",
+      "5/4"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-general-math-model-test-15-q12",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "log₂ 8 এর মান কত?",
+    "text": "log₂32 + log₃9-এর মান কত?",
     "options": [
-      "২",
-      "৩",
-      "৮",
-      "৪"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-general-math-model-test-15-q13",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "১ থেকে ১০ পর্যন্ত মৌলিক সংখ্যা কয়টি?",
+    "text": "84 ও 126-এর গ.সা.গু কত?",
     "options": [
-      "৪টি",
-      "৩টি",
-      "৬টি",
-      "৫টি"
+      "21",
+      "28",
+      "42",
+      "63"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-general-math-model-test-15-q14",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "∠BOC এর পূরক কোণ কোনটি?",
+    "text": "একটি খুঁটির ছায়ার দৈর্ঘ্য 10√3 m এবং সূর্যের উন্নতি কোণ 30°। খুঁটির উচ্চতা কত?",
     "options": [
-      "∠AOC",
-      "∠DOC",
-      "∠AOD",
-      "∠BOD"
+      "5 m",
+      "10 m",
+      "15 m",
+      "20 m"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-general-math-model-test-15-q18",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "2, 4, 6, 8... সমান্তর ধারাটির ১০ম পদ কোনটি?",
+    "text": "3, 7, 11, 15, … ধারাটির প্রথম 10 পদের সমষ্টি কত?",
     "options": [
-      "১৮",
-      "১০",
-      "২০",
-      "২২"
+      "180",
+      "190",
+      "200",
+      "210"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "ssc-general-math-model-test-15-q19",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "একটি ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য দেওয়া আছে। নিচের কোন সেটে সর্বসম ত্রিভুজ গঠন করা সম্ভব?",
+    "text": "13 cm ব্যাসার্ধের একটি বৃত্তে কেন্দ্র থেকে একটি জ্যা-এর লম্ব দূরত্ব 5 cm। জ্যা-এর দৈর্ঘ্য কত?",
     "options": [
-      "2 সেমি., 3 সেমি., 4 সেমি.",
-      "3 সেমি., 5 সেমি., 7 সেমি.",
-      "5 সেমি., 12 সেমি., 13 সেমি.",
-      "10 সেমি., 15 সেমি., 20 সেমি."
+      "10 cm",
+      "12 cm",
+      "24 cm",
+      "26 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-general-math-model-test-15-q20",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "চিত্র হতে sinθ secθ এর মান কত?",
+    "text": "A(2,−3) ও B(8,5) বিন্দুর মধ্যবিন্দু কোনটি?",
     "options": [
-      "√3/4",
-      "1/√3",
-      "2/√3",
-      "√3"
+      "(3,1)",
+      "(5,1)",
+      "(5,4)",
+      "(10,2)"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-general-math-model-test-15-q21",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
+    "text": "2x² − 5x + 2 = 0 সমীকরণের বিচ্যুতি (discriminant) কত?",
     "options": [
-      "১, ৫",
-      "-২, -৩",
-      "২, ৩",
-      "০, ৬"
+      "1",
+      "5",
+      "9",
+      "25"
     ],
     "image": null,
     "optionImages": null,
@@ -333,7 +333,7 @@
     "id": "ssc-general-math-model-test-15-q23",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "\\(2^x=32\\) হলে x কত?",
+    "text": "2^x = 32 হলে x কত?",
     "options": [
       "4",
       "5",
@@ -348,12 +348,12 @@
     "id": "ssc-general-math-model-test-15-q24",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "একটি বৃত্তের ব্যাস 14 cm হলে ব্যাসার্ধ কত?",
+    "text": "একটি বৃত্তের ব্যাস 14 cm। π=22/7 হলে ক্ষেত্রফল কত?",
     "options": [
-      "28 cm",
-      "14 cm",
-      "7 cm",
-      "3.5 cm"
+      "44 cm²",
+      "77 cm²",
+      "154 cm²",
+      "308 cm²"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-general-math-model-test-15-q25",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-15",
-    "text": "\\(3x-7=11\\) হলে x কত?",
+    "text": "একটি সুষম ছক্কা একবার নিক্ষেপে জোড় সংখ্যা পাওয়ার সম্ভাবনা কত?",
     "options": [
-      "4",
-      "5",
-      "6",
-      "7"
+      "1/3",
+      "1/2",
+      "2/3",
+      "5/6"
     ],
     "image": null,
     "optionImages": null,

@@ -1,7 +1,7 @@
 {
   "ssc-physics-chapter-09-model-test-03-q01": {
-    "correctOption": "\\(\\frac{1}{2\\sqrt{2}}\\)",
-    "explanation": "refraction"
+    "correctOption": "2.4×10^8 m/s",
+    "explanation": "সঠিক উত্তর: 2.4×10^8 m/s। v = c/n = 3.0×10^8/1.25 = 2.4×10^8 m/s।"
   },
   "ssc-physics-chapter-09-model-test-03-q02": {
     "correctOption": "-25cm",
@@ -28,16 +28,16 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-03-q08": {
-    "correctOption": "আলো ও দৃষ্টি বিষয়ক পরীক্ষামূলক গবেষণা",
-    "explanation": "সঠিক উত্তর: আলো ও দৃষ্টি বিষয়ক পরীক্ষামূলক গবেষণা"
+    "correctOption": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "explanation": "সঠিক উত্তর: পূর্ণ অভ্যন্তরীণ প্রতিফলন। Core-cladding সীমায় উপযুক্ত শর্তে বারবার পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে।"
   },
   "ssc-physics-chapter-09-model-test-03-q09": {
     "correctOption": "+2 D",
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-03-q10": {
-    "correctOption": "−50 cm",
-    "explanation": "সঠিক উত্তর: −50 cm"
+    "correctOption": "+1.5 D",
+    "explanation": "সঠিক উত্তর: +1.5 D। সংস্পর্শে পাতলা লেন্সের ক্ষমতা যোগ হয়: P = 2.0 − 0.5 = +1.5 D।"
   },
   "ssc-physics-chapter-09-model-test-03-q11": {
     "correctOption": "+2D",
@@ -48,8 +48,8 @@
     "explanation": "light"
   },
   "ssc-physics-chapter-09-model-test-03-q13": {
-    "correctOption": "19.5",
-    "explanation": "Snell"
+    "correctOption": "23°",
+    "explanation": "সঠিক উত্তর: 23°। sin r = sin39°/1.6; তাই r ≈ 23.2°।"
   },
   "ssc-physics-chapter-09-model-test-03-q14": {
     "correctOption": "Snell",
@@ -60,8 +60,8 @@
     "explanation": "lens"
   },
   "ssc-physics-chapter-09-model-test-03-q16": {
-    "correctOption": "হ্রাস পায়",
-    "explanation": "সঠিক উত্তর: হ্রাস পায়"
+    "correctOption": "50 cm",
+    "explanation": "সঠিক উত্তর: 50 cm। P = +2 D, তাই f = 1/2 m = 50 cm।"
   },
   "ssc-physics-chapter-09-model-test-03-q17": {
     "correctOption": "শূন্য মাধ্যম",
@@ -88,15 +88,15 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-03-q23": {
-    "correctOption": "−5 D",
-    "explanation": "সঠিক উত্তর: −5 D"
+    "correctOption": "ঘন থেকে হালকা এবং i>C",
+    "explanation": "সঠিক উত্তর: ঘন থেকে হালকা এবং i>C। TIR-এর জন্য আলো ঘন মাধ্যম থেকে হালকা মাধ্যমে যেতে হবে এবং আপতন কোণ সংকট কোণের চেয়ে বড় হতে হবে।"
   },
   "ssc-physics-chapter-09-model-test-03-q24": {
     "correctOption": "2.25×10⁸ m/s",
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-03-q25": {
-    "correctOption": "কম্পাঙ্ক",
-    "explanation": "সঠিক উত্তর: কম্পাঙ্ক"
+    "correctOption": "4×10^-7 m",
+    "explanation": "সঠিক উত্তর: 4×10^-7 m। λ = v/f = (2.0×10^8)/(5.0×10^14) = 4.0×10^-7 m।"
   }
 }

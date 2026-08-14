@@ -28,8 +28,8 @@
     "explanation": "০ অখণ্ড সংখ্যার অন্তর্ভুক্ত। — সেট, ফাংশন, বীজগণিত ও সমীকরণ SSC General Math-এর core high-frequency অংশ।"
   },
   "ssc-general-math-model-test-11-q08": {
-    "correctOption": "সূক্ষ্মকোণ",
-    "explanation": "সঠিক উত্তর: সূক্ষ্মকোণ"
+    "correctOption": "10 cm",
+    "explanation": "সঠিক উত্তর: 10 cm। পিথাগোরাসের উপপাদ্য অনুযায়ী √(6²+8²)=10 cm।"
   },
   "ssc-general-math-model-test-11-q09": {
     "correctOption": "১",
@@ -64,16 +64,16 @@
     "explanation": "3:6 = 1:2 and 9:18 = 1:2, তাই সমানুপাতী। — ধারা, অনুপাত, সূচক ও লগারিদম formula-based high-priority topic।"
   },
   "ssc-general-math-model-test-11-q17": {
-    "correctOption": "১/৮",
-    "explanation": "সঠিক উত্তর: ১/৮"
+    "correctOption": "1/8",
+    "explanation": "সঠিক উত্তর: 1/8। 0.125 = 125/1000 = 1/8।"
   },
   "ssc-general-math-model-test-11-q18": {
     "correctOption": "১৮০°",
     "explanation": "ইউক্লিডীয় জ্যামিতি অনুযায়ী ত্রিভুজের তিন কোণের সমষ্টি ১৮০° বা দুই সমকোণ। — ত্রিভুজ, বৃত্ত ও উপপাদ্য board MCQ-তে নিয়মিত আসে।"
   },
   "ssc-general-math-model-test-11-q19": {
-    "correctOption": "২/৩",
-    "explanation": "সঠিক উত্তর: ২/৩"
+    "correctOption": "2/3",
+    "explanation": "সঠিক উত্তর: 2/3। x=0.666… ⇒ 10x−x=6 ⇒ 9x=6 ⇒ x=2/3।"
   },
   "ssc-general-math-model-test-11-q20": {
     "correctOption": "দ্বিগুণ",
@@ -89,14 +89,14 @@
   },
   "ssc-general-math-model-test-11-q23": {
     "correctOption": "8",
-    "explanation": "সঠিক উত্তর: 8"
+    "explanation": "সঠিক উত্তর: 8। n(P(A))=2^3=8।"
   },
   "ssc-general-math-model-test-11-q24": {
-    "correctOption": "3, 4",
-    "explanation": "সঠিক উত্তর: 3, 4"
+    "correctOption": "3 ও 4",
+    "explanation": "সঠিক উত্তর: 3 ও 4। x²−7x+12=(x−3)(x−4)।"
   },
   "ssc-general-math-model-test-11-q25": {
     "correctOption": "8",
-    "explanation": "সঠিক উত্তর: 8"
+    "explanation": "সঠিক উত্তর: 8। গড়=(5+7+8+10+10)/5=40/5=8।"
   }
 }

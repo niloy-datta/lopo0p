@@ -18,12 +18,12 @@
     "id": "ssc-general-math-model-test-12-q02",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
-    "text": "ত্রিভুজের তিন কোণের সমষ্টি কত?",
+    "text": "একটি ত্রিভুজের তিন কোণের অনুপাত 2:3:4 হলে বৃহত্তম কোণ কত?",
     "options": [
-      "৩৬০°",
-      "২৭০°",
-      "১৮০°",
-      "৯০°"
+      "60°",
+      "70°",
+      "80°",
+      "90°"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-general-math-model-test-12-q08",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
-    "text": "বৃত্তের কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের কত গুণ?",
+    "text": "বৃত্তের স্পর্শবিন্দুতে ব্যাসার্ধ ও স্পর্শকের মধ্যবর্তী কোণ কত?",
     "options": [
-      "সমান",
-      "অর্ধেক",
-      "তিনগুণ",
-      "দ্বিগুণ"
+      "45°",
+      "60°",
+      "90°",
+      "180°"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-general-math-model-test-12-q14",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
-    "text": "সমকোণী ত্রিভুজের अतिভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
+    "text": "একটি সমকোণী ত্রিভুজে অতিভুজ 13 cm এবং একটি লম্ব বাহু 5 cm। অপর লম্ব বাহু কত?",
     "options": [
-      "সমকোণ",
-      "স্থূলকোণ",
-      "সূক্ষ্মকোণ",
-      "সরলকোণ"
+      "8 cm",
+      "10 cm",
+      "12 cm",
+      "18 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-general-math-model-test-12-q20",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
-    "text": "cos²0 - sin²0 = 1 হলে, θ এর মান কত?",
+    "text": "θ একটি সূক্ষ্মকোণ এবং tan θ = 3/4 হলে sec θ কত?",
     "options": [
-      "0°",
-      "45°",
-      "60°",
-      "90°"
+      "4/3",
+      "5/4",
+      "3/5",
+      "5/3"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-general-math-model-test-12-q22",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
-    "text": "চিত্র ABCD-এ O হলো বৃত্তের কেন্দ্র, ∠BAD + ∠BCD এর মান কত?",
+    "text": "একটি বৃত্তের ব্যাস 14 cm। π = 22/7 নিলে পরিধি কত?",
     "options": [
-      "90°",
-      "180°",
-      "270°",
-      "360°"
+      "22 cm",
+      "44 cm",
+      "88 cm",
+      "154 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -363,7 +363,7 @@
     "id": "ssc-general-math-model-test-12-q25",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
-    "text": "A={2,4,6} এবং B={4,6,8} হলে \\(A\\cap B\\) কত?",
+    "text": "A={2,4,6} এবং B={4,6,8} হলে A∩B কত?",
     "options": [
       "{2,8}",
       "{4,6}",

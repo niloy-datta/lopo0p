@@ -1,7 +1,7 @@
 {
   "ssc-physics-chapter-09-model-test-05-q01": {
-    "correctOption": "\\(\\frac{1}{2\\sqrt{2}}\\)",
-    "explanation": "light"
+    "correctOption": "n₁ sin i = n₂ sin r",
+    "explanation": "সঠিক উত্তর: n₁ sin i = n₂ sin r। Snell-এর সূত্র: n₁ sin i = n₂ sin r।"
   },
   "ssc-physics-chapter-09-model-test-05-q02": {
     "correctOption": "-25cm",
@@ -29,23 +29,23 @@
   },
   "ssc-physics-chapter-09-model-test-05-q08": {
     "correctOption": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-    "explanation": "সঠিক উত্তর: পূর্ণ অভ্যন্তরীণ প্রতিফলন"
+    "explanation": "সঠিক উত্তর: পূর্ণ অভ্যন্তরীণ প্রতিফলন। হীরার উচ্চ প্রতিসরাঙ্কের কারণে ছোট সংকট কোণ হয় এবং ভেতরে বহুবার পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে।"
   },
   "ssc-physics-chapter-09-model-test-05-q09": {
     "correctOption": "+2 D",
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-05-q10": {
-    "correctOption": "প্রতিসরণ",
-    "explanation": "সঠিক উত্তর: প্রতিসরণ"
+    "correctOption": "30 cm",
+    "explanation": "সঠিক উত্তর: 30 cm। 1/f = 1/v + 1/u; 1/15 = 1/v + 1/30 ⇒ 1/v = 1/30 ⇒ v = 30 cm।"
   },
   "ssc-physics-chapter-09-model-test-05-q11": {
     "correctOption": "+2D",
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-05-q12": {
-    "correctOption": "ঋণাত্মক",
-    "explanation": "সঠিক উত্তর: ঋণাত্মক"
+    "correctOption": "−40 cm",
+    "explanation": "সঠিক উত্তর: −40 cm। f = 1/P = −0.4 m = −40 cm।"
   },
   "ssc-physics-chapter-09-model-test-05-q13": {
     "correctOption": "−50 cm",
@@ -56,16 +56,16 @@
     "explanation": "light"
   },
   "ssc-physics-chapter-09-model-test-05-q15": {
-    "correctOption": "32",
-    "explanation": "Snell"
+    "correctOption": "22°",
+    "explanation": "সঠিক উত্তর: 22°। sin r = sin32°/1.4 ⇒ r ≈ 22.2°।"
   },
   "ssc-physics-chapter-09-model-test-05-q16": {
     "correctOption": "ডায়োপ্টার",
     "explanation": "lens"
   },
   "ssc-physics-chapter-09-model-test-05-q17": {
-    "correctOption": "কম্পাঙ্ক",
-    "explanation": "সঠিক উত্তর: কম্পাঙ্ক"
+    "correctOption": "অবতল লেন্স",
+    "explanation": "সঠিক উত্তর: অবতল লেন্স। অবতল লেন্সের ফোকাস দূরত্ব ঋণাত্মক, তাই ক্ষমতাও ঋণাত্মক।"
   },
   "ssc-physics-chapter-09-model-test-05-q18": {
     "correctOption": "শূন্য মাধ্যম",
@@ -84,16 +84,16 @@
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-05-q22": {
-    "correctOption": "ভার্চুয়াল ও সোজা",
-    "explanation": ""
+    "correctOption": "কাল্পনিক, সোজা ও বড়",
+    "explanation": "সঠিক উত্তর: কাল্পনিক, সোজা ও বড়। বস্তু focal length-এর ভেতরে থাকলে উত্তল লেন্স কাল্পনিক, সোজা ও বিবর্ধিত প্রতিচ্ছবি দেয়।"
   },
   "ssc-physics-chapter-09-model-test-05-q23": {
     "correctOption": "ভার্চুয়াল ও সোজা",
     "explanation": ""
   },
   "ssc-physics-chapter-09-model-test-05-q24": {
-    "correctOption": "5 D",
-    "explanation": ""
+    "correctOption": "F-এর ভেতরে",
+    "explanation": "সঠিক উত্তর: F-এর ভেতরে। বিবর্ধক কাচে কাল্পনিক, সোজা ও বড় প্রতিচ্ছবি পেতে বস্তু focal length-এর ভেতরে রাখা হয়।"
   },
   "ssc-physics-chapter-09-model-test-05-q25": {
     "correctOption": "2.25×10⁸ m/s",

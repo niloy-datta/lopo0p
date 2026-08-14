@@ -3,14 +3,14 @@
     "id": "ssc-physics-chapter-09-model-test-03-q01",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "উদ্দীপক: একটি আলোক রশ্মি হালকা মাধ্যম \\(a\\) থেকে ঘন মাধ্যম \\(b\\)-তে প্রবেশ করছে। আপতিত রশ্মিটি বিভেদ তলের সাথে \\(30^{\\circ}\\) কোণ তৈরি করে এবং প্রতিসৃত রশ্মিটি অভিলম্বের সাথে \\(45^{\\circ}\\) কোণ তৈরি করে। \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক কত? \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক \\(_a\\eta_b = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 60^{\\circ}}{\\sin 45^{\\circ}} = \\frac{\\sqrt{3}/2}{1/\\sqrt{2}} = \\frac{\\sqrt{3}}{\\sqrt{2}}\\)।",
+    "text": "কোনো মাধ্যমের প্রতিসরাঙ্ক 1.25 হলে ঐ মাধ্যমে আলোর বেগ কত? (c = 3.0×10^8 m/s)",
     "options": [
-      "\\(\\frac{1}{2\\sqrt{2}}\\)",
-      "\\(\\frac{1}{2}\\)",
-      "\\(\\frac{\\sqrt{3}}{\\sqrt{2}}\\)",
-      "\\(\\sqrt{2}\\)"
+      "1.5×10^8 m/s",
+      "2.0×10^8 m/s",
+      "2.4×10^8 m/s",
+      "3.75×10^8 m/s"
     ],
-    "image": "/images/quiz/geo-triangle-altitudes.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -93,7 +93,7 @@
     "id": "ssc-physics-chapter-09-model-test-03-q07",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "১৯। চোখের আলোক সংবেদী অংশ কোনটি?",
+    "text": "চোখের আলোকসংবেদী অংশ কোনটি?",
     "options": [
       "রেটিনা",
       "পিউপিল",
@@ -108,12 +108,12 @@
     "id": "ssc-physics-chapter-09-model-test-03-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "আধুনিক আলোকবিজ্ঞানের ভিত্তি নির্মাণে ইবনে আল-হাইথামের প্রধান অবদান কোন ক্ষেত্রে?",
+    "text": "Optical fiber-এ আলোক সংকেত প্রধানত কোন নীতির কারণে ভেতরে আবদ্ধ থেকে অগ্রসর হয়?",
     "options": [
-      "জ্যোতির্বিদ্যা",
-      "আলো ও দৃষ্টি বিষয়ক পরীক্ষামূলক গবেষণা",
-      "তাপগতিবিদ্যা",
-      "বিদ্যুৎ"
+      "সাধারণ প্রতিফলন",
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "ব্যতিচার",
+      "অপবর্তন"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-physics-chapter-09-model-test-03-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "−2 D ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
+    "text": "+2.0 D এবং −0.5 D ক্ষমতার দুটি পাতলা লেন্স সংস্পর্শে রাখা হলে সমতুল্য ক্ষমতা কত?",
     "options": [
-      "−50 cm",
-      "+50 cm",
-      "−20 cm",
-      "+20 cm"
+      "+1.0 D",
+      "+1.5 D",
+      "+2.5 D",
+      "−1.5 D"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-physics-chapter-09-model-test-03-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "প্রতিসরণাঙ্ক 1.6 মাধ্যমে আপতন কোণ 39° হলে প্রতিসরণ কোণ—",
+    "text": "বায়ু থেকে n = 1.6 প্রতিসরাঙ্কের মাধ্যমে 39° আপতন কোণে আলো গেলে প্রতিসরণ কোণ প্রায় কত?",
     "options": [
-      "19.5",
-      "51",
-      "39",
-      "141"
+      "18°",
+      "23°",
+      "31°",
+      "39°"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-physics-chapter-09-model-test-03-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "লেন্সের ক্ষমতা বৃদ্ধি পেলে তার ফোকাস দূরত্ব—",
+    "text": "+3 D ও −1 D ক্ষমতার দুটি লেন্স সংস্পর্শে থাকলে সমতুল্য ফোকাস দূরত্ব কত?",
     "options": [
-      "বৃদ্ধি পায়",
-      "হ্রাস পায়",
-      "অপরিবর্তিত থাকে",
-      "শূন্য হয়"
+      "25 cm",
+      "50 cm",
+      "75 cm",
+      "100 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-physics-chapter-09-model-test-03-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "একটি অবতল লেন্সের ফোকাস দূরত্ব −20 cm হলে ক্ষমতা কত?",
+    "text": "পূর্ণ অভ্যন্তরীণ প্রতিফলনের জন্য কোন দুটি শর্ত একসঙ্গে প্রয়োজন?",
     "options": [
-      "+5 D",
-      "−5 D",
-      "+2 D",
-      "−2 D"
+      "হালকা থেকে ঘন এবং i<C",
+      "ঘন থেকে হালকা এবং i>C",
+      "ঘন থেকে হালকা এবং i<C",
+      "যেকোনো মাধ্যম এবং i=0°"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-physics-chapter-09-model-test-03-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-03",
-    "text": "আলো এক স্বচ্ছ মাধ্যম থেকে অন্য স্বচ্ছ মাধ্যমে গেলে কোন রাশি অপরিবর্তিত থাকে?",
+    "text": "একটি মাধ্যমে আলোর বেগ 2.0×10^8 m/s এবং কম্পাঙ্ক 5.0×10^14 Hz। তরঙ্গদৈর্ঘ্য কত?",
     "options": [
-      "বেগ",
-      "তরঙ্গদৈর্ঘ্য",
-      "কম্পাঙ্ক",
-      "দিক"
+      "2×10^-7 m",
+      "4×10^-7 m",
+      "5×10^-7 m",
+      "1×10^-6 m"
     ],
     "image": null,
     "optionImages": null,

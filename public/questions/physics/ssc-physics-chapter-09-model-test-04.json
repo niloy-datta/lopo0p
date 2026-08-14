@@ -63,7 +63,7 @@
     "id": "ssc-physics-chapter-09-model-test-04-q05",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-04",
-    "text": "১৯। চোখের আলোক সংবেদী অংশ কোনটি?",
+    "text": "চোখের আলোকসংবেদী অংশ কোনটি?",
     "options": [
       "রেটিনা",
       "পিউপিল",
@@ -78,12 +78,12 @@
     "id": "ssc-physics-chapter-09-model-test-04-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-04",
-    "text": "Optical fiber-এ আলো পরিবাহিত হওয়ার মূল নীতি কোনটি?",
+    "text": "হীরার প্রতিসরাঙ্ক 2.42 হলে হীরার ভেতর আলোর বেগ প্রায় কত? (c = 3.0×10^8 m/s)",
     "options": [
-      "প্রতিসরণ",
-      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
-      "ব্যতিচার",
-      "অপবর্তন"
+      "1.24×10^8 m/s",
+      "1.50×10^8 m/s",
+      "2.42×10^8 m/s",
+      "7.26×10^8 m/s"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-physics-chapter-09-model-test-04-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-04",
-    "text": "+5 D ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
+    "text": "কোন লেন্স সব বাস্তব বস্তুর জন্য কাল্পনিক, সোজা ও ক্ষুদ্র প্রতিচ্ছবি তৈরি করে?",
     "options": [
-      "+20 cm",
-      "−20 cm",
-      "+5 cm",
-      "−5 cm"
+      "উত্তল লেন্স",
+      "অবতল লেন্স",
+      "দ্বি-উত্তল লেন্স",
+      "সমতল কাচ"
     ],
     "image": null,
     "optionImages": null,
@@ -183,14 +183,14 @@
     "id": "ssc-physics-chapter-09-model-test-04-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-04",
-    "text": "উদ্দীপক: একটি আলোক রশ্মি হালকা মাধ্যম \\(a\\) থেকে ঘন মাধ্যম \\(b\\)-তে প্রবেশ করছে। আপতিত রশ্মিটি বিভেদ তলের সাথে \\(30^{\\circ}\\) কোণ তৈরি করে এবং প্রতিসৃত রশ্মিটি অভিলম্বের সাথে \\(45^{\\circ}\\) কোণ তৈরি করে। \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক কত? \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক \\(_a\\eta_b = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 60^{\\circ}}{\\sin 45^{\\circ}} = \\frac{\\sqrt{3}/2}{1/\\sqrt{2}} = \\frac{\\sqrt{3}}{\\sqrt{2}}\\)।",
+    "text": "একটি তরলের প্রকৃত গভীরতা 10 cm এবং আপাত গভীরতা 7.5 cm। তরলটির প্রতিসরাঙ্ক প্রায় কত?",
     "options": [
-      "\\(\\frac{1}{2\\sqrt{2}}\\)",
-      "\\(\\frac{1}{2}\\)",
-      "\\(\\frac{\\sqrt{3}}{\\sqrt{2}}\\)",
-      "\\(\\sqrt{2}\\)"
+      "1.20",
+      "1.33",
+      "1.50",
+      "1.75"
     ],
-    "image": "/images/quiz/geo-triangle-altitudes.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -243,12 +243,12 @@
     "id": "ssc-physics-chapter-09-model-test-04-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-04",
-    "text": "প্রতিসরণাঙ্ক 1.8 মাধ্যমে আপতন কোণ 48° হলে প্রতিসরণ কোণ—",
+    "text": "বায়ু থেকে n = 1.8 প্রতিসরাঙ্কের মাধ্যমে 48° আপতন কোণে আলো গেলে প্রতিসরণ কোণ প্রায় কত?",
     "options": [
-      "42",
-      "48",
-      "132",
-      "24"
+      "18°",
+      "24°",
+      "36°",
+      "48°"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-physics-chapter-09-model-test-04-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-04",
-    "text": "1 diopter ক্ষমতার লেন্সের ফোকাস দূরত্ব কত?",
+    "text": "বয়সজনিত কারণে দূর ও নিকট উভয় দূরত্বে স্পষ্ট দেখায় সমস্যা হলে প্রচলিতভাবে কোন ধরনের লেন্স ব্যবহৃত হতে পারে?",
     "options": [
-      "1 m",
-      "1 cm",
-      "10 m",
-      "100 m"
+      "শুধু অবতল",
+      "শুধু উত্তল",
+      "বাইফোকাল লেন্স",
+      "শুধু প্রিজম"
     ],
     "image": null,
     "optionImages": null,

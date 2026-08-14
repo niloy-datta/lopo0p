@@ -63,7 +63,7 @@
     "id": "ssc-physics-chapter-09-model-test-02-q05",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "১৯। চোখের আলোক সংবেদী অংশ কোনটি?",
+    "text": "চোখের আলোকসংবেদী অংশ কোনটি?",
     "options": [
       "রেটিনা",
       "পিউপিল",
@@ -78,12 +78,12 @@
     "id": "ssc-physics-chapter-09-model-test-02-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "যে আপতন কোণের জন্য প্রতিসরণ কোণ 90° হয় তাকে কী বলে?",
+    "text": "ঘন মাধ্যম থেকে হালকা মাধ্যমে যে আপতন কোণের জন্য প্রতিসরণ কোণ 90° হয়, তাকে কী বলে?",
     "options": [
-      "প্রতিফলন কোণ",
-      "সংকট কোণ",
       "বিচ্যুতি কোণ",
-      "মেরু কোণ"
+      "সংকট কোণ",
+      "মেরু কোণ",
+      "প্রতিফলন কোণ"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-physics-chapter-09-model-test-02-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "পানিতে থাকা একটি বস্তু প্রকৃত গভীরতার তুলনায় কম গভীরে দেখা যায় কেন?",
+    "text": "পানির তলায় থাকা একটি মুদ্রা উপর থেকে দেখলে প্রকৃত অবস্থানের চেয়ে ওপরে দেখা যায় কেন?",
     "options": [
-      "প্রতিফলনের জন্য",
-      "প্রতিসরণের জন্য",
-      "বিচ্ছুরণের জন্য",
-      "ব্যতিচারের জন্য"
+      "প্রতিফলন",
+      "প্রতিসরণ",
+      "ব্যতিচার",
+      "অপবর্তন"
     ],
     "image": null,
     "optionImages": null,
@@ -183,14 +183,14 @@
     "id": "ssc-physics-chapter-09-model-test-02-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "উদ্দীপক: একটি আলোক রশ্মি হালকা মাধ্যম \\(a\\) থেকে ঘন মাধ্যম \\(b\\)-তে প্রবেশ করছে। আপতিত রশ্মিটি বিভেদ তলের সাথে \\(30^{\\circ}\\) কোণ তৈরি করে এবং প্রতিসৃত রশ্মিটি অভিলম্বের সাথে \\(45^{\\circ}\\) কোণ তৈরি করে। \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক কত? \\(a\\) মাধ্যমের সাপেক্ষে \\(b\\) মাধ্যমের প্রতিসরাঙ্ক \\(_a\\eta_b = \\frac{\\sin i}{\\sin r} = \\frac{\\sin 60^{\\circ}}{\\sin 45^{\\circ}} = \\frac{\\sqrt{3}/2}{1/\\sqrt{2}} = \\frac{\\sqrt{3}}{\\sqrt{2}}\\)।",
+    "text": "একটি স্বচ্ছ মাধ্যমের প্রতিসরাঙ্ক 1.5। শূন্যস্থানে আলোর বেগ 3.0×10^8 m/s হলে ঐ মাধ্যমে আলোর বেগ কত?",
     "options": [
-      "\\(\\frac{1}{2\\sqrt{2}}\\)",
-      "\\(\\frac{1}{2}\\)",
-      "\\(\\frac{\\sqrt{3}}{\\sqrt{2}}\\)",
-      "\\(\\sqrt{2}\\)"
+      "1.5×10^8 m/s",
+      "2.0×10^8 m/s",
+      "2.5×10^8 m/s",
+      "4.5×10^8 m/s"
     ],
-    "image": "/images/quiz/geo-triangle-altitudes.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -228,12 +228,12 @@
     "id": "ssc-physics-chapter-09-model-test-02-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "প্রতিসরণাঙ্ক 1.4 মাধ্যমে আপতন কোণ 32° হলে প্রতিসরণ কোণ—",
+    "text": "বায়ু থেকে n = 1.4 প্রতিসরাঙ্কের মাধ্যমে 32° আপতন কোণে আলো প্রবেশ করলে প্রতিসরণ কোণ প্রায় কত?",
     "options": [
-      "32",
-      "16",
-      "148",
-      "58"
+      "16°",
+      "22°",
+      "32°",
+      "46°"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-physics-chapter-09-model-test-02-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "Hypermetropia বা দূরদৃষ্টি সংশোধনে কোন লেন্স ব্যবহার করা হয়?",
+    "text": "দূরদৃষ্টি (hypermetropia) সংশোধনে সাধারণত কোন লেন্স ব্যবহার করা হয়?",
     "options": [
-      "অবতল লেন্স",
-      "উত্তল লেন্স",
-      "সমতল লেন্স",
-      "প্রিজম"
+      "অবতল",
+      "উত্তল",
+      "সমতল",
+      "শুধু প্রিজম"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-physics-chapter-09-model-test-02-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-09-model-test-02",
-    "text": "কোনো মাধ্যমে আলোর বেগ \\(2.4\\times10^8\\) m/s হলে প্রতিসরাঙ্ক কত?",
+    "text": "কাচের প্রতিসরাঙ্ক 1.5 হলে কাচ-বায়ু সীমান্তে সংকট কোণ প্রায় কত?",
     "options": [
-      "1.25",
-      "1.50",
-      "2.40",
-      "3.00"
+      "32°",
+      "42°",
+      "49°",
+      "60°"
     ],
     "image": null,
     "optionImages": null,
