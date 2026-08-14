@@ -207,7 +207,9 @@ async def resolve_firebase_user(id_token: str) -> dict:
     except ImportError:
         pass
 
-    api_key = os.getenv("FIREBASE_API_KEY", "")
+    api_key = os.getenv("FIREBASE_API_KEY") or os.getenv(
+        "NEXT_PUBLIC_FIREBASE_API_KEY", ""
+    )
     if not api_key:
         raise HTTPException(
             status_code=503,
@@ -345,7 +347,7 @@ def make_session_cookie(payload: dict, expire_days: int) -> str:
 @app.get("/api/config/firebase")
 def get_firebase_config():
     return {
-        "apiKey":            os.getenv("FIREBASE_API_KEY", ""),
+        "apiKey":            os.getenv("FIREBASE_API_KEY") or os.getenv("NEXT_PUBLIC_FIREBASE_API_KEY", ""),
         "authDomain":        os.getenv("FIREBASE_AUTH_DOMAIN", ""),
         "projectId":         os.getenv("FIREBASE_PROJECT_ID", ""),
         "storageBucket":     os.getenv("FIREBASE_STORAGE_BUCKET", ""),
