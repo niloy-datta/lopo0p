@@ -20,7 +20,7 @@
     "explanation": "\\(|z|=\\sqrt{(-3)^2+(-4)^2}=5\\)।"
   },
   "hsc-higher-math-2nd-paper-tier-a-hot-model-test-05-q06": {
-    "correctOption": "\\(\\frac\\pi4\\)",
+    "correctOption": "\\(\\frac{\\pi}{4}\\)",
     "explanation": "\\(\\frac{i}{1+i}=\\frac{i(1-i)}2=\\frac{1+i}{2}\\), তাই argument \\(\\pi/4\\)।"
   },
   "hsc-higher-math-2nd-paper-tier-a-hot-model-test-05-q07": {
@@ -32,7 +32,7 @@
     "explanation": "\\(D=4^2-4\\cdot1\\cdot4=0\\); তাই বাস্তব ও সমান মূল।"
   },
   "hsc-higher-math-2nd-paper-tier-a-hot-model-test-05-q09": {
-    "correctOption": "\\(\\frac{\\sqrt{34}}5\\)",
+    "correctOption": "\\(\\frac{\\sqrt{34}}{5}\\)",
     "explanation": "\\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+9/25}=\\sqrt{34}/5\\)।"
   },
   "hsc-higher-math-2nd-paper-tier-a-hot-model-test-05-q10": {
