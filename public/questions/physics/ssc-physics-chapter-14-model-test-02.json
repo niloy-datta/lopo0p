@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এক্স-রে নির্গত হয় কোন প্রক্রিয়ায়?",
+    "options": [
+      "নিউক্লিয়ার ফিশন",
+      "দ্রুত ইলেকট্রনের লক্ষ্যে আঘাত",
+      "রাসায়নিক বিক্রিয়া",
+      "শব্দ প্রতিফলন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এক্স-রে এর ভেদন ক্ষমতা বেশি কারণ এর—",
+    "options": [
+      "তরঙ্গদৈর্ঘ্য বড়",
+      "কম্পাঙ্ক কম",
+      "তরঙ্গদৈর্ঘ্য খুব ছোট ও শক্তি বেশি",
+      "বেগ কম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "নরম টিস্যুর চেয়ে হাড় এক্স-রে বেশি শোষণ করে, তাই রেডিওগ্রাফে হাড় কেমন দেখায়?",
+    "options": [
+      "কালো",
+      "সাদা",
+      "সবুজ",
+      "নীল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "সিটি স্ক্যানে কোন রশ্মি ব্যবহৃত হয়?",
+    "options": [
+      "গামা",
+      "আল্ট্রাসাউন্ড",
+      "এক্স-রে",
+      "লেজার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "CT এর পূর্ণরূপ কী?",
+    "options": [
+      "Computed Tomography",
+      "Computer Technology",
+      "Central Tomography",
+      "Computed Therapy"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "সিটি স্ক্যানের প্রধান সুবিধা কী?",
+    "options": [
+      "সস্তা",
+      "দেহের প্রস্থচ্ছেদ/ত্রিমাত্রিক ছবি পাওয়া যায়",
+      "শব্দ দিয়ে ছবি",
+      "কোনো বিকিরণ নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "সিটি স্ক্যানে এক্স-রে টিউব ও ডিটেক্টর কীভাবে থাকে?",
+    "options": [
+      "স্থির থাকে",
+      "রোগীর চারদিকে ঘোরে",
+      "কেবল উপরে থাকে",
+      "দেহের বাইরে থাকে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এমআরআই-তে কী ব্যবহার করা হয়?",
+    "options": [
+      "এক্স-রে",
+      "শক্তিশালী চৌম্বকক্ষেত্র ও রেডিও তরঙ্গ",
+      "আল্ট্রাসাউন্ড",
+      "গামা রশ্মি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "MRI এর পূর্ণরূপ—",
+    "options": [
+      "Magnetic Resonance Imaging",
+      "Magnetic Radiation Imaging",
+      "Medical Resonance Imaging",
+      "Magnetic Reflection Imaging"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এমআরআই দেহের কোন ধরনের টিস্যুর ছবি তোলার জন্য বেশি উপযোগী?",
+    "options": [
+      "হাড়",
+      "নরম টিস্যু (মস্তিষ্ক, মেরুরজ্জু)",
+      "দাঁত",
+      "ফুসফুসের বায়ু"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "নিচের কোন রোগীকে এমআরআই করা নিরাপদ নয়?",
+    "options": [
+      "যার পেসমেকার বা ধাতব ইমপ্লান্ট আছে",
+      "যার জ্বর আছে",
+      "যার রক্তচাপ বেশি",
+      "যার ওজন কম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এমআরআই-তে কোন পরমাণুর নিউক্লিয়াস চৌম্বকক্ষেত্রে সাড়া দেয়?",
+    "options": [
+      "অক্সিজেন",
+      "কার্বন",
+      "হাইড্রোজেন",
+      "নাইট্রোজেন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "সিটি স্ক্যানে এক্স-রে ব্যবহৃত হলেও সাধারণ এক্স-রে প্লেটের তুলনায় সুবিধা কোনটি?",
+    "options": [
+      "কম খরচ",
+      "কম বিকিরণ",
+      "অনেক কোণ থেকে তথ্য নিয়ে কম্পিউটারে বিস্তারিত ছবি",
+      "শব্দ ব্যবহার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এক্স-রে ও সিটি স্ক্যানে রোগীর বিকিরণ ঝুঁকি কমানোর উপায় কোনটি?",
+    "options": [
+      "বারবার করা",
+      "অপ্রয়োজনে এড়িয়ে চলা ও ঢাল ব্যবহার",
+      "বেশি সময় ধরা",
+      "কাছে দাঁড়ানো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "কোন পরীক্ষায় রোগীকে একটি চক্রাকার যন্ত্রের ভেতরে শুইয়ে রাখা হয়?",
+    "options": [
+      "আল্ট্রাসনোগ্রাফি",
+      "ইসিজি",
+      "সিটি স্ক্যান/এমআরআই",
+      "ইইজি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এক্স-রে শনাক্ত করতে ফিল্মের বদলে এখন কী ব্যবহৃত হয়?",
+    "options": [
+      "ডিজিটাল ডিটেক্টর",
+      "আয়না",
+      "লাউডস্পিকার",
+      "থার্মোমিটার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "নিচের কোনটি এক্স-রে এর ধর্ম নয়?",
+    "options": [
+      "সরলরেখায় চলে",
+      "ফটোগ্রাফিক প্লেটে প্রতিক্রিয়া ঘটায়",
+      "শব্দের মতো প্রতিধ্বনি সৃষ্টি করে",
+      "গ্যাসকে আয়নিত করে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "বেরিয়াম সোয়ালো পরীক্ষায় কোন অঙ্গ দেখা হয়?",
+    "options": [
+      "মস্তিষ্ক",
+      "পরিপাকতন্ত্র/খাদ্যনালি",
+      "হৃৎপিণ্ড",
+      "ফুসফুস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এনজিওগ্রাফিতে কী দেখা হয়?",
+    "options": [
+      "হাড়",
+      "রক্তনালি",
+      "চোখ",
+      "দাঁত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "সিটি স্ক্যানের একটি সীমাবদ্ধতা কোনটি?",
+    "options": [
+      "ছবি আসে না",
+      "বিকিরণ মাত্রা এক্স-রে থেকে বেশি",
+      "শব্দ ব্যবহারে ক্ষতি",
+      "শুধু হাড় দেখা যায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এমআরআই-এর প্রধান অসুবিধা কোনটি?",
+    "options": [
+      "বিকিরণ ঝুঁকি বেশি",
+      "ব্যয়বহুল ও সময়সাপেক্ষ",
+      "শব্দ তরঙ্গ ক্ষতিকর",
+      "হাড় দেখা যায় না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এক্স-রে এর তরঙ্গদৈর্ঘ্য দৃশ্যমান আলোর চেয়ে—",
+    "options": [
+      "অনেক বড়",
+      "অনেক ছোট",
+      "সমান",
+      "কখনো বড় কখনো ছোট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "এক্স-রে ও গামা রশ্মির মধ্যে সাদৃশ্য কী?",
+    "options": [
+      "উভয়ই শব্দ তরঙ্গ",
+      "উভয়ই তাড়িতচৌম্বক তরঙ্গ ও আয়নাইজিং",
+      "উভয়ের বেগ শব্দের বেগ",
+      "উভয়ের তরঙ্গদৈর্ঘ্য মিটার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "ডিজিটাল রেডিওগ্রাফির সুবিধা কোনটি?",
+    "options": [
+      "ছবি সংরক্ষণ ও স্থানান্তর সহজ",
+      "বেশি বিকিরণ",
+      "ছবি অস্পষ্ট",
+      "দীর্ঘ সময় লাগে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-02-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-02",
+    "text": "মেডিকেল ইমেজিং-এ কম্পিউটারের ভূমিকা কী?",
+    "options": [
+      "রোগীকে ওষুধ দেয়",
+      "ছবি প্রক্রিয়াকরণ ও বিশ্লেষণ করে",
+      "অস্ত্রোপচার করে",
+      "রক্ত পরীক্ষা করে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

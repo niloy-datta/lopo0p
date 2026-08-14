@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "এক্স-রে আবিষ্কারের বছর কত?",
+    "options": [
+      "১৮৯৫",
+      "১৯০৫",
+      "১৮৭৫",
+      "১৯২৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "এক্স-রে উৎপাদনের জন্য টিউবে কী ধরনের ভোল্টেজ প্রয়োজন?",
+    "options": [
+      "কম ভোল্টেজ",
+      "উচ্চ ভোল্টেজ",
+      "এসি ছাড়া চলে না",
+      "ব্যাটারি ৯V"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "এক্স-রে টিউবের ক্যাথোড রশ্মি আসলে কী?",
+    "options": [
+      "আলফা কণা",
+      "ইলেকট্রন প্রবাহ",
+      "প্রোটন প্রবাহ",
+      "ফোটন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "আলট্রাসাউন্ডের কম্পাঙ্ক 20 kHz এর বেশি; এই শব্দ মানুষ শুনতে পায় না কেন?",
+    "options": [
+      "মানুষের শ্রবণসীমার বাইরে",
+      "খুব জোরালো",
+      "খুব ধীর",
+      "আলো বাধা দেয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "মেডিকেল আলট্রাসাউন্ডে জেল ব্যবহার করা হয় কেন?",
+    "options": [
+      "ছবি রঙিন করতে",
+      "ত্বক ও প্রোবের মধ্যে বায়ু দূর করে শব্দ সঞ্চালন উন্নত করতে",
+      "ঠান্ডা করতে",
+      "ব্যথা কমাতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "ডপলার আলট্রাসাউন্ড দিয়ে কী নির্ণয় করা হয়?",
+    "options": [
+      "হাড়ের ঘনত্ব",
+      "রক্তপ্রবাহের বেগ ও দিক",
+      "মস্তিষ্কের তরঙ্গ",
+      "রক্তচাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "সিটি স্ক্যান এবং এমআরআই এর মধ্যে প্রধান পার্থক্য কী?",
+    "options": [
+      "সিটি এক্স-রে ব্যবহার করে, এমআরআই চুম্বক ও রেডিও তরঙ্গ ব্যবহার করে",
+      "এমআরআই এক্স-রে ব্যবহার করে",
+      "উভয়ই শব্দ ব্যবহার করে",
+      "কোনো পার্থক্য নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "কোন ইমেজিং পদ্ধতি আয়নাইজিং বিকিরণ ব্যবহার করে না?",
+    "options": [
+      "সিটি",
+      "এক্স-রে",
+      "এমআরআই",
+      "PET"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "এমআরআই শব্দ করে কেন?",
+    "options": [
+      "রেডিও তরঙ্গে",
+      "চৌম্বক ক্ষেত্রের দ্রুত পরিবর্তনে যন্ত্রাংশ কম্পন করে",
+      "রোগী নড়াচড়া করলে",
+      "এক্স-রে টিউব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "EEG-তে মাথার ত্বকে কী স্থাপন করা হয়?",
+    "options": [
+      "ইলেকট্রোড",
+      "চুম্বক",
+      "প্রোব",
+      "লেন্স"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "ECG-তে ত্বকে কোথায় ইলেকট্রোড লাগানো হয়?",
+    "options": [
+      "বুক, হাত ও পা",
+      "শুধু মাথায়",
+      "পেটে",
+      "পিঠে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "ইলেকট্রোকার্ডিওগ্রাফে হৃৎপিণ্ডের কোন সংকেতকে বিবর্ধিত করে রেকর্ড করা হয়?",
+    "options": [
+      "শব্দ তরঙ্গ",
+      "বৈদ্যুতিক সংকেত",
+      "রাসায়নিক সংকেত",
+      "আলোক সংকেত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "এন্ডোস্কোপিতে কোন ধরনের আলোর উৎস ব্যবহৃত হয়?",
+    "options": [
+      "মোমবাতি",
+      "ঠান্ডা আলোর উৎস",
+      "সূর্যের আলো",
+      "এক্স-রে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "ল্যাপারোস্কোপি কী?",
+    "options": [
+      "পেটের অভ্যন্তরে এন্ডোস্কোপিক সার্জারি",
+      "চোখের পরীক্ষা",
+      "হাড়ের এক্স-রে",
+      "মস্তিষ্কের ইইজি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "কেমোথেরাপি ও রেডিওথেরাপির মূল পার্থক্য কী?",
+    "options": [
+      "কেমোথেরাপি ওষুধ দিয়ে, রেডিওথেরাপি বিকিরণ দিয়ে",
+      "উভয়ই শব্দ দিয়ে",
+      "রেডিওথেরাপি ওষুধ দিয়ে",
+      "কোনো পার্থক্য নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "রেডিওথেরাপিতে সুস্থ কোষের ক্ষতি কমাতে কী করা হয়?",
+    "options": [
+      "একবারে পুরো ডোজ দেওয়া",
+      "টিউমারের দিকে সঠিকভাবে নির্দেশ করে অল্প ডোজে ভাগ করে দেওয়া",
+      "রোগীকে কাছে রাখা",
+      "ঢাল ব্যবহার না করা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "টেকনেশিয়াম-৯৯m এর অর্ধায়ু কত?",
+    "options": [
+      "৬ ঘণ্টা",
+      "৮ দিন",
+      "৫ বছর",
+      "১০০ বছর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "তেজস্ক্রিয় আইসোটোপের অর্ধায়ু কম হলে চিকিৎসায় সুবিধা কী?",
+    "options": [
+      "দেহে বিকিরণ দ্রুত কমে যায়",
+      "বেশি থাকে",
+      "ছবি খারাপ হয়",
+      "ব্যয় বাড়ে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "শরীরের অভ্যন্তরে কোনো টিউমার খুঁজতে PET-CT ব্যবহৃত হয়; এতে কী পাওয়া যায়?",
+    "options": [
+      "শুধু শব্দ",
+      "বিপাকীয় ছবি + শারীরস্থানিক ছবি",
+      "শুধু হাড়",
+      "শুধু রক্ত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "থার্মোগ্রাফি কী নির্ণয় করে?",
+    "options": [
+      "দেহের তাপমাত্রার বণ্টন",
+      "হাড়ের ঘনত্ব",
+      "রক্তচাপ",
+      "মস্তিষ্কের তরঙ্গ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "কোন রশ্মি জীবাণুনাশক হিসেবে চিকিৎসা সরঞ্জাম জীবাণুমুক্ত করতে ব্যবহৃত হয়?",
+    "options": [
+      "অতি বেগুনি রশ্মি/গামা রশ্মি",
+      "ইনফ্রারেড",
+      "রেডিও তরঙ্গ",
+      "শব্দ তরঙ্গ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "লেজার রশ্মির তীব্রতা কাজে লাগিয়ে কোনটি করা হয়?",
+    "options": [
+      "টিস্যু কাটা ও রক্ত জমাট বাঁধানো",
+      "হাড় ভাঙা",
+      "রক্তচাপ বাড়ানো",
+      "শব্দ তৈরি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "ফাইবার অপটিক এন্ডোস্কোপে ছবি কীভাবে চিকিৎসকের কাছে পৌঁছায়?",
+    "options": [
+      "অপটিক্যাল ফাইবারের ভেতর আলো হয়ে",
+      "বৈদ্যুতিক তারে",
+      "বেতার তরঙ্গে",
+      "শব্দ তরঙ্গে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "নিচের কোনটি রোগ নির্ণয়ে ব্যবহৃত হয় না?",
+    "options": [
+      "এমআরআই",
+      "আল্ট্রাসাউন্ড",
+      "এক্স-রে",
+      "টেলিস্কোপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-05-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-05",
+    "text": "“চিকিৎসা পদার্থবিজ্ঞান” শাখাটি মূলত কোন উদ্দেশ্যে কাজ করে?",
+    "options": [
+      "রোগ নির্ণয় ও চিকিৎসায় নিরাপদ প্রযুক্তির প্রয়োগ",
+      "খেলাধুলার উন্নতি",
+      "মহাকাশ গবেষণা",
+      "আবহাওয়া পূর্বাভাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

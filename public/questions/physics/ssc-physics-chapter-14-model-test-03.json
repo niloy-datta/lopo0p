@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "ECG এর পূর্ণরূপ কী?",
+    "options": [
+      "Electrocardiogram",
+      "Electroencephalogram",
+      "Electric Cardiac Graph",
+      "Echo Cardiogram"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "ECG দিয়ে কোন অঙ্গের কার্যক্রম জানা যায়?",
+    "options": [
+      "মস্তিষ্ক",
+      "হৃৎপিণ্ড",
+      "যকৃত",
+      "ফুসফুস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "ECG-তে P তরঙ্গ, QRS কমপ্লেক্স ও T তরঙ্গ কী নির্দেশ করে?",
+    "options": [
+      "ফুসফুসের বায়ু",
+      "হৃৎপিণ্ডের বৈদ্যুতিক কার্যক্রম",
+      "মস্তিষ্কের তরঙ্গ",
+      "রক্তচাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "EEG এর পূর্ণরূপ—",
+    "options": [
+      "Electroencephalogram",
+      "Electrocardiogram",
+      "Electric Encephalogram",
+      "Echo Encephalography"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "EEG দিয়ে কোন অঙ্গের তরঙ্গ রেকর্ড করা হয়?",
+    "options": [
+      "হৃৎপিণ্ড",
+      "মস্তিষ্ক",
+      "পাকস্থলী",
+      "বৃক্ক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "মৃগী (epilepsy) রোগ নির্ণয়ে কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "ECG",
+      "EEG",
+      "Endoscopy",
+      "X-ray"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "এন্ডোস্কোপিতে কোন নীতির ওপর ভিত্তি করে আলো চলাচল করে?",
+    "options": [
+      "আলোর প্রতিসরণ",
+      "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "আলোর ব্যতিচার",
+      "আলোর অপবর্তন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "এন্ডোস্কোপে কী দিয়ে তৈরি নমনীয় তন্তু থাকে?",
+    "options": [
+      "তামার তার",
+      "অপটিক্যাল ফাইবার",
+      "লোহার তার",
+      "রাবার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "এন্ডোস্কোপির সাহায্যে কোনটি করা যায়?",
+    "options": [
+      "হাড়ের ছবি তোলা",
+      "পাকস্থলীর আলসার দেখা",
+      "হৃৎস্পন্দন মাপা",
+      "মস্তিষ্কের তরঙ্গ দেখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "অপটিক্যাল ফাইবারে আলো কীভাবে সঞ্চারিত হয়?",
+    "options": [
+      "সরলরেখায় বাইরে চলে যায়",
+      "বারবার পূর্ণ অভ্যন্তরীণ প্রতিফলনের মাধ্যমে ভেতরে চলে",
+      "শব্দ হিসেবে",
+      "তাপ হিসেবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "LASER এর পূর্ণরূপ কী?",
+    "options": [
+      "Light Amplification by Stimulated Emission of Radiation",
+      "Light Absorption by Stimulated Emission of Radiation",
+      "Laser Amplification by Stimulated Energy of Radiation",
+      "Light Amplification by Spontaneous Emission"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "লেজার রশ্মির প্রধান বৈশিষ্ট্য কোনটি?",
+    "options": [
+      "বিক্ষিপ্ত আলো",
+      "একবর্ণী, সমমুখী ও তীব্র",
+      "শব্দ তরঙ্গ",
+      "কম শক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "চোখের রেটিনা বিচ্ছিন্নতা চিকিৎসায় কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "ECG",
+      "লেজার",
+      "আল্ট্রাসাউন্ড",
+      "এক্স-রে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "কিডনির পাথর ভাঙতে কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "লেজার লিথোট্রিপসি",
+      "ইসিজি",
+      "ইইজি",
+      "এক্স-রে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "অপটিক্যাল ফাইবারের কেন্দ্রীয় অংশকে কী বলা হয়?",
+    "options": [
+      "ক্ল্যাডিং",
+      "কোর",
+      "জ্যাকেট",
+      "কন্ডাক্টর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "অপটিক্যাল ফাইবারের বাইরের আবরণকে কী বলা হয়?",
+    "options": [
+      "কোর",
+      "ক্ল্যাডিং",
+      "ক্যাথোড",
+      "অ্যানোড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "এন্ডোস্কোপির প্রধান সুবিধা কী?",
+    "options": [
+      "বড় অস্ত্রোপচার ছাড়াই শরীরের ভেতর দেখা যায়",
+      "সস্তা",
+      "কোনো যন্ত্র লাগে না",
+      "বিকিরণ ব্যবহৃত হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "EEG মস্তিষ্কের কী ধরনের সংকেত রেকর্ড করে?",
+    "options": [
+      "যান্ত্রিক",
+      "রাসায়নিক",
+      "বৈদ্যুতিক",
+      "তাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "নিচের কোনটি ECG এর ব্যবহার?",
+    "options": [
+      "হৃৎপিণ্ডের ছন্দের অস্বাভাবিকতা নির্ণয়",
+      "পাকস্থলীর আলসার দেখা",
+      "হাড়ের ভাঙা দেখা",
+      "গর্ভের শিশু দেখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "দৃষ্টিশক্তি সংশোধনে (LASIK) কোন রশ্মি ব্যবহৃত হয়?",
+    "options": [
+      "এক্স-রে",
+      "লেজার",
+      "আল্ট্রাসাউন্ড",
+      "গামা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "এন্ডোস্কোপির সময় আলো কী কাজ করে?",
+    "options": [
+      "অঙ্গকে আলোকিত করে ও ছবি প্রেরণ করে",
+      "অঙ্গ গরম করে",
+      "শব্দ তৈরি করে",
+      "এক্স-রে তৈরি করে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "কোলনোস্কোপি আসলে কী?",
+    "options": [
+      "কোলন/বৃহদন্ত্রের এন্ডোস্কোপি",
+      "হৃৎপিণ্ডের পরীক্ষা",
+      "মস্তিষ্কের পরীক্ষা",
+      "ফুসফুসের পরীক্ষা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "নিচের কোনটিতে অপটিক্যাল ফাইবার ব্যবহৃত হয় না?",
+    "options": [
+      "এন্ডোস্কোপি",
+      "ইন্টারনেট ডেটা পরিবহণ",
+      "ইসিজি",
+      "ল্যাপারোস্কোপি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "লেজার রশ্মি সাধারণ আলোর থেকে আলাদা কারণ এটি—",
+    "options": [
+      "বিক্ষিপ্ত হয়",
+      "সমমুখী (coherent)",
+      "সব দিকে ছড়ায়",
+      "কম তীব্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-03-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-03",
+    "text": "চিকিৎসায় লেজারের একটি সুবিধা কী?",
+    "options": [
+      "রক্তপাত কমিয়ে সূক্ষ্ম অস্ত্রোপচার সম্ভব",
+      "বেশি ব্যথা হয়",
+      "সংক্রমণ বাড়ে",
+      "সময় বেশি লাগে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

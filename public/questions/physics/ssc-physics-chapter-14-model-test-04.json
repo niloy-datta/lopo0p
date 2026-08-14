@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "নিউক্লিয়ার মেডিসিনে কী ব্যবহৃত হয়?",
+    "options": [
+      "সাধারণ রং",
+      "তেজস্ক্রিয় আইসোটোপ",
+      "শব্দ তরঙ্গ",
+      "চুম্বক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "থাইরয়েড গ্রন্থির কার্যকারিতা পরীক্ষায় কোন তেজস্ক্রিয় আইসোটোপ ব্যবহৃত হয়?",
+    "options": [
+      "আয়োডিন-১৩১",
+      "কার্বন-১২",
+      "অক্সিজেন-১৬",
+      "লোহা-৫৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "ক্যান্সার চিকিৎসায় রেডিওথেরাপিতে কোন বিকিরণ ব্যবহৃত হয়?",
+    "options": [
+      "আল্ট্রাসাউন্ড",
+      "গামা রশ্মি/এক্স-রে",
+      "দৃশ্যমান আলো",
+      "রেডিও তরঙ্গ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "কোবাল্ট-৬০ থেকে কোন রশ্মি নির্গত হয়?",
+    "options": [
+      "আলফা",
+      "বিটা ও গামা",
+      "শুধু এক্স-রে",
+      "লেজার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "রেডিওথেরাপির মূল লক্ষ্য কী?",
+    "options": [
+      "সুস্থ কোষ ধ্বংস করা",
+      "ক্যান্সার কোষ ধ্বংস বা বৃদ্ধি রোধ করা",
+      "হাড় শক্ত করা",
+      "রক্তচাপ বাড়ানো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "নিউক্লিয়ার মেডিসিনে রোগীকে তেজস্ক্রিয় আইসোটোপ দেওয়ার পর কী দিয়ে শনাক্ত করা হয়?",
+    "options": [
+      "এক্স-রে ফিল্ম",
+      "গামা ক্যামেরা",
+      "আল্ট্রাসাউন্ড প্রোব",
+      "থার্মোমিটার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "নিচের কোনটি সাধারণত মেডিকেল ইমেজিংয়ে ব্যবহৃত তেজস্ক্রিয় আইসোটোপ?",
+    "options": [
+      "টেকনেশিয়াম-৯৯m",
+      "অক্সিজেন-১৮",
+      "ক্যালসিয়াম-৪০",
+      "সোডিয়াম-২৩"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "পজিট্রন এমিশন টমোগ্রাফি (PET) এর কাজ কী?",
+    "options": [
+      "হাড়ের ছবি",
+      "কোষের বিপাকীয় কার্যক্রম দেখা",
+      "রক্তচাপ মাপা",
+      "শব্দ তরঙ্গ তৈরি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "PET স্ক্যানে কী শনাক্ত করা হয়?",
+    "options": [
+      "এক্স-রে",
+      "পজিট্রন-ইলেকট্রন বিনাশ থেকে উৎপন্ন গামা রশ্মি",
+      "শব্দ প্রতিধ্বনি",
+      "চৌম্বক তরঙ্গ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "রেডিওথেরাপির একটি পার্শ্বপ্রতিক্রিয়া কোনটি?",
+    "options": [
+      "চুল পড়া, দুর্বলতা",
+      "উচ্চতা বাড়া",
+      "ওজন বাড়া",
+      "দৃষ্টিশক্তি বৃদ্ধি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "তেজস্ক্রিয় বিকিরণের মাত্রা পরিমাপের একক কোনটি?",
+    "options": [
+      "সিভার্ট/গ্রে",
+      "নিউটন",
+      "প্যাসকেল",
+      "ওয়াট"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "আয়নাইজিং বিকিরণ থেকে সুরক্ষায় কোনটি সঠিক নয়?",
+    "options": [
+      "সময় কমানো",
+      "দূরত্ব বাড়ানো",
+      "ঢাল ব্যবহার",
+      "বিকিরণ উৎসের কাছে থাকা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "রক্তের অক্সিজেন স্যাচুরেশন মাপতে কোন যন্ত্র ব্যবহৃত হয়?",
+    "options": [
+      "পালস অক্সিমিটার",
+      "স্ফিগমোম্যানোমিটার",
+      "স্টেথোস্কোপ",
+      "ইসিজি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "পালস অক্সিমিটার কোন নীতিতে কাজ করে?",
+    "options": [
+      "শব্দ তরঙ্গ",
+      "আলো শোষণ/প্রতিফলন",
+      "চুম্বকত্ব",
+      "তেজস্ক্রিয়তা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "রক্তচাপ মাপার যন্ত্রের নাম কী?",
+    "options": [
+      "পালস অক্সিমিটার",
+      "স্ফিগমোম্যানোমিটার",
+      "এন্ডোস্কোপ",
+      "ইইজি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "স্টেথোস্কোপে কীভাবে হৃৎস্পন্দন শোনা যায়?",
+    "options": [
+      "এক্স-রে দিয়ে",
+      "শব্দ তরঙ্গ পরিবহন ও বিবর্ধন করে",
+      "রেডিও তরঙ্গে",
+      "আলো দিয়ে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "কৃত্রিমভাবে শ্বাসপ্রশ্বাস চালাতে কোন যন্ত্র ব্যবহৃত হয়?",
+    "options": [
+      "পেসমেকার",
+      "ভেন্টিলেটর",
+      "ডিফিব্রিলেটর",
+      "ডায়ালাইসিস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "হৃৎপিণ্ডের অস্বাভাবিক ছন্দে বৈদ্যুতিক শক দিতে কোন যন্ত্র ব্যবহৃত হয়?",
+    "options": [
+      "পেসমেকার",
+      "ডিফিব্রিলেটর",
+      "ভেন্টিলেটর",
+      "আল্ট্রাসাউন্ড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "পেসমেকার কী করে?",
+    "options": [
+      "মস্তিষ্কে তরঙ্গ পাঠায়",
+      "হৃৎপিণ্ডের স্পন্দন নিয়ন্ত্রণে বৈদ্যুতিক সংকেত দেয়",
+      "রক্ত তৈরি করে",
+      "ফুসফুসে বায়ু দেয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "ডায়ালাইসিস মেশিন কোন অঙ্গের বিকল্প হিসেবে কাজ করে?",
+    "options": [
+      "হৃৎপিণ্ড",
+      "বৃক্ক",
+      "যকৃত",
+      "ফুসফুস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "তেজস্ক্রিয় আইসোটোপ ব্যবহারের সময় রোগীর শরীর থেকে নির্গত বিকিরণ সাধারণত—",
+    "options": [
+      "দীর্ঘস্থায়ী ও বিপজ্জনক",
+      "স্বল্পস্থায়ী ও নিয়ন্ত্রিত",
+      "শব্দ তরঙ্গ",
+      "দৃশ্যমান আলো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "নিচের কোনটি নন-আয়নাইজিং বিকিরণ?",
+    "options": [
+      "এক্স-রে",
+      "গামা রশ্মি",
+      "আল্ট্রাসাউন্ড",
+      "বিটা কণা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "চিকিৎসা যন্ত্র জীবাণুমুক্ত করতে কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "গামা রশ্মি",
+      "শব্দ তরঙ্গ",
+      "দৃশ্যমান আলো",
+      "চুম্বক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "ক্যান্সারের টিউমার ধ্বংসে সরাসরি তেজস্ক্রিয় পদার্থ টিউমারে স্থাপন করাকে কী বলে?",
+    "options": [
+      "কেমোথেরাপি",
+      "ব্র্যাকিথেরাপি",
+      "ফিজিওথেরাপি",
+      "রেডিওগ্রাফি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-14-model-test-04-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-14-model-test-04",
+    "text": "চিকিৎসা পদার্থবিজ্ঞানীর কাজ কোনটি?",
+    "options": [
+      "ওষুধ তৈরি",
+      "চিকিৎসা যন্ত্রের নিরাপদ ও কার্যকর ব্যবহার নিশ্চিত করা",
+      "রোগীকে অপারেশন করা",
+      "বিল্ডিং নির্মাণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

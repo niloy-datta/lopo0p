@@ -3,12 +3,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q01",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "“জীবন বাঁচাতে পদার্থবিজ্ঞান” মূলত কোন বিষয় নিয়ে আলোচনা করে?",
     "options": [
-      "He",
-      "CO₂",
-      "O₂",
-      "N₂"
+      "খেলাধুলা",
+      "চিকিৎসা ও স্বাস্থ্য সুরক্ষায় পদার্থবিজ্ঞান",
+      "মহাকাশ",
+      "কৃষি"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q02",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "এক্স-রে কে আবিষ্কার করেন?",
     "options": [
-      "N₂",
-      "He",
-      "O₂",
-      "CO₂"
+      "মেরি কুরি",
+      "উইলহেম রন্টজেন",
+      "আইনস্টাইন",
+      "রাদারফোর্ড"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q03",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "এক্স-রে আসলে কী ধরনের তরঙ্গ?",
     "options": [
-      "N₂",
-      "CO₂",
-      "O₂",
-      "He"
+      "শব্দ তরঙ্গ",
+      "পানির তরঙ্গ",
+      "তাড়িতচৌম্বক তরঙ্গ",
+      "তাপ তরঙ্গ"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q04",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "এক্স-রে তরঙ্গদৈর্ঘ্যের range কত?",
     "options": [
-      "He",
-      "O₂",
-      "CO₂",
-      "N₂"
+      "0.01–10 nm",
+      "400–700 nm",
+      "1–10 mm",
+      "10–100 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q05",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "এক্স-রে তৈরির সময় দ্রুতগতির কোন কণা ধাতব লক্ষ্যে আঘাত করে?",
     "options": [
-      "O₂",
-      "N₂",
-      "He",
-      "CO₂"
+      "প্রোটন",
+      "ইলেকট্রন",
+      "নিউট্রন",
+      "আলফা"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "এক্স-রে ছবিকে কী বলা হয়?",
     "options": [
-      "O₂",
-      "N₂",
-      "CO₂",
-      "He"
+      "আল্ট্রাসাউন্ড",
+      "রেডিওগ্রাফ",
+      "কার্ডিওগ্রাম",
+      "টমোগ্রাফ"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q07",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "হাড়ের ছবি তুলতে কোনটি বেশি কার্যকর?",
     "options": [
-      "He",
-      "N₂",
-      "CO₂",
-      "O₂"
+      "আল্ট্রাসাউন্ড",
+      "এমআরআই",
+      "এক্স-রে",
+      "ইসিজি"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "নিচের কোনটি এক্স-রের ব্যবহার?",
     "options": [
-      "He",
-      "O₂",
-      "N₂",
-      "CO₂"
+      "রক্তচাপ মাপা",
+      "দাঁতের অবস্থা দেখা",
+      "মস্তিষ্কের তরঙ্গ দেখা",
+      "হৃৎস্পন্দন শোনা"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q09",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "আলট্রাসনোগ্রাফিতে কোন তরঙ্গ ব্যবহৃত হয়?",
     "options": [
-      "O₂",
-      "CO₂",
-      "N₂",
-      "He"
+      "এক্স-রে",
+      "গামা রশ্মি",
+      "শব্দ তরঙ্গ",
+      "রেডিও তরঙ্গ"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "আলট্রাসাউন্ডের কম্পাঙ্ক কত?",
     "options": [
-      "He",
-      "CO₂",
-      "N₂",
-      "O₂"
+      "২০ Hz এর কম",
+      "২০ Hz–২০ kHz",
+      "২০ kHz এর বেশি",
+      "২০ MHz এর বেশি"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q11",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "গর্ভাবস্থায় শিশুর অবস্থা দেখতে নিরাপদ কোনটি?",
     "options": [
-      "O₂",
-      "CO₂",
-      "N₂",
-      "He"
+      "সিটি স্ক্যান",
+      "এক্স-রে",
+      "আলট্রাসনোগ্রাফি",
+      "এমআরআই"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "আলট্রাসনোগ্রাফির মূল নীতি কী?",
     "options": [
-      "N₂",
-      "CO₂",
-      "O₂",
-      "He"
+      "চুম্বকত্ব",
+      "শব্দ তরঙ্গের প্রতিফলন",
+      "এক্স-রে শোষণ",
+      "বিদ্যুৎ প্রবাহ"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "আলট্রাসনোগ্রাফিতে সাধারণত কোন কম্পাঙ্ক ব্যবহৃত হয়?",
     "options": [
-      "N₂",
-      "CO₂",
-      "He",
-      "O₂"
+      "২০-২০,০০০ Hz",
+      "২-১৮ MHz",
+      "২০০-৪০০ Hz",
+      "০.০১-১০ nm"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q14",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "আলট্রাসনোগ্রাফির সাহায্যে সাধারণত দেখা যায় না—",
     "options": [
-      "N₂",
-      "CO₂",
-      "O₂",
-      "He"
+      "অনাগত শিশু",
+      "পিত্তথলির পাথর",
+      "পেটের টিউমার",
+      "হাড়ের ভেতরের গঠন"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q15",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "এক্স-রে ব্যবহারের সময় কোন পদার্থ দিয়ে তৈরি ঢাল ব্যবহার করা হয়?",
     "options": [
-      "N₂",
-      "CO₂",
-      "He",
-      "O₂"
+      "লোহা",
+      "সিসা",
+      "তামা",
+      "অ্যালুমিনিয়াম"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "এক্স-রে এর ক্ষতিকর প্রভাব কোনটি?",
     "options": [
-      "He",
-      "N₂",
-      "CO₂",
-      "O₂"
+      "রক্তচাপ বাড়ায়",
+      "কোষ ধ্বংস ও ক্যান্সার ঝুঁকি",
+      "হাড় শক্ত করে",
+      "হজম বাড়ায়"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "চিকিৎসায় এক্স-রে এর প্রধান সুবিধা কী?",
     "options": [
-      "O₂",
-      "N₂",
-      "CO₂",
-      "He"
+      "রোগজীবাণু মারা",
+      "দেহের অভ্যন্তরীণ ছবি পাওয়া",
+      "ওজন কমানো",
+      "রক্ত তৈরি"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "নিচের কোনটি আয়নাইজিং বিকিরণ?",
     "options": [
-      "He",
-      "N₂",
-      "CO₂",
-      "O₂"
+      "আল্ট্রাসাউন্ড",
+      "দৃশ্যমান আলো",
+      "এক্স-রে",
+      "রেডিও তরঙ্গ"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q19",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "নিচের কোনটি আয়নাইজিং নয়?",
     "options": [
-      "O₂",
-      "N₂",
-      "He",
-      "CO₂"
+      "এক্স-রে",
+      "গামা রশ্মি",
+      "আল্ট্রাসাউন্ড",
+      "বিটা রশ্মি"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q20",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "এক্স-রে টিউবের ধনাত্মক তড়িৎদ্বারকে কী বলা হয়?",
     "options": [
-      "O₂",
-      "CO₂",
-      "N₂",
-      "He"
+      "ক্যাথোড",
+      "অ্যানোড",
+      "ফিলামেন্ট",
+      "গ্রিড"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "এক্স-রে টিউবে ক্যাথোড থেকে কী নিঃসৃত হয়?",
     "options": [
-      "He",
-      "CO₂",
-      "N₂",
-      "O₂"
+      "প্রোটন",
+      "পজিট্রন",
+      "ইলেকট্রন",
+      "নিউট্রন"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q22",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "গর্ভবতী মায়ের বারবার এক্স-রে করা উচিত নয় কেন?",
     "options": [
-      "O₂",
-      "CO₂",
-      "N₂",
-      "He"
+      "খরচ বেশি",
+      "ভ্রূণের কোষের ক্ষতি হতে পারে",
+      "ছবি আসে না",
+      "যন্ত্র নষ্ট হয়"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "আলট্রাসনোগ্রাফির ট্রান্সডিউসারে কী ধরনের স্ফটিক থাকে?",
     "options": [
-      "O₂",
-      "CO₂",
-      "He",
-      "N₂"
+      "সিলিকন",
+      "পিজোইলেকট্রিক",
+      "তামা",
+      "গ্রাফাইট"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "আলট্রাসাউন্ডের প্রতিধ্বনি থেকে কী নির্ণয় করা হয়?",
     "options": [
-      "N₂",
-      "CO₂",
-      "He",
-      "O₂"
+      "টিস্যুর তাপমাত্রা",
+      "টিস্যুর গভীরতা ও গঠন",
+      "রক্তের pH",
+      "হাড়ের ওজন"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-physics-chapter-14-model-test-01-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-14-model-test-01",
-    "text": "অগ্নি নির্বাপক গ্যাস?",
+    "text": "চিকিৎসা বিজ্ঞানে পদার্থবিজ্ঞানের অবদান কোনটি?",
     "options": [
-      "N₂",
-      "CO₂",
-      "O₂",
-      "He"
+      "রোগ নির্ণয় ও চিকিৎসা সহজ হয়েছে",
+      "খাদ্য উৎপাদন বেড়েছে",
+      "যোগাযোগ বেড়েছে",
+      "যানবাহন দ্রুত হয়েছে"
     ],
     "image": null,
     "optionImages": null,
