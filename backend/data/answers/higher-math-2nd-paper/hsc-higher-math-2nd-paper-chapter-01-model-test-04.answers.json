@@ -1,0 +1,127 @@
+{
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q01": {
+    "correctOption": "মূলদ",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q02": {
+    "correctOption": "যোগের বাতিল বিধি",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q03": {
+    "correctOption": "([-2,4])",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q04": {
+    "correctOption": "(x=-2,-3)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q05": {
+    "correctOption": "([-2,0)\\cup(2,4])",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q06": {
+    "correctOption": "i ও ii",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q07": {
+    "correctOption": "\\(x\\le-1\\) অথবা \\(x\\ge4\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q08": {
+    "correctOption": "\\(x<-4\\) অথবা \\(x>\\frac12\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q09": {
+    "correctOption": "\\(x<-2\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q10": {
+    "correctOption": "([-1,2)\\cup[3,\\infty))",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q11": {
+    "correctOption": "\\((-\\infty,-2)\\cup(1,\\infty)\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q12": {
+    "correctOption": "\\((-\\infty,2)\\cup(4,\\infty)\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q13": {
+    "correctOption": "\\(-7<x<-1\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q14": {
+    "correctOption": "i ও iii",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q15": {
+    "correctOption": "\\(2\\)",
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q16": {
+    "correctOption": "\\(10\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q17": {
+    "correctOption": "\\(8\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q18": {
+    "correctOption": "\\(a=b\\)",
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q19": {
+    "correctOption": "\\(x\\le1\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q20": {
+    "correctOption": "\\(x<-\\frac13\\) অথবা \\(x>3\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q21": {
+    "correctOption": "([-1,1]\\cup(-\\infty,-5]\\cup[5,\\infty))",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q22": {
+    "correctOption": "i ও ii",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q23": {
+    "correctOption": "\\((-2,-1)\\cup(1,2)\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q24": {
+    "correctOption": "\\(x\\le\\frac12\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-04-q25": {
+    "correctOption": "(x=0,4)",
+    "answerIndex": 0,
+    "explanation": ""
+  }
+}

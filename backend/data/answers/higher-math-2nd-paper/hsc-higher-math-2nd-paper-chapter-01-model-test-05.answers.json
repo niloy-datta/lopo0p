@@ -1,0 +1,127 @@
+{
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q01": {
+    "correctOption": "মূলদ",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q02": {
+    "correctOption": "যোগের বিপরীত",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q03": {
+    "correctOption": "([-1,2])",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q04": {
+    "correctOption": "(x=4,-\\frac23)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q05": {
+    "correctOption": "\\(x=\\pm3\\)",
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q06": {
+    "correctOption": "i ও ii",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q07": {
+    "correctOption": "\\(x<-3\\) অথবা \\(x>\\frac73\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q08": {
+    "correctOption": "((0,5])",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q09": {
+    "correctOption": "\\((-2,4)\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q10": {
+    "correctOption": "([-3,1]\\cup[3,\\infty))",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q11": {
+    "correctOption": "([-2,-1)\\cup(1,2])",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q12": {
+    "correctOption": "\\((-1,0)\\cup(1,\\infty)\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q13": {
+    "correctOption": "\\((-2,0]\\cup(2,\\infty)\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q14": {
+    "correctOption": "i ও ii",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q15": {
+    "correctOption": "অস্তিত্ব নেই",
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q16": {
+    "correctOption": "\\(12\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q17": {
+    "correctOption": "\\(10\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q18": {
+    "correctOption": "\\(2\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q19": {
+    "correctOption": "\\(x>2\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q20": {
+    "correctOption": "\\((-3,3)\\)",
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q21": {
+    "correctOption": "\\(x<-1\\) অথবা \\(x>5\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q22": {
+    "correctOption": "i ও ii",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q23": {
+    "correctOption": "\\((-5,-2)\\cup(-2,-1)\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q24": {
+    "correctOption": "\\((-\\infty,1]\\cup(2,3)\\cup(3,\\infty)\\)",
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  "hsc-higher-math-2nd-paper-chapter-01-model-test-05-q25": {
+    "correctOption": "([-3,2])",
+    "answerIndex": 0,
+    "explanation": ""
+  }
+}
