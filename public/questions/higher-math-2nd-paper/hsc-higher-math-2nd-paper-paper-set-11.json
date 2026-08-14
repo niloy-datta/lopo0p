@@ -3,12 +3,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q01",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$\\frac{d}{dx}x^13$ কত?",
+    "text": "উদ্দীপক: একটি পরাবৃত্তের সমীকরণ $y^2 = 16x$ এবং একটি উপবৃত্তের সমীকরণ $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$।\n\nপরাবৃত্তটির উপকেন্দ্রিক লম্বের দৈর্ঘ্য (Length of Latus Rectum) কত?",
     "options": [
-      "$x^13$",
-      "$x^12$",
-      "$12x^13$",
-      "$13x^12$"
+      "$4$",
+      "$8$",
+      "$16$",
+      "$32$"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q02",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$\\int x^14dx$ কত?",
+    "text": "উদ্দীপক: একটি পরাবৃত্তের সমীকরণ $y^2 = 16x$ এবং একটি উপবৃত্তের সমীকরণ $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$।\n\nউপবৃত্তটির উৎকেন্দ্রিকতা ($e$) কত?",
     "options": [
-      "$\\frac{x^14}{14}+C$",
-      "$x^15+C$",
-      "$14x^13+C$",
-      "$\\frac{x^15}{15}+C$"
+      "$\\frac{3}{5}$",
+      "$\\frac{4}{5}$",
+      "$\\frac{9}{25}$",
+      "$\\frac{5}{3}$"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q03",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$15P_2$ এর মান কত?",
+    "text": "উদ্দীপক: কোনো বিন্দুতে ক্রিয়ারত $3N$ ও $5N$ মানের দুটি বলের মধ্যবর্তী কোণ $60^\\circ$।\n\nবলদ্বয়ের লব্ধির মান কত?",
     "options": [
-      "17",
-      "210",
-      "105",
-      "75"
+      "$4N$",
+      "$7N$",
+      "$8N$",
+      "$\\sqrt{34}N$"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q04",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$16C_2$ এর মান কত?",
+    "text": "উদ্দীপক: কোনো বিন্দুতে ক্রিয়ারত $3N$ ও $5N$ মানের দুটি বলের মধ্যবর্তী কোণ $60^\\circ$।\n\nযদি বল দুটি সদৃশ সমান্তরাল (Like parallel forces) হতো এবং তাদের প্রয়োগবিন্দুর দূরত্ব $8m$ হতো, তবে লব্ধি $5N$ বল থেকে কত দূরে ক্রিয়া করতো?",
     "options": [
-      "17",
-      "240",
-      "256",
-      "120"
+      "$2m$",
+      "$3m$",
+      "$5m$",
+      "$8m$"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q05",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "ঢাল 12 এবং বিন্দু $(7,12)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "জটিল সংখ্যা $z = -1 - \\sqrt{3}i$ এর আর্গুমেন্ট (Argument) কত?",
     "options": [
-      "$x-12=12(y-7)$",
-      "$y-12=12(x-7)$",
-      "$y+12=12(x-7)$",
-      "$y-12=7(x-12)$"
+      "$\\frac{4\\pi}{3}$",
+      "$-\\frac{2\\pi}{3}$",
+      "$\\frac{\\pi}{3}$",
+      "$-\\frac{\\pi}{3}$"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q06",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$x^2+y^2=169$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "বহুপদী সমীকরণ $2x^2 - 5x + 3 = 0$ এর মূলদ্বয় $\\alpha$ ও $\\beta$ হলে $\\frac{1}{\\alpha} + \\frac{1}{\\beta}$ এর মান কত?",
     "options": [
-      "26",
-      "14",
-      "169",
-      "13"
+      "$\\frac{5}{2}$",
+      "$\\frac{5}{3}$",
+      "$-\\frac{5}{3}$",
+      "$\\frac{3}{2}$"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q07",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "text": "$\\sin(\\cos^{-1} x)$ এর মান নিচের কোনটি?",
     "options": [
-      "1",
-      "$\\tan\\theta$",
-      "$\\sec^2\\theta$",
-      "0"
+      "$x$",
+      "$\\frac{1}{x}$",
+      "$\\sqrt{1-x^2}$",
+      "$\\frac{1}{\\sqrt{1-x^2}}$"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q08",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "text": "$\\tan \\theta = \\sqrt{3}$ হলে $\\theta$ এর সাধারণ সমাধান কোনটি?",
     "options": [
-      "$\\tan A+\\tan B$",
-      "$\\sin A\\cos B-\\cos A\\sin B$",
-      "$\\sin A\\cos B+\\cos A\\sin B$",
-      "$\\cos A\\cos B-\\sin A\\sin B$"
+      "$n\\pi + \\frac{\\pi}{3}$",
+      "$n\\pi - \\frac{\\pi}{3}$",
+      "$2n\\pi \\pm \\frac{\\pi}{3}$",
+      "$n\\pi + \\frac{\\pi}{6}$"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q09",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "text": "একটি প্রাসকে ভূমির সাথে $45^\\circ$ কোণে $u$ বেগে নিক্ষেপ করা হলো। এর সর্বাধিক উচ্চতা ($H$) কত?",
     "options": [
-      "Constant",
-      "Even",
-      "Periodic",
-      "Odd"
+      "$\\frac{u^2}{2g}$",
+      "$\\frac{u^2}{4g}$",
+      "$\\frac{u^2}{g}$",
+      "$\\frac{u^2\\sqrt{2}}{g}$"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q10",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "text": "দুটি ছক্কা একত্রে নিক্ষেপ করলে, যোগফল $7$ আসার সম্ভাবনা কত?",
     "options": [
-      "একক",
-      "সমান",
-      "সমান্তরাল",
-      "লম্ব"
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{12}$",
+      "$\\frac{7}{36}$",
+      "$\\frac{5}{36}$"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q11",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$A^2=A$ হলে matrix কী?",
+    "text": "$\\omega$ এককের একটি জটিল ঘনমূল হলে $\\omega^4 + \\omega^5 + \\omega^6$ এর মান কত?",
     "options": [
-      "Nilpotent",
-      "Idempotent",
-      "Scalar",
-      "Orthogonal"
+      "$1$",
+      "$0$",
+      "$\\omega$",
+      "$\\omega^2$"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q12",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$\\int_0^1 xdx$ কত?",
+    "text": "$x^2/16 - y^2/9 = 1$ অধিবৃত্তের অসীম তটরেখার (Asymptotes) সমীকরণ কোনটি?",
     "options": [
-      "$\\frac12$",
-      "$\\frac13$",
-      "0",
-      "1"
+      "$y = \\pm \\frac{4}{3}x$",
+      "$y = \\pm \\frac{3}{4}x$",
+      "$y = \\pm \\frac{16}{9}x$",
+      "$y = \\pm \\frac{9}{16}x$"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q13",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$\\frac{d}{dx}x^15$ কত?",
+    "text": "ত্রিঘাত সমীকরণ $x^3 - 2x^2 + 3x - 4 = 0$ এর মূলগুলি $\\alpha, \\beta, \\gamma$ হলে $\\alpha\\beta\\gamma$ এর মান কত?",
     "options": [
-      "$x^15$",
-      "$14x^15$",
-      "$15x^14$",
-      "$x^14$"
+      "$2$",
+      "$-4$",
+      "$4$",
+      "$-3$"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q14",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$\\int x^16dx$ কত?",
+    "text": "দুটি সমান মানের বলের লব্ধি তাদের যেকোনো একটির সমান হলে, বলদ্বয়ের মধ্যবর্তী কোণ কত?",
     "options": [
-      "$\\frac{x^16}{16}+C$",
-      "$\\frac{x^17}{17}+C$",
-      "$x^17+C$",
-      "$16x^15+C$"
+      "$60^\\circ$",
+      "$90^\\circ$",
+      "$120^\\circ$",
+      "$180^\\circ$"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q15",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$12P_2$ এর মান কত?",
+    "text": "জটিল সংখ্যা $z = x + iy$ এর ক্ষেত্রে—\ni. অনুবন্ধী জটিল সংখ্যা $\\bar{z} = x - iy$\nii. মডুলাস $|z| = x^2 + y^2$\niii. $z\\bar{z}$ একটি বিশুদ্ধ বাস্তব সংখ্যা\n\nনিচের কোনটি সঠিক?",
     "options": [
-      "14",
-      "66",
-      "132",
-      "36"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q16",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$13C_2$ এর মান কত?",
+    "text": "প্রক্ষেপক বা প্রাসের (Projectile) গতির ক্ষেত্রে—\ni. এর গতিপথ (Trajectory) একটি পরাবৃত্ত\nii. সর্বাধিক উচ্চতায় বেগ শূন্য হয়\niii. পাল্লা $R = \\frac{u^2\\sin 2\\alpha}{g}$\n\nনিচের কোনটি সঠিক?",
     "options": [
-      "169",
-      "14",
-      "156",
-      "78"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q17",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "ঢাল 14 এবং বিন্দু $(5,14)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "সম্ভাবনার ক্ষেত্রে—\ni. নিশ্চিত ঘটনার সম্ভাবনা ১\nii. $P(A) + P(A') = 1$\niii. দুটি ঘটনা বর্জনশীল হলে $P(A \\cap B) = P(A)P(B)$\n\nনিচের কোনটি সঠিক?",
     "options": [
-      "$y-14=5(x-14)$",
-      "$y+14=14(x-5)$",
-      "$x-14=14(y-5)$",
-      "$y-14=14(x-5)$"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q18",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$x^2+y^2=225$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "কণিকের ক্ষেত্রে—\ni. পরাবৃত্তের উৎকেন্দ্রিকতা $e=1$\nii. $y^2 = 4ax$ পরাবৃত্তের উপকেন্দ্র $(a,0)$\niii. $x^2 = 4ay$ পরাবৃত্তের নিয়ামক রেখা $x+a=0$\n\nনিচের কোনটি সঠিক?",
     "options": [
-      "15",
-      "30",
-      "16",
-      "225"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,102 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-11-q19",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
-    "text": "$\\frac{d}{dx}x^12$ কত?",
+    "text": "বিপরীত ত্রিকোণমিতিক ফাংশনের ক্ষেত্রে—\ni. $\\sin^{-1}x + \\cos^{-1}x = \\pi/2$\nii. $\\sin^{-1}(-x) = -\\sin^{-1}x$\niii. $\\cos^{-1}(-x) = -\\cos^{-1}x$\n\nনিচের কোনটি সঠিক?",
     "options": [
-      "$x^12$",
-      "$11x^12$",
-      "$x^11$",
-      "$12x^11$"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "দ্বিঘাত সমীকরণ $ax^2 + bx + c = 0$ এর ক্ষেত্রে—\ni. $b^2 - 4ac > 0$ হলে মূলদ্বয় বাস্তব ও অসমান\nii. $b^2 - 4ac = 0$ হলে মূলদ্বয় বাস্তব ও সমান\niii. মূলদ্বয় জটিল হলে তারা সর্বদা একে অপরের অনুবন্ধী (Conjugate) হয়\n\nনিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\sqrt{-i}$ এর মান নিচের কোনটি?",
+    "options": [
+      "$\\pm \\frac{1}{\\sqrt{2}}(1-i)$",
+      "$\\pm \\frac{1}{\\sqrt{2}}(1+i)$",
+      "$\\pm (1-i)$",
+      "$\\pm \\frac{1}{2}(1-i)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "একটি লিপ ইয়ারে (Leap year) ৫৩টি রবিবার থাকার সম্ভাবনা কত?",
+    "options": [
+      "$\\frac{1}{7}$",
+      "$\\frac{2}{7}$",
+      "$\\frac{53}{366}$",
+      "$\\frac{1}{366}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$m$ ভরের একটি ব্যক্তি $a$ ত্বরণে নিচে নামন্ত লিফটে থাকলে তার আপাত ওজন কত হবে?",
+    "options": [
+      "$mg$",
+      "$m(g+a)$",
+      "$m(g-a)$",
+      "$0$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\cos \\theta = 0$ হলে $\\theta$ এর সাধারণ সমাধান নিচের কোনটি?",
+    "options": [
+      "$n\\pi$",
+      "$2n\\pi \\pm \\frac{\\pi}{2}$",
+      "$(2n+1)\\frac{\\pi}{2}$",
+      "$n\\pi + \\frac{\\pi}{2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q25",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$x^3 - 1 = 0$ সমীকরণের মূলগুলি $1, \\omega, \\omega^2$ হলে $\\frac{1}{1+\\omega} + \\frac{1}{1+\\omega^2}$ এর মান কত?",
+    "options": [
+      "$1$",
+      "$-1$",
+      "$0$",
+      "$\\omega$"
     ],
     "image": null,
     "optionImages": null,

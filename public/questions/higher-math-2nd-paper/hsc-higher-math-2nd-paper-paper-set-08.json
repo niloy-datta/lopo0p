@@ -3,14 +3,14 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q01",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$\\frac{d}{dx}x^10$ কত?",
+    "text": "[উদ্দীপক ১] উদ্দীপক: \\(x^2-4x+1=0\\) সমীকরণের মূলদ্বয় \\(\\alpha,\\beta\\)। \\(\\alpha+\\beta\\) এবং \\(\\alpha\\beta\\)-এর মান যথাক্রমে কত?",
     "options": [
-      "$10x^9$",
-      "$x^10$",
-      "$9x^10$",
-      "$x^9$"
+      "4, 1",
+      "-4, 1",
+      "1, 4",
+      "4, -1"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/hsc-higher-math-2nd-paper-tier-a-hot-model-test-03-q01.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -18,14 +18,14 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q02",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$\\int x^11dx$ কত?",
+    "text": "[উদ্দীপক ১] উদ্দীপক: \\(x^2-4x+1=0\\) সমীকরণের মূলদ্বয় \\(\\alpha,\\beta\\)। \\(\\alpha^2,\\beta^2\\) মূলবিশিষ্ট সমীকরণ কোনটি?",
     "options": [
-      "$\\frac{x^11}{11}+C$",
-      "$x^12+C$",
-      "$11x^10+C$",
-      "$\\frac{x^12}{12}+C$"
+      "\\(x^2-8x+1=0\\)",
+      "\\(x^2-14x+1=0\\)",
+      "\\(x^2+14x+1=0\\)",
+      "\\(x^2-16x+1=0\\)"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/hsc-higher-math-2nd-paper-tier-a-hot-model-test-03-q02.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -33,14 +33,14 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q03",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$12P_2$ এর মান কত?",
+    "text": "[উদ্দীপক ২] উদ্দীপক: একটি উপবৃত্তের সমীকরণ \\(\\frac{x^2}{36}+\\frac{y^2}{20}=1\\)। উপবৃত্তটির উৎকেন্দ্রিকতা কত?",
     "options": [
-      "60",
-      "132",
-      "66",
-      "14"
+      "\\(\\frac13\\)",
+      "\\(\\frac23\\)",
+      "\\(\\frac{\\sqrt5}{3}\\)",
+      "\\(\\frac56\\)"
     ],
-    "image": null,
+    "image": "/images/quiz/geo-circle-equation.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -48,14 +48,14 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q04",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$13C_2$ এর মান কত?",
+    "text": "[উদ্দীপক ২] উদ্দীপক: একটি উপবৃত্তের সমীকরণ \\(\\frac{x^2}{36}+\\frac{y^2}{20}=1\\)। উপবৃত্তটির ল্যাটাস রেক্টামের দৈর্ঘ্য কত?",
     "options": [
-      "14",
-      "169",
-      "156",
-      "78"
+      "\\(\\frac{10}{3}\\)",
+      "\\(\\frac{20}{3}\\)",
+      "\\(\\frac{40}{3}\\)",
+      "20"
     ],
-    "image": null,
+    "image": "/images/quiz/geo-circle-equation.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -63,12 +63,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q05",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "ঢাল 9 এবং বিন্দু $(7,9)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "\\(z=-\\sqrt3-i\\) হলে \\(\\arg z\\)-এর মুখ্য মান কত?",
     "options": [
-      "$x-9=9(y-7)$",
-      "$y-9=7(x-9)$",
-      "$y-9=9(x-7)$",
-      "$y+9=9(x-7)$"
+      "\\(\\frac{\\pi}{6}\\)",
+      "\\(\\frac{5\\pi}{6}\\)",
+      "\\(-\\frac{5\\pi}{6}\\)",
+      "\\(-\\frac{\\pi}{6}\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q06",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$x^2+y^2=100$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "\\(\\left|\\frac{1+i}{1-i}\\right|\\) কত?",
     "options": [
-      "11",
-      "20",
-      "100",
-      "10"
+      "0",
+      "1",
+      "\\(\\sqrt2\\)",
+      "2"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q07",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "text": "\\(x^2+2x+k=0\\)-এর মূল কাল্পনিক হওয়ার শর্ত কী?",
     "options": [
-      "0",
-      "$\\tan\\theta$",
-      "1",
-      "$\\sec^2\\theta$"
+      "\\(k<1\\)",
+      "\\(k=1\\)",
+      "\\(k>1\\)",
+      "\\(k\\le1\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q08",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "text": "\\(x^2-5x+6=0\\)-এর মূল \\(\\alpha,\\beta\\) হলে \\(\\alpha+1,\\beta+1\\) মূলবিশিষ্ট সমীকরণ কোনটি?",
     "options": [
-      "$\\tan A+\\tan B$",
-      "$\\cos A\\cos B-\\sin A\\sin B$",
-      "$\\sin A\\cos B-\\cos A\\sin B$",
-      "$\\sin A\\cos B+\\cos A\\sin B$"
+      "\\(x^2-5x+6=0\\)",
+      "\\(x^2-6x+8=0\\)",
+      "\\(x^2-7x+12=0\\)",
+      "\\(x^2+7x+12=0\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q09",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "text": "উপকেন্দ্র \\((0,3)\\) এবং নিয়ামক রেখা \\(y=-3\\) হলে পরাবৃত্তের সমীকরণ কোনটি?",
     "options": [
-      "Periodic",
-      "Even",
-      "Odd",
-      "Constant"
+      "\\(x^2=6y\\)",
+      "\\(x^2=12y\\)",
+      "\\(y^2=12x\\)",
+      "\\(y^2=-12x\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q10",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "text": "\\(\\frac{y^2}{4}-\\frac{x^2}{5}=1\\) অধিবৃত্তের উৎকেন্দ্রিকতা কত?",
     "options": [
-      "একক",
-      "লম্ব",
-      "সমান",
-      "সমান্তরাল"
+      "\\(\\frac32\\)",
+      "\\(\\frac23\\)",
+      "\\(\\frac{\\sqrt5}{2}\\)",
+      "\\(\\frac54\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q11",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$A^2=A$ হলে matrix কী?",
+    "text": "\\(\\sin^{-1}(-\\frac12)\\) এর মান কত?",
     "options": [
-      "Nilpotent",
-      "Idempotent",
-      "Scalar",
-      "Orthogonal"
+      "\\(-\\frac{\\pi}{6}\\)",
+      "\\(\\frac{\\pi}{6}\\)",
+      "\\(\\frac{5\\pi}{6}\\)",
+      "\\(-\\frac{5\\pi}{6}\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q12",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$\\int_0^1 xdx$ কত?",
+    "text": "\\(\\tan^{-1}1+\\tan^{-1}1\\) এর মান কত?",
     "options": [
-      "$\\frac12$",
-      "1",
-      "0",
-      "$\\frac13$"
+      "\\(\\frac\\pi4\\)",
+      "\\(\\frac\\pi2\\)",
+      "\\(\\frac{3\\pi}{4}\\)",
+      "\\(\\pi\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q13",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$\\frac{d}{dx}x^12$ কত?",
+    "text": "3 N ও 5 N সদৃশ সমান্তরাল বল 8 m দূরে ক্রিয়া করে। 3 N বল থেকে লব্ধির দূরত্ব কত?",
     "options": [
-      "$12x^11$",
-      "$x^12$",
-      "$11x^12$",
-      "$x^11$"
+      "3 m",
+      "4 m",
+      "5 m",
+      "8 m"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q14",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$\\int x^13dx$ কত?",
+    "text": "একটি মুদ্রা 3 বার নিক্ষেপে ঠিক 2 বার head আসার সম্ভাবনা কত?",
     "options": [
-      "$13x^12+C$",
-      "$\\frac{x^14}{14}+C$",
-      "$\\frac{x^13}{13}+C$",
-      "$x^14+C$"
+      "\\(\\frac18\\)",
+      "\\(\\frac38\\)",
+      "\\(\\frac12\\)",
+      "\\(\\frac58\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q15",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$9P_2$ এর মান কত?",
+    "text": "[i,ii,iii] \\(z=-i\\) হলে— i. \\(|z|=1\\) ii. \\(\\arg z=-\\frac\\pi2\\) iii. \\(z^4=1\\)। কোনটি সঠিক?",
     "options": [
-      "72",
-      "11",
-      "27",
-      "36"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q16",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$10C_2$ এর মান কত?",
+    "text": "[i,ii,iii] \\(u=30\\text{ m/s}, g=10\\text{ m/s}^2\\) হলে— i. সর্বোচ্চ পাল্লা 90 m ii. সর্বোচ্চ পাল্লার কোণ \\(45^\\circ\\) iii. \\(45^\\circ\\)-এ উড্ডয়নকাল \\(3\\sqrt2\\) s। কোনটি সঠিক?",
     "options": [
-      "100",
-      "45",
-      "90",
-      "11"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q17",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "ঢাল 11 এবং বিন্দু $(5,11)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "[i,ii,iii] বল-ভ্রামক সম্পর্কে— i. সাম্যাবস্থায় clockwise moment = anticlockwise moment ii. লব্ধি ভ্রামক = উপাংশ ভ্রামকের যোগফল iii. SI একক N m। কোনটি সঠিক?",
     "options": [
-      "$x-11=11(y-5)$",
-      "$y-11=11(x-5)$",
-      "$y+11=11(x-5)$",
-      "$y-11=5(x-11)$"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q18",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$x^2+y^2=144$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "[i,ii,iii] \\(\\cos x=0\\) সমীকরণের জন্য— i. \\(x=\\frac{(2n+1)\\pi}{2}\\) ii. \\([0,2\\pi]\\)-তে \\(\\frac\\pi2,\\frac{3\\pi}2\\) iii. পর্যায় \\(2\\pi\\)। কোনটি সঠিক?",
     "options": [
-      "24",
-      "12",
-      "13",
-      "144"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,102 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q19",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
-    "text": "$\\frac{d}{dx}x^9$ কত?",
+    "text": "[i,ii,iii] একটি প্যাকেট থেকে পরপর 2টি তাস তোলা হলো, ফেরত রাখা হলো না। i. প্রথমটি ace জানা থাকলে দ্বিতীয়টি ace হওয়ার সম্ভাবনা \\(\\frac1{17}\\) ii. দুইটি ace হওয়ার সম্ভাবনা \\(\\frac1{221}\\) iii. ঘটনা দুইটি স্বাধীন। কোনটি সঠিক?",
     "options": [
-      "$9x^8$",
-      "$x^8$",
-      "$8x^9$",
-      "$x^9$"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "[i,ii,iii] \\(|z|=|z-2|\\) সঞ্চারপথ সম্পর্কে— i. এটি সরলরেখা ii. সমীকরণ \\(x=1\\) iii. রেখাটি মূলবিন্দু দিয়ে যায়। কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "\\(\\sin^{-1}(\\sin\\frac{2\\pi}{3})\\) এর মান কত?",
+    "options": [
+      "\\(\\frac{2\\pi}{3}\\)",
+      "\\(\\frac\\pi3\\)",
+      "\\(-\\frac\\pi3\\)",
+      "\\(\\frac{4\\pi}{3}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "\\((1+\\omega)^5\\) এর মান কত?",
+    "options": [
+      "\\(\\omega\\)",
+      "\\(\\omega^2\\)",
+      "\\(-\\omega\\)",
+      "\\(-\\omega^2\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "স্থির অবস্থা থেকে কোনো বস্তু মুক্তভাবে 4 s পড়লে \\(g=10\\text{ m/s}^2\\) ধরে অতিক্রান্ত দূরত্ব কত?",
+    "options": [
+      "40 m",
+      "60 m",
+      "80 m",
+      "160 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "দুইটি ছক্কা নিক্ষেপে যোগফল মৌলিক সংখ্যা হওয়ার সম্ভাবনা কত?",
+    "options": [
+      "\\(\\frac{5}{12}\\)",
+      "\\(\\frac{7}{18}\\)",
+      "\\(\\frac{1}{2}\\)",
+      "\\(\\frac{2}{3}\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q25",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "7 N ও 4 N দুই বলের সর্বাধিক ও সর্বনিম্ন লব্ধি যথাক্রমে কত?",
+    "options": [
+      "11 N, 4 N",
+      "7 N, 3 N",
+      "11 N, 3 N",
+      "3 N, 11 N"
     ],
     "image": null,
     "optionImages": null,

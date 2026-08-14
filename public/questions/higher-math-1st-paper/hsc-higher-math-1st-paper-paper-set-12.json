@@ -3,14 +3,14 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q01",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$\\frac{d}{dx}x^14$ কত?",
+    "text": "[উদ্দীপক ১] উদ্দীপক: একটি ত্রিভুজের তিনটি শীর্ষবিন্দু $A(t, 2)$, $B(3, 4)$ এবং $C(5, 6)$। ত্রিভুজটির ভরকেন্দ্র $(3, 4)$ হলে $t$ এর মান কত?",
     "options": [
-      "$13x^14$",
-      "$x^13$",
-      "$14x^13$",
-      "$x^14$"
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
     ],
-    "image": null,
+    "image": "/images/quiz/geo-coord-triangle.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -18,14 +18,14 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q02",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$\\int x^15dx$ কত?",
+    "text": "[উদ্দীপক ১] উদ্দীপক: একটি ত্রিভুজের তিনটি শীর্ষবিন্দু $A(t, 2)$, $B(3, 4)$ এবং $C(5, 6)$। $t=1$ হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ একক?",
     "options": [
-      "$x^16+C$",
-      "$\\frac{x^15}{15}+C$",
-      "$15x^14+C$",
-      "$\\frac{x^16}{16}+C$"
+      "$0$",
+      "$2$",
+      "$4$",
+      "$8$"
     ],
-    "image": null,
+    "image": "/images/quiz/geo-coord-triangle.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -33,14 +33,14 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q03",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$16P_2$ এর মান কত?",
+    "text": "[উদ্দীপক ২] উদ্দীপক: একটি ফাংশন $f(x) = \\sin 2x + \\cos 2x$। ফাংশনটির পর্যায় (Period) কত?",
     "options": [
-      "240",
-      "80",
-      "18",
-      "120"
+      "$\\pi$",
+      "$2\\pi$",
+      "$\\frac{\\pi}{2}$",
+      "$\\frac{2\\pi}{3}$"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-tier-a-hot-model-test-07-q03.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -48,14 +48,14 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q04",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$17C_2$ এর মান কত?",
+    "text": "[উদ্দীপক ২] উদ্দীপক: একটি ফাংশন $f(x) = \\sin 2x + \\cos 2x$। $f'(x) = 0$ হলে $x$ এর একটি মান কোনটি? (যেখানে $0 < x < \\pi/2$)",
     "options": [
-      "272",
-      "18",
-      "289",
-      "136"
+      "$\\frac{\\pi}{8}$",
+      "$\\frac{\\pi}{6}$",
+      "$\\frac{\\pi}{4}$",
+      "$\\frac{\\pi}{3}$"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-tier-a-hot-model-test-07-q04.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -63,12 +63,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q05",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "ঢাল 13 এবং বিন্দু $(7,13)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "$|\\vec{A}| = 3$ এবং $|\\vec{B}| = 4$। $\\vec{A}$ ও $\\vec{B}$ সমান্তরাল হলে $\\vec{A} \\times \\vec{B}$ এর মান কত?",
     "options": [
-      "$y-13=7(x-13)$",
-      "$y+13=13(x-7)$",
-      "$x-13=13(y-7)$",
-      "$y-13=13(x-7)$"
+      "$12$",
+      "$7$",
+      "$0$",
+      "$-12$"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q06",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$x^2+y^2=196$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "$\\int_{0}^{\\pi/2} \\sin^3 x \\, dx$ এর মান কত?",
     "options": [
-      "15",
-      "14",
-      "196",
-      "28"
+      "$\\frac{1}{3}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{\\pi}{4}$",
+      "$1$"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q07",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "text": "একটি বৃত্ত $x$-অক্ষকে মূলবিন্দুতে স্পর্শ করে এবং তার ব্যাসার্ধ $5$। বৃত্তটির সমীকরণ কোনটি?",
     "options": [
-      "0",
-      "$\\tan\\theta$",
-      "$\\sec^2\\theta$",
-      "1"
+      "$x^2 + y^2 - 10y = 0$",
+      "$x^2 + y^2 - 10x = 0$",
+      "$x^2 + y^2 - 25 = 0$",
+      "$x^2 + y^2 - 5x - 5y = 0$"
     ],
     "image": null,
     "optionImages": null,
@@ -108,14 +108,14 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q08",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "text": "$y = x^3 - 3x^2 + 2$ বক্ররেখার কোন বিন্দুতে স্পর্শক $x$-অক্ষের সমান্তরাল?",
     "options": [
-      "$\\cos A\\cos B-\\sin A\\sin B$",
-      "$\\sin A\\cos B-\\cos A\\sin B$",
-      "$\\sin A\\cos B+\\cos A\\sin B$",
-      "$\\tan A+\\tan B$"
+      "$(0, 2)$ ও $(2, -2)$",
+      "$(1, 0)$ ও $(2, 2)$",
+      "$(0, 0)$ ও $(3, 2)$",
+      "$(2, 0)$ ও $(-2, 2)$"
     ],
-    "image": null,
+    "image": "/images/quiz/generated/hsc-higher-math-1st-paper-tier-a-hot-model-test-07-q08.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -123,12 +123,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q09",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "text": "$k$ এর মান কত হলে $\\begin{vmatrix} 1 & 2 & 3 \\\\ 4 & k & 6 \\\\ 7 & 8 & 9 \\end{vmatrix} = 0$ হবে?",
     "options": [
-      "Periodic",
-      "Even",
-      "Odd",
-      "Constant"
+      "$4$",
+      "$5$",
+      "$6$",
+      "$7$"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q10",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "text": "'COMBINATION' শব্দটির বর্ণগুলো থেকে প্রতিবারে ৪টি বর্ণ নিয়ে কতগুলো সমাবেশ গঠন করা যায়?",
     "options": [
-      "সমান",
-      "লম্ব",
-      "একক",
-      "সমান্তরাল"
+      "$136$",
+      "$135$",
+      "$150$",
+      "$210$"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q11",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$A^2=A$ হলে matrix কী?",
+    "text": "$\\lim_{x \\to 0} (1 - x)^{\\frac{1}{x}}$ এর মান কত?",
     "options": [
-      "Idempotent",
-      "Orthogonal",
-      "Nilpotent",
-      "Scalar"
+      "$e$",
+      "$e^{-1}$",
+      "$1$",
+      "$0$"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q12",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$\\int_0^1 xdx$ কত?",
+    "text": "$y$-অক্ষের সমান্তরাল এবং $(2, -3)$ বিন্দুগামী সরলরেখার সমীকরণ কোনটি?",
     "options": [
-      "$\\frac12$",
-      "$\\frac13$",
-      "0",
-      "1"
+      "$y = -3$",
+      "$x = -3$",
+      "$x = 2$",
+      "$y = 2$"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q13",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$\\frac{d}{dx}x^16$ কত?",
+    "text": "$\\int \\frac{f'(x)}{f(x)} \\, dx$ এর মান নিচের কোনটি?",
     "options": [
-      "$16x^15$",
-      "$x^16$",
-      "$x^15$",
-      "$15x^16$"
+      "$\\ln|f'(x)| + c$",
+      "$\\ln|f(x)| + c$",
+      "$e^{f(x)} + c$",
+      "$\\frac{1}{f(x)} + c$"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q14",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$\\int x^17dx$ কত?",
+    "text": "$\\sin^{-1} x + \\cos^{-1} x$ এর মান কত?",
     "options": [
-      "$17x^16+C$",
-      "$\\frac{x^17}{17}+C$",
-      "$x^18+C$",
-      "$\\frac{x^18}{18}+C$"
+      "$\\pi$",
+      "$\\frac{\\pi}{2}$",
+      "$0$",
+      "$1$"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q15",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$13P_2$ এর মান কত?",
+    "text": "[i,ii,iii] ভেক্টরের ক্ষেত্রে— i. কোনো ভেক্টর ও তার ঋণাত্মক ভেক্টরের যোগফল শূন্য ভেক্টর ii. $\\vec{i}, \\vec{j}, \\vec{k}$ হলো আয়ত একক ভেক্টর iii. ডট গুণন একটি স্কেলার রাশি দেয় নিচের কোনটি সঠিক?",
     "options": [
-      "78",
-      "15",
-      "39",
-      "156"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q16",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$14C_2$ এর মান কত?",
+    "text": "[i,ii,iii] সরলরেখার ক্ষেত্রে— i. দুটি রেখা লম্ব হলে $m_1 m_2 = 1$ ii. $ax+by+c=0$ রেখার লম্ব রেখার ঢাল $\\frac{b}{a}$ iii. মূলবিন্দুগামী রেখার $y$-অক্ষের খণ্ডিতাংশ $0$ নিচের কোনটি সঠিক?",
     "options": [
-      "15",
-      "182",
-      "196",
-      "91"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q17",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "ঢাল 15 এবং বিন্দু $(5,15)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "[i,ii,iii] বিন্যাস ও সমাবেশের ক্ষেত্রে— i. ${}^nC_r = \\frac{{}^nP_r}{r!}$ ii. $0! = 1$ iii. $n$ সংখ্যক ভিন্ন বস্তু থেকে $r$ সংখ্যক বস্তু নিয়ে চক্রাকার বিন্যাস $\\frac{{}^nP_r}{r}$ নিচের কোনটি সঠিক?",
     "options": [
-      "$y-15=5(x-15)$",
-      "$y+15=15(x-5)$",
-      "$y-15=15(x-5)$",
-      "$x-15=15(y-5)$"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q18",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$x^2+y^2=256$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "[i,ii,iii] ম্যাট্রিক্সের গুণের ক্ষেত্রে— i. $AB = BA$ সর্বদা সত্য নয় ii. $A(BC) = (AB)C$ iii. $AI = IA = A$ নিচের কোনটি সঠিক?",
     "options": [
-      "256",
-      "32",
-      "16",
-      "17"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,102 @@
     "id": "hsc-higher-math-1st-paper-paper-set-12-q19",
     "subject": "higher-math-1st-paper",
     "chapter": "hsc-higher-math-1st-paper-paper-set-12",
-    "text": "$\\frac{d}{dx}x^13$ কত?",
+    "text": "[i,ii,iii] অন্তরীকরণের ক্ষেত্রে— i. $\\frac{d}{dx}(\\tan x) = \\sec^2 x$ ii. $\\frac{d}{dx}(\\sec x) = \\sec x \\tan x$ iii. $\\frac{d}{dx}(\\cot x) = \\csc^2 x$ নিচের কোনটি সঠিক?",
     "options": [
-      "$13x^12$",
-      "$12x^13$",
-      "$x^13$",
-      "$x^12$"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-paper-set-12-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-paper-set-12",
+    "text": "[i,ii,iii] ত্রিকোণমিতিক রূপান্তরের ক্ষেত্রে— i. $2\\sin A \\cos B = \\sin(A+B) + \\sin(A-B)$ ii. $2\\cos A \\cos B = \\cos(A+B) + \\cos(A-B)$ iii. $2\\sin A \\sin B = \\cos(A-B) - \\cos(A+B)$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-paper-set-12-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-paper-set-12",
+    "text": "$\\lim_{x \\to 0} \\frac{e^{\\sin x} - 1}{x}$ এর মান কত?",
+    "options": [
+      "$0$",
+      "$1$",
+      "$e$",
+      "$\\infty$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-paper-set-12-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-paper-set-12",
+    "text": "$y = x \\ln x$ হলে $\\frac{d^2y}{dx^2}$ এর মান কত?",
+    "options": [
+      "$\\frac{1}{x}$",
+      "$x$",
+      "$\\ln x$",
+      "$\\frac{1}{x^2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-paper-set-12-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-paper-set-12",
+    "text": "$3x - 4y = 12$ রেখাটি দ্বারা অক্ষদ্বয়ের খণ্ডিত অংশের মধ্যবিন্দুর স্থানাঙ্ক কত?",
+    "options": [
+      "$(4, 3)$",
+      "$(2, -1.5)$",
+      "$(2, 1.5)$",
+      "$(-2, 1.5)$"
+    ],
+    "image": "/images/quiz/geo-coord-triangle.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-paper-set-12-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-paper-set-12",
+    "text": "$\\int_{0}^{a} \\sqrt{a^2 - x^2} \\, dx$ এর মান কত?",
+    "options": [
+      "$\\pi a^2$",
+      "$\\frac{\\pi a^2}{4}$",
+      "$\\frac{\\pi a^2}{2}$",
+      "$a^2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-paper-set-12-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-paper-set-12",
+    "text": "$|\\vec{A} + \\vec{B}| = |\\vec{A} - \\vec{B}|$ হলে ভেক্টরদ্বয়ের মধ্যবর্তী কোণ কত?",
+    "options": [
+      "$0^\\circ$",
+      "$45^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$"
     ],
     "image": null,
     "optionImages": null,

@@ -3,14 +3,14 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q01",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$\\frac{d}{dx}x^8$ কত?",
+    "text": "[উদ্দীপক ১] উদ্দীপক: একটি পরাবৃত্তের সমীকরণ \\(y^2=12x\\)। পরাবৃত্তটির উপকেন্দ্র কোনটি?",
     "options": [
-      "$x^8$",
-      "$7x^8$",
-      "$x^7$",
-      "$8x^7$"
+      "\\((3,0)\\)",
+      "\\((0,3)\\)",
+      "\\((-3,0)\\)",
+      "\\((0,-3)\\)"
     ],
-    "image": null,
+    "image": "/images/quiz/geo-circle-equation.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -18,14 +18,14 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q02",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$\\int x^9dx$ কত?",
+    "text": "[উদ্দীপক ১] উদ্দীপক: একটি পরাবৃত্তের সমীকরণ \\(y^2=12x\\)। পরাবৃত্তটির উপকেন্দ্রিক লম্বের দৈর্ঘ্য কত?",
     "options": [
-      "$9x^8+C$",
-      "$\\frac{x^9}{9}+C$",
-      "$\\frac{x^10}{10}+C$",
-      "$x^10+C$"
+      "৬",
+      "৯",
+      "১২",
+      "২৪"
     ],
-    "image": null,
+    "image": "/images/quiz/geo-triangle-altitudes.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -33,14 +33,14 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q03",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$10P_2$ এর মান কত?",
+    "text": "[উদ্দীপক ২] উদ্দীপক: 5 N ও 7 N মানের দুইটি বল পরস্পরের সাথে \\(60^\\circ\\) কোণে ক্রিয়া করে। বলদ্বয়ের লব্ধির মান কত?",
     "options": [
-      "50",
-      "45",
-      "90",
-      "12"
+      "\\(\\sqrt{84}\\) N",
+      "\\(\\sqrt{109}\\) N",
+      "\\(\\sqrt{119}\\) N",
+      "12 N"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/hsc-higher-math-2nd-paper-tier-a-hot-model-test-01-q03.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -48,14 +48,14 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q04",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$11C_2$ এর মান কত?",
+    "text": "[উদ্দীপক ২] উদ্দীপক: 5 N ও 7 N মানের দুইটি বল পরস্পরের সাথে \\(60^\\circ\\) কোণে ক্রিয়া করে। লব্ধি 5 N বলের সাথে \\(\\theta\\) কোণ করলে \\(\\tan\\theta\\) কত?",
     "options": [
-      "110",
-      "121",
-      "12",
-      "55"
+      "\\(\\frac{7\\sqrt3}{17}\\)",
+      "\\(\\frac{5\\sqrt3}{17}\\)",
+      "\\(\\frac{7}{17}\\)",
+      "\\(\\frac{17}{7\\sqrt3}\\)"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/hsc-higher-math-2nd-paper-tier-a-hot-model-test-01-q04.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -63,12 +63,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q05",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "ঢাল 7 এবং বিন্দু $(7,7)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "\\(z=-1+i\\sqrt3\\) হলে \\(\\arg z\\) এর মুখ্য মান কত?",
     "options": [
-      "$x-7=7(y-7)$",
-      "$y-7=7(x-7)$ + 1",
-      "$y-7=7(x-7)$",
-      "$y+7=7(x-7)$"
+      "\\(\\frac{\\pi}{3}\\)",
+      "\\(\\frac{2\\pi}{3}\\)",
+      "\\(-\\frac{\\pi}{3}\\)",
+      "\\(-\\frac{2\\pi}{3}\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q06",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$x^2+y^2=64$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "\\(-5+12i\\)-এর বর্গমূল কোনটি?",
     "options": [
-      "8",
-      "64",
-      "9",
-      "16"
+      "\\(\\pm(3+2i)\\)",
+      "\\(\\pm(2+3i)\\)",
+      "\\(\\pm(2-3i)\\)",
+      "\\(\\pm(3-2i)\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q07",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "text": "\\(\\omega\\) যদি এককের কাল্পনিক ঘনমূল হয়, তবে \\((1-\\omega)(1-\\omega^2)\\) এর মান কত?",
     "options": [
-      "1",
-      "0",
-      "$\\tan\\theta$",
-      "$\\sec^2\\theta$"
+      "১",
+      "২",
+      "৩",
+      "\\(-3\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q08",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "text": "\\(x^2-5x+6=0\\)-এর মূলদ্বয় \\(\\alpha,\\beta\\) হলে \\(\\alpha^2+\\beta^2\\) কত?",
     "options": [
-      "$\\sin A\\cos B-\\cos A\\sin B$",
-      "$\\tan A+\\tan B$",
-      "$\\sin A\\cos B+\\cos A\\sin B$",
-      "$\\cos A\\cos B-\\sin A\\sin B$"
+      "১১",
+      "১২",
+      "১৩",
+      "২৫"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q09",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "text": "\\(x^2-2kx+k+3=0\\)-এর সমান মূলের জন্য \\(k\\)-এর মান কোনটি?",
     "options": [
-      "Odd",
-      "Constant",
-      "Periodic",
-      "Even"
+      "\\(\\frac{1\\pm\\sqrt{13}}2\\)",
+      "\\(\\frac{-1\\pm\\sqrt{13}}2\\)",
+      "\\(1\\pm\\sqrt3\\)",
+      "\\(-1\\pm\\sqrt3\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q10",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "text": "\\(\\sin^{-1}\\frac35+\\cos^{-1}\\frac35\\) এর মান কত?",
     "options": [
-      "একক",
-      "লম্ব",
-      "সমান্তরাল",
-      "সমান"
+      "০",
+      "\\(\\frac{\\pi}{4}\\)",
+      "\\(\\frac{\\pi}{2}\\)",
+      "\\(\\pi\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q11",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$A^2=A$ হলে matrix কী?",
+    "text": "\\(\\tan^{-1}\\frac12+\\tan^{-1}\\frac13\\) এর মান কত?",
     "options": [
-      "Orthogonal",
-      "Idempotent",
-      "Nilpotent",
-      "Scalar"
+      "\\(\\frac{\\pi}{6}\\)",
+      "\\(\\frac{\\pi}{4}\\)",
+      "\\(\\frac{\\pi}{3}\\)",
+      "\\(\\frac{\\pi}{2}\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q12",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$\\int_0^1 xdx$ কত?",
+    "text": "\\(u=20\\text{ m/s},\\theta=30^\\circ,g=10\\text{ m/s}^2\\) হলে প্রাসের উড্ডয়নকাল কত?",
     "options": [
-      "$\\frac12$",
-      "0",
-      "1",
-      "$\\frac13$"
+      "১ s",
+      "২ s",
+      "৩ s",
+      "৪ s"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q13",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$\\frac{d}{dx}x^10$ কত?",
+    "text": "একটি তাসের প্যাকেট থেকে একটি তাস তুললে সেটি king অথবা heart হওয়ার সম্ভাবনা কত?",
     "options": [
-      "$9x^10$",
-      "$x^10$",
-      "$x^9$",
-      "$10x^9$"
+      "\\(\\frac{3}{13}\\)",
+      "\\(\\frac{4}{13}\\)",
+      "\\(\\frac{5}{13}\\)",
+      "\\(\\frac{1}{4}\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q14",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$\\int x^11dx$ কত?",
+    "text": "একটি ছক্কা দুইবার নিক্ষেপে প্রথম ছক্কায় জোড় সংখ্যা এসেছে জানা থাকলে, যোগফল ৮ হওয়ার সম্ভাবনা কত?",
     "options": [
-      "$\\frac{x^12}{12}+C$",
-      "$\\frac{x^11}{11}+C$",
-      "$11x^10+C$",
-      "$x^12+C$"
+      "\\(\\frac16\\)",
+      "\\(\\frac14\\)",
+      "\\(\\frac13\\)",
+      "\\(\\frac12\\)"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q15",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$7P_2$ এর মান কত?",
+    "text": "[i,ii,iii] \\(z=1+i\\) হলে— i. \\(|z|=\\sqrt2\\) ii. \\(\\arg z=\\pi/4\\) iii. \\(z^4=-4\\)। কোনটি সঠিক?",
     "options": [
-      "42",
-      "21",
-      "42 + 1",
-      "9"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q16",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$8C_2$ এর মান কত?",
+    "text": "[i,ii,iii] \\(x^2-3x+2=0\\)-এর মূল \\(\\alpha,\\beta\\)। i. \\(\\alpha+\\beta=3\\) ii. \\(\\alpha\\beta=2\\) iii. \\(\\frac1\\alpha+\\frac1\\beta=\\frac32\\)। কোনটি সঠিক?",
     "options": [
-      "9",
-      "56",
-      "64",
-      "28"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q17",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "ঢাল 9 এবং বিন্দু $(5,9)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "text": "[i,ii,iii] \\(\\frac{x^2}{25}+\\frac{y^2}{16}=1\\) উপবৃত্তের জন্য— i. \\(e=\\frac35\\) ii. ফোকাস \\((\\pm3,0)\\) iii. নিয়ামক রেখা \\(x=\\pm\\frac{25}{3}\\)। কোনটি সঠিক?",
     "options": [
-      "$y+9=9(x-5)$",
-      "$y-9=5(x-9)$",
-      "$y-9=9(x-5)$",
-      "$x-9=9(y-5)$"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q18",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$x^2+y^2=100$ বৃত্তের ব্যাসার্ধ কত?",
+    "text": "[i,ii,iii] লামির উপপাদ্য সম্পর্কে— i. তিনটি অসামান্তরাল সহতল বলের সাম্যাবস্থায় প্রযোজ্য ii. প্রতিটি বল বিপরীত কোণের sine-এর সমানুপাতিক iii. \\(\\frac{P}{\\sin\\alpha}=\\frac{Q}{\\sin\\beta}=\\frac{R}{\\sin\\gamma}\\)। কোনটি সঠিক?",
     "options": [
-      "20",
-      "11",
-      "100",
-      "10"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,102 @@
     "id": "hsc-higher-math-2nd-paper-paper-set-06-q19",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
-    "text": "$\\frac{d}{dx}x^7$ কত?",
+    "text": "[i,ii,iii] \\(X\\sim B(4,\\frac12)\\) হলে— i. \\(P(X=2)=\\frac38\\) ii. গড় \\(=2\\) iii. বিভেদ \\(=1\\)। কোনটি সঠিক?",
     "options": [
-      "$6x^7$",
-      "$x^6$",
-      "$x^7$",
-      "$7x^6$"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-06-q20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
+    "text": "[i,ii,iii] \\(\\sin x=\\frac12\\) সমীকরণের জন্য— i. \\(x=n\\pi+(-1)^n\\frac{\\pi}{6}\\) ii. \\([0,\\pi]\\)-তে সমাধান \\(\\frac\\pi6,\\frac{5\\pi}6\\) iii. পর্যায় \\(2\\pi\\)। কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-06-q21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
+    "text": "\\(|z-2|=|z+2|\\) সঞ্চারপথের সমীকরণ কোনটি?",
+    "options": [
+      "\\(x=0\\)",
+      "\\(y=0\\)",
+      "\\(x=2\\)",
+      "\\(y=2\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-06-q22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
+    "text": "\\(2x^2-5x+2=0\\)-এর মূলদ্বয়ের বিপরীত সংখ্যা মূল হলে নতুন সমীকরণ কোনটি?",
+    "options": [
+      "\\(x^2-5x+2=0\\)",
+      "\\(2x^2-5x+2=0\\)",
+      "\\(2x^2+5x+2=0\\)",
+      "\\(x^2+5x+2=0\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-06-q23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
+    "text": "8 N ও 5 N বিসদৃশ সমান্তরাল বলের দূরত্ব 6 m। লব্ধির অবস্থান 8 N বল থেকে কত দূরে?",
+    "options": [
+      "6 m",
+      "8 m",
+      "10 m",
+      "16 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-06-q24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
+    "text": "ভর \\(m\\) বিশিষ্ট ব্যক্তি লিফটে ঊর্ধ্বমুখী \\(a\\) ত্বরণে চললে আপাত ওজন কত?",
+    "options": [
+      "\\(m(g-a)\\)",
+      "\\(mg\\)",
+      "\\(m(g+a)\\)",
+      "\\(ma\\)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-06-q25",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-06",
+    "text": "দুইটি ছক্কা নিক্ষেপে গুণফল জোড় হওয়ার সম্ভাবনা কত?",
+    "options": [
+      "\\(\\frac14\\)",
+      "\\(\\frac12\\)",
+      "\\(\\frac34\\)",
+      "\\(\\frac56\\)"
     ],
     "image": null,
     "optionImages": null,

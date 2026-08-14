@@ -1,78 +1,102 @@
 {
   "hsc-higher-math-2nd-paper-paper-set-10-q01": {
-    "correctOption": "$12x^11$",
-    "explanation": "সঠিক উত্তর: খ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "5 s",
+    "explanation": "\\(T=\\frac{2u\\sin30^\\circ}{g}=\\frac{2\\cdot50\\cdot1/2}{10}=5\\) s।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q02": {
-    "correctOption": "$\\frac{x^14}{14}+C$",
-    "explanation": "সঠিক উত্তর: ক। Power integration rule।"
+    "correctOption": "\\(125\\sqrt3\\) m",
+    "explanation": "\\(R=\\frac{u^2\\sin60^\\circ}{g}=\\frac{2500\\cdot\\sqrt3/2}{10}=125\\sqrt3\\) m।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q03": {
-    "correctOption": "182",
-    "explanation": "সঠিক উত্তর: ঘ। $nP_2=n(n-1)$।"
+    "correctOption": "\\(\\frac{17}{4}\\)",
+    "explanation": "\\(\\alpha+\\beta=3/2,\\alpha\\beta=-1\\); তাই \\(\\alpha^2+\\beta^2=9/4+2=17/4\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q04": {
-    "correctOption": "105",
-    "explanation": "সঠিক উত্তর: গ। $nC_2=n(n-1)/2$।"
+    "correctOption": "\\(2x^2+3x-2=0\\)",
+    "explanation": "Reciprocal roots-এর equation \\(cx^2+bx+a=0\\); তাই \\(-2x^2-3x+2=0\\), অর্থাৎ \\(2x^2+3x-2=0\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q05": {
-    "correctOption": "$y-11=11(x-7)$",
-    "explanation": "সঠিক উত্তর: খ। Point-slope form ব্যবহৃত।"
+    "correctOption": "5",
+    "explanation": "\\(|z|=\\sqrt{(-3)^2+(-4)^2}=5\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q06": {
-    "correctOption": "12",
-    "explanation": "সঠিক উত্তর: ক। $x^2+y^2=r^2$।"
+    "correctOption": "\\(\\frac{\\pi}{4}\\)",
+    "explanation": "\\(\\frac{i}{1+i}=\\frac{i(1-i)}2=\\frac{1+i}{2}\\), তাই argument \\(\\pi/4\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q07": {
-    "correctOption": "1",
-    "explanation": "সঠিক উত্তর: খ। মৌলিক ত্রিকোণমিতিক identity।"
+    "correctOption": "-3",
+    "explanation": "\\(\\omega-\\omega^2=i\\sqrt3\\), তাই square \\(=-3\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q08": {
-    "correctOption": "$\\sin A\\cos B+\\cos A\\sin B$",
-    "explanation": "সঠিক উত্তর: ক। যোগকোণের sine সূত্র।"
+    "correctOption": "বাস্তব ও সমান",
+    "explanation": "\\(D=4^2-4\\cdot1\\cdot4=0\\); তাই বাস্তব ও সমান মূল।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q09": {
-    "correctOption": "Even",
-    "explanation": "সঠিক উত্তর: খ। $f(-x)=f(x)$।"
+    "correctOption": "\\(\\frac{\\sqrt{34}}{5}\\)",
+    "explanation": "\\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+9/25}=\\sqrt{34}/5\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q10": {
-    "correctOption": "লম্ব",
-    "explanation": "সঠিক উত্তর: ক। Dot product zero হলে vectors perpendicular।"
+    "correctOption": "\\((0,0),(-2,0)\\)",
+    "explanation": "\\(y^2=-8x=4ax\\Rightarrow a=-2\\); vertex origin, focus \\((-2,0)\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q11": {
-    "correctOption": "Idempotent",
-    "explanation": "সঠিক উত্তর: গ। সংজ্ঞা অনুসারে idempotent।"
+    "correctOption": "\\(-1\\le x\\le1\\)",
+    "explanation": "\\(\\sin^{-1}x\\)-এর domain \\([-1,1]\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q12": {
-    "correctOption": "$\\frac12$",
-    "explanation": "সঠিক উত্তর: খ। নির্দিষ্ট যোগজের মান $1/2$।"
+    "correctOption": "0",
+    "explanation": "\\(\\tan^{-1}(-1)=-\\pi/4\\), তাই যোগফল 0।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q13": {
-    "correctOption": "$14x^13$",
-    "explanation": "সঠিক উত্তর: ঘ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "\\(10\\sqrt3\\) N",
+    "explanation": "\\(R^2=100+100+200\\cos60^\\circ=300\\), তাই \\(R=10\\sqrt3\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q14": {
-    "correctOption": "$\\frac{x^16}{16}+C$",
-    "explanation": "সঠিক উত্তর: ক। Power integration rule।"
+    "correctOption": "\\(\\frac1{26}\\)",
+    "explanation": "Red queen 2টি; মোট 52, তাই সম্ভাবনা \\(2/52=1/26\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q15": {
-    "correctOption": "110",
-    "explanation": "সঠিক উত্তর: গ। $nP_2=n(n-1)$।"
+    "correctOption": "i, ii ও iii",
+    "explanation": "দুই অক্ষে denominator সমান; circle radius 3 এবং circle-এর eccentricity 0।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q16": {
-    "correctOption": "66",
-    "explanation": "সঠিক উত্তর: ক। $nC_2=n(n-1)/2$।"
+    "correctOption": "i, ii ও iii",
+    "explanation": "\\(H=u^2/2g=45\\), \\(t=u/g=3\\), total time \\(=2t=6\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q17": {
-    "correctOption": "$y-13=13(x-5)$",
-    "explanation": "সঠিক উত্তর: গ। Point-slope form ব্যবহৃত।"
+    "correctOption": "i, ii ও iii",
+    "explanation": "Mean \\(np=3/4\\), variance \\(npq=9/16\\), এবং \\(P(1)=3\\cdot1/4\\cdot(3/4)^2=27/64\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q18": {
-    "correctOption": "14",
-    "explanation": "সঠিক উত্তর: ক। $x^2+y^2=r^2$।"
+    "correctOption": "i, ii ও iii",
+    "explanation": "বর্গমূল দুটি \\(w\\) ও \\(-w\\); তাই square একই এবং product \\(-w^2=-z\\)।"
   },
   "hsc-higher-math-2nd-paper-paper-set-10-q19": {
-    "correctOption": "$11x^10$",
-    "explanation": "সঠিক উত্তর: গ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "i, ii ও iii",
+    "explanation": "tan-এর period \\(\\pi\\); তাই সাধারণ সমাধান \\(n\\pi+\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-10-q20": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "Moment = force × perpendicular distance; sign convention clockwise/anticlockwise অনুযায়ী।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-10-q21": {
+    "correctOption": "\\(\\frac13\\)",
+    "explanation": "যোগফল 10,11,12-এর ফল 6টি; double হলো \\((5,5),(6,6)\\), তাই \\(2/6=1/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-10-q22": {
+    "correctOption": "10 m",
+    "explanation": "\\(R=4\\) N; বড় বল থেকে দূরত্ব \\(=\\frac{8\\times5}{4}=10\\) m, বাইরে।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-10-q23": {
+    "correctOption": "\\(\\frac{2\\pi}{3}\\)",
+    "explanation": "\\(\\cos4\\pi/3=-1/2\\); principal range \\([0,\\pi]\\), তাই \\(2\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-10-q24": {
+    "correctOption": "\\(y=x, x>0\\) রশ্মি",
+    "explanation": "argument নির্দিষ্ট হলে origin থেকে নির্দিষ্ট দিকের ray; \\(\\pi/4\\) হলে \\(y=x,x>0\\)।"
+  },
+  "hsc-higher-math-2nd-paper-paper-set-10-q25": {
+    "correctOption": "80 m",
+    "explanation": "\\(45^\\circ\\)-এ \\(H=u^2/(4g)\\) এবং \\(R_{max}=u^2/g=4H=80\\) m।"
   }
 }

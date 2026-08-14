@@ -1,78 +1,102 @@
 {
   "hsc-higher-math-1st-paper-paper-set-14-q01": {
-    "correctOption": "$16x^15$",
-    "explanation": "সঠিক উত্তর: ঘ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "cosx-sinx",
+    "explanation": "d(sinx)=cosx, d(cosx)=-sinx।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q02": {
-    "correctOption": "$\\frac{x^18}{18}+C$",
-    "explanation": "সঠিক উত্তর: ক। Power integration rule।"
+    "correctOption": "0",
+    "explanation": "cosπ/4 - sinπ/4=0।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q03": {
-    "correctOption": "306",
-    "explanation": "সঠিক উত্তর: ঘ। $nP_2=n(n-1)$।"
+    "correctOption": "0",
+    "explanation": "1×4-2×2=0।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q04": {
-    "correctOption": "171",
-    "explanation": "সঠিক উত্তর: গ। $nC_2=n(n-1)/2$।"
+    "correctOption": "নেই",
+    "explanation": "determinant শূন্য হওয়ায় matrix singular।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q05": {
-    "correctOption": "$y-15=15(x-7)$",
-    "explanation": "সঠিক উত্তর: খ। Point-slope form ব্যবহৃত।"
+    "correctOption": "1",
+    "explanation": "0×0-1(-1)=1।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q06": {
-    "correctOption": "16",
-    "explanation": "সঠিক উত্তর: গ। $x^2+y^2=r^2$।"
+    "correctOption": "k",
+    "explanation": "i×j=k, যা i ও j উভয়ের লম্ব।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q07": {
-    "correctOption": "1",
-    "explanation": "সঠিক উত্তর: ঘ। মৌলিক ত্রিকোণমিতিক identity।"
+    "correctOption": "0",
+    "explanation": "বিন্দুটি রেখার উপরেই অবস্থিত।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q08": {
-    "correctOption": "$\\sin A\\cos B+\\cos A\\sin B$",
-    "explanation": "সঠিক উত্তর: ক। যোগকোণের sine সূত্র।"
+    "correctOption": "(-4,3),5",
+    "explanation": "g=4, f=-3 ⇒ center(-4,3), r=√(16+9)=5।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q09": {
-    "correctOption": "Even",
-    "explanation": "সঠিক উত্তর: গ। $f(-x)=f(x)$।"
+    "correctOption": "24",
+    "explanation": "4!=24।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q10": {
-    "correctOption": "লম্ব",
-    "explanation": "সঠিক উত্তর: গ। Dot product zero হলে vectors perpendicular।"
+    "correctOption": "31",
+    "explanation": "মোট subset 2⁵, empty বাদ দিলে 31।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q11": {
-    "correctOption": "Idempotent",
-    "explanation": "সঠিক উত্তর: ক। সংজ্ঞা অনুসারে idempotent।"
+    "correctOption": "π/4",
+    "explanation": "given interval-এ tanθ=1-এর একমাত্র মান π/4।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q12": {
-    "correctOption": "$\\frac12$",
-    "explanation": "সঠিক উত্তর: ক। নির্দিষ্ট যোগজের মান $1/2$।"
+    "correctOption": "x^x(lnx+1)",
+    "explanation": "log differentiation: y=x^x ⇒ lny=xlnx।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q13": {
-    "correctOption": "$18x^17$",
-    "explanation": "সঠিক উত্তর: খ। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "xlnx-x+C",
+    "explanation": "integration by parts।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q14": {
-    "correctOption": "$\\frac{x^20}{20}+C$",
-    "explanation": "সঠিক উত্তর: ঘ। Power integration rule।"
+    "correctOption": "1/2",
+    "explanation": "4^{1/2}=2।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q15": {
-    "correctOption": "210",
-    "explanation": "সঠিক উত্তর: গ। $nP_2=n(n-1)$।"
+    "correctOption": "i ও ii",
+    "explanation": "determinant negative-ও হতে পারে।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q16": {
-    "correctOption": "120",
-    "explanation": "সঠিক উত্তর: খ। $nC_2=n(n-1)/2$।"
+    "correctOption": "i, ii ও iii",
+    "explanation": "সবগুলো projection-এর মৌলিক ধারণা।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q17": {
-    "correctOption": "$y-17=17(x-5)$",
-    "explanation": "সঠিক উত্তর: ঘ। Point-slope form ব্যবহৃত।"
+    "correctOption": "i, ii ও iii",
+    "explanation": "রেখার standard slope concepts।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q18": {
-    "correctOption": "18",
-    "explanation": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।"
+    "correctOption": "i ও ii",
+    "explanation": "circle equation-এ x²,y² coefficient same এবং xy term absent।"
   },
   "hsc-higher-math-1st-paper-paper-set-14-q19": {
-    "correctOption": "$15x^14$",
-    "explanation": "সঠিক উত্তর: ক। Power rule প্রয়োগ করা হয়েছে।"
+    "correctOption": "i ও ii",
+    "explanation": "product rule u'v+uv', u'v' নয়।"
+  },
+  "hsc-higher-math-1st-paper-paper-set-14-q20": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "সবগুলো standard integral।"
+  },
+  "hsc-higher-math-1st-paper-paper-set-14-q21": {
+    "correctOption": "উপরোক্ত কোনোটিই নয়",
+    "explanation": "sum-এর logarithm আলাদা করা যায় না।"
+  },
+  "hsc-higher-math-1st-paper-paper-set-14-q22": {
+    "correctOption": "না",
+    "explanation": "sin(A+B)=sinAcosB+cosAsinB।"
+  },
+  "hsc-higher-math-1st-paper-paper-set-14-q23": {
+    "correctOption": "0",
+    "explanation": "singular বলতে determinant zero।"
+  },
+  "hsc-higher-math-1st-paper-paper-set-14-q24": {
+    "correctOption": "নির্দিষ্ট নয়",
+    "explanation": "zero vector-এর magnitude 0 এবং direction undefined।"
+  },
+  "hsc-higher-math-1st-paper-paper-set-14-q25": {
+    "correctOption": "1",
+    "explanation": "শূন্যটি নেওয়ার বিন্যাস একভাবে হয়।"
   }
 }
