@@ -2,6 +2,7 @@ import { afterEach, describe, expect, it, vi } from "vitest";
 import { readFileSync } from "node:fs";
 import { api, apiRequest } from "@/lib/api";
 import { aggregateColleges } from "@/lib/leaderboard-api";
+import { BATCH_OPTIONS, needsOnboarding } from "@/lib/profile-utils";
 
 afterEach(() => {
   vi.unstubAllGlobals();
@@ -52,5 +53,45 @@ describe("College Wars aggregation", () => {
       { name: "ঢাকা কলেজ", score: 2600, studentCount: 2, topScore: 1400, avgScore: 1300 },
       { name: "নটর ডেম কলেজ", score: 1500, studentCount: 1, topScore: 1500, avgScore: 1500 },
     ]);
+  });
+});
+
+describe("student onboarding", () => {
+  it("offers only target years accepted by profile validation", () => {
+    expect(BATCH_OPTIONS).toEqual([
+      "SSC 2027",
+      "SSC 2028",
+      "SSC 2029",
+      "SSC 2030",
+      "SSC 2031",
+      "HSC 2026",
+      "HSC 2027",
+      "HSC 2028",
+      "HSC 2029",
+      "HSC 2030",
+    ]);
+  });
+
+  it("does not block a valid profile when the optional college is empty", () => {
+    expect(needsOnboarding({
+      id: "student-1",
+      name: "Student",
+      email: "student@example.com",
+      role: "STUDENT",
+      className: "SSC",
+      examYear: 2027,
+    })).toBe(false);
+  });
+
+  it("keeps onboarding open for an invalid target year", () => {
+    expect(needsOnboarding({
+      id: "student-1",
+      name: "Student",
+      email: "student@example.com",
+      role: "STUDENT",
+      className: "HSC",
+      examYear: 2025,
+      collegeName: "Example College",
+    })).toBe(true);
   });
 });

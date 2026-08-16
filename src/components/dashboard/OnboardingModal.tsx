@@ -69,8 +69,8 @@ export function OnboardingModal() {
     return () => document.removeEventListener("mousedown", onClick);
   }, []);
 
-  const collegeValue = customMode ? customName.trim() : selectedCollege?.name || query.trim();
-  const canSubmit = Boolean(batch && collegeValue);
+  const collegeValue = customMode ? customName.trim() : selectedCollege?.name || "";
+  const canSubmit = Boolean(batch);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -80,9 +80,9 @@ export function OnboardingModal() {
     try {
       await syncProfile({
         batch,
-        collegeName: collegeValue,
-        schoolName: collegeValue,
-        collegeEiin: customMode ? undefined : selectedCollege?.eiin,
+        collegeName: collegeValue || undefined,
+        schoolName: collegeValue || undefined,
+        collegeEiin: collegeValue && !customMode ? selectedCollege?.eiin : undefined,
       });
       router.replace("/dashboard");
     } catch {
@@ -155,7 +155,7 @@ export function OnboardingModal() {
 
           <div ref={listRef}>
             <label className="block text-xs font-semibold uppercase tracking-wider text-cyan-300/80 mb-2">
-              স্কুল / কলেজ
+              স্কুল / কলেজ <span className="normal-case text-slate-500">(ঐচ্ছিক)</span>
             </label>
 
             {customMode ? (
@@ -164,7 +164,6 @@ export function OnboardingModal() {
                 value={customName}
                 onChange={(e) => setCustomName(e.target.value)}
                 placeholder="তোমার স্কুল/কলেজের নাম লিখুন"
-                required
                 className={cn(
                   "w-full min-h-[48px] px-4 rounded-xl",
                   "bg-white/5 border border-white/10 text-white placeholder:text-slate-500",
@@ -184,7 +183,6 @@ export function OnboardingModal() {
                   }}
                   onFocus={() => setOpenList(true)}
                   placeholder="কলেজের নাম সার্চ করুন (২+ অক্ষর)"
-                  required
                   className={cn(
                     "w-full min-h-[48px] pl-10 pr-10 rounded-xl",
                     "bg-white/5 border border-white/10 text-white placeholder:text-slate-500",
@@ -210,7 +208,7 @@ export function OnboardingModal() {
                           className="inline-flex items-center gap-1.5 text-sm font-semibold text-cyan-400 hover:text-cyan-300"
                         >
                           <Plus className="h-4 w-4" />
-                          Add Custom School/College
+                          নিজের স্কুল/কলেজের নাম লিখুন
                         </button>
                       </div>
                     ) : (
@@ -232,6 +230,27 @@ export function OnboardingModal() {
                   </div>
                 )}
               </div>
+            )}
+
+            {!customMode && !selectedCollege && (
+              <button
+                type="button"
+                onClick={() => {
+                  setCustomMode(true);
+                  setCustomName(query.trim());
+                  setOpenList(false);
+                }}
+                className="mt-2 inline-flex items-center gap-1.5 text-xs text-slate-400 hover:text-cyan-400 transition-colors"
+              >
+                <Plus className="h-3.5 w-3.5" />
+                তালিকায় না থাকলে নিজে নাম লিখুন
+              </button>
+            )}
+
+            {!customMode && query.trim() && !selectedCollege && (
+              <p className="mt-2 text-xs text-amber-300/80">
+                তালিকা থেকে প্রতিষ্ঠান নির্বাচন করুন, নিজে নাম লিখুন, অথবা খালি রাখুন।
+              </p>
             )}
 
             {customMode && (
@@ -266,7 +285,7 @@ export function OnboardingModal() {
                 সেভ হচ্ছে...
               </>
             ) : (
-              "ড্যাশবোর্ডে যান"
+              "সেভ করে ড্যাশবোর্ডে যান"
             )}
           </Button>
         </form>

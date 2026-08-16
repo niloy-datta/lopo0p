@@ -47,24 +47,13 @@ export function isProfileComplete(user: UserProfile | null | undefined): boolean
 
 export function needsOnboarding(user: UserProfile | null | undefined): boolean {
   if (!user) return false;
-  const college = (user.collegeName || user.schoolName || "").trim();
-  const hasBatch =
-    (user.batch || "").trim() ||
-    (user.className && (user.examYear ?? user.targetExamYear));
-  return !college || !hasBatch;
+  return !isProfileComplete(user);
 }
 
 export const BATCH_OPTIONS = [
-  "SSC 2026",
-  "SSC 2027",
-  "SSC 2028",
-  "SSC 2029",
-  "HSC 2025",
-  "HSC 2026",
-  "HSC 2027",
-  "HSC 2028",
-  "HSC 2029",
-] as const;
+  ...SSC_EXAM_YEARS.map((year) => `SSC ${year}`),
+  ...HSC_EXAM_YEARS.map((year) => `HSC ${year}`),
+];
 
 export const PROFILE_INCOMPLETE_SAVE_MSG =
   "র‍্যাঙ্কিং ও স্কোর সেভ করতে আগে প্রোফাইল সম্পূর্ণ করুন।";

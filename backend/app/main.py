@@ -79,6 +79,10 @@ ADMIN_EMAIL = os.getenv("ADMIN_EMAIL", "niloy.datta.dev@gmail.com")
 
 SSC_EXAM_YEARS = {2027, 2028, 2029, 2030, 2031}
 HSC_EXAM_YEARS = {2026, 2027, 2028, 2029, 2030}
+VALID_BATCHES = {
+    *(f"SSC {year}" for year in SSC_EXAM_YEARS),
+    *(f"HSC {year}" for year in HSC_EXAM_YEARS),
+}
 
 
 def normalize_user_level(user: dict) -> Optional[str]:
@@ -664,6 +668,31 @@ async def update_student_profile(
     if "email" in update_data: del update_data["email"]
     if "role" in update_data: del update_data["role"]
 
+    text_limits = {
+        "name": 120,
+        "mobile": 32,
+        "district": 100,
+        "schoolName": 180,
+        "collegeName": 180,
+        "collegeEiin": 24,
+        "picture": 500,
+        "favoriteSubject": 80,
+        "weakSubjects": 160,
+    }
+    for field, limit in text_limits.items():
+        if field not in update_data or update_data[field] is None:
+            continue
+        value = str(update_data[field]).strip()
+        if len(value) > limit or any(ord(char) < 32 for char in value):
+            raise HTTPException(status_code=400, detail=f"Invalid {field}")
+        update_data[field] = value
+
+    if update_data.get("batch"):
+        batch = str(update_data["batch"]).strip().upper()
+        if batch not in VALID_BATCHES:
+            raise HTTPException(status_code=400, detail="Invalid target exam batch")
+        update_data["batch"] = batch
+
     if "collegeName" in update_data and update_data["collegeName"]:
         update_data["schoolName"] = update_data["collegeName"]
 
@@ -686,6 +715,20 @@ async def update_student_profile(
 
     if "examYear" in update_data:
         update_data["targetExamYear"] = update_data["examYear"]
+
+    target_level = normalize_user_level({**user, **update_data})
+    target_year = update_data.get(
+        "examYear",
+        user.get("examYear") or user.get("targetExamYear"),
+    )
+    if target_level and target_year:
+        allowed_years = SSC_EXAM_YEARS if target_level == "ssc" else HSC_EXAM_YEARS
+        try:
+            normalized_year = int(target_year)
+        except (TypeError, ValueError):
+            raise HTTPException(status_code=400, detail="Invalid target exam year")
+        if normalized_year not in allowed_years:
+            raise HTTPException(status_code=400, detail="Invalid target exam year")
 
     update_data["group"] = "science"
     update_data["updatedAt"] = datetime.now(timezone.utc).isoformat()
@@ -711,8 +754,17 @@ async def update_student_profile(
         )
 
         return {"ok": True, "user": updated_user_doc}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to update profile: {e}")
+    except RuntimeError as exc:
+        print(f"[profile] Storage unavailable: {type(exc).__name__}")
+        raise HTTPException(
+            status_code=503,
+            detail="Profile storage is temporarily unavailable",
+        )
+    except HTTPException:
+        raise
+    except Exception as exc:
+        print(f"[profile] Update failed: {type(exc).__name__}")
+        raise HTTPException(status_code=500, detail="Failed to update profile")
 
 # ─────────────────────────────────────────────
 # Student Protected Dashboard & Submissions

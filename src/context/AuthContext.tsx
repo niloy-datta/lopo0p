@@ -297,10 +297,12 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const syncProfile = async (details: Partial<UserProfile>) => {
     try {
       setLoading(true);
-      await api.put("/api/student/profile", details);
-      const me = await api.get<{ user: UserProfile | null }>("/api/auth/me");
-      if (me.user) {
-        setUser(me.user);
+      const result = await api.put<{ ok: boolean; user?: UserProfile }>(
+        "/api/student/profile",
+        details,
+      );
+      if (result.user) {
+        setUser(result.user);
         await flushPendingExamAttempt();
       } else {
         setUser((prev) => (prev ? { ...prev, ...details } : null));
