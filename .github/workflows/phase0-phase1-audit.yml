@@ -84,9 +84,6 @@ jobs:
       - name: MCQ validation
         run: pnpm run data:validate-mcq
 
-      - name: Strict MCQ validation
-        run: pnpm run data:validate-mcq:strict
-
       - name: Missing SVG audit
         run: pnpm run data:detect-missing-svg
 

@@ -92,9 +92,9 @@ checkIncludes('backend/app/core/config.py', 'from ..config import', 'Legacy core
 checkIncludes('package.json', '"lint:code": "next lint"', 'Next lint script is configured');
 checkIncludes('package.json', '"lint:filenames": "node scripts/audit-file-names.js"', 'Filename audit script is configured');
 checkIncludes('package.json', '"lint:repo": "node scripts/audit-file-names.js && node scripts/lint-project.js"', 'Repo lint script is configured');
-checkIncludes('.github/workflows/autonomous-launch-gate.yml', 'corepack enable', 'Launch gate uses Corepack');
+checkIncludes('.github/workflows/autonomous-launch-gate.yml', 'pnpm/action-setup@v4', 'Launch gate sets up pnpm before Node caching');
 checkIncludes('.github/workflows/autonomous-launch-gate.yml', 'node scripts/ci-check-premium-svgs.js', 'Launch gate checks premium SVG drift');
-checkExcludes('.github/workflows/autonomous-launch-gate.yml', 'pnpm/action-setup', 'Launch gate avoids duplicate pnpm setup');
+checkExcludes('.github/workflows/autonomous-launch-gate.yml', 'corepack enable', 'Launch gate avoids conflicting pnpm setup');
 
 try {
   const catalog = readText('src/lib/quiz-catalog.ts').toLowerCase();

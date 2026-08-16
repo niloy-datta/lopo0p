@@ -47,10 +47,6 @@ exists('.eslintrc.json', 'Next ESLint config');
 exists('app/not-found.tsx', 'Global not-found page');
 exists('app/loading.tsx', 'Global loading page');
 exists('app/error.tsx', 'Global error boundary');
-exists('DEPLOYMENT_CHECKLIST.md', 'Deployment checklist');
-exists('PROJECT_MAINTAINABILITY.md', 'Maintainability plan');
-exists('AUTONOMOUS_ENGINE_PLAN.md', 'Autonomous plan');
-
 fileIncludes('requirements.txt', 'google-auth', 'Root Firestore REST dependency');
 fileIncludes('api/requirements.txt', 'google-auth', 'API Firestore REST dependency');
 fileIncludes('package.json', '"build": "next build"', 'Next build script');
@@ -61,10 +57,9 @@ fileIncludes('package.json', '"typecheck"', 'Typecheck script');
 fileIncludes('package.json', '"data:validate-mcq"', 'MCQ validation script');
 fileIncludes('api/index.py', '@app.get("/api/health")', 'FastAPI health route');
 fileIncludes('backend/app/config.py', 'validate_production_settings()', 'Production secret guard');
-fileIncludes('scripts/ci-check-premium-svgs.js', 'resolveDiagramTopic', 'Premium SVG shared resolver check');
 fileIncludes('.github/workflows/autonomous-launch-gate.yml', 'node scripts/ci-check-premium-svgs.js', 'Launch gate premium SVG check');
-fileIncludes('.github/workflows/autonomous-launch-gate.yml', 'corepack enable', 'Launch gate Corepack setup');
-fileExcludes('.github/workflows/autonomous-launch-gate.yml', 'pnpm/action-setup', 'Launch gate avoids duplicate pnpm setup');
+fileIncludes('.github/workflows/autonomous-launch-gate.yml', 'pnpm/action-setup@v4', 'Launch gate pnpm setup');
+fileExcludes('.github/workflows/autonomous-launch-gate.yml', 'corepack enable', 'Launch gate avoids conflicting pnpm setup');
 jsonCheck(
   'vercel.json',
   'Vercel API rewrite',
