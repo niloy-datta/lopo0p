@@ -20,8 +20,8 @@ pnpm --version
 ## 2. Clone and install
 
 ```bash
-git clone https://github.com/niloy-datta/sschsc-quiz.com.git
-cd sschsc-quiz.com
+git clone https://github.com/niloy-datta/lopo0p.git
+cd lopo0p
 pnpm install --frozen-lockfile=false
 ```
 

@@ -1,6 +1,6 @@
 # SSC/HSC Quiz Platform — Master Completion Plan
 
-Repository: `niloy-datta/sschsc-quiz.com`
+Repository: `niloy-datta/lopo0p`
 Project: **বিজ্ঞান র্যাঙ্কার — SSC/HSC Science MCQ Platform**
 
 This plan is the single execution roadmap for finishing the existing Next.js + FastAPI quiz platform safely. The project must be completed step by step without rebuilding from zero and without inventing quiz data.

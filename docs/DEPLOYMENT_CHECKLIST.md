@@ -1,6 +1,6 @@
 # Deployment Checklist — বিজ্ঞান র্যাঙ্কার
 
-Repository: `niloy-datta/sschsc-quiz.com`
+Repository: `niloy-datta/lopo0p`
 Target: Vercel deployment for Next.js frontend + Python FastAPI serverless entry.
 
 ## Non-negotiable data rules
@@ -70,10 +70,9 @@ NEXT_PUBLIC_FIREBASE_APP_ID=
 
 ```env
 FRONTEND_URL=https://YOUR_DOMAIN_HERE
+APP_URL=https://YOUR_DOMAIN_HERE
 JWT_SECRET=CHANGE_THIS_TO_LONG_RANDOM_SECRET
-ALGORITHM=HS256
 FIREBASE_PROJECT_ID=
-GOOGLE_PROJECT_ID=
 FIREBASE_SERVICE_ACCOUNT={...full service account json as one line...}
 ADMIN_EMAIL=
 ADMIN_PASSWORD=
@@ -91,7 +90,7 @@ npm run data:audit
 npm run data:audit-papers
 npm run data:audit-answers-sync
 npm run data:validate-mcq
-npm run data:validate-mcq:strict
+npm run lint
 npm run typecheck
 npm run test
 npm run build

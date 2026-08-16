@@ -54,7 +54,7 @@ Frontend `.env.local`:
 ```env
 NEXT_PUBLIC_USE_API_PROXY=true
 NEXT_PUBLIC_API_URL=
-NEXT_PUBLIC_SITE_URL=https://sschsc-quiz.com
+NEXT_PUBLIC_SITE_URL=https://sschscquiz.com
 NEXT_PUBLIC_FIREBASE_API_KEY=
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
 NEXT_PUBLIC_FIREBASE_PROJECT_ID=
@@ -75,6 +75,8 @@ FIREBASE_PROJECT_ID=your-project-id
 ```
 
 Never expose `JWT_SECRET`, `ADMIN_PASSWORD`, or service account JSON as `NEXT_PUBLIC_*`.
+
+Production/Preview variable classification, Firebase hardening, rotation and incident response are documented in [Environment & Security Guide](docs/ENVIRONMENT_SECURITY_GUIDE.md).
 
 ## Vercel deployment
 

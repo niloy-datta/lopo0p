@@ -1,6 +1,6 @@
 # Autonomous Launch Engine Plan
 
-Safe one-by-one launch plan for `niloy-datta/sschsc-quiz.com`.
+Safe one-by-one launch plan for `niloy-datta/lopo0p`.
 
 ## Goal
 

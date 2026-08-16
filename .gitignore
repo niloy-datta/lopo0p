@@ -7,6 +7,13 @@ nul
 .env*
 !.env.example
 !.env.local.example
+.vercel/
+
+# Credentials and private keys
+*.pem
+*.key
+service-account*.json
+firebase-adminsdk*.json
 
 # Python virtual environments
 .venv/

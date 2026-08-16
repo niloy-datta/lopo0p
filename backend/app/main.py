@@ -63,7 +63,7 @@ app.include_router(colleges.router)
 app.include_router(live_tests.router)
 
 _cors_origins = [settings.FRONTEND_URL]
-if "http://localhost:3000" not in _cors_origins:
+if settings.ENVIRONMENT != "production" and "http://localhost:3000" not in _cors_origins:
     _cors_origins.append("http://localhost:3000")
 
 app.add_middleware(
