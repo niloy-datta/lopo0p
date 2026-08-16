@@ -2,20 +2,8 @@
 
 import React, { createContext, useContext, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import {
-  User as FirebaseUser,
-  signInWithPopup,
-  signOut as firebaseSignOut,
-  onAuthStateChanged,
-  signInWithEmailAndPassword,
-  createUserWithEmailAndPassword,
-  updateProfile,
-  signInWithPhoneNumber,
-  ConfirmationResult,
-  RecaptchaVerifier,
-} from "firebase/auth";
-import { auth, googleProvider, isFirebaseConfigured } from "@/lib/firebase";
-import { FirebaseError } from "firebase/app";
+import type { User as FirebaseUser, ConfirmationResult } from "firebase/auth";
+import { isFirebaseConfigured, loadFirebase } from "@/lib/firebase";
 import { api, ApiError, isBackendUnavailable } from "@/lib/api";
 import { flushPendingExamAttempt } from "@/lib/pending-exam";
 
@@ -49,7 +37,6 @@ export interface UserProfile {
 
 interface AuthContextType {
   user: UserProfile | null;
-  firebaseUser: FirebaseUser | null;
   loading: boolean;
   error: string | null;
   backendStatus: "checking" | "up" | "down";
@@ -72,10 +59,14 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 function backendSyncErrorMessage(err: unknown): string {
   if (err instanceof ApiError) {
     if (err.status === 503 || err.status === 502) {
-      return "Backend API চালু নেই। আলাদা টার্মিনালে `pnpm dev:backend` চালু করুন (port 8000), অথবা `pnpm dev:full` ব্যবহার করুন।";
+      return process.env.NODE_ENV === "development"
+        ? "লোকাল API চালু নেই। ডেভেলপমেন্ট সার্ভারটি চালু করে আবার চেষ্টা করুন।"
+        : "সাইন-ইন সেবা সাময়িকভাবে পাওয়া যাচ্ছে না। কিছুক্ষণ পর আবার চেষ্টা করুন।";
     }
     if (err.status === 500 && /failed \(|ECONNREFUSED|fetch/i.test(err.message)) {
-      return "Backend API-তে সংযোগ ব্যর্থ। FastAPI server (port 8000) চালু আছে কিনা দেখুন।";
+      return process.env.NODE_ENV === "development"
+        ? "লোকাল API-তে সংযোগ করা যায়নি।"
+        : "সার্ভারের সঙ্গে সংযোগ করা যায়নি। আবার চেষ্টা করুন।";
     }
     if (err.status === 401) {
       return "Firebase token যাচাই ব্যর্থ। আবার লগইন করুন।";
@@ -86,8 +77,9 @@ function backendSyncErrorMessage(err: unknown): string {
 }
 
 function firebaseLoginErrorMessage(err: unknown): string {
-  if (err instanceof FirebaseError) {
-    switch (err.code) {
+  if (err && typeof err === "object" && "code" in err) {
+    const code = String((err as { code: unknown }).code);
+    switch (code) {
       case "auth/invalid-credential":
       case "auth/wrong-password":
       case "auth/user-not-found":
@@ -99,7 +91,7 @@ function firebaseLoginErrorMessage(err: unknown): string {
       case "auth/user-disabled":
         return "এই অ্যাকাউন্ট নিষ্ক্রিয় করা হয়েছে।";
       default:
-        console.error("[firebase-login]", err.code, err.message);
+        console.error("[firebase-login]", code);
         return "লগইন ব্যর্থ হয়েছে। আবার চেষ্টা করুন।";
     }
   }
@@ -108,7 +100,6 @@ function firebaseLoginErrorMessage(err: unknown): string {
 
 export function AuthProvider({ children }: { children: React.ReactNode }) {
   const router = useRouter();
-  const [firebaseUser, setFirebaseUser] = useState<FirebaseUser | null>(null);
   const [user, setUser] = useState<UserProfile | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -150,8 +141,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       const data = await api.post<{ user: UserProfile }>("/api/auth/firebase", {
         idToken,
       });
-      const profile = await fetchFullProfile();
-      return profile ?? data.user;
+      setBackendStatus("up");
+      setUser(data.user);
+      return data.user;
     } catch (err) {
       const message = backendSyncErrorMessage(err);
       console.error("Auth sync error:", err);
@@ -161,10 +153,6 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   };
 
   useEffect(() => {
-    if (isFirebaseConfigured && auth) {
-      return;
-    }
-
     const checkSession = async () => {
       try {
         const data = await api.get<{ user: UserProfile | null }>("/api/auth/me");
@@ -182,35 +170,16 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     checkSession();
   }, []);
 
-  useEffect(() => {
-    if (!isFirebaseConfigured || !auth) {
-      setLoading(false);
-      return;
-    }
-
-    const unsubscribe = onAuthStateChanged(auth, async (fUser) => {
-      setFirebaseUser(fUser);
-      if (fUser) {
-        setLoading(true);
-        await syncWithBackend(fUser);
-      } else {
-        setUser(null);
-      }
-      setLoading(false);
-    });
-
-    return () => unsubscribe();
-  }, []);
-
   const loginWithGoogle = async (): Promise<UserProfile | null> => {
-    if (!auth || !googleProvider) {
+    if (!isFirebaseConfigured) {
       setError("Firebase কনফিগার করা নেই। .env.local চেক করুন।");
       return null;
     }
     setError(null);
     setLoading(true);
     try {
-      const cred = await signInWithPopup(auth, googleProvider);
+      const { auth, googleProvider, authModule } = await loadFirebase();
+      const cred = await authModule.signInWithPopup(auth, googleProvider);
       return await syncWithBackend(cred.user);
     } catch (err: unknown) {
       const message =
@@ -226,14 +195,15 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     email: string,
     pass: string,
   ): Promise<UserProfile | null> => {
-    if (!auth) {
+    if (!isFirebaseConfigured) {
       setError("Firebase কনফিগার করা নেই। .env.local চেক করুন।");
       return null;
     }
     setError(null);
     setLoading(true);
     try {
-      const cred = await signInWithEmailAndPassword(auth, email, pass);
+      const { auth, authModule } = await loadFirebase();
+      const cred = await authModule.signInWithEmailAndPassword(auth, email, pass);
       return await syncWithBackend(cred.user);
     } catch (err: unknown) {
       setError(firebaseLoginErrorMessage(err));
@@ -248,18 +218,19 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     pass: string,
     name: string,
   ): Promise<UserProfile | null> => {
-    if (!auth) {
+    if (!isFirebaseConfigured) {
       setError("Firebase কনফিগার করা নেই। .env.local চেক করুন।");
       return null;
     }
     setError(null);
     setLoading(true);
     try {
-      const cred = await createUserWithEmailAndPassword(auth, email, pass);
+      const { auth, authModule } = await loadFirebase();
+      const cred = await authModule.createUserWithEmailAndPassword(auth, email, pass);
       if (cred.user) {
         const trimmedName = name.trim();
         if (trimmedName) {
-          await updateProfile(cred.user, { displayName: trimmedName });
+          await authModule.updateProfile(cred.user, { displayName: trimmedName });
         }
         return await syncWithBackend(cred.user);
       }
@@ -281,16 +252,17 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   };
 
   const sendPhoneOtp = async (phoneNumber: string, elementId: string) => {
-    if (!auth) {
+    if (!isFirebaseConfigured) {
       setError("Firebase কনফিগার করা নেই। .env.local চেক করুন।");
       throw new Error("firebase not configured");
     }
     setError(null);
     try {
-      const verifier = new RecaptchaVerifier(auth, elementId, {
+      const { auth, authModule } = await loadFirebase();
+      const verifier = new authModule.RecaptchaVerifier(auth, elementId, {
         size: "invisible",
       });
-      return await signInWithPhoneNumber(auth, phoneNumber, verifier);
+      return await authModule.signInWithPhoneNumber(auth, phoneNumber, verifier);
     } catch {
       setError("ওটিপি পাঠাতে সমস্যা হয়েছে। সঠিক নম্বর ব্যবহার করুন।");
       throw new Error("otp failed");
@@ -302,15 +274,15 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     setError(null);
 
     try {
-      if (auth) {
-        await firebaseSignOut(auth);
+      if (isFirebaseConfigured) {
+        const { auth, authModule } = await loadFirebase();
+        await authModule.signOut(auth);
       }
     } catch (err) {
       console.error("Firebase signOut failed:", err);
     }
 
     setUser(null);
-    setFirebaseUser(null);
 
     try {
       await api.post("/api/auth/logout");
@@ -345,7 +317,6 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     <AuthContext.Provider
       value={{
         user,
-        firebaseUser,
         loading,
       error,
       backendStatus,

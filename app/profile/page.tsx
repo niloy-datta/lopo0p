@@ -2,6 +2,7 @@
 
 import React, { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { useAuth } from "@/context/AuthContext";
 import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
@@ -162,9 +163,12 @@ export default function ProfilePage() {
         <Card variant="glass" className="p-6 space-y-4">
           <div className="flex items-center gap-4">
             {form.picture ? (
-              <img
+              <Image
                 src={form.picture}
                 alt=""
+                width={64}
+                height={64}
+                unoptimized
                 className="h-16 w-16 rounded-2xl object-cover border border-white/10"
               />
             ) : (

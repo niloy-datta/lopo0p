@@ -79,9 +79,10 @@ export async function apiRequest<T = unknown>(
     headers.set("Content-Type", "application/json");
   }
 
-  // Retry transparently on network failures and 5xx so transient
-  // backend restarts don't immediately surface as errors to the user.
-  const maxAttempts = 3; // 1 initial + 2 retries
+  const method = (options.method || "GET").toUpperCase();
+  // Only safe/idempotent reads are retried. Retrying auth, profile or quiz
+  // writes can create duplicate work and made failed login attempts feel slow.
+  const maxAttempts = method === "GET" || method === "HEAD" ? 2 : 1;
   const UNAVAILABLE_MSG =
     process.env.NODE_ENV === "development"
       ? "Backend API unavailable — start FastAPI on port 8000 (`pnpm dev:backend`)"
@@ -89,26 +90,31 @@ export async function apiRequest<T = unknown>(
   let res!: Response;
 
   for (let attempt = 0; attempt < maxAttempts; attempt++) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 8000);
     try {
       res = await fetch(buildUrl(path), {
         ...options,
         credentials: "include",
         headers,
+        signal: options.signal ?? controller.signal,
       });
     } catch (networkErr) {
       // fetch() throws on DNS failure, connection refused, CORS, etc.
       // This is the most common case when the backend hasn't started yet.
       if (attempt < maxAttempts - 1) {
-        await new Promise((r) => setTimeout(r, 1500 * (attempt + 1)));
+        await new Promise((r) => setTimeout(r, 400));
         continue;
       }
       throw new ApiError(UNAVAILABLE_MSG, 0, null, true);
+    } finally {
+      clearTimeout(timeout);
     }
 
     // Server responded but with 5xx and no JSON body — likely still starting.
     if (isUnreachableResponse(res)) {
       if (attempt < maxAttempts - 1) {
-        await new Promise((r) => setTimeout(r, 1500 * (attempt + 1)));
+        await new Promise((r) => setTimeout(r, 400));
         continue;
       }
       throw new ApiError(UNAVAILABLE_MSG, res.status, null, true);
@@ -136,8 +142,8 @@ export const api = {
    */
   async checkBackend(): Promise<boolean> {
     try {
-      const health = await apiRequest<{ ok?: boolean }>("/api/health");
-      return health.ok === true;
+      const health = await apiRequest<{ ok?: boolean; status?: string }>("/api/health");
+      return health.ok === true || health.status === "ok";
     } catch {
       return false;
     }

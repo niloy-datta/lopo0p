@@ -108,7 +108,7 @@ describe("Quiz Store Logic", () => {
 
     const results = await useQuizStore
       .getState()
-      .submitQuiz("user123", "exam", "fake-token");
+      .submitQuiz("user123", "exam");
 
     expect(mockPost).toHaveBeenCalledWith(
       "/api/quiz/submit",
@@ -124,7 +124,6 @@ describe("Quiz Store Logic", () => {
         answerIndexes: [2, -1],
         mode: "exam",
       }),
-      expect.any(Object),
     );
 
     expect(results.correctCount).toBe(1);

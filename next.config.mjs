@@ -15,7 +15,7 @@ const useProxy =
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    unoptimized: true,
+    unoptimized: false,
     remotePatterns: [
       { protocol: "https", hostname: "lh3.googleusercontent.com" },
       { protocol: "https", hostname: "firebasestorage.googleapis.com" },
@@ -35,11 +35,11 @@ const nextConfig = {
     ];
   },
   async headers() {
-    // Quiz JSON changes when imports run — do not use long-lived immutable cache.
+    // Quiz data changes only with deployments; let the CDN revalidate in the background.
     const quizJsonCache = [
       {
         key: "Cache-Control",
-        value: "public, max-age=0, must-revalidate",
+        value: "public, max-age=300, s-maxage=3600, stale-while-revalidate=86400",
       },
     ];
     return [

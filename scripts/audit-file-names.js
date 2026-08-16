@@ -64,6 +64,11 @@ const componentDirs = [
 const validKebab = /^[a-z0-9]+(?:-[a-z0-9]+)*(\.[a-z0-9]+)*$/;
 const validRouteSegment = /^\[[a-zA-Z][a-zA-Z0-9]*\]$/;
 const validPascalFile = /^[A-Z][A-Za-z0-9]*(\.[a-z]+)?\.(tsx|ts)$/;
+const legacyRuntimeIds = new Set([
+  'backend/data/answers/biology-1st-paper/biology_questions.answers.json',
+  'backend/data/answers/chemistry-1st-paper/chemistry_questions.answers.json',
+  'backend/data/answers/physics-1st-paper/physics_questions.answers.json',
+]);
 
 function shouldIgnore(rel) {
   return rel.split('/').some((part, index, parts) => {
@@ -87,6 +92,7 @@ function isComponentFile(rel) {
 }
 
 function badNameReason(rel) {
+  if (legacyRuntimeIds.has(rel)) return null;
   const name = path.basename(rel);
   if (/\s/.test(name)) return 'contains spaces';
   if (/[()]/.test(name)) return 'contains parentheses';

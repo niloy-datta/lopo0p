@@ -41,7 +41,7 @@ export function FinalCTASection() {
           </div>
 
           <p className="text-xs text-slate-500 pt-2">
-            ক্রেডিট কার্ড লাগবে না • ফ্রি প্ল্যান সবসময় উপলব্ধ
+            কোনো সাবস্ক্রিপশন বা পেমেন্ট লাগবে না
           </p>
         </div>
       </div>

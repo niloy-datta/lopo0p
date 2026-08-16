@@ -24,7 +24,6 @@ import {
   Brain,
   Clock,
   Flame,
-  Radio,
   Target,
   TrendingUp,
   Trophy,
@@ -46,6 +45,12 @@ interface WeakChapter {
   count: number;
 }
 
+interface SmartAnalysis {
+  weakAreas: Array<{ slug: string; attempts: number; accuracy: number; wrongAnswers: number }>;
+  recommendations: string[];
+  basedOnAttempts: number;
+}
+
 interface RecentAttempt extends RecentExamAttempt {}
 
 type ReviewState = {
@@ -59,6 +64,7 @@ export default function DashboardPage() {
   const { user, loading } = useAuth();
   const [stats, setStats] = useState<DashboardStats | null>(null);
   const [weakChapters, setWeakChapters] = useState<WeakChapter[]>([]);
+  const [smartAnalysis, setSmartAnalysis] = useState<SmartAnalysis | null>(null);
   const [recentAttempts, setRecentAttempts] = useState<RecentAttempt[]>([]);
   const [playerElo, setPlayerElo] = useState(1200);
   const [myRank, setMyRank] = useState<number | null>(null);
@@ -90,11 +96,13 @@ export default function DashboardPage() {
       const data = await api.get<{
         stats: DashboardStats;
         weakChapters?: WeakChapter[];
+        smartAnalysis?: SmartAnalysis;
         recentAttempts?: RecentAttempt[];
         player?: { elo?: number; streak?: number };
       }>("/api/student/dashboard");
       setStats(data.stats);
       setWeakChapters(data.weakChapters || []);
+      setSmartAnalysis(data.smartAnalysis || null);
       setRecentAttempts(data.recentAttempts || []);
       setPlayerElo(data.player?.elo ?? user?.elo ?? 1200);
 
@@ -232,21 +240,6 @@ export default function DashboardPage() {
           </div>
         )}
 
-        <Card variant="glass" className="p-4 mb-6 border-red-500/20 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-          <div className="flex items-center gap-3">
-            <Radio className="h-6 w-6 text-red-400 live-pulse" />
-            <div>
-              <p className="font-bold text-white">লাইভ টেস্ট রিমাইন্ডার</p>
-              <p className="text-xs text-slate-400">শুক্রবার রাত ৮টা — পদার্থবিজ্ঞান ১ম পত্র</p>
-            </div>
-          </div>
-          <Link href="/live-test">
-            <Button variant="secondary" size="sm" className="min-h-[44px]">
-              লাইভ টেস্ট দেখো
-            </Button>
-          </Link>
-        </Card>
-
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-2 space-y-6">
             <Card variant="glass" className="p-5" id="recent-exams">
@@ -343,9 +336,11 @@ export default function DashboardPage() {
                 পরবর্তী কুইজ সাজেশন
               </h3>
               <p className="text-sm text-slate-400 mb-4">
-                {user.weakSubjects
-                  ? `দুর্বল বিষয়: ${subjectLabel(user.weakSubjects)} — এখান থেকে শুরু করো`
-                  : "প্রোফাইলে দুর্বল বিষয় সেট করো, সাজেশন পাবে"}
+                {smartAnalysis?.recommendations[0]
+                  ? `তোমার কুইজ ফল অনুযায়ী আগে ${smartAnalysis.recommendations[0]} অনুশীলন করো।`
+                  : user.weakSubjects
+                    ? `দুর্বল বিষয়: ${subjectLabel(user.weakSubjects)} — এখান থেকে শুরু করো`
+                    : "কুইজ দিলে ফল অনুযায়ী সাজেশন তৈরি হবে"}
               </p>
               <Link href={recommendedHref}>
                 <Button variant="secondary" className="min-h-[44px]">
@@ -388,16 +383,21 @@ export default function DashboardPage() {
             <Card variant="glass" className="p-5">
               <div className="flex items-center gap-2 mb-3">
                 <BarChart3 className="h-5 w-5 text-cyan-400" />
-                <h3 className="font-bold text-white">দুর্বল অধ্যায় রিপোর্ট</h3>
+                <h3 className="font-bold text-white">স্মার্ট বিশ্লেষণ</h3>
               </div>
-              <p className="text-sm text-slate-400 mb-4">
-                কুইজ দিয়ে দুর্বল অধ্যায় ট্র্যাক করো — সম্পূর্ণ ফ্রি
-              </p>
-              <Link href="/profile">
-                <Button variant="secondary" fullWidth size="sm" className="min-h-[44px]">
-                  প্রোফাইল আপডেট করো
-                </Button>
-              </Link>
+              {smartAnalysis && smartAnalysis.weakAreas.length > 0 ? (
+                <div className="space-y-2">
+                  {smartAnalysis.weakAreas.slice(0, 3).map((area) => (
+                    <div key={area.slug} className="rounded-xl bg-white/5 p-3">
+                      <p className="truncate text-sm font-semibold text-white">{area.slug}</p>
+                      <p className="mt-1 text-xs text-slate-400">সঠিকতা {area.accuracy}% · ভুল {area.wrongAnswers} · প্রচেষ্টা {area.attempts}</p>
+                    </div>
+                  ))}
+                  <p className="pt-1 text-xs text-slate-500">{smartAnalysis.basedOnAttempts}টি কুইজের বাস্তব ফল থেকে তৈরি</p>
+                </div>
+              ) : (
+                <p className="text-sm text-slate-400">কুইজ শেষ করলে এখানে দুর্বল অধ্যায় ও পরবর্তী অনুশীলনের সাজেশন দেখা যাবে।</p>
+              )}
             </Card>
 
             <Card variant="glass" className="p-5">

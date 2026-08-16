@@ -1,11 +1,12 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Atom, Menu, X, UserCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { levelHubPath } from "@/lib/quiz/unified-routes";
+import { fetchLiveTests } from "@/lib/live-tests";
 
 const mainNavLinks = [
   { href: "/", label: "হোম" },
@@ -21,6 +22,13 @@ const mainNavLinks = [
 export function Navbar() {
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [hasLiveEvent, setHasLiveEvent] = useState(false);
+
+  useEffect(() => {
+    fetchLiveTests()
+      .then((events) => setHasLiveEvent(events.some((event) => event.state === "active" || event.state === "upcoming")))
+      .catch(() => setHasLiveEvent(false));
+  }, []);
 
   const isActive = (href: string) => {
     if (href === "/") return pathname === "/";
@@ -56,7 +64,7 @@ export function Navbar() {
                 )}
               >
                 {link.label}
-                {link.live && (
+                {link.live && hasLiveEvent && (
                   <span className="ml-2 h-3 w-3 rounded-full bg-red-500 shadow-[0_0_15px_rgba(239,68,68,1)]" />
                 )}
                 {active && (
@@ -100,14 +108,14 @@ export function Navbar() {
                 onClick={() => setMobileMenuOpen(false)}
                 className={cn(
                   "flex items-center gap-2 rounded-xl px-4 py-3 font-bold",
-                  link.live
+                  link.live && hasLiveEvent
                     ? "text-red-300 hover:bg-red-500/10"
                     : isActive(link.href)
                       ? "text-cyan-400 bg-cyan-500/10"
                       : "text-slate-300 hover:bg-white/5 hover:text-white",
                 )}
               >
-                {link.live && (
+                {link.live && hasLiveEvent && (
                   <span className="h-2 w-2 shrink-0 rounded-full bg-red-500 shadow-[0_0_10px_rgba(239,68,68,1)]" />
                 )}
                 {link.label}

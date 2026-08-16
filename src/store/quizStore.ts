@@ -83,7 +83,7 @@ interface QuizState {
   tickTimer: () => void;
   setQuestionIndex: (index: number) => void;
   resetQuiz: () => void;
-  submitQuiz: (userId: string, mode: string, token: string) => Promise<QuizResults>;
+  submitQuiz: (userId: string, mode: string, legacyIdToken?: string) => Promise<QuizResults>;
 }
 
 export const useQuizStore = create<QuizState>((set, get) => ({
@@ -183,7 +183,7 @@ export const useQuizStore = create<QuizState>((set, get) => ({
     });
   },
 
-  submitQuiz: async (userId, mode, token) => {
+  submitQuiz: async (userId, mode) => {
     const {
       quizId,
       subject,
@@ -239,11 +239,14 @@ export const useQuizStore = create<QuizState>((set, get) => ({
     };
 
     try {
-      const results = await api.post<QuizResults>("/api/quiz/submit", payload, {
-        headers: {
-          Authorization: `Bearer ${token}`,
-        },
-      });
+      const liveTestId =
+        typeof window !== "undefined"
+          ? new URLSearchParams(window.location.search).get("liveTest")
+          : null;
+      const endpoint = liveTestId
+        ? `/api/live-tests/${encodeURIComponent(liveTestId)}/submit`
+        : "/api/quiz/submit";
+      const results = await api.post<QuizResults>(endpoint, payload);
 
       set({
         quizSubmitted: true,

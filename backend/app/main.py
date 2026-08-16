@@ -21,7 +21,7 @@ from .config import (
 )
 from . import schemas
 from . import firestore
-from .routes import quiz, user, leaderboard, colleges
+from .routes import quiz, user, leaderboard, colleges, live_tests
 
 import json
 
@@ -30,16 +30,14 @@ try:
     from firebase_admin import credentials
 
     if not firebase_admin._apps:
-        firebase_env = os.getenv("FIREBASE_SERVICE_ACCOUNT")
+        firebase_env = os.getenv("FIREBASE_SERVICE_ACCOUNT", "").strip()
         if firebase_env:
             cred_dict = json.loads(firebase_env)
             cred = credentials.Certificate(cred_dict)
             firebase_admin.initialize_app(cred)
-        else:
-            firebase_admin.initialize_app()
-except ImportError:
+except (ImportError, ValueError, json.JSONDecodeError) as exc:
     # Local dev can use Firestore REST only (app/firestore.py) without firebase-admin SDK
-    pass
+    print(f"[auth] Firebase Admin initialization skipped: {type(exc).__name__}")
 
 _ANSWER_KEY_FIELDS = frozenset({
     "correctOption",
@@ -62,6 +60,7 @@ app.include_router(quiz.router)
 app.include_router(user.router)
 app.include_router(leaderboard.router)
 app.include_router(colleges.router)
+app.include_router(live_tests.router)
 
 _cors_origins = [settings.FRONTEND_URL]
 if "http://localhost:3000" not in _cors_origins:
@@ -202,8 +201,11 @@ async def resolve_firebase_user(id_token: str) -> dict:
                     "picture": decoded.get("picture"),
                 }
             except Exception as exc:
-                print(f"[auth] Firebase Admin verify_id_token failed: {exc}")
-                raise HTTPException(status_code=401, detail="Invalid Firebase ID token")
+                # A Vercel deployment may have firebase-admin installed without
+                # usable ADC credentials. The Identity Toolkit lookup below is
+                # still a cryptographic token verification and is the supported
+                # fallback for that configuration.
+                print(f"[auth] Firebase Admin verification unavailable: {type(exc).__name__}")
     except ImportError:
         pass
 
@@ -427,15 +429,16 @@ async def auth_firebase(payload: FirebaseTokenRequest, response: Response):
         **cookie_kwargs(),
     )
 
+    response_user = {
+        **(existing_user or {}),
+        **user_data,
+        "id": firebase_uid,
+    }
+    response_user["profileComplete"] = is_profile_complete(response_user)
+
     return {
         "ok": True,
-        "user": {
-            "id":      firebase_uid,
-            "name":    display_name,
-            "email":   email,
-            "picture": picture,
-            "role":    stored_role,
-        },
+        "user": response_user,
     }
 
 
@@ -839,10 +842,28 @@ async def get_student_dashboard(user: dict = Depends(require_user)):
     )
 
     weakness_stats: dict = {}
+    chapter_stats: dict = {}
     for a in attempts_list:
+        slug = a.get("examSlug") or "unknown"
+        chapter = chapter_stats.setdefault(slug, {"attempts": 0, "accuracyTotal": 0.0, "wrong": 0})
+        chapter["attempts"] += 1
+        chapter["accuracyTotal"] += float(a.get("percentage") or 0)
+        chapter["wrong"] += int(a.get("wrongAnswers") or a.get("wrong") or 0)
         if a.get("percentage", 100) < 60 and a.get("examSlug"):
             slug = a["examSlug"]
             weakness_stats[slug] = weakness_stats.get(slug, 0) + 1
+
+    analysis = [
+        {
+            "slug": slug,
+            "attempts": values["attempts"],
+            "accuracy": round(values["accuracyTotal"] / values["attempts"], 1),
+            "wrongAnswers": values["wrong"],
+        }
+        for slug, values in chapter_stats.items()
+        if slug != "unknown"
+    ]
+    analysis.sort(key=lambda row: (row["accuracy"], -row["attempts"]))
 
     return {
         "stats": {
@@ -852,6 +873,11 @@ async def get_student_dashboard(user: dict = Depends(require_user)):
         },
         "player": player,
         "weakChapters": [{"slug": k, "count": v} for k, v in weakness_stats.items()],
+        "smartAnalysis": {
+            "weakAreas": analysis[:5],
+            "recommendations": [row["slug"] for row in analysis[:3]],
+            "basedOnAttempts": total_exams,
+        },
         "recentAttempts": attempts_list[:20],
     }
 
@@ -1207,7 +1233,7 @@ async def get_questions(subject: str, chapter: Optional[str] = None):
 
 @app.get("/api/health")
 def health_check():
-    return {"status": "ok", "version": "3.0.0", "mode": "serverless"}
+    return {"ok": True, "status": "ok", "version": "3.1.0", "mode": "serverless"}
 
 
 # ─────────────────────────────────────────────

@@ -53,12 +53,13 @@ async def resolve_firebase_user(id_token: str) -> dict:
                     "picture": decoded.get("picture"),
                 }
             except Exception as exc:
-                print(f"[auth] Firebase Admin verify_id_token failed: {exc}")
-                raise HTTPException(status_code=401, detail="Invalid Firebase ID token")
+                print(f"[auth] Firebase Admin verification unavailable: {type(exc).__name__}")
     except ImportError:
         pass
 
-    api_key = os.getenv("FIREBASE_API_KEY", "")
+    api_key = os.getenv("FIREBASE_API_KEY") or os.getenv(
+        "NEXT_PUBLIC_FIREBASE_API_KEY", ""
+    )
     if not api_key:
         raise HTTPException(
             status_code=503,

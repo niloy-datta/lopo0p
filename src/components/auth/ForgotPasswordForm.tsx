@@ -2,11 +2,10 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { sendPasswordResetEmail } from "firebase/auth";
 import {
-  auth,
   getPasswordResetActionCodeSettings,
   isFirebaseConfigured,
+  loadFirebase,
 } from "@/lib/firebase";
 import { getFirebaseAuthErrorMessage } from "@/lib/firebase-auth-errors";
 import { Brain, Mail, ArrowLeft, CheckCircle, X } from "lucide-react";
@@ -31,7 +30,7 @@ export function ForgotPasswordForm() {
       return;
     }
 
-    if (!isFirebaseConfigured || !auth) {
+    if (!isFirebaseConfigured) {
       setError(
         "Firebase কনফিগার করা নেই। .env.local-এ NEXT_PUBLIC_FIREBASE_* ভেরিয়েবল চেক করুন।",
       );
@@ -40,8 +39,9 @@ export function ForgotPasswordForm() {
 
     setLoading(true);
     try {
+      const { auth, authModule } = await loadFirebase();
       const actionCodeSettings = getPasswordResetActionCodeSettings();
-      await sendPasswordResetEmail(auth, trimmed, actionCodeSettings);
+      await authModule.sendPasswordResetEmail(auth, trimmed, actionCodeSettings);
       setSuccess(true);
     } catch (err: unknown) {
       const message = getFirebaseAuthErrorMessage(err);

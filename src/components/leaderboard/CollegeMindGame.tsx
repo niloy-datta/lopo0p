@@ -27,6 +27,9 @@ import {
   Zap,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { api } from "@/lib/api";
+import { useAuth } from "@/context/AuthContext";
+import type { QuizResults } from "@/store/quizStore";
 
 // ─── Types ──────────────────────────────────
 
@@ -92,7 +95,6 @@ function CountdownOverlay({ onDone }: { onDone: () => void }) {
     </div>
   );
 }
-
 function GameProgressBar({
   current,
   total,
@@ -128,7 +130,6 @@ function GameProgressBar({
     </div>
   );
 }
-
 function OpponentAvatar({
   college,
   side,
@@ -263,6 +264,7 @@ export function CollegeMindGame({
   level?: StudentLevel;
   onExit: () => void;
 }) {
+  const { user } = useAuth();
   const isSchool = level === "ssc";
   // ── State ──
   const [phase, setPhase] = useState<GamePhase>("select-a");
@@ -281,6 +283,13 @@ export function CollegeMindGame({
   const [countdownDone, setCountdownDone] = useState(false);
   const [loadingQuestions, setLoadingQuestions] = useState(false);
   const [gameOver, setGameOver] = useState(false);
+  const [gameError, setGameError] = useState("");
+  const [submitting, setSubmitting] = useState(false);
+  const startedAtRef = useRef(0);
+
+  const quizMeta = level === "ssc"
+    ? { subject: "physics", quizId: "ssc-physics-chapter-01-model-test-01", path: "/questions/physics/ssc-physics-chapter-01-model-test-01.json" }
+    : { subject: "physics-1st-paper", quizId: "hsc-physics-1st-paper-chapter-01-model-test-01", path: "/questions/physics-1st-paper/hsc-physics-1st-paper-chapter-01-model-test-01.json" };
 
   const GAME_QUESTIONS = 10;
 
@@ -297,38 +306,7 @@ export function CollegeMindGame({
     const allQs: Question[] = [];
 
     // Try loading from multiple board files & chapter sets to get a good mix
-    const pathsToTry = level === "ssc" ? [
-      // SSC Physics chapter sets
-      "/questions/physics/ssc-physics-chapter-01-model-test-01.json",
-      "/questions/physics/ssc-physics-chapter-02-model-test-01.json",
-      "/questions/physics/ssc-physics-chapter-03-model-test-01.json",
-      "/questions/physics/ssc-physics-chapter-04-model-test-01.json",
-      "/questions/physics/ssc-physics-chapter-05-model-test-01.json",
-      // SSC Chemistry chapter sets
-      "/questions/chemistry/ssc-chemistry-chapter-01-model-test-01.json",
-      "/questions/chemistry/ssc-chemistry-chapter-02-model-test-01.json",
-      // SSC Biology chapter sets
-      "/questions/biology/ssc-biology-chapter-01-model-test-01.json",
-      // Board questions (SSC Physics/Chemistry/Biology)
-      "/questions/physics/barishal-2025.json",
-      "/questions/physics/dhaka-2025.json",
-      "/questions/chemistry/dhaka-2025.json",
-    ] : [
-      // HSC Biology 2nd paper chapter sets
-      "/questions/biology-2nd-paper/hsc-biology-2nd-paper-chapter-01-high-priority-set-01.json",
-      "/questions/biology-2nd-paper/hsc-biology-2nd-paper-chapter-08-high-priority-set-02.json",
-      "/questions/biology-2nd-paper/hsc-biology-2nd-paper-chapter-10-high-priority-set-01.json",
-      // HSC Physics 1st paper chapter sets
-      "/questions/physics-1st-paper/hsc-physics-1st-paper-chapter-01-model-test-01.json",
-      "/questions/physics-1st-paper/hsc-physics-1st-paper-chapter-02-model-test-01.json",
-      "/questions/physics-1st-paper/hsc-physics-1st-paper-chapter-03-model-test-01.json",
-      // HSC Chemistry chapter sets
-      "/questions/chemistry-1st-paper/hsc-chemistry-1st-paper-chapter-01-high-priority-set-01.json",
-      // HSC Board questions
-      "/questions/chemistry-1st-paper/dhaka-2025.json",
-      "/questions/biology-1st-paper/dhaka-2025.json",
-      "/questions/physics-1st-paper/dhaka-2025.json",
-    ];
+    const pathsToTry = [quizMeta.path];
 
     for (const p of pathsToTry) {
       if (allQs.length >= GAME_QUESTIONS) break;
@@ -352,11 +330,9 @@ export function CollegeMindGame({
       } catch { /* skip */ }
     }
 
-    // Shuffle for variety
-    const shuffled = allQs.sort(() => Math.random() - 0.5);
-    setQuestions(shuffled.slice(0, Math.min(GAME_QUESTIONS, shuffled.length)));
+    setQuestions(allQs.slice(0, Math.min(GAME_QUESTIONS, allQs.length)));
     setLoadingQuestions(false);
-  }, [myCollege, level]);
+  }, [quizMeta.path]);
 
   useEffect(() => {
     if (phase === "countdown" && questions.length === 0) {
@@ -366,6 +342,12 @@ export function CollegeMindGame({
 
   // ── Start countdown ──
   const startGame = () => {
+    if (!user) {
+      setGameError("মাইন্ড গেমের ফল সংরক্ষণ করতে আগে লগইন করুন।");
+      return;
+    }
+    setGameError("");
+    startedAtRef.current = Date.now();
     setPhase("countdown");
   };
 
@@ -382,42 +364,72 @@ export function CollegeMindGame({
     const q = questions[currentQ];
     if (!q) return;
 
-    // Determine correct answer (for simulation, use a hash-based deterministic approach
-    // In a real app, this would come from answer keys)
-    const correctIndex = Math.abs(hashCode(q.text)) % q.options.length;
-
-    // Player answer
-    const playerCorrect = optionIndex === correctIndex;
-
-    // Opponent answer (simulated based on college avg accuracy)
-    const opponentAccuracy = opponentCollege
-      ? Math.min(opponentCollege.avgScore / 100, 0.85)
-      : 0.5;
-    const opponentCorrect = Math.random() < opponentAccuracy;
-    const opponentChoice = opponentCorrect
-      ? correctIndex
-      : (correctIndex + 1 + Math.floor(Math.random() * 3)) % q.options.length;
-
     const result: AnswerResult = {
       questionId: q.id,
-      correctIndex,
+      correctIndex: -1,
       playerChoice: optionIndex,
-      opponentChoice,
-      playerCorrect,
-      opponentCorrect,
+      opponentChoice: null,
+      playerCorrect: false,
+      opponentCorrect: false,
     };
 
     setAnswers((prev) => [...prev, result]);
-    if (playerCorrect) setPlayerScore((s) => s + 1);
-    if (opponentCorrect) setOpponentScore((s) => s + 1);
     setShowResult(true);
+  };
+
+  const finishGame = async () => {
+    if (!user) return;
+    setSubmitting(true);
+    setGameError("");
+    try {
+      const result = await api.post<QuizResults>("/api/quiz/submit", {
+        userId: user.id,
+        submissionId: `mind_${Date.now()}_${Math.random().toString(36).slice(2, 8)}`,
+        quizId: quizMeta.quizId,
+        subject: quizMeta.subject,
+        answers: answers.map((answer, index) => ({
+          id: answer.questionId,
+          ans: answer.playerChoice == null ? null : questions[index]?.options[answer.playerChoice] ?? null,
+        })),
+        answerIndexes: answers.map((answer) => answer.playerChoice ?? -1),
+        timeTaken: Math.max(1, Math.round((Date.now() - startedAtRef.current) / 1000)),
+        mode: "college-mind-game",
+        examName: `College Mind Game — ${quizMeta.quizId}`,
+        questionsPath: `${quizMeta.subject}/${quizMeta.quizId}`,
+      });
+      const collegeEntries = entries.filter((entry) =>
+        (entry.collegeName || entry.schoolName || "").trim() === opponentCollege?.name,
+      );
+      const estimatedAccuracy = collegeEntries.length
+        ? collegeEntries.reduce((sum, entry) => sum + (entry.accuracy || 0), 0) / collegeEntries.length
+        : 50;
+      const estimatedOpponentScore = Math.round((questions.length * estimatedAccuracy) / 100);
+      setPlayerScore(result.correctCount);
+      setOpponentScore(estimatedOpponentScore);
+      setAnswers((current) => current.map((answer, index) => {
+        const correctIndex = result.correctAnswerIndexes?.[answer.questionId] ?? -1;
+        const opponentCorrect = index < estimatedOpponentScore;
+        return {
+          ...answer,
+          correctIndex,
+          playerCorrect: answer.playerChoice === correctIndex,
+          opponentCorrect,
+          opponentChoice: opponentCorrect ? correctIndex : (correctIndex + 1) % 4,
+        };
+      }));
+      setGameOver(true);
+      setPhase("result");
+    } catch (reason) {
+      setGameError(reason instanceof Error ? reason.message : "ফল সংরক্ষণ করা যায়নি।");
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   // ── Next question ──
   const nextQuestion = () => {
     if (currentQ >= GAME_QUESTIONS - 1) {
-      setGameOver(true);
-      setPhase("result");
+      void finishGame();
       return;
     }
     setCurrentQ((q) => q + 1);
@@ -441,6 +453,7 @@ export function CollegeMindGame({
     setGameOver(false);
     setSearchA("");
     setSearchB("");
+    setGameError("");
   };
 
   useEffect(() => {
@@ -451,6 +464,7 @@ export function CollegeMindGame({
   if (phase === "select-a") {
     return (
       <div className="space-y-4 animate-fadeIn">
+        {gameError && <p className="rounded-xl border border-red-500/30 bg-red-500/10 p-3 text-sm text-red-200">{gameError}</p>}
         <div className="flex items-center gap-2">
           <button
             type="button"
@@ -540,6 +554,7 @@ export function CollegeMindGame({
   if (phase === "select-b") {
     return (
       <div className="space-y-4 animate-fadeIn">
+        {gameError && <p className="rounded-xl border border-red-500/30 bg-red-500/10 p-3 text-sm text-red-200">{gameError}</p>}
         <div className="flex items-center gap-2">
           <button
             type="button"
@@ -702,6 +717,7 @@ export function CollegeMindGame({
           <p className="text-xs text-slate-400">
             {formatBnNumber(totalQuestions_seen)} টি প্রশ্ন · {formatBnNumber(totalCorrect)} টি সঠিক উত্তর
           </p>
+          <p className="text-[11px] text-slate-500">তোমার স্কোর private answer key দিয়ে server-এ যাচাই ও সংরক্ষণ করা হয়েছে। প্রতিপক্ষের স্কোর তাদের সাম্প্রতিক গড় accuracy থেকে অনুমান করা।</p>
         </Card>
 
         {/* Per-question review */}
@@ -796,8 +812,10 @@ export function CollegeMindGame({
           {currentQuestion.options.map((opt, oi) => {
             const isSelected = selectedOption === oi;
             const isDisabled = selectedOption !== null;
-            const isCorrect = showResult && oi === answers[answers.length - 1]?.correctIndex;
-            const isWrong = showResult && isSelected && !isCorrect;
+            const scoredIndex = answers[answers.length - 1]?.correctIndex ?? -1;
+            const hasScoredAnswer = scoredIndex >= 0;
+            const isCorrect = showResult && hasScoredAnswer && oi === scoredIndex;
+            const isWrong = showResult && hasScoredAnswer && isSelected && !isCorrect;
 
             return (
               <button
@@ -808,6 +826,7 @@ export function CollegeMindGame({
                 className={cn(
                   "w-full text-left p-4 rounded-2xl border transition-all duration-200 min-h-[52px] flex items-center justify-between group",
                   isSelected && !showResult && "border-purple-glow bg-purple-glow/10 text-white shadow-[0_0_15px_rgba(168,85,247,0.15)]",
+                  isSelected && showResult && !hasScoredAnswer && "border-purple-glow bg-purple-glow/10 text-white",
                   isCorrect && "border-emerald-400/50 bg-emerald-500/15 text-emerald-100",
                   isWrong && "border-red-400/40 bg-red-500/15 text-red-100",
                   !isSelected && !showResult && "border-slate-800/80 bg-slate-950/40 text-slate-300 hover:border-slate-700 hover:text-white",
@@ -841,10 +860,11 @@ export function CollegeMindGame({
           variant="primary"
           fullWidth
           onClick={nextQuestion}
+          disabled={submitting}
           className="min-h-[48px] flex items-center justify-center gap-2"
         >
           {currentQ >= GAME_QUESTIONS - 1 ? (
-            <>ফলাফল দেখুন <Trophy className="h-4 w-4" /></>
+            <>{submitting ? "ফল যাচাই হচ্ছে…" : "ফলাফল দেখুন"} <Trophy className="h-4 w-4" /></>
           ) : (
             <>পরবর্তী প্রশ্ন <ChevronRight className="h-4 w-4" /></>
           )}
@@ -852,16 +872,4 @@ export function CollegeMindGame({
       )}
     </div>
   );
-}
-
-// ─── Helper ──────────────────────────────────
-
-function hashCode(str: string): number {
-  let hash = 0;
-  for (let i = 0; i < str.length; i++) {
-    const char = str.charCodeAt(i);
-    hash = (hash << 5) - hash + char;
-    hash |= 0;
-  }
-  return Math.abs(hash);
 }

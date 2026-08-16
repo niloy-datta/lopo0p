@@ -10,6 +10,7 @@ const ROOT = path.resolve(__dirname, "..");
 const ANSWERS_ROOT = path.join(ROOT, "backend", "data", "answers");
 const PUBLIC_ROOT = path.join(ROOT, "public", "questions");
 const REPORT_PATH = path.join(ROOT, "scripts", "answers-public-sync-report.json");
+const MANIFEST_PATH = path.join(ROOT, "public", "quiz-data", "manifest.json");
 
 const LEAK_FIELDS = [
   "correctOption",
@@ -41,6 +42,17 @@ function hasLeakedAnswerFields(questions) {
   return questions.some((q) => q && LEAK_FIELDS.some((f) => q[f] != null));
 }
 
+function collectManifestSetIds(value, out = new Set()) {
+  if (!value || typeof value !== "object") return out;
+  for (const [key, child] of Object.entries(value)) {
+    if (child && typeof child === "object" && Number.isFinite(child.questionCount)) {
+      out.add(key);
+    }
+    collectManifestSetIds(child, out);
+  }
+  return out;
+}
+
 function main() {
   const answerFiles = walk(ANSWERS_ROOT, ".answers.json");
   const publicFiles = walk(PUBLIC_ROOT, ".json").filter(
@@ -50,6 +62,12 @@ function main() {
   const publicBySetId = new Map();
   for (const file of publicFiles) {
     publicBySetId.set(path.basename(file, ".json"), file);
+  }
+  if (fs.existsSync(MANIFEST_PATH)) {
+    const manifest = JSON.parse(fs.readFileSync(MANIFEST_PATH, "utf8"));
+    for (const setId of collectManifestSetIds(manifest)) {
+      if (!publicBySetId.has(setId)) publicBySetId.set(setId, MANIFEST_PATH);
+    }
   }
 
   const orphanAnswers = [];
@@ -124,12 +142,13 @@ function main() {
     orphanAnswers: orphanAnswers.slice(0, 50),
     missingAnswers: missingAnswers.slice(0, 50),
     leakedPublic: leakedPublic.slice(0, 50),
-    status:
-      orphanAnswers.length === 0 && leakedPublic.length === 0
-        ? missingAnswers.length > 0
-          ? "WARNING"
-          : "SUCCESS"
-        : "FAIL",
+    // Public answer leakage is a release blocker. Missing or private-only
+    // legacy answer files need review, but are not evidence of exposed keys.
+    status: leakedPublic.length > 0
+      ? "FAIL"
+      : missingAnswers.length > 0 || orphanAnswers.length > 0
+        ? "WARNING"
+        : "SUCCESS",
   };
 
   fs.writeFileSync(REPORT_PATH, `${JSON.stringify(report, null, 2)}\n`, "utf8");

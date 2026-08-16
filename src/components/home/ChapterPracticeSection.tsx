@@ -20,8 +20,6 @@ type SubjectCardColor = keyof typeof colorStyles;
 type SubjectCard = {
   id: string;
   name: string;
-  chapters: number;
-  mcqs: number;
   icon: React.ComponentType<{ className?: string }>;
   color: SubjectCardColor;
   href: string;
@@ -31,8 +29,6 @@ const subjects: SubjectCard[] = [
   {
     id: "physics",
     name: "পদার্থবিজ্ঞান",
-    chapters: 12,
-    mcqs: 450,
     icon: Atom,
     color: "cyan",
     href: unifiedSubjectBasePath("hsc", "physics-1st-paper"),
@@ -40,8 +36,6 @@ const subjects: SubjectCard[] = [
   {
     id: "chemistry",
     name: "রসায়ন",
-    chapters: 10,
-    mcqs: 380,
     icon: FlaskConical,
     color: "purple",
     href: unifiedSubjectBasePath("hsc", "chemistry-1st-paper"),
@@ -49,8 +43,6 @@ const subjects: SubjectCard[] = [
   {
     id: "biology",
     name: "জীববিজ্ঞান",
-    chapters: 11,
-    mcqs: 420,
     icon: Dna,
     color: "green",
     href: unifiedSubjectBasePath("hsc", "biology-1st-paper"),
@@ -58,8 +50,6 @@ const subjects: SubjectCard[] = [
   {
     id: "math",
     name: "উচ্চতর গণিত",
-    chapters: 14,
-    mcqs: 520,
     icon: Calculator,
     color: "gold",
     href: unifiedSubjectBasePath("hsc", "higher-math-1st-paper"),
@@ -67,8 +57,6 @@ const subjects: SubjectCard[] = [
   {
     id: "general-math",
     name: "সাধারণ গণিত",
-    chapters: 10,
-    mcqs: 350,
     icon: Calculator,
     color: "cyan",
     href: unifiedSubjectBasePath("ssc", "math"),
@@ -104,16 +92,7 @@ export function ChapterPracticeSection() {
                 </div>
               </div>
 
-              <div className="space-y-3 mb-4">
-                <div className="flex justify-between text-sm">
-                  <span className="text-slate-400">অধ্যায়</span>
-                  <span className="text-white font-medium">{subject.chapters}টি</span>
-                </div>
-                <div className="flex justify-between text-sm">
-                  <span className="text-slate-400">MCQ</span>
-                  <span className="text-white font-medium">{subject.mcqs}+</span>
-                </div>
-              </div>
+              <p className="mb-4 text-sm text-slate-400">উপলভ্য অধ্যায় ও প্রশ্নসেট থেকে অনুশীলন করো।</p>
 
               <Link href={subject.href}>
                 <Button
