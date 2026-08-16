@@ -1,4 +1,5 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
+import { readFileSync } from "node:fs";
 import { api, apiRequest } from "@/lib/api";
 import { aggregateColleges } from "@/lib/leaderboard-api";
 
@@ -22,6 +23,20 @@ describe("production API contract", () => {
     vi.stubGlobal("fetch", fetchMock);
     await expect(apiRequest("/api/auth/firebase", { method: "POST" })).rejects.toMatchObject({ retryable: true });
     expect(fetchMock).toHaveBeenCalledTimes(1);
+  });
+});
+
+describe("Firebase custom auth domain", () => {
+  it("proxies Firebase auth helpers through the purchased domain", () => {
+    const config = JSON.parse(readFileSync("vercel.json", "utf8"));
+    expect(config.rewrites).toContainEqual({
+      source: "/__/auth/:path*",
+      destination: "https://sschscquiz.firebaseapp.com/__/auth/:path*",
+    });
+    expect(config.rewrites).toContainEqual({
+      source: "/__/firebase/init.json",
+      destination: "https://sschscquiz.firebaseapp.com/__/firebase/init.json",
+    });
   });
 });
 

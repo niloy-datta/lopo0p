@@ -11,7 +11,7 @@
 | `JWT_SECRET` | হ্যাঁ—critical | password manager/cryptographic generator দিয়ে অন্তত 48 random bytes | Production ও Preview-তে আলাদা value রাখুন। বদলালে সব পুরনো session invalid হবে। |
 | `ENVIRONMENT` | না | Production এবং internet-facing Preview-তে `production` | Secure cookie ও weak-secret startup guard চালু রাখে। |
 | `NEXT_PUBLIC_FIREBASE_API_KEY` | public-by-design | Firebase Web App config-এর value | Browser JavaScript-এ প্রকাশিত হবেই; Firebase-only API restriction দিন। |
-| `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN` | public-by-design | Firebase Web App config | Firebase Authentication → Authorized domains-এ production domain যোগ করুন। |
+| `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN` | public-by-design | `sschscquiz.com` | Firebase Authentication → Authorized domains এবং Google OAuth redirect URI-তে production domain থাকতে হবে। |
 | `NEXT_PUBLIC_FIREBASE_PROJECT_ID` | public-by-design | Firebase project ID | Server-এর `FIREBASE_PROJECT_ID`-এর সঙ্গে একই project হতে হবে। |
 | `NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET` | public-by-design | Firebase Web App config | Storage ব্যবহার করলে Security Rules বাধ্যতামূলক। |
 | `NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID` | public-by-design | Firebase Web App config | Secret নয়। |
@@ -47,6 +47,7 @@ Vercel-এ `NEXT_PUBLIC_*` variable-গুলো Sensitive হিসেবে �
 ## Firebase hardening checklist
 
 - Authentication → Settings → Authorized domains-এ শুধু ব্যবহৃত production/preview domains রাখুন; অচেনা domain সরান।
+- Google OAuth client-এর authorized redirect URI-তে `https://sschscquiz.com/__/auth/handler` রাখুন। Vercel `/__/auth/*` transparently Firebase helper-এ proxy করে, তাই account chooser-এ Firebase subdomain-এর বদলে purchased domain দেখা যায়।
 - Google Cloud → APIs & Services → Credentials-এ Firebase web key-কে শুধু প্রয়োজনীয় Firebase APIs-এ restrict করুন। একই key-তে Generative Language/Gemini বা অন্য paid API যোগ করবেন না।
 - Firestore client access প্রয়োজন না হলে rules default-deny রাখুন। Server credentials Firestore rules bypass করে, তাই service account-এ least-privilege IAM দিন।
 - Firebase App Check প্রথমে monitoring mode-এ চালু করুন; legitimate traffic যাচাইয়ের পর enforcement দিন।
@@ -97,4 +98,3 @@ Output শুধু password manager ও Vercel Sensitive field-এ দিন।
 - Firebase App Check for web: https://firebase.google.com/docs/app-check/web/recaptcha-provider
 - Vercel environment scopes: https://vercel.com/docs/environment-variables
 - Vercel sensitive variables: https://vercel.com/docs/environment-variables/sensitive-environment-variables
-
