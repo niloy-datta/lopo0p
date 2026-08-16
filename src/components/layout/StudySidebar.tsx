@@ -83,7 +83,7 @@ function getSidebarItems(level: StudyLevel, subjectBase: string | null) {
         p.includes("/model-tests") ||
         (subjectBase != null && p.startsWith(subjectBase) && tab === "model"),
     },
-    { label: "লাইভ টেস্ট 🔴", href: "/live-test", icon: Radio, match: (p: string) => p.startsWith("/live-test") },
+    { label: "লাইভ টেস্ট", href: "/live-test", icon: Radio, match: (p: string) => p.startsWith("/live-test") },
     { label: "দুর্বল অধ্যায়", href: "/dashboard#weak-chapters", icon: Brain, match: (p: string) => p === "/dashboard" },
     { label: "সাম্প্রতিক পরীক্ষা", href: "/dashboard#recent-exams", icon: ClipboardList, match: (p: string) => p === "/dashboard" },
     { label: "লিডারবোর্ড", href: "/leaderboard", icon: Trophy, match: (p: string) => p.startsWith("/leaderboard") },
@@ -123,7 +123,7 @@ export function StudySidebar() {
     const compactItems = [
       { label: "অধ্যায়ভিত্তিক কুইজ", href: base, icon: BookOpen },
       { label: "মডেল টেস্ট", href: `${base}/model-tests`, icon: Target },
-      { label: "লাইভ টেস্ট 🔴", href: "/live-test", icon: Radio },
+      { label: "লাইভ টেস্ট", href: "/live-test", icon: Radio },
       { label: "লিডারবোর্ড", href: "/leaderboard", icon: Trophy },
       { label: "আমার ড্যাশবোর্ড", href: "/dashboard", icon: LayoutGrid },
     ];

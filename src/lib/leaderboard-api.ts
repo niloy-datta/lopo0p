@@ -113,6 +113,15 @@ export async function fetchLeaderboard(): Promise<LeaderboardEntry[]> {
   }
 }
 
+export async function fetchCollegeLeaderboard(): Promise<CollegeWarEntry[]> {
+  try {
+    const data = await api.get<CollegeWarEntry[]>("/api/leaderboard/colleges");
+    return Array.isArray(data) ? data : [];
+  } catch {
+    return [];
+  }
+}
+
 export function getEntryLevel(entry: LeaderboardEntry): StudentLevel | null {
   return normalizeLevel(entry.className, entry.level);
 }

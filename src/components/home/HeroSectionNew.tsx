@@ -110,9 +110,9 @@ export function HeroSectionNew() {
 
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-4 max-w-lg mx-auto lg:mx-0">
               {[
-                { icon: BookOpen, value: "5000+", label: "MCQ", color: "text-cyan-400" },
+                { icon: BookOpen, value: "অধ্যায়ভিত্তিক", label: "MCQ", color: "text-cyan-400" },
                 { icon: Users, value: "SSC + HSC", label: "বিজ্ঞান", color: "text-purple-400" },
-                { icon: Trophy, value: "২০২২–২০২৬", label: "বোর্ড প্রশ্ন", color: "text-yellow-400" },
+                { icon: Trophy, value: "প্রকাশিত সেট", label: "বোর্ড প্রশ্ন", color: "text-yellow-400" },
                 { icon: Target, value: "মডেল", label: "টেস্ট", color: "text-red-400" },
               ].map((stat) => (
                 <div key={stat.label} className="glass-panel rounded-xl p-3 text-center border border-white/10">

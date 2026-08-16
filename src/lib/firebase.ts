@@ -1,5 +1,4 @@
-import { initializeApp, getApps, getApp, type FirebaseApp } from "firebase/app";
-import { getAuth, GoogleAuthProvider, type Auth, type ActionCodeSettings } from "firebase/auth";
+import type { ActionCodeSettings } from "firebase/auth";
 
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY ?? "",
@@ -14,23 +13,29 @@ export const isFirebaseConfigured = Boolean(
   firebaseConfig.apiKey && firebaseConfig.projectId && firebaseConfig.appId,
 );
 
-let app: FirebaseApp | undefined;
-let auth: Auth | undefined;
-let googleProvider: GoogleAuthProvider | undefined;
+let firebasePromise: ReturnType<typeof initializeFirebase> | undefined;
 
-if (isFirebaseConfigured) {
-  app = getApps().length > 0 ? getApp() : initializeApp(firebaseConfig);
-  auth = getAuth(app);
-  googleProvider = new GoogleAuthProvider();
+async function initializeFirebase() {
+  if (!isFirebaseConfigured) throw new Error("Firebase is not configured");
+  const [appModule, authModule] = await Promise.all([
+    import("firebase/app"),
+    import("firebase/auth"),
+  ]);
+  const app = appModule.getApps().length
+    ? appModule.getApp()
+    : appModule.initializeApp(firebaseConfig);
+  const auth = authModule.getAuth(app);
+  const googleProvider = new authModule.GoogleAuthProvider();
+  return { app, auth, googleProvider, authModule };
 }
 
-export { app, auth, googleProvider };
+/** Firebase is downloaded only when a login/reset action needs it. */
+export function loadFirebase() {
+  firebasePromise ??= initializeFirebase();
+  return firebasePromise;
+}
 
-/** Continue URL after Firebase password reset (client-only). */
 export function getPasswordResetActionCodeSettings(): ActionCodeSettings | undefined {
   if (typeof window === "undefined") return undefined;
-  return {
-    url: `${window.location.origin}/login`,
-    handleCodeInApp: false,
-  };
+  return { url: `${window.location.origin}/login`, handleCodeInApp: false };
 }

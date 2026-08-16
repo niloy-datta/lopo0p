@@ -2,6 +2,7 @@
 
 import React, { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useAuth } from "@/context/AuthContext";
 import { Card } from "@/components/ui/Card";
@@ -51,9 +52,12 @@ function Avatar({ entry, size = "md" }: { entry: LeaderboardEntry; size?: "sm" |
   const sizes = { sm: "h-9 w-9 text-xs", md: "h-11 w-11 text-sm", lg: "h-14 w-14 text-base" };
   if (entry.picture) {
     return (
-      <img
+      <Image
         src={entry.picture}
         alt=""
+        width={56}
+        height={56}
+        unoptimized
         className={cn("rounded-full object-cover border border-white/10 shrink-0", sizes[size])}
       />
     );

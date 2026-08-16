@@ -2,8 +2,7 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { sendPasswordResetEmail } from "firebase/auth";
-import { auth, isFirebaseConfigured } from "@/lib/firebase";
+import { isFirebaseConfigured, loadFirebase } from "@/lib/firebase";
 import { Brain, Mail, ArrowLeft, CheckCircle, X } from "lucide-react";
 
 const inputWithIconClass =
@@ -25,14 +24,15 @@ export default function ResetPasswordPage() {
       return;
     }
 
-    if (!isFirebaseConfigured || !auth) {
+    if (!isFirebaseConfigured) {
       setError("রিসেট লিংক পাঠানো যায়নি। ইমেইল ঠিক আছে কিনা দেখুন।");
       return;
     }
 
     setLoading(true);
     try {
-      await sendPasswordResetEmail(auth, email.trim());
+      const { auth, authModule } = await loadFirebase();
+      await authModule.sendPasswordResetEmail(auth, email.trim());
       setSuccess(true);
     } catch {
       setError("রিসেট লিংক পাঠানো যায়নি। ইমেইল ঠিক আছে কিনা দেখুন।");

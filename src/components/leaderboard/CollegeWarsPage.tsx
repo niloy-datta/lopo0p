@@ -2,6 +2,7 @@
 
 import React, { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Card } from "@/components/ui/Card";
 import { Badge } from "@/components/ui/Badge";
@@ -68,9 +69,12 @@ function Avatar({
   };
   if (entry.picture) {
     return (
-      <img
+      <Image
         src={entry.picture}
         alt=""
+        width={56}
+        height={56}
+        unoptimized
         className={cn(
           "rounded-full object-cover border border-white/10 shrink-0",
           sizes[size],

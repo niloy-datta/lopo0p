@@ -12,6 +12,7 @@ from .config import settings
 _SCOPES = ["https://www.googleapis.com/auth/datastore"]
 _credentials: Optional[service_account.Credentials] = None
 _token_cache: Dict[str, Any] = {"token": None, "expiry": 0.0}
+_http_client = httpx.AsyncClient(timeout=httpx.Timeout(10.0, connect=5.0))
 
 
 def _project_id() -> str:
@@ -113,11 +114,10 @@ async def get_document(collection: str, doc_id: str) -> Optional[dict]:
     project_id = _project_id()
     url = f"https://firestore.googleapis.com/v1/projects/{project_id}/databases/(default)/documents/{collection}/{doc_id}"
 
-    async with httpx.AsyncClient() as client:
-        res = await client.get(url, headers=_auth_headers())
-        if res.status_code == 200:
-            return from_firestore_document(res.json())
-        return None
+    res = await _http_client.get(url, headers=_auth_headers())
+    if res.status_code == 200:
+        return from_firestore_document(res.json())
+    return None
 
 
 async def create_document(collection: str, doc_id: str, data: dict) -> dict:
@@ -129,11 +129,10 @@ async def update_document(collection: str, doc_id: str, data: dict) -> dict:
     url = f"https://firestore.googleapis.com/v1/projects/{project_id}/databases/(default)/documents/{collection}/{doc_id}"
 
     body = to_firestore_fields(data)
-    async with httpx.AsyncClient() as client:
-        res = await client.patch(url, json=body, headers=_auth_headers())
-        if res.status_code == 200:
-            return from_firestore_document(res.json())
-        raise Exception(f"Failed to update document: {res.text}")
+    res = await _http_client.patch(url, json=body, headers=_auth_headers())
+    if res.status_code == 200:
+        return from_firestore_document(res.json())
+    raise RuntimeError(f"Firestore update failed ({res.status_code})")
 
 
 async def add_document(collection: str, data: dict) -> dict:
@@ -141,11 +140,10 @@ async def add_document(collection: str, data: dict) -> dict:
     url = f"https://firestore.googleapis.com/v1/projects/{project_id}/databases/(default)/documents/{collection}"
 
     body = to_firestore_fields(data)
-    async with httpx.AsyncClient() as client:
-        res = await client.post(url, json=body, headers=_auth_headers())
-        if res.status_code == 200:
-            return from_firestore_document(res.json())
-        raise Exception(f"Failed to add document: {res.text}")
+    res = await _http_client.post(url, json=body, headers=_auth_headers())
+    if res.status_code == 200:
+        return from_firestore_document(res.json())
+    raise RuntimeError(f"Firestore create failed ({res.status_code})")
 
 
 async def run_query(
@@ -201,39 +199,36 @@ async def run_query(
     if limit:
         query["structuredQuery"]["limit"] = limit
 
-    async with httpx.AsyncClient() as client:
-        res = await client.post(url, json=query, headers=_auth_headers())
-        if res.status_code != 200:
-            return []
+    res = await _http_client.post(url, json=query, headers=_auth_headers())
+    if res.status_code != 200:
+        return []
 
-        results = res.json()
-        documents = []
-        for r in results:
-            doc = r.get("document")
-            if doc:
-                documents.append(from_firestore_document(doc))
-        return documents
+    results = res.json()
+    documents = []
+    for r in results:
+        doc = r.get("document")
+        if doc:
+            documents.append(from_firestore_document(doc))
+    return documents
 
 
 async def delete_document(collection: str, doc_id: str) -> bool:
     project_id = _project_id()
     url = f"https://firestore.googleapis.com/v1/projects/{project_id}/databases/(default)/documents/{collection}/{doc_id}"
 
-    async with httpx.AsyncClient() as client:
-        res = await client.delete(url, headers=_auth_headers())
-        return res.status_code == 200
+    res = await _http_client.delete(url, headers=_auth_headers())
+    return res.status_code == 200
 
 
 async def get_all_documents(collection: str) -> List[dict]:
     project_id = _project_id()
     url = f"https://firestore.googleapis.com/v1/projects/{project_id}/databases/(default)/documents/{collection}"
 
-    async with httpx.AsyncClient() as client:
-        res = await client.get(url, headers=_auth_headers())
-        if res.status_code == 200:
-            docs = res.json().get("documents", [])
-            return [from_firestore_document(d) for d in docs]
-        return []
+    res = await _http_client.get(url, headers=_auth_headers())
+    if res.status_code == 200:
+        docs = res.json().get("documents", [])
+        return [from_firestore_document(d) for d in docs]
+    return []
 
 
 async def get_documents_at_path(collection_path: str) -> List[dict]:
@@ -242,12 +237,11 @@ async def get_documents_at_path(collection_path: str) -> List[dict]:
     path = collection_path.strip("/")
     url = f"https://firestore.googleapis.com/v1/projects/{project_id}/databases/(default)/documents/{path}"
 
-    async with httpx.AsyncClient() as client:
-        res = await client.get(url, headers=_auth_headers())
-        if res.status_code == 200:
-            docs = res.json().get("documents", [])
-            return [from_firestore_document(d) for d in docs]
-        return []
+    res = await _http_client.get(url, headers=_auth_headers())
+    if res.status_code == 200:
+        docs = res.json().get("documents", [])
+        return [from_firestore_document(d) for d in docs]
+    return []
 
 
 TOP_100_COLLECTION = "leaderboards"
@@ -272,11 +266,10 @@ async def set_top_100_leaderboard(data: dict) -> dict:
         f"?documentId={TOP_100_DOC_ID}"
     )
     body = to_firestore_fields(data)
-    async with httpx.AsyncClient() as client:
-        res = await client.post(url, json=body, headers=_auth_headers())
-        if res.status_code == 200:
-            return from_firestore_document(res.json())
-        raise Exception(f"Failed to create top_100 leaderboard: {res.text}")
+    res = await _http_client.post(url, json=body, headers=_auth_headers())
+    if res.status_code == 200:
+        return from_firestore_document(res.json())
+    raise RuntimeError(f"Firestore leaderboard create failed ({res.status_code})")
 
 
 async def try_create_document(collection: str, doc_id: str, data: dict) -> bool:
@@ -288,10 +281,9 @@ async def try_create_document(collection: str, doc_id: str, data: dict) -> bool:
         f"?documentId={doc_id}"
     )
     body = to_firestore_fields(data)
-    async with httpx.AsyncClient() as client:
-        res = await client.post(url, json=body, headers=_auth_headers())
-        if res.status_code == 200:
-            return True
-        if res.status_code == 409:
-            return False
-        raise Exception(f"Failed to create document {collection}/{doc_id}: {res.text}")
+    res = await _http_client.post(url, json=body, headers=_auth_headers())
+    if res.status_code == 200:
+        return True
+    if res.status_code == 409:
+        return False
+    raise RuntimeError(f"Firestore conditional create failed ({res.status_code})")

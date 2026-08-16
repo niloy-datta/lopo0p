@@ -134,7 +134,7 @@ function QuizRunnerRaw({
   quizSubmitMeta,
   showWorkedSolution = false,
 }: Props) {
-  const { user, firebaseUser } = useAuth();
+  const { user } = useAuth();
 
   // Zustand Store selectors
   const {
@@ -406,10 +406,9 @@ function QuizRunnerRaw({
   }, [showConfetti]);
 
   const handleAutoSubmit = async () => {
-    if (!firebaseUser || !user || isSubmitting || quizSubmitted) return;
+    if (!user || isSubmitting || quizSubmitted) return;
     try {
-      const token = await firebaseUser.getIdToken();
-      await submitQuiz(user.id, "exam", token);
+      await submitQuiz(user.id, "exam");
     } catch (e) {
       console.error("Auto submit failed:", e);
     }
@@ -417,14 +416,13 @@ function QuizRunnerRaw({
 
   const handleManualSubmit = async () => {
     if (isSubmitting || quizSubmitted) return;
-    if (!firebaseUser || !user) {
+    if (!user) {
       alert("পরীক্ষা জমা দিতে অনুগ্রহ করে প্রথমে লগইন করুন।");
       return;
     }
     setConfirmSubmit(false);
     try {
-      const token = await firebaseUser.getIdToken();
-      await submitQuiz(user.id, "practice", token);
+      await submitQuiz(user.id, "practice");
     } catch (e) {
       console.error("Manual submit failed:", e);
     }
