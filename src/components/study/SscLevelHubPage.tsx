@@ -70,7 +70,7 @@ export function SscLevelHubPage() {
 
   function renderSubjectGrid(list: ApiSubject[]) {
     return (
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-5xl mx-auto">
+      <div className="mx-auto grid max-w-5xl grid-cols-1 gap-2.5 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3">
         {list.map((subject) => {
           const Icon = subjectIcons[subject.slug] || BookOpen;
           const color = subjectColors[subject.slug] || "cyan";
@@ -80,10 +80,10 @@ export function SscLevelHubPage() {
               key={subject.slug}
               href={`${unifiedSubjectBasePath("ssc", subject.slug)}?tab=chapter`}
             >
-              <Card variant="glass" className="p-6 hoverable group glass-panel-cyan">
-                <div className="flex items-start justify-between mb-4">
+              <Card variant="glass" className="group p-4 hoverable glass-panel-cyan sm:p-6">
+                <div className="mb-3 flex items-start justify-between sm:mb-4">
                   <div
-                    className={`h-12 w-12 rounded-xl flex items-center justify-center ${
+                    className={`flex h-10 w-10 items-center justify-center rounded-xl sm:h-12 sm:w-12 ${
                       color === "cyan"
                         ? "bg-cyan-500/20 text-cyan-400"
                         : color === "purple"
@@ -102,8 +102,8 @@ export function SscLevelHubPage() {
                   </Badge>
                 </div>
 
-                <h3 className="text-xl font-bold text-white mb-2">{subject.name}</h3>
-                <p className="text-sm text-slate-400 mb-4">
+                <h3 className="mb-1 text-lg font-bold text-white sm:mb-2 sm:text-xl">{subject.name}</h3>
+                <p className="mb-3 text-xs text-slate-400 sm:mb-4 sm:text-sm">
                   অধ্যায়ভিত্তিক MCQ ও মডেল টেস্ট
                 </p>
 
@@ -139,30 +139,30 @@ export function SscLevelHubPage() {
 
   return (
     <div className="min-h-screen font-bangla pb-24">
-      <section className="py-12 md:py-16 bg-gradient-to-b from-cyan-900/10 to-transparent">
+      <section className="bg-gradient-to-b from-cyan-900/10 to-transparent py-4 md:py-16">
         <div className="max-w-5xl mx-auto">
-          <div className="text-center mb-10">
-            <Badge variant="default" className="inline-flex items-center gap-2 mb-4">
+          <div className="mb-5 text-left sm:text-center md:mb-10">
+            <Badge variant="default" className="mb-3 inline-flex items-center gap-2 sm:mb-4">
               <BookOpen className="h-3 w-3" />
               Class 9-10 Science Group
             </Badge>
-            <h1 className="text-3xl md:text-4xl font-black text-white mb-4">
+            <h1 className="mb-2 text-2xl font-black text-white sm:text-3xl md:mb-4 md:text-4xl">
               <span className="text-gradient-cyan">SSC Science</span> প্রস্তুতি
             </h1>
-            <p className="text-slate-400 max-w-2xl mx-auto">
+            <p className="max-w-2xl text-sm text-slate-400 sm:mx-auto sm:text-base">
               তোমার subject বেছে নাও — অধ্যায়ভিত্তিক কুইজ, মডেল টেস্ট ও বোর্ড প্রশ্ন একসাথে
             </p>
           </div>
 
-          <div className="space-y-10">
+          <div className="space-y-6 md:space-y-10">
             <div>
-              <h2 className="mb-4 text-center text-sm font-bold uppercase tracking-wider text-cyan-400/90">
+              <h2 className="mb-3 text-left text-sm font-bold uppercase tracking-wider text-cyan-400/90 sm:text-center md:mb-4">
                 বিজ্ঞান বিষয়
               </h2>
               {renderSubjectGrid(scienceSubjects)}
             </div>
             <div>
-              <h2 className="mb-4 text-center text-sm font-bold uppercase tracking-wider text-amber-400/90">
+              <h2 className="mb-3 text-left text-sm font-bold uppercase tracking-wider text-amber-400/90 sm:text-center md:mb-4">
                 গণিত বিষয়
               </h2>
               {renderSubjectGrid(mathSubjects)}
@@ -171,9 +171,9 @@ export function SscLevelHubPage() {
         </div>
       </section>
 
-      <section className="py-8">
+      <section className="py-5 md:py-8">
         <div className="max-w-5xl mx-auto">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
+          <div className="mx-auto grid max-w-4xl grid-cols-1 gap-2.5 md:grid-cols-3 md:gap-4">
             <Link href="/ssc-board-questions">
               <Card variant="glass" className="p-4 flex items-center gap-4 hoverable">
                 <div className="h-10 w-10 rounded-lg bg-purple-500/20 flex items-center justify-center">
@@ -219,7 +219,7 @@ export function SscLevelHubPage() {
         </div>
       </section>
 
-      <section className="py-8">
+      <section className="py-5 md:py-8">
         <div className="max-w-5xl mx-auto">
           <Card
             variant="glass"

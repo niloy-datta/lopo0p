@@ -18,7 +18,7 @@ interface ModelTestsHubProps {
 
 export function ModelTestsHub({ title, subtitle, links }: ModelTestsHubProps) {
   return (
-    <div className="min-h-screen font-bangla py-8 pb-24">
+    <div className="min-h-screen py-3 pb-24 font-bangla sm:py-8">
       <div className="mb-8">
         <Badge variant="default" className="mb-3 inline-flex items-center gap-1">
           <Target className="h-3 w-3" />

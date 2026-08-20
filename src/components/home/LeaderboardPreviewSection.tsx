@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { Badge } from "@/components/ui/Badge";
-import { Trophy, ChevronRight, Loader2 } from "lucide-react";
+import { Trophy, ChevronRight, Loader2, Medal, Star } from "lucide-react";
 import Link from "next/link";
 import {
   fetchLeaderboard,
@@ -29,11 +29,11 @@ function PreviewSkeleton() {
   );
 }
 
-function rankBadge(rank: number): string {
-  if (rank === 1) return "🏆";
-  if (rank === 2) return "🥈";
-  if (rank === 3) return "🥉";
-  return "⭐";
+function RankIcon({ rank }: { rank: number }) {
+  if (rank === 1) return <Trophy className="h-6 w-6 text-amber-300" aria-hidden="true" />;
+  if (rank === 2) return <Medal className="h-6 w-6 text-slate-300" aria-hidden="true" />;
+  if (rank === 3) return <Medal className="h-6 w-6 text-orange-400" aria-hidden="true" />;
+  return <Star className="h-5 w-5 text-violet-300" aria-hidden="true" />;
 }
 
 function rankCardClass(rank: number): string {
@@ -77,8 +77,8 @@ export function LeaderboardPreviewSection() {
                 variant="glass"
                 className={`p-4 flex items-center gap-4 ${rankCardClass(student.rank)}`}
               >
-                <div className="h-12 w-12 rounded-xl flex items-center justify-center text-2xl bg-slate-800/50">
-                  {rankBadge(student.rank)}
+                <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-slate-800/50">
+                  <RankIcon rank={student.rank} />
                 </div>
 
                 <div className="flex-1 min-w-0">
@@ -112,7 +112,7 @@ export function LeaderboardPreviewSection() {
             <Button
               variant="secondary"
               fullWidth
-              className="flex items-center justify-center gap-2 group"
+              className="flex min-h-11 items-center justify-center gap-2 group"
               disabled={loading}
             >
               {loading ? (

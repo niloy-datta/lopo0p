@@ -57,11 +57,11 @@ export function ForgotPasswordForm() {
   };
 
   return (
-    <section className="flex min-h-[calc(100vh-4rem)] items-center justify-center bg-[#07111F] px-4 py-10 font-bangla text-white">
-      <div className="glass-card relative mx-auto w-full max-w-md overflow-hidden rounded-3xl p-6 shadow-2xl sm:p-8">
+    <section className="flex min-h-[calc(100dvh-4rem)] items-start justify-center bg-[#07111F] px-4 py-4 font-bangla text-white sm:items-center sm:py-10">
+      <div className="glass-card relative mx-auto w-full max-w-md overflow-hidden rounded-3xl p-5 shadow-2xl sm:p-8">
         <div className="absolute left-0 top-0 h-1 w-full bg-gradient-to-r from-purple-500 to-cyan-400" />
 
-        <div className="mb-8 text-center">
+        <div className="mb-5 text-center sm:mb-8">
           <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-2xl border border-purple-500/30 bg-purple-500/10">
             <Brain className="h-8 w-8 text-purple-400" />
           </div>

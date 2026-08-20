@@ -23,10 +23,8 @@ import {
 } from "@/lib/leaderboard-api";
 import { isProfileComplete, normalizeLevel, type StudentLevel } from "@/lib/profile-utils";
 import {
-  ChevronDown,
   Crown,
   Flame,
-  Globe,
   Medal,
   Swords,
   Target,
@@ -35,16 +33,6 @@ import {
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { levelHubPath } from "@/lib/quiz/unified-routes";
-
-type TimeFilter = "all" | "today" | "week" | "month" | "alltime";
-
-const TIME_FILTERS: { id: TimeFilter; label: string }[] = [
-  { id: "all", label: "সবগুলো" },
-  { id: "today", label: "আজ" },
-  { id: "week", label: "এই সপ্তাহ" },
-  { id: "month", label: "এই মাস" },
-  { id: "alltime", label: "সর্বকালীন" },
-];
 
 const INITIAL_ROWS = 15;
 
@@ -106,7 +94,7 @@ function PodiumCard({ entry, place }: { entry: LeaderboardEntry; place: 1 | 2 | 
     <div className={cn("flex flex-col items-center", styles.order)}>
       <div className="relative mb-3">
         {place === 1 && (
-          <span className="absolute -top-6 left-1/2 -translate-x-1/2 text-xl">👑</span>
+          <Crown className="absolute -top-6 left-1/2 h-5 w-5 -translate-x-1/2 text-gold-rank" aria-hidden />
         )}
         <Avatar entry={entry} size={place === 1 ? "lg" : "md"} />
         <span
@@ -221,43 +209,6 @@ function LeaderboardTableRow({
   );
 }
 
-function FilterChip({
-  active,
-  children,
-  onClick,
-}: {
-  active: boolean;
-  children: React.ReactNode;
-  onClick: () => void;
-}) {
-  return (
-    <button
-      type="button"
-      onClick={onClick}
-      className={cn(
-        "shrink-0 rounded-full border px-3 py-2 text-xs font-semibold transition min-h-[44px]",
-        active
-          ? "border-cyan-400/40 bg-cyan-500/15 text-cyan-300 shadow-glow-cyan"
-          : "border-white/10 bg-white/5 text-slate-400 hover:text-white",
-      )}
-    >
-      {children}
-    </button>
-  );
-}
-
-function DisabledFilter({ label }: { label: string }) {
-  return (
-    <div
-      className="flex shrink-0 items-center gap-1 rounded-xl border border-white/5 bg-white/[0.03] px-3 py-2 text-xs text-slate-500 cursor-not-allowed"
-      title="শীঘ্রই আসছে"
-    >
-      {label}
-      <ChevronDown className="h-3.5 w-3.5 opacity-50" />
-    </div>
-  );
-}
-
 function computeTop100Insight(
   rank: number | null | undefined,
   points: number,
@@ -273,7 +224,7 @@ function computeTop100Insight(
     const progress = Math.min(100, Math.round(((100 - rank + 1) / 100) * 100));
     return {
       progress,
-      message: `আপনি Top ${formatBnNumber(100)}-এ আছেন! 🎉`,
+      message: `আপনি Top ${formatBnNumber(100)}-এ আছেন!`,
     };
   }
   const cutoff = list[99];
@@ -297,7 +248,6 @@ export function LeaderboardHub() {
   const searchParams = useSearchParams();
   const [entries, setEntries] = useState<LeaderboardEntry[]>([]);
   const [loading, setLoading] = useState(true);
-  const [timeFilter, setTimeFilter] = useState<TimeFilter>("alltime");
   const [showAll, setShowAll] = useState(false);
 
   const levelTab = useMemo<StudentLevel>(() => {
@@ -354,12 +304,12 @@ export function LeaderboardHub() {
 
   return (
     <div className="pb-8 font-bangla animate-fadeIn">
-      <header className="mb-6">
+      <header className="mb-4 sm:mb-6">
         <Badge variant="default" className="mb-3 inline-flex gap-2 border-gold-rank/30 bg-gold-rank/10">
           <Trophy className="h-4 w-4 text-gold-rank" />
-          🏆 লিডারবোর্ড
+          লিডারবোর্ড
         </Badge>
-        <h1 className="text-3xl font-black text-white sm:text-4xl">র‍্যাঙ্কিং</h1>
+        <h1 className="text-2xl font-black text-white sm:text-4xl">র‍্যাঙ্কিং</h1>
         <p className="mt-2 max-w-2xl text-sm text-slate-400">
           SSC ও HSC শিক্ষার্থীদের আলাদা র‍্যাঙ্কিং — স্কোর, Accuracy ও টেস্ট পারফরম্যান্স অনুযায়ী।
         </p>
@@ -387,27 +337,6 @@ export function LeaderboardHub() {
         ))}
       </div>
 
-      <div className="mb-3 flex gap-2 overflow-x-auto pb-1 scrollbar-thin">
-        {TIME_FILTERS.map((f) => (
-          <FilterChip
-            key={f.id}
-            active={timeFilter === f.id}
-            onClick={() => setTimeFilter(f.id)}
-          >
-            {f.label}
-          </FilterChip>
-        ))}
-      </div>
-
-      <div className="mb-6 flex flex-wrap gap-2">
-        <DisabledFilter label="সব বোর্ড" />
-        <DisabledFilter label="সব বিষয়" />
-        <div className="flex shrink-0 items-center gap-1 rounded-xl border border-white/10 bg-white/5 px-3 py-2 text-xs text-slate-400">
-          <Globe className="h-3.5 w-3.5 text-cyan-400" />
-          Global
-        </div>
-      </div>
-
       {filtered.length === 0 ? (
         <Card variant="glass" className="p-10 text-center">
           <Trophy className="mx-auto mb-4 h-12 w-12 text-slate-600" />
@@ -423,9 +352,7 @@ export function LeaderboardHub() {
           <div className="min-w-0 space-y-6">
             {top3.length >= 3 && (
               <div className="relative">
-                <div className="pointer-events-none absolute -top-4 left-1/2 -translate-x-1/2 text-4xl opacity-20">
-                  🏆
-                </div>
+                <Trophy className="pointer-events-none absolute -top-4 left-1/2 h-10 w-10 -translate-x-1/2 text-gold-rank/20" aria-hidden />
                 <div className="grid grid-cols-3 items-end gap-2 sm:gap-4 pt-6">
                   <PodiumCard entry={top3[1]} place={2} />
                   <PodiumCard entry={top3[0]} place={1} />
@@ -533,7 +460,7 @@ export function LeaderboardHub() {
                   </div>
                 </div>
                 <p className="mt-3 text-[11px] text-cyan-300/80">
-                  💡 আজ ২টি টেস্ট দিলে উন্নতি হতে পারে
+                  আজ ২টি টেস্ট দিলে উন্নতি হতে পারে
                 </p>
               </Card>
             ) : (
@@ -545,14 +472,15 @@ export function LeaderboardHub() {
             <Card variant="glass" className="p-4">
               <h2 className="mb-3 flex items-center gap-2 text-base font-black text-white">
                 <Swords className="h-4 w-4 text-purple-400" />
-                ⚔️ College Wars
+                College Wars
               </h2>
               <p className="text-xs text-slate-400 leading-relaxed mb-3">
                 কলেজ বনাম কলেজ ব্যাটেল — দেখো তোমার কলেজ কত নম্বরে আছে, ড্রিল-ডাউন করে বিস্তারিত দেখো
               </p>
               <Link href="/leaderboard/college-wars">
                 <Button className="w-full" size="sm">
-                  ⚔️ College Wars খুলুন
+                  <Swords className="mr-2 h-4 w-4" aria-hidden />
+                  College Wars খুলুন
                 </Button>
               </Link>
             </Card>

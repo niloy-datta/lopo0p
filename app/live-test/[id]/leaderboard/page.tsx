@@ -21,7 +21,7 @@ export default function LiveTestLeaderboardPage() {
   }, [id]);
 
   return (
-    <main className="min-h-screen bg-[#07111F] px-4 py-10 pb-24 font-bangla text-white">
+    <main className="min-h-screen bg-[#07111F] px-1 py-3 pb-24 font-bangla text-white sm:px-4 sm:py-10">
       <div className="mx-auto max-w-2xl space-y-5">
         <header className="text-center">
           <Trophy className="mx-auto mb-2 h-10 w-10 text-amber-400" />

@@ -174,7 +174,7 @@ export default function DashboardPage() {
     : levelHubPath("ssc");
 
   return (
-    <div className="min-h-screen bg-[#07111F] py-8 pb-24 font-bangla">
+    <div className="min-h-screen bg-[#07111F] py-3 pb-24 font-bangla sm:py-8">
       {user && needsOnboarding(user) && <OnboardingModal />}
       {reviewTarget && (
         <DetailedReviewModal
@@ -188,10 +188,10 @@ export default function DashboardPage() {
         />
       )}
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
+        <div className="mb-4 flex flex-col justify-between gap-3 sm:mb-6 sm:flex-row sm:items-center sm:gap-4">
           <div>
-            <h1 className="text-2xl md:text-3xl font-extrabold text-white">
-              স্বাগতম, {user.name || "যোদ্ধা"}! 👋
+            <h1 className="text-xl font-extrabold text-white sm:text-2xl md:text-3xl">
+              স্বাগতম, {user.name || "যোদ্ধা"}!
             </h1>
             <p className="text-slate-400 mt-1 text-sm">
               আজকের টার্গেট: {todayTarget}টি কুইজ — সম্পন্ন {completedToday}/{todayTarget}

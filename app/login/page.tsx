@@ -82,12 +82,12 @@ function LoginPageContent() {
   const isRetrying = backendStatus === "checking";
 
   return (
-    <section className="flex min-h-[calc(100vh-4rem)] items-center justify-center bg-[#07111F] px-4 py-10 font-bangla text-white">
-      <div className="glass-card relative mx-auto w-full max-w-md overflow-hidden rounded-3xl p-6 shadow-2xl sm:p-8">
+    <section className="flex min-h-[calc(100dvh-4rem)] items-start justify-center bg-[#07111F] px-4 py-4 font-bangla text-white sm:items-center sm:py-10">
+      <div className="glass-card relative mx-auto w-full max-w-md overflow-hidden rounded-3xl p-5 shadow-2xl sm:p-8">
         <div className="absolute left-0 top-0 h-1 w-full bg-gradient-to-r from-purple-500 to-cyan-400" />
 
-        <div className="mb-8 text-center">
-          <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-2xl border border-purple-500/30 bg-purple-500/10">
+        <div className="mb-5 text-center sm:mb-8">
+          <div className="mx-auto mb-3 flex h-12 w-12 items-center justify-center rounded-2xl border border-purple-500/30 bg-purple-500/10 sm:mb-4 sm:h-16 sm:w-16">
             <Brain className="h-8 w-8 text-purple-400" />
           </div>
           <h1 className="text-2xl font-extrabold text-white">
@@ -191,7 +191,7 @@ function LoginPageContent() {
             <div className="text-right">
               <Link
                 href="/forgot-password"
-                className="text-xs text-slate-400 transition-colors hover:text-cyan-400"
+                className="inline-flex min-h-11 items-center text-xs text-slate-400 transition-colors hover:text-cyan-400"
               >
                 পাসওয়ার্ড ভুলে গেছেন?
               </Link>
@@ -238,7 +238,7 @@ function LoginPageContent() {
               setLocalError(null);
               setError(null);
             }}
-            className="text-sm text-slate-400 transition-colors hover:text-white"
+            className="inline-flex min-h-11 items-center justify-center text-sm text-slate-400 transition-colors hover:text-white"
           >
             {isRegister
               ? "ইতিমধ্যে অ্যাকাউন্ট আছে? লগইন করুন"

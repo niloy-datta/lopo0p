@@ -129,9 +129,30 @@ export function StudySidebar() {
     ];
 
     return (
-      <aside className="w-full shrink-0 pb-4 lg:w-[280px] lg:pb-8 lg:pt-4" aria-label="প্রস্তুতি মেনু">
-        <section className="sticky top-20 rounded-2xl border border-slate-700/80 bg-slate-950/80 p-3 shadow-[0_0_40px_rgba(15,23,42,0.8)]">
-          <nav className="flex flex-col gap-1 font-bangla">
+      <aside className="w-full shrink-0 pb-1 lg:w-[280px] lg:pb-8 lg:pt-4" aria-label="প্রস্তুতি মেনু">
+        <section className="rounded-2xl border border-slate-700/70 bg-slate-950/75 p-2 shadow-[0_0_32px_rgba(15,23,42,0.65)] lg:sticky lg:top-20 lg:p-3">
+          <button
+            type="button"
+            onClick={() => setMobileExpanded((expanded) => !expanded)}
+            className="flex min-h-11 w-full items-center justify-between rounded-xl border border-cyan-400/20 bg-cyan-400/5 px-3 text-sm font-bold text-cyan-100 lg:hidden"
+            aria-expanded={mobileExpanded}
+          >
+            <span className="flex items-center gap-2">
+              <Menu className="h-5 w-5" aria-hidden />
+              {isSsc ? "SSC" : "HSC"} প্রস্তুতি
+            </span>
+            {mobileExpanded ? (
+              <ChevronUp className="h-5 w-5" aria-hidden />
+            ) : (
+              <ChevronDown className="h-5 w-5" aria-hidden />
+            )}
+          </button>
+          <nav
+            className={cn(
+              "mt-2 flex flex-col gap-1 font-bangla lg:mt-0",
+              !mobileExpanded && "hidden lg:flex",
+            )}
+          >
             {compactItems.map((item) => {
               const Icon = item.icon;
               const active = pathname === item.href;
@@ -140,7 +161,7 @@ export function StudySidebar() {
                   key={item.label}
                   href={item.href}
                   className={cn(
-                    "flex items-center gap-3 rounded-xl px-4 py-3 text-sm font-bold transition",
+                    "flex min-h-11 items-center gap-3 rounded-xl px-4 py-2.5 text-sm font-bold transition",
                     active
                       ? "border border-cyan-300/50 bg-gradient-to-r from-violet-700 to-cyan-500/20 text-white"
                       : "text-slate-200 hover:bg-white/5 hover:text-cyan-300",
@@ -175,7 +196,6 @@ export function StudySidebar() {
   const activeTab = searchParams.get("tab");
   const items = getSidebarItems(level, subjectBase);
   const quickLinks = getQuickAccessItems(level);
-  const compactMenuItems = items.slice(0, 3);
 
   const renderSubjectLink = (sub: { label: string; href: string }) => {
     const Icon = subjectIcon(sub.label);
@@ -204,31 +224,18 @@ export function StudySidebar() {
     <aside className="w-full shrink-0 pb-4 lg:w-[280px] lg:pb-8 lg:pt-4" aria-label={`${levelLabel} প্রস্তুতি মেনু`}>
       <div className="space-y-3 lg:sticky lg:top-20">
         {!mobileExpanded && (
-          <section className="rounded-2xl border border-slate-700/80 bg-slate-950/80 p-3 shadow-[0_0_40px_rgba(15,23,42,0.8)] lg:hidden">
+          <section className="rounded-2xl border border-slate-700/70 bg-slate-950/75 p-2 shadow-[0_0_32px_rgba(15,23,42,0.65)] lg:hidden">
             <button
               type="button"
               onClick={() => setMobileExpanded(true)}
-              className="flex w-full min-h-[44px] items-center justify-center gap-2 rounded-xl border border-cyan-500/30 bg-cyan-500/10 px-4 py-3 text-sm font-bold text-cyan-200 transition active:scale-[0.98]"
+              className="flex min-h-11 w-full items-center justify-between gap-2 rounded-xl border border-cyan-500/25 bg-cyan-500/[0.07] px-3 py-2 text-sm font-bold text-cyan-100 transition active:scale-[0.98]"
             >
-              <Menu className="h-5 w-5" />
-              প্রস্তুতি মেনু খুলুন
-              <ChevronDown className="h-4 w-4" />
+              <span className="flex items-center gap-2">
+                <Menu className="h-5 w-5" />
+                {levelLabel} প্রস্তুতি
+              </span>
+              <ChevronDown className="h-5 w-5" />
             </button>
-            <div className="mt-2 grid grid-cols-3 gap-2">
-              {compactMenuItems.map((item) => {
-                const Icon = item.icon;
-                return (
-                  <Link
-                    key={item.label}
-                    href={item.href}
-                    className="flex min-h-[44px] flex-col items-center justify-center gap-1 rounded-xl border border-white/10 bg-white/5 px-2 py-2 text-center text-[11px] font-bold text-slate-200 transition active:scale-95 hover:border-cyan-400/30"
-                  >
-                    <Icon className="h-4 w-4 text-cyan-400" />
-                    <span className="leading-tight">{item.label.split(" ")[0]}</span>
-                  </Link>
-                );
-              })}
-            </div>
           </section>
         )}
 

@@ -92,7 +92,7 @@ export function QuizChapterPage({
   }
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-10 font-bangla pb-24">
+    <div className="mx-auto max-w-3xl px-1 py-3 pb-24 font-bangla sm:px-4 sm:py-10">
       <Link
         href={backUrl}
         className="text-slate-400 hover:text-white text-sm mb-6 inline-block"

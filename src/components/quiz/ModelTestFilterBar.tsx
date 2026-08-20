@@ -297,7 +297,7 @@ export function ModelTestFilterBar({
         </div>
       </div>
 
-      <div className="mt-2 flex flex-wrap gap-2">
+      <div className="mt-2 flex gap-2 overflow-x-auto pb-1 no-scrollbar sm:flex-wrap sm:overflow-visible sm:pb-0">
         {visibleKeys.map((key) => {
           const chip = chipMap.get(key);
           if (!chip) return null;
@@ -309,7 +309,7 @@ export function ModelTestFilterBar({
               type="button"
               onClick={() => onFilterChange(chip.key)}
               className={cn(
-                "inline-flex items-center gap-1.5 rounded-full border px-3 py-2 text-xs font-bold transition-all min-h-[44px]",
+                "inline-flex min-h-11 shrink-0 items-center gap-1.5 rounded-full border px-3 py-2 text-xs font-bold transition-all",
                 active
                   ? chip.activeClass
                   : "border-slate-700/60 bg-slate-900/50 text-slate-300 hover:border-violet-400/30 hover:text-white",
@@ -325,7 +325,7 @@ export function ModelTestFilterBar({
             type="button"
             onClick={() => setShowMoreFilters((v) => !v)}
             className={cn(
-              "inline-flex items-center gap-1 rounded-full border px-3 py-2 text-xs font-bold min-h-[44px]",
+              "inline-flex min-h-11 shrink-0 items-center gap-1 rounded-full border px-3 py-2 text-xs font-bold",
               showMoreFilters || secondaryActive
                 ? "border-purple-400/50 bg-purple-500/15 text-purple-200"
                 : "border-slate-700/60 text-slate-400 hover:text-white",

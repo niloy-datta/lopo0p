@@ -52,7 +52,7 @@ export default function SSCBoardSubjectYearsPage({ params }: Props) {
   ];
 
   return (
-    <div className="min-h-screen bg-[#07111F] py-10 px-4 font-bangla text-white">
+    <div className="min-h-screen bg-[#07111F] px-1 py-3 font-bangla text-white sm:px-4 sm:py-10">
       <div className="max-w-xl mx-auto space-y-8">
         <div className="flex items-center justify-between">
           <Link

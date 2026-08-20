@@ -94,29 +94,29 @@ export function HscLevelHubPage() {
 
   return (
     <div className="min-h-screen font-bangla pb-24">
-      <section className="py-12 md:py-16 bg-gradient-to-b from-purple-900/10 to-transparent">
+      <section className="bg-gradient-to-b from-purple-900/10 to-transparent py-4 md:py-16">
         <div className="max-w-5xl mx-auto">
-          <div className="text-center mb-10">
-            <Badge variant="default" className="inline-flex items-center gap-2 mb-4">
+          <div className="mb-5 text-left sm:text-center md:mb-10">
+            <Badge variant="default" className="mb-3 inline-flex items-center gap-2 sm:mb-4">
               <Layers className="h-3 w-3" />
               Class 11-12 Science Group
             </Badge>
-            <h1 className="text-3xl md:text-4xl font-black text-white mb-4">
+            <h1 className="mb-2 text-2xl font-black text-white sm:text-3xl md:mb-4 md:text-4xl">
               <span className="text-gradient-purple">HSC Science</span> প্রস্তুতি
             </h1>
-            <p className="text-slate-400 max-w-2xl mx-auto">
+            <p className="max-w-2xl text-sm text-slate-400 sm:mx-auto sm:text-base">
               Paper অনুযায়ী practice করো — ১ম ও ২য় পত্রের জন্য আলাদা আলাদা কুইজ ও মডেল টেস্ট
             </p>
           </div>
 
-          <div className="space-y-8 max-w-5xl mx-auto">
+          <div className="mx-auto max-w-5xl space-y-5 md:space-y-8">
             {Object.entries(groupedSubjects).map(([baseSubject, papers]) => {
               const Icon = subjectIcons[baseSubject] || BookOpen;
               const color = subjectColors[baseSubject] || "purple";
 
               return (
                 <div key={baseSubject}>
-                  <div className="flex items-center gap-3 mb-4">
+                  <div className="mb-3 flex items-center gap-3 md:mb-4">
                     <div
                       className={`h-10 w-10 rounded-lg flex items-center justify-center ${
                         color === "purple"
@@ -137,13 +137,13 @@ export function HscLevelHubPage() {
                     </h2>
                   </div>
 
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2 sm:gap-4">
                     {papers.map((paper) => (
                       <Link
                         key={paper.slug}
                         href={unifiedSubjectBasePath("hsc", paper.slug)}
                       >
-                        <Card variant="glass" className="p-5 hoverable glass-panel-purple">
+                        <Card variant="glass" className="p-4 hoverable glass-panel-purple sm:p-5">
                           <div className="flex items-center justify-between">
                             <div>
                               <h3 className="font-bold text-white">{paper.name}</h3>
@@ -166,9 +166,9 @@ export function HscLevelHubPage() {
         </div>
       </section>
 
-      <section className="py-8">
+      <section className="py-5 md:py-8">
         <div className="max-w-5xl mx-auto">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
+          <div className="mx-auto grid max-w-4xl grid-cols-1 gap-2.5 md:grid-cols-3 md:gap-4">
             <Link href="/hsc-board-questions">
               <Card variant="glass" className="p-4 flex items-center gap-4 hoverable">
                 <div className="h-10 w-10 rounded-lg bg-cyan-500/20 flex items-center justify-center">
@@ -214,7 +214,7 @@ export function HscLevelHubPage() {
         </div>
       </section>
 
-      <section className="py-8">
+      <section className="py-5 md:py-8">
         <div className="max-w-5xl mx-auto">
           <Card
             variant="glass"

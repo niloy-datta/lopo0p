@@ -76,7 +76,7 @@ export default function BoardYearClientSSC({
   }
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-10 font-bangla pb-24 text-slate-100">
+    <div className="mx-auto max-w-5xl px-1 py-3 pb-24 font-bangla text-slate-100 sm:px-4 sm:py-10">
       {/* Back button */}
       <Link
         href={`/ssc-board-questions/${subject}`}

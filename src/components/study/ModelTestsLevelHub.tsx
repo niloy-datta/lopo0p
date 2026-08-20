@@ -87,7 +87,7 @@ export function ModelTestsLevelHub({
   const stillLoading = groups.some((g) => g.loading);
 
   return (
-    <div className="min-h-screen font-bangla py-8 pb-24">
+    <div className="min-h-screen py-3 pb-24 font-bangla sm:py-8">
       <div className="mb-8">
         {sectionLabel && (
           <p className="mb-2 text-xs font-bold uppercase tracking-wider text-cyan-500/80">

@@ -134,7 +134,7 @@ export function SavedQuestionsClient({ level }: Props) {
   }
 
   return (
-    <div className="mx-auto max-w-4xl px-4 py-10 font-bangla pb-24">
+    <div className="mx-auto max-w-4xl px-1 py-3 pb-24 font-bangla sm:px-4 sm:py-10">
       {/* Header */}
       <div className="relative mb-6 overflow-hidden rounded-2xl border border-slate-700/50 bg-gradient-to-br from-slate-950 via-[#0a0b1e] to-slate-950 px-4 py-5 sm:px-6">
         <div className="pointer-events-none absolute -right-8 -top-8 h-32 w-32 rounded-full bg-cyan-500/10 blur-3xl" />

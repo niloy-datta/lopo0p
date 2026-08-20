@@ -1,9 +1,9 @@
 import React from "react";
 import Link from "next/link";
 import { Card } from "@/components/ui/Card";
-import { Badge } from "@/components/ui/Badge";
 import { BookOpen, GraduationCap, ChevronRight } from "lucide-react";
 import { levelHubPath } from "@/lib/quiz/unified-routes";
+import { MobilePageHeader } from "@/components/layout/MobilePageHeader";
 
 const SUBJECT_MAP: Record<string, string> = {
   physics: "পদার্থবিজ্ঞান",
@@ -25,19 +25,16 @@ export default function SSCBoardQuestionsPage() {
   const subjects = ["physics", "chemistry", "biology", "higher-math", "math"];
 
   return (
-    <div className="min-h-screen bg-[#07111F] py-10 px-4 font-bangla text-white">
-      <div className="max-w-4xl mx-auto space-y-8">
-        <div className="text-center space-y-2">
-          <Badge variant="default" className="bg-cyan-500/10 text-cyan-300 border-cyan-500/20">
-            এসএসসি বোর্ড প্রশ্ন
-          </Badge>
-          <h1 className="text-3xl md:text-4xl font-black">SSC বোর্ড প্রশ্ন ব্যাংক</h1>
-          <p className="text-slate-400 max-w-lg mx-auto text-sm md:text-base">
-            বিগত বছরের বোর্ড প্রশ্নগুলো নিয়ে কুইজ দিয়ে তোমার প্রস্তুতি ঝালাই করো।
-          </p>
-        </div>
+    <div className="min-h-screen bg-[#07111F] px-1 py-3 font-bangla text-white sm:px-4 sm:py-10">
+      <div className="mx-auto max-w-4xl space-y-5 sm:space-y-8">
+        <MobilePageHeader
+          eyebrow="এসএসসি বোর্ড প্রশ্ন"
+          title="SSC বোর্ড প্রশ্ন ব্যাংক"
+          description="বিগত বছরের বোর্ড প্রশ্নগুলো নিয়ে কুইজ দিয়ে তোমার প্রস্তুতি ঝালাই করো।"
+          icon={BookOpen}
+        />
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 gap-2.5 md:grid-cols-2 md:gap-4">
           {subjects.map((subject) => {
             const label = SUBJECT_MAP[subject] || subject;
             const Icon = SUBJECT_ICONS[subject] || BookOpen;
@@ -47,14 +44,14 @@ export default function SSCBoardQuestionsPage() {
                 <Card
                   variant="glass"
                   hoverable
-                  className="p-6 flex items-center justify-between border-white/5 bg-white/5 hover:border-cyan-500/30 transition-all duration-300 cursor-pointer"
+                  className="flex min-h-[76px] items-center justify-between border-white/5 bg-white/5 p-4 transition-all duration-300 hover:border-cyan-500/30 sm:p-6"
                 >
                   <div className="flex items-center gap-4">
-                    <div className="h-12 w-12 rounded-xl bg-cyan-500/10 flex items-center justify-center border border-cyan-500/20">
+                    <div className="flex h-11 w-11 items-center justify-center rounded-xl border border-cyan-500/20 bg-cyan-500/10 sm:h-12 sm:w-12">
                       <Icon className="h-6 w-6 text-cyan-400" />
                     </div>
                     <div>
-                      <h2 className="text-xl font-bold text-white leading-snug">
+                      <h2 className="text-base font-bold leading-snug text-white sm:text-xl">
                         {label}
                       </h2>
                       <p className="text-xs text-slate-400 mt-0.5">বোর্ড প্রশ্নাবলী</p>
@@ -67,8 +64,8 @@ export default function SSCBoardQuestionsPage() {
           })}
         </div>
 
-        <div className="text-center pt-4">
-          <Link href={levelHubPath("ssc")} className="text-sm text-slate-400 hover:text-white underline">
+        <div className="pt-1 text-center sm:pt-4">
+          <Link href={levelHubPath("ssc")} className="inline-flex min-h-11 items-center text-sm text-slate-400 underline hover:text-white">
             SSC হাব-এ ফিরে যাও
           </Link>
         </div>

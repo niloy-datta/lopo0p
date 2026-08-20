@@ -151,8 +151,8 @@ export default function ProfilePage() {
   const badgeLabel = user.badge ? BADGE_LABELS[user.badge] : null;
 
   return (
-    <div className="min-h-screen bg-[#07111F] py-8 pb-24 font-bangla">
-      <div className="max-w-lg mx-auto px-4 space-y-6">
+    <div className="min-h-screen bg-[#07111F] py-3 pb-24 font-bangla sm:py-8">
+      <div className="mx-auto max-w-lg space-y-4 px-1 sm:space-y-6 sm:px-4">
         <div className="text-center">
           <h1 className="text-2xl font-black text-white">প্রোফাইল</h1>
           <p className="text-slate-400 text-sm mt-1">বিজ্ঞান বিভাগ • গোপনীয় ও সহজ</p>
@@ -160,7 +160,7 @@ export default function ProfilePage() {
 
         {!profileComplete && <ProfileCompletionPrompt variant="hint" />}
 
-        <Card variant="glass" className="p-6 space-y-4">
+        <Card variant="glass" className="space-y-4 p-4 sm:p-6">
           <div className="flex items-center gap-4">
             {form.picture ? (
               <Image
@@ -172,8 +172,8 @@ export default function ProfilePage() {
                 className="h-16 w-16 rounded-2xl object-cover border border-white/10"
               />
             ) : (
-              <div className="h-16 w-16 rounded-2xl bg-purple-500/20 flex items-center justify-center text-2xl">
-                👤
+              <div className="flex h-16 w-16 items-center justify-center rounded-2xl bg-purple-500/20 text-purple-300">
+                <User className="h-8 w-8" aria-hidden />
               </div>
             )}
             <div>
@@ -204,7 +204,7 @@ export default function ProfilePage() {
           </div>
         </Card>
 
-        <Card variant="glass" className="p-6 space-y-4">
+        <Card variant="glass" className="space-y-4 p-4 sm:p-6">
           <label className="block">
             <span className="text-sm text-slate-400 mb-1 block">নাম</span>
             <input

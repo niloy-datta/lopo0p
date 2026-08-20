@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
-import { Badge } from "@/components/ui/Badge";
 import { Sparkles, Check } from "lucide-react";
 import { levelHubPath } from "@/lib/quiz/unified-routes";
+import { MobilePageHeader } from "@/components/layout/MobilePageHeader";
 
 const features = [
   "সব অধ্যায় সম্পূর্ণ ফ্রি",
@@ -18,19 +18,16 @@ const features = [
 
 export default function PremiumPage() {
   return (
-    <div className="max-w-2xl mx-auto px-4 py-12 font-bangla text-white">
-      <div className="text-center mb-8">
-        <Badge variant="default" className="inline-flex items-center gap-2 mb-4 bg-emerald-500/10 text-emerald-300 border-emerald-500/20">
-          <Sparkles className="h-3 w-3 text-emerald-400" />
-          ১০০% ফ্রি
-        </Badge>
-        <h1 className="text-3xl font-black text-white mb-2">সব প্রস্তুতি ফ্রি!</h1>
-        <p className="text-slate-400">
-          বিজ্ঞান র্যাঙ্কার-এর কোনো সাবস্ক্রিপশন ফি নেই। সব ফিচার সবার জন্য সম্পূর্ণ ফ্রি।
-        </p>
-      </div>
+    <div className="mx-auto max-w-2xl px-4 py-4 font-bangla text-white sm:py-12">
+      <MobilePageHeader
+        eyebrow="১০০% ফ্রি"
+        title="সব প্রস্তুতি ফ্রি!"
+        description="বিজ্ঞান র্যাঙ্কার-এর কোনো সাবস্ক্রিপশন ফি নেই। সব ফিচার সবার জন্য সম্পূর্ণ ফ্রি।"
+        icon={Sparkles}
+        className="mb-5 sm:mb-8"
+      />
 
-      <Card variant="glass" className="p-8 space-y-6 border-cyan-500/20 bg-gradient-to-br from-[#07111F] via-[#0E1726] to-[#07111F]">
+      <Card variant="glass" className="space-y-5 border-cyan-500/20 bg-gradient-to-br from-[#07111F] via-[#0E1726] to-[#07111F] p-5 sm:space-y-6 sm:p-8">
         <p className="text-center text-cyan-300 text-sm font-semibold">
           নিচের সকল প্রিমিয়াম ফিচার এখন সবার জন্য আনলকড:
         </p>

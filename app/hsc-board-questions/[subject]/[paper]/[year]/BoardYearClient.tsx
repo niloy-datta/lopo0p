@@ -98,7 +98,7 @@ export default function BoardYearClient({
 
   if (viewMode === "scanned") {
     return (
-      <div className="max-w-5xl mx-auto px-4 py-8 font-bangla pb-24 text-slate-100">
+      <div className="mx-auto max-w-5xl px-1 py-3 pb-24 font-bangla text-slate-100 sm:px-4 sm:py-8">
         <div className="flex items-center justify-between mb-8">
           <button
             onClick={() => setViewMode("selection")}
@@ -162,7 +162,7 @@ export default function BoardYearClient({
   }
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-10 font-bangla pb-24 text-slate-100">
+    <div className="mx-auto max-w-5xl px-1 py-3 pb-24 font-bangla text-slate-100 sm:px-4 sm:py-10">
       {/* Back button */}
       <Link
         href="/hsc-board-questions"

@@ -1,6 +1,5 @@
 import { levelHubPath } from "@/lib/quiz/unified-routes";
 import { HeroSectionNew } from "@/components/home/HeroSectionNew";
-import { HomeMobileNav } from "@/components/home/HomeMobileNav";
 import { QuickStartSection } from "@/components/home/QuickStartSection";
 import { DailyTaskSection } from "@/components/home/DailyTaskSection";
 import { ChapterPracticeSection } from "@/components/home/ChapterPracticeSection";
@@ -15,9 +14,10 @@ export default function Home() {
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_50%_0%,rgba(34,211,238,0.16),transparent_34%),linear-gradient(180deg,rgba(6,16,29,0)_0%,#06101d_92%)]" />
       <main className="relative">
       <HeroSectionNew />
-      <HomeMobileNav />
-      <QuickStartSection />
-      <DailyTaskSection />
+      <div className="hidden lg:block">
+        <QuickStartSection />
+        <DailyTaskSection />
+      </div>
       <ChapterPracticeSection />
       <LeaderboardPreviewSection />
       <FinalCTASection />

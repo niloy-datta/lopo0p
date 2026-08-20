@@ -7,6 +7,7 @@ import { Calendar, Clock, Radio, Trophy } from "lucide-react";
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
 import { Card } from "@/components/ui/Card";
+import { MobilePageHeader } from "@/components/layout/MobilePageHeader";
 import { ApiError, api } from "@/lib/api";
 import { fetchLiveTests, formatLiveDate, type LiveTest } from "@/lib/live-tests";
 
@@ -45,23 +46,21 @@ export default function LiveTestPage() {
   };
 
   return (
-    <main className="min-h-screen bg-[#07111F] px-4 py-10 pb-24 font-bangla text-white">
-      <div className="mx-auto max-w-3xl space-y-7">
-        <header className="text-center">
-          <Badge variant="premium" className="mb-3 inline-flex items-center gap-2">
-            <Radio className="h-4 w-4" /> নির্ধারিত লাইভ পরীক্ষা
-          </Badge>
-          <h1 className="text-3xl font-black md:text-4xl">লাইভ টেস্ট</h1>
-          <p className="mx-auto mt-2 max-w-xl text-sm text-slate-400">
-            প্রকাশিত সময়সূচিতে একবার অংশ নাও। স্কোর ও সময় অনুযায়ী ফলাফল তৈরি হবে।
-          </p>
-        </header>
+    <main className="min-h-screen bg-[#07111F] px-1 py-3 pb-24 font-bangla text-white sm:px-4 sm:py-10">
+      <div className="mx-auto max-w-3xl space-y-5 sm:space-y-7">
+        <MobilePageHeader
+          eyebrow="নির্ধারিত লাইভ পরীক্ষা"
+          title="লাইভ টেস্ট"
+          description="প্রকাশিত সময়সূচিতে একবার অংশ নাও। স্কোর ও সময় অনুযায়ী ফলাফল তৈরি হবে।"
+          icon={Radio}
+          tone="gold"
+        />
 
         {error && <p className="rounded-xl border border-red-500/30 bg-red-500/10 p-3 text-sm text-red-200">{error}</p>}
         {loading ? (
-          <Card variant="glass" className="p-8 text-center text-slate-400">সময়সূচি লোড হচ্ছে…</Card>
+          <Card variant="glass" className="p-6 text-center text-slate-400 sm:p-8">সময়সূচি লোড হচ্ছে…</Card>
         ) : events.length === 0 ? (
-          <Card variant="glass" className="p-8 text-center">
+          <Card variant="glass" className="p-6 text-center sm:p-8">
             <Calendar className="mx-auto mb-3 h-10 w-10 text-slate-500" />
             <p className="font-bold">এখন কোনো প্রকাশিত লাইভ টেস্ট নেই</p>
             <p className="mt-1 text-sm text-slate-400">নতুন সময়সূচি প্রকাশ হলে এখানে দেখা যাবে।</p>
@@ -69,7 +68,7 @@ export default function LiveTestPage() {
         ) : (
           <div className="space-y-4">
             {events.map((event) => (
-              <Card key={event.id} variant="glass" className="p-5">
+              <Card key={event.id} variant="glass" className="p-4 sm:p-5">
                 <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-center">
                   <div>
                     <div className="mb-2 flex flex-wrap items-center gap-2">
@@ -83,12 +82,12 @@ export default function LiveTestPage() {
                     </div>
                   </div>
                   {event.state === "active" ? (
-                    <Button onClick={() => start(event)} disabled={starting === event.id} className="min-h-[44px]">
+                    <Button onClick={() => start(event)} disabled={starting === event.id} className="min-h-11 w-full sm:w-auto">
                       {starting === event.id ? "শুরু হচ্ছে…" : "টেস্ট শুরু করো"}
                     </Button>
                   ) : event.state === "ended" ? (
                     <Link href={`/live-test/${event.id}/leaderboard`}>
-                      <Button variant="secondary" className="min-h-[44px]"><Trophy className="mr-2 h-4 w-4" />ফলাফল</Button>
+                      <Button variant="secondary" className="min-h-11 w-full sm:w-auto"><Trophy className="mr-2 h-4 w-4" />ফলাফল</Button>
                     </Link>
                   ) : null}
                 </div>

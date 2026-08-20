@@ -27,6 +27,7 @@ import {
   Share2,
   X,
   Bookmark,
+  Flag,
 } from "lucide-react";
 import { useSavedQuestions } from "@/hooks/useSavedQuestions";
 import { backfillSavedQuestionsAnswers } from "@/lib/saved-questions";
@@ -845,20 +846,27 @@ function QuizRunnerRaw({
 
   // Quiz Play Screen — scrollable all questions
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6 sm:py-8 font-bangla pb-28 scroll-smooth">
+    <div
+      className={cn(
+        "mx-auto max-w-3xl scroll-smooth px-3 py-3 font-bangla sm:px-4 sm:py-8",
+        confirmSubmit
+          ? "pb-[calc(13rem+env(safe-area-inset-bottom))]"
+          : "pb-[calc(8rem+env(safe-area-inset-bottom))]",
+      )}
+    >
       {/* Sticky header: back, timer, progress, palette */}
-      <div className="sticky top-[72px] z-30 -mx-4 px-4 pt-2 pb-4 bg-[#07111F]/95 backdrop-blur-md border-b border-white/5 mb-4 space-y-4">
+      <div className="sticky top-0 z-30 -mx-3 mb-3 space-y-3 border-b border-white/5 bg-[#07111F]/95 px-3 pb-3 pt-1.5 backdrop-blur-md sm:-mx-4 sm:px-4">
         <div className="flex items-center justify-between">
           {onBack ? (
             <button
               type="button"
               onClick={onBack}
-              className="text-slate-400 hover:text-white flex items-center gap-2 text-sm"
+              className="flex min-h-11 items-center gap-2 rounded-xl px-2 text-sm font-bold text-slate-400 hover:bg-white/5 hover:text-white"
             >
               <ArrowLeft className="h-4 w-4" /> ফিরে যাও
             </button>
           ) : (
-            <Link href={backUrl} className="text-slate-400 hover:text-white flex items-center gap-2 text-sm">
+            <Link href={backUrl} className="flex min-h-11 items-center gap-2 rounded-xl px-2 text-sm font-bold text-slate-400 hover:bg-white/5 hover:text-white">
               <ArrowLeft className="h-4 w-4" /> ফিরে যাও
             </Link>
           )}
@@ -977,7 +985,7 @@ function QuizRunnerRaw({
             id={`quiz-q-${qi}`}
             variant="glass"
             className={cn(
-              "p-5 sm:p-6 space-y-4 bg-slate-900/40 border-white/10 scroll-mt-36 transition-colors",
+              "space-y-4 bg-slate-900/40 p-4 sm:p-6 border-white/10 scroll-mt-32 transition-colors",
               qi === currentQuestionIndex && "border-cyan-500/20 ring-1 ring-cyan-500/10"
             )}
           >
@@ -1013,7 +1021,7 @@ function QuizRunnerRaw({
                   });
                 }}
                 className={cn(
-                  "px-3 py-2 rounded-full text-xs font-bold border tracking-wider transition-all min-h-[44px] flex items-center gap-1.5 group",
+                  "flex min-h-11 items-center gap-1.5 rounded-xl border px-2.5 py-2 text-[11px] font-bold tracking-wide transition-all group sm:rounded-full sm:px-3 sm:text-xs",
                   isSaved(String(q.id ?? ""))
                     ? "border-cyan-500 bg-cyan-500/10 text-cyan-300 shadow-[0_0_10px_rgba(6,182,212,0.15)]"
                     : "border-white/5 bg-white/5 text-slate-400 hover:border-cyan-500/30 hover:text-cyan-300/70"
@@ -1026,26 +1034,19 @@ function QuizRunnerRaw({
                 type="button"
                 onClick={() => markQuestion(q.id)}
                 className={cn(
-                  "px-3 py-2 rounded-full text-xs font-bold border tracking-wider transition-all min-h-[44px] flex items-center gap-1.5 group",
+                  "flex min-h-11 items-center gap-1.5 rounded-xl border px-2.5 py-2 text-[11px] font-bold tracking-wide transition-all group sm:rounded-full sm:px-3 sm:text-xs",
                   markedQuestions[q.id]
                     ? "border-yellow-500 bg-yellow-500/10 text-yellow-300 shadow-[0_0_10px_rgba(234,179,8,0.15)]"
                     : "border-white/5 bg-white/5 text-slate-400 hover:border-yellow-500/30 hover:text-yellow-300/70"
                 )}
               >
-                <svg
+                <Flag
                   className={cn(
                     "h-3.5 w-3.5 transition-all",
-                    markedQuestions[q.id] ? "text-yellow-400 fill-yellow-400/30" : "text-slate-500 fill-none"
+                    markedQuestions[q.id] ? "fill-yellow-400/30 text-yellow-400" : "text-slate-500",
                   )}
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                >
-                  <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" />
-                  <line x1="4" y1="22" x2="4" y2="15" />
-                </svg>
+                  aria-hidden
+                />
                 {markedQuestions[q.id] ? "রিভিউ চিহ্নিত" : "রিভিউ মার্ক"}
               </button>
               </div>
@@ -1116,8 +1117,10 @@ function QuizRunnerRaw({
         ))}
       </div>
 
+      <div className="h-8" aria-hidden />
+
       {/* Sticky submit footer */}
-      <div className="fixed bottom-0 left-0 right-0 z-40 border-t border-white/10 bg-[#07111F]/95 backdrop-blur-md px-4 py-4 pb-safe">
+      <div className="fixed bottom-0 left-0 right-0 z-40 border-t border-white/10 bg-[#07111F]/95 px-3 py-3 pb-safe shadow-[0_-16px_36px_rgba(2,8,23,0.6)] backdrop-blur-md sm:px-4 sm:py-4">
         <div className="max-w-3xl mx-auto space-y-3">
           {confirmSubmit && (
             <div className="rounded-2xl border border-amber-500/25 bg-amber-500/5 px-4 py-3 text-sm text-amber-200 font-bangla flex items-start gap-2.5">
@@ -1151,7 +1154,7 @@ function QuizRunnerRaw({
                 }
               }}
               disabled={isSubmitting || isLoading || quizSubmitted}
-              className="rounded-xl min-h-[48px] min-w-[140px] bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 shadow-[0_0_20px_rgba(168,85,247,0.3)] text-white disabled:opacity-60 disabled:cursor-not-allowed"
+              className="min-h-12 w-full rounded-xl bg-gradient-to-r from-purple-600 to-indigo-600 text-white shadow-[0_0_20px_rgba(168,85,247,0.3)] hover:from-purple-500 hover:to-indigo-500 disabled:cursor-not-allowed disabled:opacity-60 sm:w-auto sm:min-w-[140px]"
             >
               {isSubmitting || isLoading
                 ? "জমা হচ্ছে..."
@@ -1173,7 +1176,6 @@ export function QuizRunner(props: Props) {
     </QuizErrorBoundary>
   );
 }
-
 
 
 

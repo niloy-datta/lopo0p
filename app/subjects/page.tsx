@@ -34,7 +34,7 @@ export default function SubjectsPage() {
   const subjects = levelTab === "ssc" ? SSC_SUBJECTS : HSC_SUBJECTS;
 
   return (
-    <div className="min-h-screen bg-[#07111F] py-10 pb-24 font-bangla text-white">
+    <div className="min-h-screen bg-[#07111F] py-3 pb-24 font-bangla text-white sm:py-10">
       <div className="mx-auto max-w-5xl px-4">
         {/* Header */}
         <div className="text-center mb-10 space-y-3">

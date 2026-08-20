@@ -316,7 +316,7 @@ function CollegeDrillDownView({
         <button
           type="button"
           onClick={onBack}
-          className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/5 text-slate-400 transition hover:bg-white/10 hover:text-white"
+          className="flex h-11 w-11 items-center justify-center rounded-xl bg-white/5 text-slate-400 transition hover:bg-white/10 hover:text-white"
           aria-label="পিছনে"
         >
           <ArrowLeft className="h-4 w-4" />
@@ -330,7 +330,7 @@ function CollegeDrillDownView({
         <button
           type="button"
           onClick={onBattle}
-          className="flex items-center gap-1.5 rounded-xl border border-cyan-400/20 bg-cyan-500/10 px-3 py-2 text-xs font-bold text-cyan-300 transition hover:bg-cyan-500/20"
+          className="flex min-h-11 items-center gap-1.5 rounded-xl border border-cyan-400/20 bg-cyan-500/10 px-3 py-2 text-xs font-bold text-cyan-300 transition hover:bg-cyan-500/20"
         >
           <Swords className="h-3.5 w-3.5" />
           Battle
@@ -611,7 +611,7 @@ function CollegeBattleArena({
         <button
           type="button"
           onClick={onExitBattle}
-          className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/5 text-slate-400 transition hover:bg-white/10 hover:text-white"
+          className="flex h-11 w-11 items-center justify-center rounded-xl bg-white/5 text-slate-400 transition hover:bg-white/10 hover:text-white"
           aria-label="Battle মোড বন্ধ করুন"
         >
           <X className="h-4 w-4" />
@@ -792,7 +792,7 @@ function CollegeBattleArena({
                   ? battlePair.collegeA.name
                   : diffScore < 0
                     ? battlePair.collegeB.name
-                    : "সমতা ⚖️"}
+                    : "সমতা"}
               </p>
             </div>
             <div className="rounded-xl bg-white/[0.03] p-3 text-center">
@@ -918,7 +918,7 @@ export function CollegeWarsPage() {
         <div className="mb-2 flex items-center gap-2">
           <Link
             href="/leaderboard"
-            className="flex h-8 w-8 items-center justify-center rounded-lg bg-white/5 text-slate-400 transition hover:bg-white/10 hover:text-white"
+            className="flex h-11 w-11 items-center justify-center rounded-xl bg-white/5 text-slate-400 transition hover:bg-white/10 hover:text-white"
           >
             <ArrowLeft className="h-4 w-4" />
           </Link>
@@ -927,10 +927,10 @@ export function CollegeWarsPage() {
             className="inline-flex gap-2 border-purple-500/30 bg-purple-500/10"
           >
             <Swords className="h-4 w-4 text-purple-400" />
-            🏆 College Wars
+            College Wars
           </Badge>
         </div>
-        <h1 className="text-3xl font-black text-white sm:text-4xl">
+        <h1 className="text-2xl font-black text-white sm:text-4xl">
           কলেজ যুদ্ধ
         </h1>
         <p className="mt-2 max-w-2xl text-sm text-slate-400">
@@ -960,7 +960,7 @@ export function CollegeWarsPage() {
 
       {/* View mode toggle + search */}
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
-        <div className="flex gap-1.5">
+        <div className="flex w-full gap-1.5 overflow-x-auto pb-1 no-scrollbar sm:w-auto">
           <button
             type="button"
             onClick={() => {
@@ -968,7 +968,7 @@ export function CollegeWarsPage() {
               setSelectedCollege(null);
             }}
             className={cn(
-              "rounded-xl border px-4 py-2 text-xs font-bold transition",
+              "min-h-11 shrink-0 rounded-xl border px-4 py-2 text-xs font-bold transition",
               viewMode === "list" && !selectedCollege
                 ? "border-cyan-400/40 bg-cyan-500/15 text-cyan-300"
                 : "border-white/10 bg-white/5 text-slate-400 hover:text-white",
@@ -981,7 +981,7 @@ export function CollegeWarsPage() {
             type="button"
             onClick={() => handleBattle()}
             className={cn(
-              "rounded-xl border px-4 py-2 text-xs font-bold transition",
+              "min-h-11 shrink-0 rounded-xl border px-4 py-2 text-xs font-bold transition",
               viewMode === "battle"
                 ? "border-orange-400/40 bg-orange-500/15 text-orange-300"
                 : "border-white/10 bg-white/5 text-slate-400 hover:text-white",
@@ -994,7 +994,7 @@ export function CollegeWarsPage() {
             type="button"
             onClick={() => setViewMode("mindgame")}
             className={cn(
-              "rounded-xl border px-4 py-2 text-xs font-bold transition",
+              "min-h-11 shrink-0 rounded-xl border px-4 py-2 text-xs font-bold transition",
               viewMode === "mindgame"
                 ? "border-purple-400/40 bg-purple-500/15 text-purple-300"
                 : "border-white/10 bg-white/5 text-slate-400 hover:text-white",
@@ -1021,7 +1021,7 @@ export function CollegeWarsPage() {
 
       {/* Main content */}
       {filtered.length === 0 ? (
-        <Card variant="glass" className="p-10 text-center">
+        <Card variant="glass" className="p-6 text-center sm:p-10">
           <Trophy className="mx-auto mb-4 h-12 w-12 text-slate-600" />
           <p className="mb-2 font-bold text-white">
             এখনো কোনো র‍্যাঙ্কিং নেই। প্রথম কুইজ দিয়ে শুরু করুন!

@@ -140,7 +140,7 @@ export function ChapterListClient({
 
   return (
 
-    <div className="max-w-4xl mx-auto px-4 py-10 font-bangla pb-24">
+    <div className="mx-auto max-w-4xl px-1 py-3 pb-24 font-bangla sm:px-4 sm:py-10">
 
       <Link
 
@@ -267,4 +267,3 @@ export function ChapterListClient({
   );
 
 }
-

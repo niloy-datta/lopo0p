@@ -6,6 +6,10 @@ import { usePathname } from "next/navigation";
 import { Atom, Menu, X, UserCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { levelHubPath } from "@/lib/quiz/unified-routes";
+import {
+  getMobileShellVariant,
+  shouldShowGlobalNavbar,
+} from "@/lib/layout/mobile-shell";
 import { fetchLiveTests } from "@/lib/live-tests";
 
 const mainNavLinks = [
@@ -16,7 +20,7 @@ const mainNavLinks = [
   { href: "/ssc-board-questions", label: "SSC বোর্ড প্রশ্ন" },
   { href: "/hsc-board-questions", label: "HSC বোর্ড প্রশ্ন" },
   { href: "/leaderboard", label: "লিডারবোর্ড" },
-  { href: "/leaderboard/college-wars", label: "⚔️ College Wars" },
+  { href: "/leaderboard/college-wars", label: "College Wars" },
 ];
 
 export function Navbar() {
@@ -37,21 +41,25 @@ export function Navbar() {
 
   const profileActive =
     pathname === "/profile" || pathname === "/dashboard";
+  const shellVariant = getMobileShellVariant(pathname);
+  const isAuthShell = shellVariant === "auth";
+
+  if (!shouldShowGlobalNavbar(pathname)) return null;
 
   return (
     <header className="sticky top-0 z-50 border-b border-blue-500/40 bg-slate-950/85 backdrop-blur-xl">
       <nav
-        className="mx-auto flex h-[72px] max-w-[1400px] items-center justify-between gap-3 px-4 sm:px-6 lg:px-8"
+        className="mx-auto flex h-16 max-w-[1400px] items-center justify-between gap-3 px-4 sm:h-[72px] sm:px-6 lg:px-8"
         aria-label="প্রধান নেভিগেশন"
       >
-        <Link href="/" className="flex shrink-0 items-center gap-3">
-          <Atom className="h-9 w-9 sm:h-10 sm:w-10 text-violet-400" />
-          <span className="bg-gradient-to-r from-cyan-300 to-violet-400 bg-clip-text text-xl sm:text-2xl lg:text-3xl font-black text-transparent font-bangla">
+        <Link href="/" className="flex min-h-11 shrink-0 items-center gap-3">
+          <Atom className="h-8 w-8 text-violet-400 sm:h-10 sm:w-10" />
+          <span className="bg-gradient-to-r from-cyan-300 to-violet-400 bg-clip-text text-[1.25rem] font-black text-transparent font-bangla sm:text-2xl lg:text-3xl">
             বিজ্ঞান র্যাঙ্কার
           </span>
         </Link>
 
-        <div className="hidden h-full items-center lg:flex">
+        <div className={cn("hidden h-full items-center lg:flex", isAuthShell && "lg:hidden")}>
           {mainNavLinks.map((link) => {
             const active = isActive(link.href);
             return (
@@ -79,7 +87,8 @@ export function Navbar() {
           <Link
             href="/profile"
             className={cn(
-              "hidden sm:inline-flex items-center gap-2 rounded-xl px-3 py-2 text-base lg:text-lg font-bold transition hover:bg-white/5",
+              "hidden min-h-11 items-center gap-2 rounded-xl px-3 py-2 text-base font-bold transition hover:bg-white/5 lg:inline-flex lg:text-lg",
+              isAuthShell && "lg:hidden",
               profileActive ? "text-cyan-300" : "text-slate-100",
             )}
           >
@@ -89,7 +98,10 @@ export function Navbar() {
           <button
             type="button"
             onClick={() => setMobileMenuOpen((open) => !open)}
-            className="inline-flex items-center justify-center rounded-lg p-2 text-slate-300 transition-colors hover:bg-white/5 hover:text-white lg:hidden"
+            className={cn(
+              "inline-flex min-h-11 min-w-11 items-center justify-center rounded-xl text-slate-300 transition-colors hover:bg-white/5 hover:text-white lg:hidden",
+              isAuthShell && "hidden",
+            )}
             aria-expanded={mobileMenuOpen}
             aria-label="মেনু খুলুন"
           >
@@ -98,7 +110,7 @@ export function Navbar() {
         </div>
       </nav>
 
-      {mobileMenuOpen && (
+      {mobileMenuOpen && !isAuthShell && (
         <div className="border-t border-blue-500/30 bg-slate-950/95 backdrop-blur-xl lg:hidden">
           <div className="flex flex-col gap-1 p-4 font-bangla">
             {mainNavLinks.map((link) => (

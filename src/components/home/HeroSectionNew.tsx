@@ -8,6 +8,7 @@ import { Zap, Trophy, BookOpen, Users, ChevronRight, Target, Flame, RefreshCcw, 
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { levelHubPath } from "@/lib/quiz/unified-routes";
+import { MissionCard } from "@/components/home/MissionCard";
 
 function DashboardPreviewCard({ className }: { className?: string }) {
   return (
@@ -57,9 +58,13 @@ function DashboardPreviewCard({ className }: { className?: string }) {
 
 export function HeroSectionNew() {
   return (
-    <section className="relative overflow-hidden py-10 font-bangla scroll-mt-20 md:py-16">
+    <section className="relative overflow-hidden py-4 font-bangla scroll-mt-20 md:py-16">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
+        <div className="lg:hidden">
+          <MissionCard />
+        </div>
+
+        <div className="hidden grid-cols-1 items-center gap-8 lg:grid lg:grid-cols-2 lg:gap-12">
           <div className="space-y-5 text-center lg:text-left">
             <Badge variant="premium" className="inline-flex items-center gap-2 motion-reduce:animate-none animate-pulse">
               <Zap className="h-3 w-3" />
@@ -124,8 +129,7 @@ export function HeroSectionNew() {
             </div>
           </div>
 
-          <DashboardPreviewCard className="hidden lg:block" />
-          <DashboardPreviewCard className="lg:hidden mt-2" />
+          <DashboardPreviewCard />
         </div>
       </div>
     </section>

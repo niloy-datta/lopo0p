@@ -438,22 +438,22 @@ export function SubjectDetailClient({
           : "প্রস্তুতি";
 
   return (
-    <div className="mx-auto max-w-4xl px-4 py-10 font-bangla pb-24">
+    <div className="mx-auto max-w-4xl px-1 py-3 pb-24 font-bangla sm:px-4 sm:py-10">
       <Link
         href={basePath}
-        className="mb-4 inline-flex items-center gap-1.5 text-sm text-slate-400 transition hover:text-cyan-300"
+        className="mb-2 inline-flex min-h-11 items-center gap-1.5 rounded-xl px-2 text-sm font-bold text-slate-400 transition hover:bg-white/5 hover:text-cyan-300 sm:mb-4"
       >
         ← {level} হাব
       </Link>
 
-      <div className="relative mb-6 overflow-hidden rounded-2xl border border-slate-700/50 bg-gradient-to-br from-slate-950 via-[#0a0b1e] to-slate-950 px-4 py-5 sm:px-6">
+      <div className="relative mb-4 overflow-hidden rounded-2xl border border-slate-700/50 bg-gradient-to-br from-slate-950 via-[#0a0b1e] to-slate-950 px-4 py-4 sm:mb-6 sm:px-6 sm:py-5">
         <div className="pointer-events-none absolute -right-8 -top-8 h-32 w-32 rounded-full bg-cyan-500/10 blur-3xl" />
         <div className="pointer-events-none absolute -bottom-6 right-12 h-24 w-24 rounded-full bg-purple-500/10 blur-2xl" />
         <div className="relative">
           <p className="mb-1 text-xs font-semibold uppercase tracking-wider text-cyan-400/80">
             {level} · {journeyLabel}
           </p>
-          <h1 className="text-2xl font-black text-white sm:text-3xl">{title}</h1>
+          <h1 className="text-xl font-black text-white sm:text-3xl">{title}</h1>
           <p className="mt-2 max-w-xl text-sm text-slate-400">
             তিনটি আলাদা সেকশন — অধ্যায় MCQ, মডেল টেস্ট, বোর্ড প্রশ্ন। ট্যাব বেছে নাও।
           </p>
