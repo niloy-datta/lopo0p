@@ -75,6 +75,7 @@ project_structure.txt
 HSC-Chemistry-1st-Paper-2025-Board-Questions.txt
 
 # Large temporary/archive directories
+/.worktrees/
 tmp/
 scratch/
 _archive_old_fastapi_in_next_app/
